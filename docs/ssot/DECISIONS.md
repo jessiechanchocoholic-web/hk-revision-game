@@ -18,8 +18,11 @@
 | D-014 | 2026-10-21 | 保留 `content.txt`＋`build.js`→`questions.js` 題庫格式，並為題目加 `verified`／`source` 欄位（取代 D-004 逐課 JSON 規劃） | 由專案經理 Bot 轉達 Jessie 批准（對應 Q9） | Jessie |
 | D-015 | 2026-10-21 | `research.md` 不放入 repo | 由專案經理 Bot 轉達 Jessie 批准（對應 Q10） | Jessie |
 | D-016 | 2026-10-21 | 試玩（公開版）只顯示已核實題目（`verified` 為真） | 由專案經理 Bot 轉達 Jessie 批准（對應 —） | Jessie |
-| D-017 | 2026-10-21 | P1／P2 英文（p1e0–p1e4、p2e1–p2e3，44 題）當已核實（`verified: true`，同 PR #2） | 由 Jessie 親自批准（UNVERIFIED_QUESTIONS A11） | Jessie |
+| D-017 | 2026-10-21 | P1／P2 英文 44 題：① Jessie 於 2026-10-21 13:47 UTC 同文件 Bot 傾偈時親自決定全部當已核實；② 其後 PR #2 commit `2bcc01b`（commit 作者顯示為「安全 Bot」，按專案經理 Bot 所述為開發 Bot 覆核）逐題對照 research.md 句式，將 7 題改 `verified: false`（ENG-P1-L00-005、ENG-P1-L01-004、ENG-P1-L01-005、ENG-P1-L03-002、ENG-P1-L03-003、ENG-P1-L03-005、ENG-P2-L03-005），其餘 37 題保留已核實 | ① 由 Jessie 親自批准；② 狀態：待 QA 覆核，並待 Jessie 確認是否接受 7 題改 false | Jessie／開發 Bot |
 | D-018 | 2026-10-21 | 每個 Bot 喺自己嘅 git worktree（`/workspace/hk-revision-game-<bot名>`）工作，唔直接改共用資料夾（CONVENTIONS 第 11 點） | 由專案經理 Bot 轉達 Jessie 批准 | Jessie |
+| D-019 | 2026-10-21 | 批准 CONVENTIONS 第 4、5、12、13 點：第 4 點自擬題目（D-011，Q6）；第 5 點題庫欄位按 PR #2 實施（D-014，Q9）；第 12 點 research.md 不入 repo（D-015，Q10）；第 13 點技術及發佈（D-008～D-010、D-013，Q1–Q3、Q8） | 由專案經理 Bot 轉達 Jessie 批准 | Jessie |
+| D-020 | 2026-10-21 | 批准 CONVENTIONS 第 6 點（題目檔案位置：content.txt／build.js → questions.js；關卡 ID 格式 `p4s3`） | 由專案經理 Bot 轉達 Jessie 批准 | Jessie |
+| D-021 | 2026-10-21 | 批准 CONVENTIONS 第 10 點（未核實或有疑問題目列入 UNVERIFIED_QUESTIONS.md，只標記唔自行改答案） | 由專案經理 Bot 轉達 Jessie 批准 | Jessie |
 
 ## 備註
 - D-004：人手編輯改為 content.txt＋build.js（D-014）；PR #2 仍會由 build.js 自動輸出逐課 JSON（`questions/<subject>/<grade>/<lesson>.json`），作產出檔，唔係人手編輯。

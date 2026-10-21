@@ -3,8 +3,8 @@
 更新：2026-10-21（文件 Bot）｜只標記，**冇改任何題目或答案**。核對後請喺「狀態」欄更新，並通知 QA Bot。
 
 ## 總體說明
-- `main` 現行題庫（97 關、548 題）未有 `verified`／`source` 欄位。PR #2 會以**關卡**為單位加 `verified`：26 關／154 題 `true`，其餘 394 題 `false`（以 PR #2 最新版計）；`source` 只係科目層級（例「research.md §3 …｜關卡名」），唔係逐題來源。
-- P1／P2 英文（44 題）：2026-10-21 Jessie 確認當已核實（D-017），已移至「已解決」。
+- `main` 現行題庫（97 關、548 題）未有 `verified`／`source` 欄位。PR #2 會以**關卡**為單位加 `verified`：26 關已核實，147 題 `true`，其餘 401 題 `false`（以 PR #2 最新 commit `2bcc01b` 計）；`source` 只係科目層級（例「research.md §3 …｜關卡名」），唔係逐題來源。
+- P1／P2 英文（44 題）：Jessie 2026-10-21 決定全部當已核實；其後 PR #2 `2bcc01b` 逐題覆核將 7 題改 `false`（見 C 類），37 題保留已核實（D-017）。
 - PR #2 最新版另將 p2m2（P2 數學 L2，6 題）、p5e2（P5 英文 Ch2，7 題）同三個實用文關卡（p2c99、p4c99、p5c99，16 題）標 `false`；呢 29 題唔喺 A 類，原因請睇 PR #2／QA 報告。
 - 核對依據 `research.md`（未放入 repo，box 路徑 `/workspace/hk-revision-game/research.md`）：✅＝已核實、⚠️＝推斷。
 - 檔案欄：`content.txt`＝`game/tools/content.txt`；`build.js`＝`game/tools/build.js`（數學）。
@@ -31,7 +31,7 @@
 
 | # | 檔案 | 關卡 ID | 關卡 | 題數 | 處理 |
 |---|---|---|---|---|---|
-| A11 | content.txt | p1e0–p1e4、p2e1–p2e3 | P1／P2 英文 | 44 | 2026-10-21 Jessie 確認當已核實（D-017） |
+| A11 | content.txt | p1e0–p1e4、p2e1–p2e3 | P1／P2 英文 | 37 | 2026-10-21 Jessie 確認當已核實；PR #2 覆核後 37 題保留（另 7 題見 C 類）（D-017） |
 
 ## B. 個別題目有疑問（可能錯、有爭議或不一致）
 
@@ -54,8 +54,21 @@
 | B15 | build.js | p2m18 | 報時題「時針指着 h 和 h+1 之間（或剛好 h）」 | 題目字眼同時包含兩種情況，對 P2 可能混淆；分針「指着12」表示正點 | PR #2 已改字眼（正點寫「時針指着 h」，否則「在 h 和 h+1 之間」），待 QA 確認 |
 | B16 | build.js | p2m20 | 「平年的2月有多少日？」「平年一年有多少日？」 | 「平年／閏年」可能超出 P2 L20 範圍 | 待核 |
 
+## C. PR #2 逐題改為 `verified: false`（D-017，待 QA 覆核，並待 Jessie 確認是否接受）
+
+| # | 題目 ID | 關卡 ID | 題目 | 原因 |
+|---|---|---|---|---|
+| C1 | ENG-P1-L00-005 | p1e0 | Someone gives you a present. You say: | 開發 Bot：research.md 冇明確出處 |
+| C2 | ENG-P1-L01-004 | p1e1 | I ___ Amy. | 同上 |
+| C3 | ENG-P1-L01-005 | p1e1 | How old are you? I am ___ (7 in words). | 同上 |
+| C4 | ENG-P1-L03-002 | p1e3 | Please ___ your hand. | 同上 |
+| C5 | ENG-P1-L03-003 | p1e3 | Please sit ___. | 同上 |
+| C6 | ENG-P1-L03-005 | p1e3 | "Please listen to the teacher" is a good class rule. | 同上 |
+| C7 | ENG-P2-L03-005 | p2e3 | Your friend is sad. You say: | 同上 |
+
 ## 統計
-- A 類（整關待核實）：10 組（A1–A10），365 題（更正：之前寫 389 題係漏計 A9；連 A11 應為 409 題）
-- 已解決：1 組（A11），44 題
+- A 類（整關待核實）：10 組（A1–A10），365 題
+- 已解決：A11，37 題（原 44 題，7 題轉入 C 類）
 - B 類（個別題目疑問）：16 項
-- PR #2 合併後 `verified: false`：394 題＝A 類 365 題＋其他 29 題（見總體說明）；`verified: true`：154 題（`main` 現時全部 548 題無此欄位）
+- C 類（PR #2 逐題改 false，待確認）：7 題
+- PR #2（`2bcc01b`）`verified: false`：401 題＝A 類 365＋C 類 7＋其他 29（見總體說明）；`verified: true`：147 題（`main` 現時全部 548 題無此欄位）
