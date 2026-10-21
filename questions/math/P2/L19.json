@@ -8,72 +8,72 @@
  "questions": [
   {
    "type": "fill",
-   "q": "活動由15時正開始，15時40分結束，共用了多少分鐘？",
+   "q": "活動由14時正開始，14時20分結束，共用了多少分鐘？",
    "answer": [
-    "40"
+    "20"
    ],
-   "explain": "由開始到結束共40分鐘。",
+   "explain": "由開始到結束共20分鐘。",
    "numeric": true,
    "id": "MATH-P2-L19-001",
    "grade": "P2",
    "subject": "math",
    "lesson": "L19",
    "level": "應用",
-   "question": "活動由15時正開始，15時40分結束，共用了多少分鐘？",
+   "question": "活動由14時正開始，14時20分結束，共用了多少分鐘？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 活動時間",
    "verified": false,
    "readAloud": true
   },
   {
    "type": "fill",
-   "q": "活動由14時20分開始，15時5分結束，共用了多少分鐘？",
+   "q": "活動由11時10分開始，11時40分結束，共用了多少分鐘？",
    "answer": [
-    "45"
+    "30"
    ],
-   "explain": "由開始到結束共45分鐘。",
+   "explain": "由開始到結束共30分鐘。",
    "numeric": true,
    "id": "MATH-P2-L19-002",
    "grade": "P2",
    "subject": "math",
    "lesson": "L19",
    "level": "應用",
-   "question": "活動由14時20分開始，15時5分結束，共用了多少分鐘？",
+   "question": "活動由11時10分開始，11時40分結束，共用了多少分鐘？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 活動時間",
    "verified": false,
    "readAloud": true
   },
   {
    "type": "fill",
-   "q": "活動由8時正開始，8時10分結束，共用了多少分鐘？",
+   "q": "活動由11時5分開始，11時50分結束，共用了多少分鐘？",
    "answer": [
-    "10"
+    "45"
    ],
-   "explain": "由開始到結束共10分鐘。",
+   "explain": "由開始到結束共45分鐘。",
    "numeric": true,
    "id": "MATH-P2-L19-003",
    "grade": "P2",
    "subject": "math",
    "lesson": "L19",
    "level": "應用",
-   "question": "活動由8時正開始，8時10分結束，共用了多少分鐘？",
+   "question": "活動由11時5分開始，11時50分結束，共用了多少分鐘？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 活動時間",
    "verified": false,
    "readAloud": true
   },
   {
    "type": "fill",
-   "q": "活動由10時15分開始，10時30分結束，共用了多少分鐘？",
+   "q": "活動由13時25分開始，13時45分結束，共用了多少分鐘？",
    "answer": [
-    "15"
+    "20"
    ],
-   "explain": "由開始到結束共15分鐘。",
+   "explain": "由開始到結束共20分鐘。",
    "numeric": true,
    "id": "MATH-P2-L19-004",
    "grade": "P2",
    "subject": "math",
    "lesson": "L19",
    "level": "應用",
-   "question": "活動由10時15分開始，10時30分結束，共用了多少分鐘？",
+   "question": "活動由13時25分開始，13時45分結束，共用了多少分鐘？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 活動時間",
    "verified": false,
    "readAloud": true
@@ -83,10 +83,10 @@
    "q": "早上上學，大約是：",
    "answer": "上午8時",
    "options": [
-    "上午8時",
-    "晚上11時",
+    "凌晨3時",
     "下午8時",
-    "凌晨3時"
+    "上午8時",
+    "晚上11時"
    ],
    "explain": "上學在上午。",
    "id": "MATH-P2-L19-005",

@@ -1,0 +1,112 @@
+{
+ "levelId": "p4m3",
+ "grade": "P4",
+ "subject": "math",
+ "lesson": "L03",
+ "title": "L3 乘法(三)",
+ "verified": false,
+ "questions": [
+  {
+   "type": "fill",
+   "q": "每箱有36個橙，48箱共有多少個？",
+   "answer": [
+    "1728"
+   ],
+   "explain": "36×48＝1728",
+   "numeric": true,
+   "id": "MATH-P4-L03-001",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L03",
+   "level": "應用",
+   "question": "每箱有36個橙，48箱共有多少個？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 乘法(三)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "每箱有17個橙，47箱共有多少個？",
+   "answer": [
+    "799"
+   ],
+   "explain": "17×47＝799",
+   "numeric": true,
+   "id": "MATH-P4-L03-002",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L03",
+   "level": "應用",
+   "question": "每箱有17個橙，47箱共有多少個？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 乘法(三)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "每箱有21個橙，25箱共有多少個？",
+   "answer": [
+    "525"
+   ],
+   "explain": "21×25＝525",
+   "numeric": true,
+   "id": "MATH-P4-L03-003",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L03",
+   "level": "應用",
+   "question": "每箱有21個橙，25箱共有多少個？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 乘法(三)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "每張門票27元，買12張共要多少元？",
+   "answer": [
+    "324"
+   ],
+   "explain": "27×12＝324",
+   "numeric": true,
+   "id": "MATH-P4-L03-004",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L03",
+   "level": "應用",
+   "question": "每張門票27元，買12張共要多少元？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 乘法(三)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "禮堂有19行椅子，每行22張，共有多少張？",
+   "answer": [
+    "418"
+   ],
+   "explain": "19×22＝418",
+   "numeric": true,
+   "id": "MATH-P4-L03-005",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L03",
+   "level": "應用",
+   "question": "禮堂有19行椅子，每行22張，共有多少張？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 乘法(三)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "小明每天儲10元，16天共儲多少元？",
+   "answer": [
+    "160"
+   ],
+   "explain": "10×16＝160",
+   "numeric": true,
+   "id": "MATH-P4-L03-006",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L03",
+   "level": "應用",
+   "question": "小明每天儲10元，16天共儲多少元？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 乘法(三)",
+   "verified": false
+  }
+ ]
+}

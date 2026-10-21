@@ -8,90 +8,90 @@
  "questions": [
   {
    "type": "fill",
-   "q": "77 ＋ 84 ＝ ？",
+   "q": "60 ＋ 72 ＝ ？",
    "answer": [
-    "161"
+    "132"
    ],
-   "explain": "77＋84＝161",
+   "explain": "60＋72＝132",
    "numeric": true,
    "id": "MATH-P2-L03-001",
    "grade": "P2",
    "subject": "math",
    "lesson": "L03",
    "level": "應用",
-   "question": "77 ＋ 84 ＝ ？",
+   "question": "60 ＋ 72 ＝ ？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 加法(一)",
    "verified": true,
    "readAloud": true
   },
   {
    "type": "fill",
-   "q": "57 ＋ 45 ＝ ？",
+   "q": "87 ＋ 51 ＝ ？",
    "answer": [
-    "102"
+    "138"
    ],
-   "explain": "57＋45＝102",
+   "explain": "87＋51＝138",
    "numeric": true,
    "id": "MATH-P2-L03-002",
    "grade": "P2",
    "subject": "math",
    "lesson": "L03",
    "level": "應用",
-   "question": "57 ＋ 45 ＝ ？",
+   "question": "87 ＋ 51 ＝ ？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 加法(一)",
    "verified": true,
    "readAloud": true
   },
   {
    "type": "fill",
-   "q": "61 ＋ 45 ＝ ？",
+   "q": "76 ＋ 86 ＝ ？",
    "answer": [
-    "106"
+    "162"
    ],
-   "explain": "61＋45＝106",
+   "explain": "76＋86＝162",
    "numeric": true,
    "id": "MATH-P2-L03-003",
    "grade": "P2",
    "subject": "math",
    "lesson": "L03",
    "level": "應用",
-   "question": "61 ＋ 45 ＝ ？",
+   "question": "76 ＋ 86 ＝ ？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 加法(一)",
    "verified": true,
    "readAloud": true
   },
   {
    "type": "fill",
-   "q": "28 ＋ 94 ＝ ？",
+   "q": "88 ＋ 52 ＝ ？",
    "answer": [
-    "122"
+    "140"
    ],
-   "explain": "28＋94＝122",
+   "explain": "88＋52＝140",
    "numeric": true,
    "id": "MATH-P2-L03-004",
    "grade": "P2",
    "subject": "math",
    "lesson": "L03",
    "level": "應用",
-   "question": "28 ＋ 94 ＝ ？",
+   "question": "88 ＋ 52 ＝ ？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 加法(一)",
    "verified": true,
    "readAloud": true
   },
   {
    "type": "fill",
-   "q": "92 ＋ 18 ＝ ？",
+   "q": "99 ＋ 98 ＝ ？",
    "answer": [
-    "110"
+    "197"
    ],
-   "explain": "92＋18＝110",
+   "explain": "99＋98＝197",
    "numeric": true,
    "id": "MATH-P2-L03-005",
    "grade": "P2",
    "subject": "math",
    "lesson": "L03",
    "level": "應用",
-   "question": "92 ＋ 18 ＝ ？",
+   "question": "99 ＋ 98 ＝ ？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 加法(一)",
    "verified": true,
    "readAloud": true
@@ -101,9 +101,9 @@
    "q": "99＋45 用巧算：先算 100＋45 再…",
    "answer": "144",
    "options": [
-    "146",
     "145",
     "144",
+    "146",
     "154"
    ],
    "explain": "100＋45＝145，再減1＝144。",

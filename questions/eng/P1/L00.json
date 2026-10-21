@@ -12,9 +12,9 @@
    "answer": "Good morning!",
    "options": [
     "Good morning!",
+    "Good night!",
     "Happy birthday!",
-    "Goodbye!",
-    "Good night!"
+    "Goodbye!"
    ],
    "explain": "We say \"Good morning\" in the morning.",
    "id": "ENG-P1-L00-001",
@@ -31,10 +31,10 @@
    "q": "Your friend says \"Hello!\" You say:",
    "answer": "Hello!",
    "options": [
-    "Good night!",
-    "Thank you!",
+    "Sorry!",
     "Hello!",
-    "Sorry!"
+    "Thank you!",
+    "Good night!"
    ],
    "explain": "Answer \"Hello!\" with \"Hello!\".",
    "id": "ENG-P1-L00-002",
@@ -51,10 +51,10 @@
    "q": "You go home after school. You say:",
    "answer": "Goodbye!",
    "options": [
-    "Goodbye!",
     "Good morning!",
+    "Hello!",
     "Sorry!",
-    "Hello!"
+    "Goodbye!"
    ],
    "explain": "We say \"Goodbye\" when we leave.",
    "id": "ENG-P1-L00-003",
@@ -85,10 +85,10 @@
    "q": "Someone gives you a present. You say:",
    "answer": "Thank you!",
    "options": [
+    "Thank you!",
     "Hello!",
-    "Good night!",
     "Goodbye!",
-    "Thank you!"
+    "Good night!"
    ],
    "explain": "Say \"Thank you\" to be polite.",
    "id": "ENG-P1-L00-005",

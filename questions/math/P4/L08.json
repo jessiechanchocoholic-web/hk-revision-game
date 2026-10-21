@@ -8,103 +8,103 @@
  "questions": [
   {
    "type": "fill",
-   "q": "每盒有48枝筆，3盒共有多少枝？",
+   "q": "每盒有38枝筆，5盒共有多少枝？",
    "answer": [
-    "144"
+    "190"
    ],
-   "explain": "48×3＝144",
+   "explain": "38×5＝190",
    "numeric": true,
    "id": "MATH-P4-L08-001",
    "grade": "P4",
    "subject": "math",
    "lesson": "L08",
    "level": "應用",
-   "question": "每盒有48枝筆，3盒共有多少枝？",
+   "question": "每盒有38枝筆，5盒共有多少枝？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
    "verified": false
   },
   {
    "type": "fill",
-   "q": "每盒有47枝筆，3盒共有多少枝？",
+   "q": "每盒有13枝筆，9盒共有多少枝？",
    "answer": [
-    "141"
+    "117"
    ],
-   "explain": "47×3＝141",
+   "explain": "13×9＝117",
    "numeric": true,
    "id": "MATH-P4-L08-002",
    "grade": "P4",
    "subject": "math",
    "lesson": "L08",
    "level": "應用",
-   "question": "每盒有47枝筆，3盒共有多少枝？",
+   "question": "每盒有13枝筆，9盒共有多少枝？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
    "verified": false
   },
   {
    "type": "fill",
-   "q": "每盒有25枝筆，3盒共有多少枝？",
+   "q": "每盒有21枝筆，6盒共有多少枝？",
    "answer": [
-    "75"
+    "126"
    ],
-   "explain": "25×3＝75",
+   "explain": "21×6＝126",
    "numeric": true,
    "id": "MATH-P4-L08-003",
    "grade": "P4",
    "subject": "math",
    "lesson": "L08",
    "level": "應用",
-   "question": "每盒有25枝筆，3盒共有多少枝？",
+   "question": "每盒有21枝筆，6盒共有多少枝？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
    "verified": false
   },
   {
    "type": "fill",
-   "q": "117個蘋果平均分給3個班，每班得多少個？",
+   "q": "66個蘋果平均分給3個班，每班得多少個？",
    "answer": [
-    "39"
+    "22"
    ],
-   "explain": "117÷3＝39",
+   "explain": "66÷3＝22",
    "numeric": true,
    "id": "MATH-P4-L08-004",
    "grade": "P4",
    "subject": "math",
    "lesson": "L08",
    "level": "應用",
-   "question": "117個蘋果平均分給3個班，每班得多少個？",
+   "question": "66個蘋果平均分給3個班，每班得多少個？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
    "verified": false
   },
   {
    "type": "fill",
-   "q": "51個蘋果平均分給3個班，每班得多少個？",
+   "q": "160個蘋果平均分給8個班，每班得多少個？",
    "answer": [
-    "17"
+    "20"
    ],
-   "explain": "51÷3＝17",
+   "explain": "160÷8＝20",
    "numeric": true,
    "id": "MATH-P4-L08-005",
    "grade": "P4",
    "subject": "math",
    "lesson": "L08",
    "level": "應用",
-   "question": "51個蘋果平均分給3個班，每班得多少個？",
+   "question": "160個蘋果平均分給8個班，每班得多少個？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
    "verified": false
   },
   {
    "type": "fill",
-   "q": "100個蘋果平均分給5個班，每班得多少個？",
+   "q": "350個蘋果平均分給7個班，每班得多少個？",
    "answer": [
-    "20"
+    "50"
    ],
-   "explain": "100÷5＝20",
+   "explain": "350÷7＝50",
    "numeric": true,
    "id": "MATH-P4-L08-006",
    "grade": "P4",
    "subject": "math",
    "lesson": "L08",
    "level": "應用",
-   "question": "100個蘋果平均分給5個班，每班得多少個？",
+   "question": "350個蘋果平均分給7個班，每班得多少個？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
    "verified": false
   }
