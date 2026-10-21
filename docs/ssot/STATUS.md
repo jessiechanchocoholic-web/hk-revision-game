@@ -67,3 +67,4 @@ P1 中文一上單元一二、英文 1A Ch1–4、科學一上。
 - 2026-10-21 Docs Bot 意見：P1/P2 英文逐題對照 research.md，7 題改 verified:false（build.js UNVERIFIED_Q）。已核實模式 26 關／147 題。
 - 2026-10-21 Jessie 決定：P1/P2 英文 7 題改返 verified:true。已核實模式 26 關／154 題。
 - 2026-10-21 小修：答錯唔再顯示答案／解釋（答啱先顯示）；冇粵語（zh-HK/yue）或英文聲就隱藏讀題掣（voiceschanged 會更新）；P1 冇 Boss 關。已核實模式 26 關／154 題。
+- 2026-10-21 B2-DEV-02 審查中：卡通角色「波波」（inline SVG）＋答啱／答錯／過關／Boss 動畫；離線單檔 HTML、手機 375px、prefers-reduced-motion 已測。
