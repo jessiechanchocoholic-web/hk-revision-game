@@ -10,3 +10,5 @@
 | Q6 | 版權：可否引用課本例題／圖片？ | 只自擬題目，不整段抄課本 |
 | Q7 | 讀題語音：P2 中文用粵語定普通話？用瀏覽器內置語音可接受嗎？ | 粵語（如瀏覽器支援） |
 | Q8 | 使用者：只係自己小朋友，定分享俾同學／老師？ | 影響是否公開及私隱設計 |
+| Q9 | 題庫格式：保留現行 `content.txt`＋`build.js`→`questions.js`，定改為 CONVENTIONS 規劃嘅逐課 JSON（含 id／source／verified）？ | 文件 Bot 建議：最少為每題加 `verified`／`source`，方便追蹤待核實題目 |
+| Q10 | `research.md` 應否放入 repo（例如 `docs/research.md`），等各 Bot／老師可核對來源？ | 建議放入（先檢查無私人資料） |
