@@ -1,0 +1,106 @@
+{
+ "levelId": "p1e4",
+ "grade": "P1",
+ "subject": "eng",
+ "lesson": "L04",
+ "title": "Ch4 Things I bring to school",
+ "verified": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "I ___ a pencil.",
+   "answer": "have",
+   "options": [
+    "am",
+    "is",
+    "has",
+    "have"
+   ],
+   "explain": "Use \"I have\".",
+   "id": "ENG-P1-L04-001",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "I ___ a pencil.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch4 Things I bring to school",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "Tom ___ a ruler.",
+   "answer": "has",
+   "options": [
+    "are",
+    "has",
+    "am",
+    "have"
+   ],
+   "explain": "Use \"has\" with he/she/one person.",
+   "id": "ENG-P1-L04-002",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "Tom ___ a ruler.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch4 Things I bring to school",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "one book, two ___",
+   "answer": "books",
+   "options": [
+    "books",
+    "bookies",
+    "book",
+    "bookes"
+   ],
+   "explain": "Add -s for more than one.",
+   "id": "ENG-P1-L04-003",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "one book, two ___",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch4 Things I bring to school",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "one box, two ___",
+   "answer": "boxes",
+   "options": [
+    "boxes",
+    "box",
+    "boxs",
+    "boxies"
+   ],
+   "explain": "Words ending in -x add -es.",
+   "id": "ENG-P1-L04-004",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "one box, two ___",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch4 Things I bring to school",
+   "verified": true
+  },
+  {
+   "type": "fill",
+   "q": "one pen, three ___",
+   "answer": [
+    "pens"
+   ],
+   "explain": "Add -s: pens.",
+   "id": "ENG-P1-L04-005",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "one pen, three ___",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch4 Things I bring to school",
+   "verified": true
+  }
+ ]
+}

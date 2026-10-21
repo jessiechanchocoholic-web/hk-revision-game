@@ -1,0 +1,104 @@
+{
+ "levelId": "p1s6",
+ "grade": "P1",
+ "subject": "sci",
+ "lesson": "L06",
+ "title": "6 我們的地球",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "地球上最多的是：",
+   "answer": "水",
+   "options": [
+    "汽車",
+    "水",
+    "房屋",
+    "沙漠"
+   ],
+   "explain": "地球表面大部分是海洋。",
+   "id": "SCI-P1-L06-001",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L06",
+   "level": "記憶",
+   "question": "地球上最多的是：",
+   "source": "research.md §5 科學《科學新領域》｜6 我們的地球",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "白天天空中最光的是：",
+   "answer": "太陽",
+   "options": [
+    "月亮",
+    "太陽",
+    "雲",
+    "星星"
+   ],
+   "explain": "白天有太陽。",
+   "id": "SCI-P1-L06-002",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L06",
+   "level": "記憶",
+   "question": "白天天空中最光的是：",
+   "source": "research.md §5 科學《科學新領域》｜6 我們的地球",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "我們住在哪個星球？",
+   "answer": "地球",
+   "options": [
+    "地球",
+    "火星",
+    "月亮",
+    "太陽"
+   ],
+   "explain": "我們住在地球。",
+   "id": "SCI-P1-L06-003",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L06",
+   "level": "記憶",
+   "question": "我們住在哪個星球？",
+   "source": "research.md §5 科學《科學新領域》｜6 我們的地球",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "我們要愛護地球。",
+   "answer": true,
+   "explain": "減少浪費，保護地球。",
+   "id": "SCI-P1-L06-004",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L06",
+   "level": "記憶",
+   "question": "我們要愛護地球。",
+   "source": "research.md §5 科學《科學新領域》｜6 我們的地球",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "晚上天空中常見到：",
+   "answer": "月亮和星星",
+   "options": [
+    "月亮和星星",
+    "彩虹",
+    "太陽",
+    "雨傘"
+   ],
+   "explain": "晚上可以看見月亮和星星。",
+   "id": "SCI-P1-L06-005",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L06",
+   "level": "記憶",
+   "question": "晚上天空中常見到：",
+   "source": "research.md §5 科學《科學新領域》｜6 我們的地球",
+   "verified": false
+  }
+ ]
+}

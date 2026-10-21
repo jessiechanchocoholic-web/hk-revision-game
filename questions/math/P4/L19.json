@@ -1,0 +1,98 @@
+{
+ "levelId": "p4m19",
+ "grade": "P4",
+ "subject": "math",
+ "lesson": "L19",
+ "title": "L19 圖形拼砌",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "兩個相同的直角三角形可以拼成：",
+   "answer": "長方形",
+   "options": [
+    "長方形",
+    "圓形",
+    "圓柱",
+    "五邊形"
+   ],
+   "explain": "兩個直角三角形可拼成長方形。",
+   "id": "MATH-P4-L19-001",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L19",
+   "level": "理解",
+   "question": "兩個相同的直角三角形可以拼成：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 圖形拼砌",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "用多少個相同的小正方形可拼成一個邊長2格的正方形？",
+   "answer": [
+    "4"
+   ],
+   "explain": "2×2＝4。",
+   "numeric": true,
+   "id": "MATH-P4-L19-002",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L19",
+   "level": "應用",
+   "question": "用多少個相同的小正方形可拼成一個邊長2格的正方形？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 圖形拼砌",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "兩個相同的正方形拼在一起成為：",
+   "answer": "長方形",
+   "options": [
+    "圓形",
+    "三角形",
+    "梯形",
+    "長方形"
+   ],
+   "explain": "兩個正方形並排成長方形。",
+   "id": "MATH-P4-L19-003",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L19",
+   "level": "理解",
+   "question": "兩個相同的正方形拼在一起成為：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 圖形拼砌",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "兩個相同的梯形可以拼成一個平行四邊形。",
+   "answer": true,
+   "explain": "把其中一個梯形倒轉拼合。",
+   "id": "MATH-P4-L19-004",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L19",
+   "level": "理解",
+   "question": "兩個相同的梯形可以拼成一個平行四邊形。",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 圖形拼砌",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "用多少個相同的小正方形可拼成一個邊長3格的正方形？",
+   "answer": [
+    "9"
+   ],
+   "explain": "3×3＝9。",
+   "numeric": true,
+   "id": "MATH-P4-L19-005",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L19",
+   "level": "應用",
+   "question": "用多少個相同的小正方形可拼成一個邊長3格的正方形？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 圖形拼砌",
+   "verified": false
+  }
+ ]
+}
