@@ -11,3 +11,17 @@ button:active{transform:translateY(2px)}.ghost{background:transparent;box-shadow
 .prog{height:12px;background:#ddd;border-radius:8px;overflow:hidden}.prog div{height:100%;background:#48bb78}.primary{background:#2b6cb0;color:#fff}
 .tag{display:inline-block;background:#fde68a;border-radius:8px;padding:2px 8px;font-size:.9rem;margin-left:6px}.order-picked{min-height:50px;border:2px dashed #9ab;border-radius:12px;padding:6px;margin:8px 0}
 .note{color:#666;font-size:.9rem}
+
+/* 卡通角色波波＋動畫 */
+.mascot{width:72px;height:72px;float:left;margin:0 10px 4px 0}.fb{overflow:hidden}
+.card>.mascot-wrap,.card>.mascot{float:none;margin:0 auto 6px}.mascot-wrap{position:relative;width:120px;height:120px;margin:0 auto}.mascot-wrap .mascot{width:120px;height:120px;float:none;margin:0}
+.m-ok{animation:bb-bounce .6s ease}.m-wrong{animation:bb-shake .5s ease}.m-clear{animation:bb-jump 1s ease 3}.m-boss{animation:bb-jump .8s ease 3}
+.fb.no{animation:bb-shake .4s ease}.correct{animation:bb-pop .3s ease}
+.confetti{position:absolute;inset:-20px -60px auto;height:160px;pointer-events:none;overflow:visible}.confetti i{position:absolute;top:0;width:8px;height:12px;border-radius:2px;opacity:0;animation:bb-fall 1.6s ease-in 2 both}
+@keyframes bb-bounce{0%{transform:scale(.6)}60%{transform:scale(1.15)}100%{transform:scale(1)}}
+@keyframes bb-shake{0%,100%{transform:translateX(0)}25%{transform:translateX(-6px)}75%{transform:translateX(6px)}}
+@keyframes bb-jump{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
+@keyframes bb-pop{0%{transform:scale(1)}50%{transform:scale(1.04)}100%{transform:scale(1)}}
+@keyframes bb-fall{0%{opacity:1;transform:translateY(0) rotate(0)}100%{opacity:0;transform:translateY(150px) rotate(360deg)}}
+@media (max-width:480px){.mascot{width:56px;height:56px}.q{font-size:1.2rem}button{padding:12px 14px}}
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}.confetti{display:none}}

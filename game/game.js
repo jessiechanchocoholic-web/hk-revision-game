@@ -57,6 +57,15 @@ function addWrong(meta,q){var k=meta.grade+'-'+meta.subject;var l=st.wrong[k]=st
  var e=l.filter(function(x){return x.key===key})[0];if(e)e.need=2;else l.push({key:key,q:q,need:2});save()}
 function rightInReview(meta,q){var k=meta.grade+'-'+meta.subject;var l=st.wrong[k]||[];var key=JSON.stringify(q.q)+JSON.stringify(q.answer||q.items);
  l.forEach(function(x){if(x.key===key)x.need--});st.wrong[k]=l.filter(function(x){return x.need>0});save()}
+
+// 卡通角色「波波」：純 inline SVG＋CSS 動畫，冇外部圖片
+function mascot(mood){var mouth=mood==='wrong'?'<path d="M40 70 Q50 62 60 70" stroke="#5a3" stroke-width="0" fill="none"/><path d="M41 70 Q50 63 59 70" stroke="#333" stroke-width="3" fill="none" stroke-linecap="round"/>':'<path d="M38 64 Q50 78 62 64" stroke="#333" stroke-width="3" fill="#f66" stroke-linecap="round"/>';
+ var extra=mood==='boss'?'<path d="M30 22 L36 8 L44 18 L50 4 L56 18 L64 8 L70 22 Z" fill="#fc3" stroke="#c90" stroke-width="2"/>':mood==='clear'?'<text x="8" y="22" font-size="16">⭐</text><text x="74" y="22" font-size="16">⭐</text>':'';
+ var arms=mood==='wrong'?'<path d="M14 66 Q6 74 12 82" stroke="#4aa3df" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M86 66 Q94 74 88 82" stroke="#4aa3df" stroke-width="7" fill="none" stroke-linecap="round"/>':'<path d="M14 62 Q4 46 10 36" stroke="#4aa3df" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M86 62 Q96 46 90 36" stroke="#4aa3df" stroke-width="7" fill="none" stroke-linecap="round"/>';
+ var svg='<svg viewBox="0 0 100 100" width="100%" height="100%" aria-hidden="true">'+arms+'<ellipse cx="50" cy="60" rx="36" ry="34" fill="#63b3ed" stroke="#2b6cb0" stroke-width="3"/><ellipse cx="50" cy="70" rx="20" ry="16" fill="#e6f4ff"/><circle cx="38" cy="50" r="9" fill="#fff"/><circle cx="62" cy="50" r="9" fill="#fff"/><circle cx="'+(mood==='wrong'?37:39)+'" cy="'+(mood==='wrong'?53:50)+'" r="4.5" fill="#223"/><circle cx="'+(mood==='wrong'?61:63)+'" cy="'+(mood==='wrong'?53:50)+'" r="4.5" fill="#223"/><circle cx="28" cy="62" r="5" fill="#f9a8d4" opacity=".7"/><circle cx="72" cy="62" r="5" fill="#f9a8d4" opacity=".7"/>'+mouth+extra+'</svg>';
+ var m=h('div',{class:'mascot m-'+mood,role:'img','aria-label':mood==='wrong'?'波波：唔緊要，再試吓！':'波波：好嘢！',html:svg});
+ if(mood==='clear'||mood==='boss'){var cf=h('div',{class:'confetti','aria-hidden':'true'});for(var i=0;i<14;i++){var d=h('i',{style:'left:'+(i*7+3)+'%;animation-delay:'+(i%5)*.12+'s;background:'+['#f56565','#ecc94b','#48bb78','#4299e1','#9f7aea'][i%5]});cf.appendChild(d)}var w=h('div',{class:'mascot-wrap'});w.appendChild(cf);w.appendChild(m);return w}
+ return m}
 function play(qs,meta){var s=meta.subject;var list=meta.review||meta.boss?qs:shuffle(qs).slice(0,8);var i=0,score=0,firstTry=true;
  var lang=s==='eng'?'en-GB':'zh-HK';var readAloud=meta.grade==='P2'&&(s==='chi'||s==='eng'||true);
  function show(){app.innerHTML='';firstTry=true;var q=list[i];
@@ -68,9 +77,9 @@ function play(qs,meta){var s=meta.subject;var list=meta.review||meta.boss?qs:shu
    if('speechSynthesis' in window){var sb=h('button',{class:'speak','data-lang':lang,'aria-label':'read aloud',onclick:function(){loadV();speak(say,lang)}},['🔊 '+T(s,'讀題','Read aloud')]);if(!canSpeak(lang))sb.style.display='none';c.appendChild(sb)}}
   if(q._from)c.appendChild(h('div',{class:'note'},[q._from]));
   var area=h('div',{class:'opts'});c.appendChild(area);var fb=h('div');c.appendChild(fb);app.appendChild(c);
-  function result(ok,btn){if(ok){if(firstTry)score++;if(meta.review)rightInReview(meta,q);fb.className='fb ok';fb.innerHTML='';fb.appendChild(document.createTextNode('✅ '+T(s,'答對了！','Correct! ')+(q.explain||'')));
+  function result(ok,btn){if(ok){if(firstTry)score++;if(meta.review)rightInReview(meta,q);fb.className='fb ok';fb.innerHTML='';fb.appendChild(mascot('ok'));fb.appendChild(document.createTextNode('✅ '+T(s,'答對了！','Correct! ')+(q.explain||'')));
     fb.appendChild(h('div',{},[h('button',{class:'primary',onclick:function(){i++;i<list.length?show():finish()}},[T(s,'下一題 ➜','Next ➜')])]));Array.prototype.forEach.call(area.querySelectorAll('button,input'),function(b){b.disabled=true})}
-   else{if(firstTry&&!meta.review)addWrong(meta,q);if(firstTry&&meta.review)addWrong(meta,q);firstTry=false;fb.className='fb no';fb.textContent='❌ '+T(s,'再試一次！再讀一次題目，諗吓重點。','Try again! Read the question once more.')+(q.hint?' '+q.hint:'');if(btn){btn.classList.add('wrong');btn.disabled=true}}}
+   else{if(firstTry&&!meta.review)addWrong(meta,q);if(firstTry&&meta.review)addWrong(meta,q);firstTry=false;fb.className='fb no';fb.innerHTML='';fb.appendChild(mascot('wrong'));fb.appendChild(document.createTextNode('❌ '+T(s,'再試一次！再讀一次題目，諗吓重點。','Try again! Read the question once more.')+(q.hint?' '+q.hint:'')));if(btn){btn.classList.add('wrong');btn.disabled=true}}}
   if(q.type==='mc'){q.options.forEach(function(o){var b=h('button',{onclick:function(){var ok=o===q.answer;if(ok)b.classList.add('correct');result(ok,b)}},[o]);area.appendChild(b)})}
   else if(q.type==='tf'){[[true,T(s,'✔ 對','✔ True')],[false,T(s,'✘ 錯','✘ False')]].forEach(function(p){var b=h('button',{onclick:function(){var ok=p[0]===q.answer;if(ok)b.classList.add('correct');result(ok,b)}},[p[1]]);area.appendChild(b)})}
   else if(q.type==='fill'){var inp=h('input',{type:'text',inputmode:q.numeric?'numeric':'text',placeholder:T(s,'輸入答案','Type your answer'),autocomplete:'off'});
@@ -81,7 +90,7 @@ function play(qs,meta){var s=meta.subject;var list=meta.review||meta.boss?qs:shu
  }
  function finish(){var r=score/list.length;var stars=r>=.9?3:r>=.7?2:r>=.5?1:0;if(!meta.review)st.stars[meta.id]=Math.max(st.stars[meta.id]||0,stars);
   if(meta.boss&&stars>=2)st.badges[meta.id]=1;var all=levelsOf(meta.grade,s);if(all.length&&all.every(function(l){return st.stars[l.id]===3}))st.badges['perfect-'+meta.grade+'-'+s]=1;save();upd();
-  app.innerHTML='';var c=h('div',{class:'card',style:'text-align:center'},[h('div',{class:'big'},[stars?T(s,'過關！','Level clear!'):T(s,'再努力！','Keep trying!')]),h('div',{style:'font-size:3rem'},['★★★'.slice(0,stars)+'☆☆☆'.slice(0,3-stars)]),
+  app.innerHTML='';var c=h('div',{class:'card',style:'text-align:center'},[mascot(meta.boss&&stars>=2?'boss':stars?'clear':'wrong'),h('div',{class:'big'},[meta.boss&&stars>=2?T(s,'打敗 Boss！','Boss defeated!'):stars?T(s,'過關！','Level clear!'):T(s,'再努力！','Keep trying!')]),h('div',{style:'font-size:3rem'},['★★★'.slice(0,stars)+'☆☆☆'.slice(0,3-stars)]),
    h('p',{},[T(s,'第一次就答對：','First-try correct: ')+score+' / '+list.length]),meta.boss&&stars>=2?h('p',{},['🏅 '+T(s,'獲得 Boss 徽章！','Boss badge earned!')]):h('span'),
    h('button',{onclick:function(){play(qs,meta)}},['🔁 '+T(s,'再玩','Play again')]),h('button',{class:'primary',onclick:function(){world(meta.grade,s)}},[T(s,'返回地圖','Back to map')])]);app.appendChild(c)}
  show()}
