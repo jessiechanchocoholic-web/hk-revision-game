@@ -12,6 +12,16 @@
 > ⚠️ 以上內容仍喺 PR #2，**未合併入 main**（main 仍係 `161bd51`）。
 
 ```
+## [1.1] - 2026-10-21（D-025，PR #9，main `a1c572c`）
+### 變更
+- `VERIFIED_ONLY_DEFAULT=false`：預設顯示全部 100 關／572 題（154 題已核實、418 題未核實）；`?verifiedOnly=1` 仍可只顯示已核實（26 關／154 題）
+- `UNLOCK_ALL=true`：所有關卡及 Boss 一開始已解鎖（P1 仍冇 Boss）
+### 新增／修改題目
+- 新增 P4 數學 L1–3 乘法（p4m1–p4m3，18 題，`verified:false`）
+- 按作業重寫 P2/P4/P5 中文第1課（p2c1 7 題、p4c1 8 題、p5c1 8 題，`verified:false`）
+- `node game/tools/validate.js` → ALL OK 100 levels 572 questions（文件 Bot 喺 `a1c572c` 核對）
+> 註：以下 1.0.0 段落及第 4–5 節嘅 `VERIFIED_ONLY_DEFAULT=true`、26 關／154 題公開顯示，屬 v1.0.0 紀錄。
+
 ## [1.0.0] - 2026-10-21（原草稿為 0.1.0；按 D-024 改為 1.0.0）
 ### 新增
 - 純靜態網頁遊戲：game/index.html（另有 game/開始遊戲.html）、game.js、style.css，無需 build
@@ -91,4 +101,4 @@
 - [ ] 加 favicon（可選，消除 404）
 - [ ] 真機（iPad／手機）試玩及粵語讀題（headless 未能驗證發音）
 - [ ] 深入流程（答題、Boss、錯題簿）只由 QA 測過，今次只檢查載入
-- [ ] STATUS.md 有兩列 B1-DEP-01（第 40 行舊列「待辦」），建議文件 Bot 清理
+- [x] STATUS.md 重複 B1-DEP-01 列已由文件 Bot 清理（PR #6）
