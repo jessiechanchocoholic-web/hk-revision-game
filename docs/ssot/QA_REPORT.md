@@ -101,3 +101,9 @@
 **結論：已核實模式可供 Jessie 今晚試玩。**
 - 題數核對（2bcc01b）：548＝true 147＋false 401。PR 寫 394 只計 71 個 false 關卡，漏 7 題逐題覆寫；文件 Bot 365 再少 29（p2m2 6、p5e2 7、實用文 99 關 16）。正確：**401**。Boss／錯題簿屬執行時生成，冇重複計。
 - P1/P2 英文剩餘 37 題 verified:true：全部有 research.md 直接出處；邊緣：ENG-P1-L00-004、ENG-P2-L02-004、ENG-P2-L02-006（可保留）。
+
+## 覆審 PR #2 b8e7e98（2026-10-21）
+- 只改：7 題 P1/P2 英文改返 verified:true（D-記錄喺 DECISIONS.md），game.js 不變。
+- validate.js ALL OK；預設／`=1`：26 關／154 題；`=0`：97 關。7 題答案正確。
+- P1 English 5 關各 5 題玩通，解鎖、Boss 正常；375×667／768×1024 無溢出、0 console 錯誤。截圖 `/workspace/qa-shots/r5-*.png`
+**結論：已核實模式可供 Jessie 今晚試玩。**
