@@ -1,0 +1,135 @@
+{
+ "levelId": "p2s3",
+ "grade": "P2",
+ "subject": "sci",
+ "lesson": "L03",
+ "title": "3 動手種植物",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "種子發芽需要：",
+   "answer": "水和空氣",
+   "options": [
+    "電",
+    "水和空氣",
+    "鹽",
+    "糖"
+   ],
+   "explain": "種子發芽需要水、空氣和適當溫度。",
+   "id": "SCI-P2-L03-001",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "種子發芽需要：",
+   "source": "research.md §5 科學《科學新領域》｜3 動手種植物",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "植物的哪部分吸收水分？",
+   "answer": "根",
+   "options": [
+    "花",
+    "果實",
+    "根",
+    "種子"
+   ],
+   "explain": "根吸收水分。",
+   "id": "SCI-P2-L03-002",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "植物的哪部分吸收水分？",
+   "source": "research.md §5 科學《科學新領域》｜3 動手種植物",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "植物的葉需要甚麼來製造養料？",
+   "answer": "陽光",
+   "options": [
+    "沙",
+    "冰",
+    "黑暗",
+    "陽光"
+   ],
+   "explain": "葉子需要陽光。",
+   "id": "SCI-P2-L03-003",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "植物的葉需要甚麼來製造養料？",
+   "source": "research.md §5 科學《科學新領域》｜3 動手種植物",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "order",
+   "q": "排出植物的生長次序。",
+   "items": [
+    "種子",
+    "發芽",
+    "幼苗",
+    "長大的植物"
+   ],
+   "explain": "種子發芽，長成幼苗，再長大。",
+   "answer": [
+    "種子",
+    "發芽",
+    "幼苗",
+    "長大的植物"
+   ],
+   "id": "SCI-P2-L03-004",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "理解",
+   "question": "排出植物的生長次序。",
+   "source": "research.md §5 科學《科學新領域》｜3 動手種植物",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "植物不用淋水也能生長得很好。",
+   "answer": false,
+   "explain": "植物需要水。",
+   "id": "SCI-P2-L03-005",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "植物不用淋水也能生長得很好。",
+   "source": "research.md §5 科學《科學新領域》｜3 動手種植物",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "植物的莖有甚麼作用？",
+   "answer": "支持植物和運送水分",
+   "options": [
+    "支持植物和運送水分",
+    "走路",
+    "發出聲音",
+    "吃蟲"
+   ],
+   "explain": "莖支持植物並運送水分。",
+   "id": "SCI-P2-L03-006",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "植物的莖有甚麼作用？",
+   "source": "research.md §5 科學《科學新領域》｜3 動手種植物",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}

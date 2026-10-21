@@ -1,0 +1,141 @@
+{
+ "levelId": "p2c99",
+ "grade": "P2",
+ "subject": "chi",
+ "lesson": "L99",
+ "title": "實用文：賀卡",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "賀卡最開頭要寫甚麼？",
+   "answer": "上款（收卡人稱呼）",
+   "options": [
+    "下款",
+    "上款（收卡人稱呼）",
+    "日期",
+    "地址"
+   ],
+   "explain": "賀卡先寫上款，例如「親愛的媽媽：」。",
+   "id": "CHI-P2-L99-001",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L99",
+   "level": "記憶",
+   "question": "賀卡最開頭要寫甚麼？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：賀卡",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "上款後面要加甚麼標點？",
+   "answer": "：",
+   "options": [
+    "：",
+    "！",
+    "？",
+    "。"
+   ],
+   "explain": "上款後面用冒號「：」。",
+   "id": "CHI-P2-L99-002",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L99",
+   "level": "記憶",
+   "question": "上款後面要加甚麼標點？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：賀卡",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "賀卡最後要寫：",
+   "answer": "下款（寫卡人）和日期",
+   "options": [
+    "上款",
+    "題目",
+    "下款（寫卡人）和日期",
+    "地址"
+   ],
+   "explain": "最後寫下款和日期。",
+   "id": "CHI-P2-L99-003",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L99",
+   "level": "記憶",
+   "question": "賀卡最後要寫：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：賀卡",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "送給老師的賀卡，下款可以寫：",
+   "answer": "學生 欣欣 上",
+   "options": [
+    "生日快樂",
+    "親愛的老師：",
+    "學生 欣欣 上",
+    "爸爸"
+   ],
+   "explain": "寫給老師，下款可寫「學生某某上」。",
+   "id": "CHI-P2-L99-004",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L99",
+   "level": "記憶",
+   "question": "送給老師的賀卡，下款可以寫：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：賀卡",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "order",
+   "q": "把賀卡內容排好次序。",
+   "items": [
+    "上款",
+    "祝福語",
+    "下款",
+    "日期"
+   ],
+   "explain": "賀卡次序：上款、祝福語、下款、日期。",
+   "answer": [
+    "上款",
+    "祝福語",
+    "下款",
+    "日期"
+   ],
+   "id": "CHI-P2-L99-005",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L99",
+   "level": "理解",
+   "question": "把賀卡內容排好次序。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：賀卡",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "母親節賀卡的祝福語可以寫：",
+   "answer": "祝您母親節快樂！",
+   "options": [
+    "祝您新年快樂！",
+    "祝您聖誕快樂！",
+    "祝您母親節快樂！",
+    "祝你生日快樂！"
+   ],
+   "explain": "母親節要配合節日寫祝福語。",
+   "id": "CHI-P2-L99-006",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L99",
+   "level": "記憶",
+   "question": "母親節賀卡的祝福語可以寫：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：賀卡",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}

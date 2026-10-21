@@ -1,0 +1,121 @@
+{
+ "levelId": "p2m11",
+ "grade": "P2",
+ "subject": "math",
+ "lesson": "L11",
+ "title": "L11 米的認識(二)",
+ "verified": false,
+ "questions": [
+  {
+   "type": "fill",
+   "q": "4米89厘米＝（ ）厘米",
+   "answer": [
+    "489"
+   ],
+   "explain": "4米＝400厘米，再加89厘米。",
+   "numeric": true,
+   "id": "MATH-P2-L11-001",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L11",
+   "level": "記憶",
+   "question": "4米89厘米＝（ ）厘米",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "1米95厘米＝（ ）厘米",
+   "answer": [
+    "195"
+   ],
+   "explain": "1米＝100厘米，再加95厘米。",
+   "numeric": true,
+   "id": "MATH-P2-L11-002",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L11",
+   "level": "記憶",
+   "question": "1米95厘米＝（ ）厘米",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "2米63厘米＝（ ）厘米",
+   "answer": [
+    "263"
+   ],
+   "explain": "2米＝200厘米，再加63厘米。",
+   "numeric": true,
+   "id": "MATH-P2-L11-003",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L11",
+   "level": "記憶",
+   "question": "2米63厘米＝（ ）厘米",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "繩子長6米，剪去4米，剩下多少米？",
+   "answer": [
+    "2"
+   ],
+   "explain": "6－4＝2",
+   "numeric": true,
+   "id": "MATH-P2-L11-004",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L11",
+   "level": "應用",
+   "question": "繩子長6米，剪去4米，剩下多少米？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "300厘米＝（ ）米",
+   "answer": [
+    "3"
+   ],
+   "explain": "100厘米＝1米。",
+   "numeric": true,
+   "id": "MATH-P2-L11-005",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L11",
+   "level": "記憶",
+   "question": "300厘米＝（ ）米",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "哪個最長？",
+   "answer": "2米",
+   "options": [
+    "150厘米",
+    "2米",
+    "1米",
+    "99厘米"
+   ],
+   "explain": "2米＝200厘米，最長。",
+   "id": "MATH-P2-L11-006",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L11",
+   "level": "分析",
+   "question": "哪個最長？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}

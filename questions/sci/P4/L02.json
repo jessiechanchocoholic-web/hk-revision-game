@@ -1,0 +1,104 @@
+{
+ "levelId": "p4s2",
+ "grade": "P4",
+ "subject": "sci",
+ "lesson": "L02",
+ "title": "2 轉動的地球",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "地球自轉一周大約需要：",
+   "answer": "一天（24小時）",
+   "options": [
+    "一小時",
+    "一個月",
+    "一年",
+    "一天（24小時）"
+   ],
+   "explain": "地球自轉一周約24小時。",
+   "id": "SCI-P4-L02-001",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "地球自轉一周大約需要：",
+   "source": "research.md §5 科學《科學新領域》｜2 轉動的地球",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "日夜交替是因為：",
+   "answer": "地球自轉",
+   "options": [
+    "地球自轉",
+    "月亮擋住太陽",
+    "太陽熄滅",
+    "地球變大"
+   ],
+   "explain": "地球自轉，面向太陽是白天。",
+   "id": "SCI-P4-L02-002",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "日夜交替是因為：",
+   "source": "research.md §5 科學《科學新領域》｜2 轉動的地球",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "地球公轉（環繞太陽）一周大約需要：",
+   "answer": "一年",
+   "options": [
+    "十年",
+    "一星期",
+    "一年",
+    "一天"
+   ],
+   "explain": "公轉一周約365天。",
+   "id": "SCI-P4-L02-003",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "地球公轉（環繞太陽）一周大約需要：",
+   "source": "research.md §5 科學《科學新領域》｜2 轉動的地球",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "太陽從哪個方向升起？",
+   "answer": "東",
+   "options": [
+    "北",
+    "東",
+    "南",
+    "西"
+   ],
+   "explain": "地球由西向東自轉，太陽看似從東方升起。",
+   "id": "SCI-P4-L02-004",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "太陽從哪個方向升起？",
+   "source": "research.md §5 科學《科學新領域》｜2 轉動的地球",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "面向太陽的一面是白天。",
+   "answer": true,
+   "explain": "背向太陽的一面是黑夜。",
+   "id": "SCI-P4-L02-005",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "面向太陽的一面是白天。",
+   "source": "research.md §5 科學《科學新領域》｜2 轉動的地球",
+   "verified": false
+  }
+ ]
+}

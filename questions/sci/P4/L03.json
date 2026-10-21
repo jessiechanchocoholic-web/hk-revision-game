@@ -1,0 +1,104 @@
+{
+ "levelId": "p4s3",
+ "grade": "P4",
+ "subject": "sci",
+ "lesson": "L03",
+ "title": "3 天氣和氣候",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "量度氣溫用：",
+   "answer": "溫度計",
+   "options": [
+    "溫度計",
+    "風向標",
+    "雨量計",
+    "尺"
+   ],
+   "explain": "溫度計量度氣溫。",
+   "id": "SCI-P4-L03-001",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "量度氣溫用：",
+   "source": "research.md §5 科學《科學新領域》｜3 天氣和氣候",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "量度雨量用：",
+   "answer": "雨量計",
+   "options": [
+    "溫度計",
+    "雨量計",
+    "秤",
+    "放大鏡"
+   ],
+   "explain": "雨量計量度雨量。",
+   "id": "SCI-P4-L03-002",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "量度雨量用：",
+   "source": "research.md §5 科學《科學新領域》｜3 天氣和氣候",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "香港的夏季天氣通常：",
+   "answer": "炎熱潮濕",
+   "options": [
+    "炎熱潮濕",
+    "寒冷乾燥",
+    "非常乾旱",
+    "下雪"
+   ],
+   "explain": "香港夏天炎熱潮濕多雨。",
+   "id": "SCI-P4-L03-003",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "香港的夏季天氣通常：",
+   "source": "research.md §5 科學《科學新領域》｜3 天氣和氣候",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「天氣」和「氣候」的分別是：",
+   "answer": "天氣是短時間，氣候是長時間的平均情況",
+   "options": [
+    "氣候只指一天",
+    "天氣是短時間，氣候是長時間的平均情況",
+    "天氣指很多年",
+    "兩者完全一樣"
+   ],
+   "explain": "天氣是短時間，氣候是長期平均。",
+   "id": "SCI-P4-L03-004",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "「天氣」和「氣候」的分別是：",
+   "source": "research.md §5 科學《科學新領域》｜3 天氣和氣候",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "八號風球時應留在室內。",
+   "answer": true,
+   "explain": "颱風時留在安全的室內。",
+   "id": "SCI-P4-L03-005",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "八號風球時應留在室內。",
+   "source": "research.md §5 科學《科學新領域》｜3 天氣和氣候",
+   "verified": false
+  }
+ ]
+}

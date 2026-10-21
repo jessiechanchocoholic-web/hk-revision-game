@@ -1,0 +1,124 @@
+{
+ "levelId": "p4c8",
+ "grade": "P4",
+ "subject": "chi",
+ "lesson": "L08",
+ "title": "第8課 盤古開天闢地",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "《盤古開天闢地》是一個：",
+   "answer": "神話故事",
+   "options": [
+    "新聞報道",
+    "神話故事",
+    "書信",
+    "說明文"
+   ],
+   "explain": "盤古開天是中國古代神話。",
+   "id": "CHI-P4-L08-001",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "《盤古開天闢地》是一個：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 盤古開天闢地",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "傳說盤古用甚麼劈開天地？",
+   "answer": "斧頭",
+   "options": [
+    "斧頭",
+    "毛筆",
+    "繩子",
+    "雨傘"
+   ],
+   "explain": "傳說盤古用大斧劈開天地。",
+   "id": "CHI-P4-L08-002",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "傳說盤古用甚麼劈開天地？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 盤古開天闢地",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "傳說中，盤古死後他的眼睛變成了：",
+   "answer": "太陽和月亮",
+   "options": [
+    "太陽和月亮",
+    "樹木",
+    "河流",
+    "高山"
+   ],
+   "explain": "神話說他的雙眼變成日月。",
+   "id": "CHI-P4-L08-003",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "傳說中，盤古死後他的眼睛變成了：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 盤古開天闢地",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「開天闢地」現在常用來比喻：",
+   "answer": "前所未有、第一次",
+   "options": [
+    "搬屋",
+    "前所未有、第一次",
+    "天氣很好",
+    "打開窗戶"
+   ],
+   "explain": "開天闢地比喻有史以來第一次。",
+   "id": "CHI-P4-L08-004",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "「開天闢地」現在常用來比喻：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 盤古開天闢地",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "天和地分開後，輕而清的東西上升變成：",
+   "answer": "天",
+   "options": [
+    "海",
+    "地",
+    "山",
+    "天"
+   ],
+   "explain": "輕清的上升為天，重濁的下沉為地。",
+   "id": "CHI-P4-L08-005",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "天和地分開後，輕而清的東西上升變成：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 盤古開天闢地",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "神話故事所寫的都是真實發生的事。",
+   "answer": false,
+   "explain": "神話是古人想像出來的故事。",
+   "id": "CHI-P4-L08-006",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "神話故事所寫的都是真實發生的事。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 盤古開天闢地",
+   "verified": false
+  }
+ ]
+}

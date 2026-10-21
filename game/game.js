@@ -1,6 +1,11 @@
 (function(){
 'use strict';
 var BANK=window.QUESTION_BANK||{levels:[]};
+// 只顯示已核實題目開關：改 VERIFIED_ONLY_DEFAULT 為 true 即全面只顯示 verified:true；或用網址 ?verifiedOnly=1（=0 強制顯示全部）
+var VERIFIED_ONLY_DEFAULT=true;
+var VO=(function(){var m=location.search.match(/[?&]verifiedOnly=([01])/);return m?m[1]==='1':VERIFIED_ONLY_DEFAULT})();
+if(VO)BANK={version:BANK.version,levels:BANK.levels.map(function(l){var o={};for(var k in l)o[k]=l[k];o.questions=l.questions.filter(function(q){return q.verified===true});return o}).filter(function(l){return l.questions.length>0})};
+window.__verifiedOnly=VO;
 var GRADES=[{id:'P1',name:'一年級',note:'練習關'},{id:'P2',name:'二年級'},{id:'P4',name:'四年級'},{id:'P5',name:'五年級'}];
 var SUBJ={chi:{name:'中文城',icon:'📜'},eng:{name:'English Island',icon:'🏝️'},math:{name:'數學山',icon:'⛰️'},hum:{name:'人文村',icon:'🏘️'},sci:{name:'科學實驗室',icon:'🔬'}};
 var KEY='hk-revision-quest-v1';var st;try{st=JSON.parse(localStorage.getItem(KEY))||{}}catch(e){st={}}
@@ -16,9 +21,11 @@ var isEng=function(s){return s==='eng'};
 var T=function(s,zh,en){return isEng(s)?en:zh};
 // speech
 var voices=[];function loadV(){try{voices=speechSynthesis.getVoices()||[]}catch(e){voices=[]}}
-if('speechSynthesis' in window){loadV();speechSynthesis.onvoiceschanged=loadV}
-function voiceFor(lang){var p=lang.toLowerCase();var v=voices.filter(function(x){return x.lang&&x.lang.toLowerCase().replace('_','-')===p})[0];
- if(!v)v=voices.filter(function(x){var l=(x.lang||'').toLowerCase();return lang==='zh-HK'?(l.indexOf('zh-hk')===0||l.indexOf('yue')===0||l.indexOf('zh')===0):l.indexOf('en')===0})[0];return v}
+function refreshSpeak(){Array.prototype.forEach.call(document.querySelectorAll('button.speak'),function(b){b.style.display=canSpeak(b.getAttribute('data-lang'))?'':'none'})}
+if('speechSynthesis' in window){loadV();try{speechSynthesis.addEventListener?speechSynthesis.addEventListener('voiceschanged',function(){loadV();refreshSpeak()}):(speechSynthesis.onvoiceschanged=function(){loadV();refreshSpeak()})}catch(e){}}
+function voiceFor(lang){var L=function(x){return (x.lang||'').toLowerCase().replace('_','-')};var pick=function(f){return voices.filter(f)[0]};
+ if(lang==='zh-HK')return pick(function(x){return L(x)==='zh-hk'})||pick(function(x){return L(x).indexOf('yue')===0||/cantonese|粵|廣東/i.test(x.name)});
+ return pick(function(x){return L(x)===lang.toLowerCase()})||pick(function(x){return L(x).indexOf('en')===0})}
 function speak(text,lang){try{speechSynthesis.cancel();var u=new SpeechSynthesisUtterance(text);u.lang=lang;var v=voiceFor(lang);if(v)u.voice=v;u.rate=.9;speechSynthesis.speak(u)}catch(e){}}
 function canSpeak(lang){return ('speechSynthesis' in window)&&!!voiceFor(lang)}
 
@@ -37,7 +44,7 @@ function world(gid,s){upd();app.innerHTML='';var ls=levelsOf(gid,s);var practice
  ls.forEach(function(l,i){var unlocked=i===0||(st.stars[ls[i-1].id]||0)>0;var s3=st.stars[l.id]||0;if(!s3)allDone=false;
   g.appendChild(h('button',{class:'lvl'+(unlocked?'':' locked'),onclick:function(){if(unlocked)play(l.questions,{id:l.id,title:l.title,grade:gid,subject:s});}},[(unlocked?'':'🔒 ')+(practice?'練習關 ':T(s,'第'+(i+1)+'關 ','Level '+(i+1)+' ')),h('small',{},[l.title]),h('small',{},['★★★'.slice(0,s3)+'☆☆☆'.slice(0,3-s3)])]))});
  var bossOk=allDone||ls.length<2;var bid='boss-'+gid+'-'+s;
- g.appendChild(h('button',{class:'lvl boss'+(bossOk?'':' locked'),onclick:function(){if(!bossOk){alert(T(s,'完成所有關卡先可以挑戰 Boss！','Finish all levels to unlock the Boss!'));return}
+ if(!practice)g.appendChild(h('button',{class:'lvl boss'+(bossOk?'':' locked'),onclick:function(){if(!bossOk){alert(T(s,'完成所有關卡先可以挑戰 Boss！','Finish all levels to unlock the Boss!'));return}
   var pool=[];ls.forEach(function(l){pool=pool.concat(shuffle(l.questions).slice(0,2).map(function(q){return Object.assign({},q,{_from:l.title})}))});play(shuffle(pool).slice(0,12),{id:bid,title:T(s,'Boss 模擬考','Boss Mock Exam'),grade:gid,subject:s,boss:true})}},
   [(bossOk?'':'🔒 ')+'👾 Boss',h('small',{},[T(s,'模擬考：混合全部課題','Mock exam: all chapters')]),h('small',{},['★★★'.slice(0,st.stars[bid]||0)])]));
  var wk=gid+'-'+s;var wl=st.wrong[wk]||[];
@@ -55,20 +62,21 @@ function play(qs,meta){var s=meta.subject;var list=meta.review||meta.boss?qs:shu
   var c=h('div',{class:'card'});c.appendChild(h('div',{},[h('button',{onclick:function(){world(meta.grade,s)}},['⬅ '+T(s,'離開','Quit')]),h('b',{},[meta.title]),h('span',{class:'tag'},[(i+1)+' / '+list.length])]));
   var pr=h('div',{class:'prog'},[h('div',{style:'width:'+(i/list.length*100)+'%'})]);c.appendChild(pr);
   var qtext=q.type==='order'?q.q:q.q;c.appendChild(h('div',{class:'q'},[qtext]));
+  var shown=q.items?shuffle(q.items):null;
+  if(readAloud){var say=qtext.replace(/[。：:]$/,'')+(q.options?'。'+q.options.join('，'):'')+(shown?'。'+shown.join('，'):'');
+   if('speechSynthesis' in window){var sb=h('button',{class:'speak','data-lang':lang,'aria-label':'read aloud',onclick:function(){loadV();speak(say,lang)}},['🔊 '+T(s,'讀題','Read aloud')]);if(!canSpeak(lang))sb.style.display='none';c.appendChild(sb)}}
   if(q._from)c.appendChild(h('div',{class:'note'},[q._from]));
-  if(meta.grade==='P2'){var spLang=(s==='eng')?'en-GB':'zh-HK';if(canSpeak(spLang)){c.appendChild(h('button',{onclick:function(){var t=q.q;if(q.options)t+='。 '+q.options.join('， ');speak(t,spLang)}},['🔊 '+T(s,'讀題','Read aloud')]))}
-   else c.appendChild(h('div',{class:'note'},[T(s,'（呢部電腦未安裝廣東話語音，請老師讀題）','(No English voice installed on this computer – teacher please read the question.)')]))}
   var area=h('div',{class:'opts'});c.appendChild(area);var fb=h('div');c.appendChild(fb);app.appendChild(c);
   function result(ok,btn){if(ok){if(firstTry)score++;if(meta.review)rightInReview(meta,q);fb.className='fb ok';fb.innerHTML='';fb.appendChild(document.createTextNode('✅ '+T(s,'答對了！','Correct! ')+(q.explain||'')));
     fb.appendChild(h('div',{},[h('button',{class:'primary',onclick:function(){i++;i<list.length?show():finish()}},[T(s,'下一題 ➜','Next ➜')])]));Array.prototype.forEach.call(area.querySelectorAll('button,input'),function(b){b.disabled=true})}
-   else{if(firstTry&&!meta.review)addWrong(meta,q);if(firstTry&&meta.review)addWrong(meta,q);firstTry=false;fb.className='fb no';fb.textContent='❌ '+T(s,'再試一次！提示：','Try again! Hint: ')+(q.explain||'');if(btn){btn.classList.add('wrong');btn.disabled=true}}}
+   else{if(firstTry&&!meta.review)addWrong(meta,q);if(firstTry&&meta.review)addWrong(meta,q);firstTry=false;fb.className='fb no';fb.textContent='❌ '+T(s,'再試一次！再讀一次題目，諗吓重點。','Try again! Read the question once more.')+(q.hint?' '+q.hint:'');if(btn){btn.classList.add('wrong');btn.disabled=true}}}
   if(q.type==='mc'){q.options.forEach(function(o){var b=h('button',{onclick:function(){var ok=o===q.answer;if(ok)b.classList.add('correct');result(ok,b)}},[o]);area.appendChild(b)})}
   else if(q.type==='tf'){[[true,T(s,'✔ 對','✔ True')],[false,T(s,'✘ 錯','✘ False')]].forEach(function(p){var b=h('button',{onclick:function(){var ok=p[0]===q.answer;if(ok)b.classList.add('correct');result(ok,b)}},[p[1]]);area.appendChild(b)})}
   else if(q.type==='fill'){var inp=h('input',{type:'text',inputmode:q.numeric?'numeric':'text',placeholder:T(s,'輸入答案','Type your answer'),autocomplete:'off'});
    var go=function(){var v=norm(inp.value);if(!v)return;var ok=q.answer.some(function(a){return norm(a)===v});if(ok)inp.classList.add('correct');else{inp.classList.add('wrong');setTimeout(function(){inp.classList.remove('wrong')},600)}result(ok)};
    inp.onkeydown=function(e){if(e.key==='Enter')go()};area.appendChild(inp);area.appendChild(h('button',{class:'primary',onclick:go},[T(s,'確定','Check')]));setTimeout(function(){inp.focus()},50)}
   else if(q.type==='order'){var picked=[];var box=h('div',{class:'order-picked'});area.appendChild(h('div',{class:'note'},[T(s,'依次序按下：','Tap in order:')]));area.appendChild(box);
-   var pool=h('div');shuffle(q.items).forEach(function(it){var b=h('button',{onclick:function(){picked.push(it);b.disabled=true;box.appendChild(h('span',{class:'tag'},[it]));if(picked.length===q.items.length){var ok=picked.join('|')===q.items.join('|');result(ok);if(!ok){picked=[];box.innerHTML='';Array.prototype.forEach.call(pool.children,function(x){x.disabled=false})}}}},[it]);pool.appendChild(b)});area.appendChild(pool)}
+   var pool=h('div');shown.forEach(function(it){var b=h('button',{onclick:function(){picked.push(it);b.disabled=true;box.appendChild(h('span',{class:'tag'},[it]));if(picked.length===q.items.length){var ok=picked.join('|')===q.items.join('|');result(ok);if(!ok){picked=[];box.innerHTML='';Array.prototype.forEach.call(pool.children,function(x){x.disabled=false})}}}},[it]);pool.appendChild(b)});area.appendChild(pool)}
  }
  function finish(){var r=score/list.length;var stars=r>=.9?3:r>=.7?2:r>=.5?1:0;if(!meta.review)st.stars[meta.id]=Math.max(st.stars[meta.id]||0,stars);
   if(meta.boss&&stars>=2)st.badges[meta.id]=1;var all=levelsOf(meta.grade,s);if(all.length&&all.every(function(l){return st.stars[l.id]===3}))st.badges['perfect-'+meta.grade+'-'+s]=1;save();upd();
@@ -76,5 +84,5 @@ function play(qs,meta){var s=meta.subject;var list=meta.review||meta.boss?qs:shu
    h('p',{},[T(s,'第一次就答對：','First-try correct: ')+score+' / '+list.length]),meta.boss&&stars>=2?h('p',{},['🏅 '+T(s,'獲得 Boss 徽章！','Boss badge earned!')]):h('span'),
    h('button',{onclick:function(){play(qs,meta)}},['🔁 '+T(s,'再玩','Play again')]),h('button',{class:'primary',onclick:function(){world(meta.grade,s)}},[T(s,'返回地圖','Back to map')])]);app.appendChild(c)}
  show()}
-document.getElementById('homeBtn').onclick=home;window.__game={home:home,grade:grade,world:world,play:play};home();
+document.getElementById('homeBtn').onclick=home;window.__game={home:home,grade:grade,world:world,play:play};var m=location.hash.match(/^#level=(.+)$/);var L=m&&BANK.levels.filter(function(l){return l.id===m[1]})[0];if(L)play(L.questions,{id:L.id,title:L.title,grade:L.grade,subject:L.subject});else home();
 })();
