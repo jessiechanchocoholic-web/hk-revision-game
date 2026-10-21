@@ -59,3 +59,24 @@
    - 或用 Node `vm.runInNewContext(code, {window:{}}, {timeout:1000})`，限制可存取的全域物件（注意 `vm` 並非完全安全沙盒，只屬減低風險）。
 
 **PR #2 結論：無高風險，可在 QA 通過及 Jessie 批准後合併；`eval` 建議作後續改善，不阻擋合併。**
+
+> 審核範圍去到 88bf137（PR #2 最終 commit；`b8e7e98..88bf137` 只改 `game/game.js` 12 行及 SSOT 文件，無新增網絡請求／外部 script／eval／innerHTML 寫入）。
+
+## 複查：v1.0.0（main `1957042`）
+
+審核日期：2026-10-21；重點範圍：`88bf137..1957042`。
+
+- 此範圍**只改文件**（README.md 及 docs/ssot 下 CONVENTIONS、DECISIONS、HANDOFFS、OPEN-QUESTIONS、QA_REPORT、RELEASE、SECURITY_REVIEW、STATUS、UNVERIFIED_QUESTIONS），**無程式碼、HTML 或題庫變更**。
+
+| # | 項目 | 結論 | 等級 |
+|---|---|---|---|
+| 1 | 學生資料只用 localStorage | 通過（程式碼與 88bf137 相同） | — |
+| 2 | 無密鑰 | 通過：新增內容的關鍵字命中全屬審核／檢查清單文字，無真實值；main 無 `.env`／`.pem` | — |
+| 3 | 第三方 script／CDN | 通過：無新增 script；文件內網址只有 repo、GitHub Pages 網址及 `localhost` 測試網址 | — |
+| 4 | 版權 | 通過（低）：main 無 PDF／掃描檔，圖片只有 3 張遊戲截圖；Q6 取向仍以 Jessie 決定為準 | 低 |
+
+- 已確認 `game.zip`、`research.md` **均不在 main `1957042`** 檔案樹中。
+- 尚存低風險建議：`game/tools/validate.js` 第 2 行仍用 `eval`（改善方案見上文），不影響已上線遊戲（只在開發者本機執行）。
+- 提示：RELEASE.md 記錄方案 A 公開 GitHub Pages；遊戲為純靜態網頁、不收集資料，公開無額外私隱風險。
+
+**v1.0.0 結論：無高風險。**
