@@ -4,9 +4,9 @@ Repo：https://github.com/jessiechanchocoholic-web/hk-revision-game （預設分
 
 ## 現況摘要（2026-10-21，專案經理 Bot 發佈後更新）
 - 遊戲骨架已在 `game/`：純靜態網頁，入口 `game/index.html`／`game/開始遊戲.html`。
-- 題庫：100 關、572 題（v1.1），由 `game/tools/build.js` 讀 `game/tools/content.txt` ＋ 數學產生器輸出 `game/questions.js`。
+- 題庫：103 關、591 題（B2，D-027；v1.1 時為 100 關／572 題），由 `game/tools/build.js` 讀 `game/tools/content.txt` ＋ 數學產生器輸出 `game/questions.js`。
 - 已有：世界／年級選擇、每課一關、Boss 模擬考、錯題簿（localStorage）、P2 讀題（Web Speech）、星星／徽章。
-- 題目欄位（D-014）已實施（PR #2 已合併）：build.js 自動加 id／source／verified 等欄位，並輸出 `questions/<subject>/<grade>/<lesson>.json`；`validate.js` 檢查；`?verifiedOnly=1` 開關；26 關／154 題已核實、418 題未核實；v1.1 起預設顯示全部（`VERIFIED_ONLY_DEFAULT=false`，D-025）。
+- 題目欄位（D-014）已實施（PR #2 已合併）：build.js 自動加 id／source／verified 等欄位，並輸出 `questions/<subject>/<grade>/<lesson>.json`；`validate.js` 檢查；`?verifiedOnly=1` 開關；26 關／154 題已核實、437 題未核實（B2 後）；v1.1 起預設顯示全部（`VERIFIED_ONLY_DEFAULT=false`，D-025）。
 - 已發佈 v1.1（D-025，PR #9 `a1c572c`）：顯示全部題目、所有關卡及 Boss 一開始解鎖（`UNLOCK_ALL=true`）、新增 P4 數學 L1–3 乘法、重寫 P2/P4/P5 中文第1課。
 - 已發佈 v1.0.0（D-024）：https://jessiechanchocoholic-web.github.io/hk-revision-game/game/ （GitHub Pages，main 根目錄）；PR #1–#5 已合併。
 - 已包括第二、三批部分內容（P4 數學、P2 英文、P2/P5 科學、P4 人文、P1 練習、中文各課）。
@@ -69,3 +69,9 @@ P1 中文一上單元一二、英文 1A Ch1–4、科學一上。
 - 2026-10-21 Jessie 決定：P1/P2 英文 7 題改返 verified:true。已核實模式 26 關／154 題。
 - 2026-10-21 v1.1（D-025）：`VERIFIED_ONLY_DEFAULT=false` 顯示全部 100 關／572 題（154 已核實、418 未核實）；`UNLOCK_ALL=true`；新增 p4m1–p4m3；重寫 p2c1／p4c1／p5c1。
 - 2026-10-21 小修：答錯唔再顯示答案／解釋（答啱先顯示）；冇粵語（zh-HK/yue）或英文聲就隱藏讀題掣（voiceschanged 會更新）；P1 冇 Boss 關。已核實模式 26 關／154 題。
+- 2026-10-21 B2-DEV-03 審查中：進階應用題 3 關 19 題（P2 兩步加減、P4 直式乘除、P5 分數），答啱後顯示算式＋逐步運算；validate.js 獨立覆核；全部 verified:false。
+- 2026-10-21 B2-DEV-02 審查中：卡通角色「波波」（inline SVG）＋答啱／答錯／過關／Boss 動畫；離線單檔 HTML、手機 375px、prefers-reduced-motion 已測。
+- 2026-10-21 B2-DEV-01 審查中：移除公開文字中嘅校名（標題、README、使用說明、遊戲首頁、截圖、人文題地名改為「柴灣」、localStorage key 改 `hk-revision-quest-v1`（不讀舊進度 key，玩家進度會重置；Jessie 已接受））。
+- 2026-10-21 歷史改寫後語意覆核：文字替換將舊進度 key 名換成新 key 名；已逐行檢查，修正 STATUS 第 70 行（「沿用舊進度」已不正確）。
+- 2026-10-21 B2 完成：Jessie 批准（D-027），PR #10→#11→#12 已合併（4e4705c、7e445bf、0f3e632），GitHub Pages 已更新（103 關／591 題，VERIFIED_ONLY_DEFAULT=false、UNLOCK_ALL=true，校名 0 結果）；單一離線 HTML 已出；玩家舊進度重設，家長通知見 RELEASE.md 第 6 節。#13／#14／#15 未合併。
+- 2026-10-21 文件 Bot 核對 main `8c49220`：`validate.js` → ALL OK 103 levels 591 questions；154 題 `verified:true`（26 關）、437 題 `false`；B2 新增 p2m96（6）、p4m96（8）、p5m96（5）共 19 題，全部 `verified:false`。

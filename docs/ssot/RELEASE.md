@@ -19,7 +19,7 @@
 ### 新增／修改題目
 - 新增 P4 數學 L1–3 乘法（p4m1–p4m3，18 題，`verified:false`）
 - 按作業重寫 P2/P4/P5 中文第1課（p2c1 7 題、p4c1 8 題、p5c1 8 題，`verified:false`）
-- `node game/tools/validate.js` → ALL OK 100 levels 572 questions（文件 Bot 喺 `a1c572c` 核對）
+- `node game/tools/validate.js` → ALL OK 100 levels 572 questions（文件 Bot 喺 `a1c572c` 核對；B2 後數字見第 6 節）
 > 註：以下 1.0.0 段落及第 4–5 節嘅 `VERIFIED_ONLY_DEFAULT=true`、26 關／154 題公開顯示，屬 v1.0.0 紀錄。
 
 ## [1.0.0] - 2026-10-21（原草稿為 0.1.0；按 D-024 改為 1.0.0）
@@ -33,7 +33,7 @@
 - 題型：選擇、判斷、填充、排序
 - 每世界 Boss 模擬考（完成所有關卡解鎖）、錯題簿、星星／徽章
 - P2 讀題掣（瀏覽器 speechSynthesis，zh-HK／en-GB）
-- 進度只存瀏覽器 localStorage（hk-revision-quest-v1），無登入、無後端、不收集個人資料
+- 進度只存瀏覽器 localStorage（key `hk-revision-quest-v1`），無登入、無後端、不收集個人資料
 ### 修正／變更
 - 移除重複 game.zip（安全審核建議，693e424）
 - QA 修正（f010cdb）：讀題掣重複、排序題唔再讀出答案、verified 調整、能力層次 level 對應、p4m18 梯形答案、p5c2 反義詞
@@ -102,3 +102,11 @@
 - [ ] 真機（iPad／手機）試玩及粵語讀題（headless 未能驗證發音）
 - [ ] 深入流程（答題、Boss、錯題簿）只由 QA 測過，今次只檢查載入
 - [x] STATUS.md 重複 B1-DEP-01 列已由文件 Bot 清理（PR #6）
+
+## 6. B2 更新（2026-10-21，main 0f3e632，D-027）
+- 刪除所有校名；新增卡通角色「波波」同動畫；新增進階數學應用題（顯示列式同解題步驟）；103 關／591 題。
+- 文件 Bot 喺 main `8c49220` 核對：`validate.js` → ALL OK 103 levels 591 questions；`verified:true` 154 題（26 關），`false` 437 題；新增進階關 p2m96（6 題）、p4m96（8 題）、p5m96（5 題）共 19 題，全部 `verified:false`。
+- 單一離線 HTML：`node game/tools/bundle.js <輸出檔>` 產生（冇外部資源）。
+
+### 家長通知
+各位家長：遊戲已經更新。更新後進度、星星、徽章、錯題簿會重新開始；舊資料只留喺本機，冇傳出去。小朋友照常打開遊戲重新開始玩就得，唔使做任何設定。

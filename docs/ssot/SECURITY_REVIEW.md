@@ -14,7 +14,7 @@
 | 5 | 其他（innerHTML、repo 內 zip） | 建議改善 | 低 |
 
 ## 1. 不收集學生資料 — 通過
-- 進度只存瀏覽器 localStorage，key `hk-revision-quest-v1`（`game/game.js` 第 6、8 行；`game/README-format.md` 第 23 行）。
+- 進度只存瀏覽器 localStorage，key `hk-revision-quest-v1`（原為舊 key，已改名）（`game/game.js` 第 6、8 行；`game/README-format.md` 第 23 行）。
 - 全 repo 搜尋 `fetch(`、`XMLHttpRequest`、`sendBeacon`、`<form`、`action=`、`document.cookie`、`sessionStorage`、analytics/gtag：**全部無結果**。
 - 無登入、無姓名輸入欄位。
 - 讀題用瀏覽器內置 `speechSynthesis`（`game/game.js` 第 18–23 行），屬本機功能；注意部分瀏覽器的雲端語音可能把朗讀文字（題目，非個人資料）送往瀏覽器供應商，風險可接受。
@@ -50,7 +50,7 @@
 | 4 | 版權 | 通過（低風險提示） | 低 |
 | 5 | `validate.js` 使用 `eval` | 建議改善 | 低 |
 
-1. **學生資料**：`game/game.js` 仍只用 localStorage（第 11、13 行，key `hk-revision-quest-v1`）；新增內容無 fetch／XHR／sendBeacon／form／cookie／analytics。題庫 JSON 無任何網址。
+1. **學生資料**：`game/game.js` 仍只用 localStorage（第 11、13 行，key `hk-revision-quest-v1`（原為舊 key，已改名））；新增內容無 fetch／XHR／sendBeacon／form／cookie／analytics。題庫 JSON 無任何網址。
 2. **密鑰**：`git log -p main..b8e7e98` 全部新增內容搜尋 api key、token、password、secret、private key、`ghp_`、`sk-`、`AKIA`：**0 個命中**；無 `.env`、`.pem` 檔。
 3. **第三方 script**：HTML 仍只載入本地 `questions.js`、`game.js`；無 CDN、無 `package.json`。`game.js` 的 `innerHTML` 只用於清空（`=''`），`h()` 的 `html` 屬性目前無呼叫者。
 4. **版權**：PR 內無 PDF／掃描檔，圖片只有 3 張遊戲截圖。題目 JSON 中最長字串僅 74 字，屬自編短題；`source` 欄只引用書系及課名（如《科學新領域》、Primary Longman Elect 2nd ed），屬出處標註，非原文抄錄。課名屬出版社目錄資料，公開與否仍待 Jessie 確認 Q6。

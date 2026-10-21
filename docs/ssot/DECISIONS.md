@@ -28,6 +28,7 @@
 | D-024 | 2026-10-21 | 合併 PR #1–#5 並以 GitHub Pages（main 根目錄）公開發佈 v1.0.0：https://jessiechanchocoholic-web.github.io/hk-revision-game/game/ | Jessie 喺專案經理 Bot 對話親自批准（「批准合併同發佈」） | Jessie |
 | D-025 | 2026-10-21 | v1.1：遊戲顯示全部題目（`VERIFIED_ONLY_DEFAULT=false`）、所有關卡及 Boss 一開始解鎖（`UNLOCK_ALL=true`）；新增 P4 數學 L1–3 乘法、按作業重寫 P2/P4/P5 中文第1課（100 關／572 題，全部自擬，無課本原文） | Jessie 批准（經主 Grok Bot 轉達） | Jessie |
 | D-026 | 2026-10-21 | 純靜態網站（無後端）（原編號 D-008，因與 GitHub Pages 方案 A 的 D-008 重號，2026-10-21 改編） | 由專案經理 Bot 轉達 Jessie 批准（對應 Q1） | Jessie |
+| D-027 | 2026-10-21 | B2：合併 PR #10（刪校名）、#11（卡通角色波波＋動畫）、#12（進階數學應用題＋列式步驟），更新 GitHub Pages（main 0f3e632，103 關／591 題）；接受玩家舊進度重設（新 localStorage key），必須通知家長（見 RELEASE.md 家長通知）。編號跳過 D-026（PR #15 已預留） | Jessie 喺專案經理 Bot 對話親自批准 | Jessie |
 
 ## 備註
 - D-004：人手編輯改為 content.txt＋build.js（D-014）；PR #2 仍會由 build.js 自動輸出逐課 JSON（`questions/<subject>/<grade>/<lesson>.json`），作產出檔，唔係人手編輯。

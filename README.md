@@ -1,10 +1,10 @@
-# 溫習闖關大冒險（小學 2026-27 第一次考試）
+# 溫習闖關大冒險（小學 2026-27 上學期第一次考試）
 
 純靜態網頁溫習遊戲：揀年級 → 揀科目世界（中文城、English Island、數學山、人文村、科學實驗室）→ 每課一關，所有關卡同 Boss 模擬考一開始已解鎖（v1.1），答錯嘅題目會自動入「錯題簿」。
 
 - 對象：P1（練習關）、P2、P4、P5
 - 無登入、無後端、無追蹤；進度（星星、徽章、錯題簿）只存喺瀏覽器 `localStorage`（key：`hk-revision-quest-v1`）。
-- 目前題庫（v1.1）：100 關、572 題（由 `game/tools/build.js` 產生）；其中 26 關／154 題已核實，418 題未核實。
+- 目前題庫（B2 更新後，D-027，main `8c49220`）：103 關、591 題（由 `game/tools/build.js` 產生）；其中 26 關／154 題已核實，437 題未核實。包括 3 個進階數學應用題關卡（p2m96、p4m96、p5m96，會顯示列式同解題步驟）。
 
 > ⚠️ 題庫仍有未核實內容，詳見 [`docs/ssot/UNVERIFIED_QUESTIONS.md`](docs/ssot/UNVERIFIED_QUESTIONS.md)。正式畀學生用之前請老師／家長核對。
 
@@ -26,7 +26,7 @@ python3 -m http.server 8000
 已上線（GitHub Pages，D-009／D-024／D-025）：https://jessiechanchocoholic-web.github.io/hk-revision-game/game/ 。任何人可玩、無登入（D-013）；v1.1 起顯示全部題目（D-025）。
 
 ### 只顯示已核實題目（`?verifiedOnly`）
-- `game/game.js` 頂部 `VERIFIED_ONLY_DEFAULT = false`（v1.1，D-025）：預設顯示全部 100 關／572 題；改做 `true` 就只顯示 `verified: true`（26 關／154 題）。
+- `game/game.js` 頂部 `VERIFIED_ONLY_DEFAULT = false`（v1.1，D-025）：預設顯示全部 103 關／591 題；改做 `true` 就只顯示 `verified: true`（26 關／154 題）。
 - `game/game.js` 頂部 `UNLOCK_ALL = true`：所有關卡及 Boss 一開始已解鎖；改做 `false` 就要攞星先解鎖下一關、完成全部關卡先解鎖 Boss。
 - 網址加 `?verifiedOnly=1` 強制只顯示已核實；`?verifiedOnly=0` 顯示全部題目（老師核對用），例：`game/index.html?verifiedOnly=0`。
 - 可用 `#level=<關卡ID>` 直接開某關，例：`game/index.html#level=p5m4`。
@@ -119,7 +119,7 @@ fillN('閏年的2月有多少日？',29,'閏年2月有29日。'),
 ```bash
 cd game
 node tools/build.js
-# 會印出：levels 100 questions 572（數字隨改動而變）
+# 會印出：levels 103 questions 591（數字隨改動而變）
 ```
 
 然後重新整理瀏覽器頁面測試。**唔好直接改 `questions.js`**，下次 build 會被覆蓋。
