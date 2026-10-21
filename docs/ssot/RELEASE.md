@@ -11,7 +11,7 @@
 - 若發佈時未經 QA 全面通過，只作試用，可改用 `v0.1.0-beta.1`。
 
 ## 2. CHANGELOG 草稿
-> 依據：QA Bot 覆審 PR #3 要求（經專案經理 Bot 轉達）及 PR #2 最新留言（13:50 UTC，b8e7e98）。數字已由部署 Bot 用程式喺 `feat/question-bank@b8e7e98` 核對：載入 `game/questions.js` → 全部 97 關／548 題；`verified:true` → 26 關／154 題，與 QA 一致；`validate.js` 輸出 `ALL OK 97 levels 548 questions`。
+> 依據：QA Bot 覆審 PR #3 要求（經專案經理 Bot 轉達）及 PR #2 最新 commit 88bf137。數字已由部署 Bot 用程式喺 `feat/question-bank@88bf137` 核對：載入 `game/questions.js` → 全部 97 關／548 題；`verified:true` → 26 關／154 題，與 QA 一致；`validate.js` 輸出 `ALL OK 97 levels 548 questions`。
 > ⚠️ 以上內容仍喺 PR #2，**未合併入 main**（main 仍係 `161bd51`）。
 
 ```
@@ -31,11 +31,13 @@
 - 移除重複 game.zip（安全審核建議，693e424）
 - QA 修正（f010cdb）：讀題掣重複、排序題唔再讀出答案、verified 調整、能力層次 level 對應、p4m18 梯形答案、p5c2 反義詞
 - P1/P2 英文 44 題按 Jessie 決定全部 verified:true（b8e7e98）
+- 88bf137（game.js）：答錯提示唔再顯示解釋／答案，改為「再試一次！再讀一次題目，諗吓重點。」；
+  瀏覽器冇對應粵語（zh-HK／yue）或英文語音時自動隱藏讀題掣（voiceschanged 時更新），唔再用普通話聲代替；
+  P1 練習關唔再出現 Boss
 ### 已知問題（待修／待決定）
-- P5 分數題未接受帶分數
-- 答錯提示會透露答案
-- 瀏覽器冇粵語語音時仍顯示讀題掣
-- P1（練習關）仍出現 Boss，與「P1 無 Boss」設計不符
+- P5 分數題未接受帶分數輸入
+- 冇語音時讀題掣直接隱藏，冇任何提示（舊版「此瀏覽器不支援讀題」提示已移除）
+- 真機粵語語音未測試（只做過 headless mock 測試）
 ```
 > 正式發佈前，以上已知問題修好並合併入 main 後，按最終內容再更新一次。
 
