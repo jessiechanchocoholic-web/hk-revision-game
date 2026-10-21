@@ -23,13 +23,13 @@ python3 -m http.server 8000
 ```
 
 ### 網上版
-目前**未有** GitHub Pages 或其他網上版本（部署要先得到 Jessie 批准，見 `docs/ssot/OPEN-QUESTIONS.md` Q2）。
+已決定用 GitHub Pages 發佈（D-009），預計網址 `https://jessiechanchocoholic-web.github.io/hk-revision-game/game/`，**目前未啟用**（啟用前要問 Jessie）。公開版任何人可玩、無登入（D-013），並只顯示已核實題目（D-016）。
 
 ### 遊戲功能
 - **關卡**：每關隨機抽最多 8 題；第一次就答啱先計分，≥90% 三星、≥70% 兩星、≥50% 一星。
 - **Boss 模擬考**：該科所有關卡完成後解鎖，每關抽 2 題、合共最多 12 題；兩星或以上得 Boss 徽章。
 - **錯題簿**：自動收集答錯題目，可重溫。
-- **讀題**：P2 可用瀏覽器內置語音讀題（要部機有對應語音，粵語／英文）。
+- **讀題**：P2 用瀏覽器內置語音讀題（中文用粵語 D-012，英文用英語；要部機有對應語音）。
 
 ## 檔案結構
 
@@ -46,7 +46,7 @@ docs/ssot/                      任務狀態、決策、交接、規範、待核
 
 ## 老師：點樣加／減／改題目
 
-> 注意：目前題庫**唔係**每課一個 JSON 檔，而係「`content.txt`（文字格式）＋ `build.js`（數學）→ 自動產生 `questions.js`」。`docs/ssot/CONVENTIONS.md` 原本規劃嘅 `questions/<科目>/<年級>/<課>.json` 格式**未實施**（見 OPEN-QUESTIONS Q9）。
+> 題庫格式：`content.txt`（文字格式）＋ `build.js`（數學）→ 自動產生 `questions.js`（D-014，取代原本逐課 JSON 規劃）。每題將會加 `verified`／`source` 欄位，具體寫法由開發 Bot 實施後補充（STATUS B1-DEV-08）。
 
 ### 1. 中文／英文／科學／人文／P1：改 `game/tools/content.txt`
 
@@ -135,7 +135,7 @@ node tools/build.js
 4. 每題最好有解說（答錯時會顯示做提示）。
 5. 開遊戲玩一次該關，確認顯示正常。
 6. 新題目如未對過課本，請加入 `docs/ssot/UNVERIFIED_QUESTIONS.md`。
-7. 唔好寫入學生姓名或任何個人資料；唔好整段抄課本。
+7. 唔好寫入學生姓名或任何個人資料；只用自擬題目，唔好抄課本例題或圖片（D-011）。
 
 ## 協作文件
-見 `docs/ssot/`：`STATUS.md`（任務看板）、`DECISIONS.md`、`HANDOFFS.md`、`CONVENTIONS.md`、`OPEN-QUESTIONS.md`、`UNVERIFIED_QUESTIONS.md`。
+見 `docs/ssot/`（`research.md` 按 D-015 唔放入 repo）：`STATUS.md`（任務看板）、`DECISIONS.md`、`HANDOFFS.md`、`CONVENTIONS.md`、`OPEN-QUESTIONS.md`、`UNVERIFIED_QUESTIONS.md`。
