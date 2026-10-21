@@ -2,7 +2,7 @@
 
 - 審核日期：2026-10-21
 - 審核者：安全 Bot
-- 審核範圍：`main` 分支 commit `161bd51`（全部 git 歷史只有此一個 commit）
+- 審核範圍：`main` 分支 commit `7c2c466`（全部 git 歷史只有此一個 commit）
 - 結論摘要：**無高風險**；兩項低風險建議。
 
 | # | 項目 | 結論 | 等級 |
@@ -36,11 +36,11 @@
 
 ## 5. 其他建議（低）
 - `game/game.js` 第 10 行 `h()` 支援 `html` 屬性寫入 `innerHTML`；現時內容來自本地題庫，風險低。如日後讓老師/家長自行匯入題目，建議改用 `textContent`。
-- ~~repo 根目錄 `game.zip` 與 `game/` 內容重複~~ → **已處理**：PR #2 commit `693e424` 已刪除 `game.zip` 並加入 `.gitignore`（已核實 PR #2 樹中不再有此檔；合併後 main 生效）。
+- ~~repo 根目錄 `game.zip` 與 `game/` 內容重複~~ → **已處理**：PR #2 commit `a195a07` 已刪除 `game.zip` 並加入 `.gitignore`（已核實 PR #2 樹中不再有此檔；合併後 main 生效）。
 
-## 補審：PR #2（commit `b8e7e98`，548 題題庫）
+## 補審：PR #2（commit `3c8146a`，548 題題庫）
 
-審核日期：2026-10-21；範圍：`main..b8e7e98` 共 8 個 commit、111 個檔案（`questions/<科目>/<年級>/*.json`、`game/game.js`、`game/questions.js`、`game/tools/*.js`、SSOT 文件）。
+審核日期：2026-10-21；範圍：`main..3c8146a` 共 8 個 commit、111 個檔案（`questions/<科目>/<年級>/*.json`、`game/game.js`、`game/questions.js`、`game/tools/*.js`、SSOT 文件）。
 
 | # | 項目 | 結論 | 等級 |
 |---|---|---|---|
@@ -51,7 +51,7 @@
 | 5 | `validate.js` 使用 `eval` | 建議改善 | 低 |
 
 1. **學生資料**：`game/game.js` 仍只用 localStorage（第 11、13 行，key `hk-revision-quest-v1`）；新增內容無 fetch／XHR／sendBeacon／form／cookie／analytics。題庫 JSON 無任何網址。
-2. **密鑰**：`git log -p main..b8e7e98` 全部新增內容搜尋 api key、token、password、secret、private key、`ghp_`、`sk-`、`AKIA`：**0 個命中**；無 `.env`、`.pem` 檔。
+2. **密鑰**：`git log -p main..3c8146a` 全部新增內容搜尋 api key、token、password、secret、private key、`ghp_`、`sk-`、`AKIA`：**0 個命中**；無 `.env`、`.pem` 檔。
 3. **第三方 script**：HTML 仍只載入本地 `questions.js`、`game.js`；無 CDN、無 `package.json`。`game.js` 的 `innerHTML` 只用於清空（`=''`），`h()` 的 `html` 屬性目前無呼叫者。
 4. **版權**：PR 內無 PDF／掃描檔，圖片只有 3 張遊戲截圖。題目 JSON 中最長字串僅 74 字，屬自編短題；`source` 欄只引用書系及課名（如《科學新領域》、Primary Longman Elect 2nd ed），屬出處標註，非原文抄錄。課名屬出版社目錄資料，公開與否仍待 Jessie 確認 Q6。
 5. **`game/tools/validate.js` 第 2 行 `eval`**：只在開發者本機執行、讀取 repo 內 `questions.js`，風險低；但若日後有人透過 PR 改 `questions.js`，執行驗證時會在本機跑任意程式碼。替代方案（擇一）：
@@ -60,40 +60,40 @@
 
 **PR #2 結論：無高風險，可在 QA 通過及 Jessie 批准後合併；`eval` 建議作後續改善，不阻擋合併。**
 
-> 審核範圍去到 88bf137（PR #2 最終 commit；`b8e7e98..88bf137` 只改 `game/game.js` 12 行及 SSOT 文件，無新增網絡請求／外部 script／eval／innerHTML 寫入）。
+> 審核範圍去到 57f900a（PR #2 最終 commit；`3c8146a..57f900a` 只改 `game/game.js` 12 行及 SSOT 文件，無新增網絡請求／外部 script／eval／innerHTML 寫入）。
 
-## 複查：v1.0.0（main `1957042`）
+## 複查：v1.0.0（main `73755c1`）
 
-審核日期：2026-10-21；重點範圍：`88bf137..1957042`。
+審核日期：2026-10-21；重點範圍：`57f900a..73755c1`。
 
 - 此範圍**只改文件**（README.md 及 docs/ssot 下 CONVENTIONS、DECISIONS、HANDOFFS、OPEN-QUESTIONS、QA_REPORT、RELEASE、SECURITY_REVIEW、STATUS、UNVERIFIED_QUESTIONS），**無程式碼、HTML 或題庫變更**。
 
 | # | 項目 | 結論 | 等級 |
 |---|---|---|---|
-| 1 | 學生資料只用 localStorage | 通過（程式碼與 88bf137 相同） | — |
+| 1 | 學生資料只用 localStorage | 通過（程式碼與 57f900a 相同） | — |
 | 2 | 無密鑰 | 通過：新增內容的關鍵字命中全屬審核／檢查清單文字，無真實值；main 無 `.env`／`.pem` | — |
 | 3 | 第三方 script／CDN | 通過：無新增 script；文件內網址只有 repo、GitHub Pages 網址及 `localhost` 測試網址 | — |
 | 4 | 版權 | 通過（低）：main 無 PDF／掃描檔，圖片只有 3 張遊戲截圖；Q6 取向仍以 Jessie 決定為準 | 低 |
 
-- 已確認 `game.zip`、`research.md` **均不在 main `1957042`** 檔案樹中。
+- 已確認 `game.zip`、`research.md` **均不在 main `73755c1`** 檔案樹中。
 - 尚存低風險建議：`game/tools/validate.js` 第 2 行仍用 `eval`（改善方案見上文），不影響已上線遊戲（只在開發者本機執行）。
 - 提示：RELEASE.md 記錄方案 A 公開 GitHub Pages；遊戲為純靜態網頁、不收集資料，公開無額外私隱風險。
 
 **v1.0.0 結論：無高風險。**
 
-## B2 審核：PR #10、#11、#12（2026-10-21，基準 main `4c56038`）
+## B2 審核：PR #10、#11、#12（2026-10-21，基準 main `a1c572c`）
 
 | PR | head | 學生資料 | 密鑰 | 第三方／外部資源 | 版權 | 結論 |
 |---|---|---|---|---|---|---|
-| #10 移除校名 | `5d4cfc6` | 通過 | 通過 | 通過 | 通過 | 無高風險；檔案樹已無校名（舊歷史仍有） |
-| #11 卡通角色＋動畫 | `bab4afa` | 通過 | 通過 | 通過 | 通過（自繪 SVG） | 無高風險 |
-| #12 進階數學應用題 | `59decf3` | 通過 | 通過 | 通過 | 通過（程式生成題） | 無高風險 |
+| #10 移除校名 | `7ab4c28` | 通過 | 通過 | 通過 | 通過 | 無高風險；檔案樹已無校名（舊歷史仍有） |
+| #11 卡通角色＋動畫 | `09ade3b` | 通過 | 通過 | 通過 | 通過（自繪 SVG） | 無高風險 |
+| #12 進階數學應用題 | `1054561` | 通過 | 通過 | 通過 | 通過（程式生成題） | 無高風險 |
 
 四項共通：三個 PR 新增內容均無 fetch／XHR／sendBeacon／form／cookie／analytics、無外部網址、無新 `<script>`、無 `.env`／密鑰（關鍵字搜尋 0 個真實值）、無 PDF／掃描檔。
 
-### PR #10 補充（8676fb5，已由 5d4cfc6 覆核取代，見下文）
-- 8676fb5 時 docs/ssot 仍有校名及舊 key 縮寫殘留，已於 5d4cfc6 清除。（本段刻意不重覆校名或舊縮寫。）
-- 舊 git 歷史（161bd51 起各 commit）仍含校名；公開 repo 任何人可查。完全移除需改寫歷史（force push），屬破壞性操作，須 Jessie 另行決定；現階段建議接受。
+### PR #10 補充（ad9daec，已由 7ab4c28 覆核取代，見下文）
+- ad9daec 時 docs/ssot 仍有校名及舊 key 縮寫殘留，已於 7ab4c28 清除。（本段刻意不重覆校名或舊縮寫。）
+- （已處理）git 歷史已改寫，見文末「歷史改寫」。
 
 ### PR #11 補充
 - 波波角色為 `game.js` 內固定字串 inline SVG，經 `h()` 的 `html` 屬性寫入；字串只由 `mood` 決定的常數組成，不含使用者／題庫輸入。
@@ -104,8 +104,13 @@
 - 新顯示 `equation`／`working` 以文字節點加入，無 `innerHTML` 寫入題目內容。
 - 三個新關卡標為推斷內容，不加入 VERIFIED，符合內容規則。
 
-### PR #10 覆核（head `5d4cfc6`，2026-10-21）
-1. **校名殘留**：於 PR #10 head 全 repo（`git grep`，含 docs/ssot、題庫、程式）搜尋校名中英文、地名、舊 key 縮寫、拆字寫法：**0 結果**；檔案名稱（含圖片）亦無相關字樣。（舊 git 歷史仍有，見上文。）
+### PR #10 覆核（head `7ab4c28`，2026-10-21）
+1. **校名殘留**：於 PR #10 head 全 repo（`git grep`，含 docs/ssot、題庫、程式）搜尋校名中英文、地名、舊 key 縮寫、拆字寫法：**0 結果**；檔案名稱（含圖片）亦無相關字樣。（git 歷史已改寫，見文末「歷史改寫」。）
 2. **移除舊 key 遷移的影響**：`game/game.js` 第 11 行改為只讀新 key `hk-revision-quest-v1`。v1.0.0 已上線並使用舊 key，故**舊玩家合併後首次開啟會由零開始**（星星、徽章、錯題簿不見）；舊資料仍留在該瀏覽器 localStorage，不會被刪除或外傳。此屬**私隱（避免程式碼含校名縮寫）與使用體驗之間的取捨，並非安全問題**；是否接受進度重設由 Jessie 決定，建議在發佈說明告知家長。
-3. **四項回歸**：5d4cfc6 只改 4 個檔案 6 行，無新增網絡請求、外部資源、script、密鑰（關鍵字唯一命中為審核紀錄文字），無版權內容 —— **無回歸**。
+3. **四項回歸**：7ab4c28 只改 4 個檔案 6 行，無新增網絡請求、外部資源、script、密鑰（關鍵字唯一命中為審核紀錄文字），無版權內容 —— **無回歸**。
 4. **與 PR #10 合併**：PR #10 改動本檔第 17、53 行（舊紀錄），本 PR 只在檔尾新增段落，`git merge-tree` 確認**無衝突**；本 PR 新增文字已不含校名或舊縮寫。
+
+## 歷史改寫（2026-10-21）
+- repo 歷史已改寫，新 main 為 `a1c572c`；本報告內所有 commit 編號已按 commit 訊息配對更新為新歷史對應 commit（全部配對成功），舊 SHA 不再列出。
+- 安全 Bot 已於新 clone 以 `git log --all -p` 及全部遠端 branch／tag 搜尋校名中英文、地名、舊 key 縮寫：**0 結果**。
+- **注意**：GitHub 上舊 PR ref（如已合併 PR 的 `refs/pull/<n>/head`）及快取仍保留舊歷史 commit，仍可經 SHA 存取。如要完全清除，須由 repo 擁有者向 GitHub Support 申請刪除該等 ref 及快取。
