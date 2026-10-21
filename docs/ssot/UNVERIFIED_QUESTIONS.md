@@ -3,8 +3,9 @@
 更新：2026-10-21（文件 Bot）｜只標記，**冇改任何題目或答案**。核對後請喺「狀態」欄更新，並通知 QA Bot。
 
 ## 總體說明
-- `main` 現行題庫（97 關、548 題）未有 `verified`／`source` 欄位。PR #2 會以**關卡**為單位加 `verified`：28 關／167 題 `true`，其餘 381 題 `false`；`source` 只係科目層級（例「research.md §3 …｜關卡名」），唔係逐題來源。
-- ⚠️ 差異：PR #2 將 P1／P2 英文（p1e0–p1e4、p2e1–p2e3，44 題）標 `verified: true`，但 research.md 只有 language focus、冇詞彙表，本清單仍列為 A11 待核，請 QA／Jessie 決定。
+- `main` 現行題庫（97 關、548 題）未有 `verified`／`source` 欄位。PR #2 會以**關卡**為單位加 `verified`：26 關／154 題 `true`，其餘 394 題 `false`（以 PR #2 最新版計）；`source` 只係科目層級（例「research.md §3 …｜關卡名」），唔係逐題來源。
+- P1／P2 英文（44 題）：2026-10-21 Jessie 確認當已核實（D-017），已移至「已解決」。
+- PR #2 最新版另將 p2m2（P2 數學 L2，6 題）、p5e2（P5 英文 Ch2，7 題）同三個實用文關卡（p2c99、p4c99、p5c99，16 題）標 `false`；呢 29 題唔喺 A 類，原因請睇 PR #2／QA 報告。
 - 核對依據 `research.md`（未放入 repo，box 路徑 `/workspace/hk-revision-game/research.md`）：✅＝已核實、⚠️＝推斷。
 - 檔案欄：`content.txt`＝`game/tools/content.txt`；`build.js`＝`game/tools/build.js`（數學）。
 - 數學題目大多由程式隨機產生，計算答案由程式計出，主要風險係「課題學習重點係推斷」而唔係計錯。
@@ -23,9 +24,14 @@
 | A8 | content.txt | p1s1–p1s7、p2s2–p2s4、p5s1–p5s5 | P1／P2／P5 科學 | 81 | 只核實課名（P2 L1 有學習重點）；內容推斷 | 待核 |
 | A9 | content.txt | p4h1–p4h4 | P4 人文 L1–4 | 20 | 只核實課名 | 待核 |
 | A10 | build.js | p4m4–p4m19 | P4 數學（第二批） | 67 | 只核實課名；「4上A L1–3 乘法」課名未抄錄，故題庫冇 L1–3 | 待核 |
-| A11 | content.txt | p1e0–p1e4、p2e1–p2e3 | P1／P2 英文 | 44 | 只有 language focus，冇課本詞彙表 | 待核 |
 
 > P4／P5 英文（p4e1–p5e3）及 P5 數學 L1–L6、P2 數學 L1–L6、P4 科學 L1、P2 科學 L1 有較完整來源，但仍冇逐題 `source`。
+
+## 已解決
+
+| # | 檔案 | 關卡 ID | 關卡 | 題數 | 處理 |
+|---|---|---|---|---|---|
+| A11 | content.txt | p1e0–p1e4、p2e1–p2e3 | P1／P2 英文 | 44 | 2026-10-21 Jessie 確認當已核實（D-017） |
 
 ## B. 個別題目有疑問（可能錯、有爭議或不一致）
 
@@ -49,6 +55,7 @@
 | B16 | build.js | p2m20 | 「平年的2月有多少日？」「平年一年有多少日？」 | 「平年／閏年」可能超出 P2 L20 範圍 | 待核 |
 
 ## 統計
-- A 類（整關待核實）：11 組，389 題
+- A 類（整關待核實）：10 組（A1–A10），365 題（更正：之前寫 389 題係漏計 A9；連 A11 應為 409 題）
+- 已解決：1 組（A11），44 題
 - B 類（個別題目疑問）：16 項
-- PR #2 合併後 `verified: false`：381 題（`main` 現時全部 548 題無此欄位）
+- PR #2 合併後 `verified: false`：394 題＝A 類 365 題＋其他 29 題（見總體說明）；`verified: true`：154 題（`main` 現時全部 548 題無此欄位）

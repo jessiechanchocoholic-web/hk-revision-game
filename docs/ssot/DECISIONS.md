@@ -18,6 +18,8 @@
 | D-014 | 2026-10-21 | 保留 `content.txt`＋`build.js`→`questions.js` 題庫格式，並為題目加 `verified`／`source` 欄位（取代 D-004 逐課 JSON 規劃） | 由專案經理 Bot 轉達 Jessie 批准（對應 Q9） | Jessie |
 | D-015 | 2026-10-21 | `research.md` 不放入 repo | 由專案經理 Bot 轉達 Jessie 批准（對應 Q10） | Jessie |
 | D-016 | 2026-10-21 | 試玩（公開版）只顯示已核實題目（`verified` 為真） | 由專案經理 Bot 轉達 Jessie 批准（對應 —） | Jessie |
+| D-017 | 2026-10-21 | P1／P2 英文（p1e0–p1e4、p2e1–p2e3，44 題）當已核實（`verified: true`，同 PR #2） | 由 Jessie 親自批准（UNVERIFIED_QUESTIONS A11） | Jessie |
+| D-018 | 2026-10-21 | 每個 Bot 喺自己嘅 git worktree（`/workspace/hk-revision-game-<bot名>`）工作，唔直接改共用資料夾（CONVENTIONS 第 11 點） | 由專案經理 Bot 轉達 Jessie 批准 | Jessie |
 
 ## 備註
 - D-004：人手編輯改為 content.txt＋build.js（D-014）；PR #2 仍會由 build.js 自動輸出逐課 JSON（`questions/<subject>/<grade>/<lesson>.json`），作產出檔，唔係人手編輯。
