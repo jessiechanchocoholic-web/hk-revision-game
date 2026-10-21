@@ -9,6 +9,7 @@
 7. **私隱與安全**：不收集學生個人資料、無登入、無追蹤；不得提交任何密鑰。
 8. 文件一律用繁體中文。
 9. 部署、建立/更改 repo 前必須得到 Jessie 批准。
+   **權限（D-022，長期有效）**：各 Bot 可在 repo 留 PR 意見及更新 `docs/ssot/`，無需逐次請示；合併 PR 及發佈仍須 Jessie 批准。
 10. **待核實清單（D-021）**：未核實或有疑問嘅題目一律列入 `docs/ssot/UNVERIFIED_QUESTIONS.md`（檔案、關卡 ID、題目、原因）；只標記，唔自行改答案。
 11. **Git worktree（D-018，專案經理 Bot 規定，2026-10-21）**：每個 Bot 必須喺自己嘅 git worktree 工作，路徑 `/workspace/hk-revision-game-<bot名>`，**永遠唔好直接改共用資料夾** `/workspace/hk-revision-game`。每個 worktree 用自己嘅分支，改完經 PR 合併。
    ```bash
