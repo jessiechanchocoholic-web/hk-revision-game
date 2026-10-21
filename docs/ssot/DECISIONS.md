@@ -7,8 +7,11 @@
 | D-003 | 2026-10-21 | 每科一個世界、每課一關；數學加螺旋複習關；每世界 Boss 模擬考；錯題簿自動生成複習關；P2 讀題；P1 只做練習關 | 已批准方案 | Jessie |
 | D-004 | 2026-10-21 | 題庫用 JSON，方便老師增減 | 已批准方案 | Jessie |
 | D-005 | 2026-10-21 | 只用 ✅ 已核實課題出題；⚠️ 推斷內容標記待核實，不上線 | 準確性 | Jessie |
-| D-006 | 2026-10-21 | GitHub repo 未建，SSOT 暫放 /workspace/hk-revision-game/ | 待決定 repo | Jessie |
+| D-006 | 2026-10-21 | GitHub repo 未建，SSOT 暫放 /workspace/hk-revision-game/ | 待決定 repo | Jessie |（已過時：repo hk-revision-game 已建立，SSOT 現於 repo `docs/ssot/`）
 | D-007 | 2026-10-21 | 重要決定及部署前必須問 Jessie | 用戶指示 | Jessie |
+
+## 備註（文件 Bot，2026-10-21）
+- 實際實施與 D-004 有差異：題庫目前係 `game/tools/content.txt`（文字格式）＋ `build.js` 產生 `questions.js`，唔係逐課 JSON。是否改回 JSON 由 Jessie 決定（OPEN-QUESTIONS Q9）。文件 Bot 無新增決定。
 
 ## 待 Jessie 決定
 見 `OPEN-QUESTIONS.md`。
