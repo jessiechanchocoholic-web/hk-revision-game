@@ -1,0 +1,95 @@
+{
+ "levelId": "p4m4",
+ "grade": "P4",
+ "subject": "math",
+ "lesson": "L04",
+ "title": "L4 菱形",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "菱形的四條邊：",
+   "answer": "都一樣長",
+   "options": [
+    "只有兩條一樣長",
+    "都一樣長",
+    "一定有直角",
+    "都不一樣長"
+   ],
+   "explain": "菱形四邊相等。",
+   "id": "MATH-P4-L04-001",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "理解",
+   "question": "菱形的四條邊：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 菱形",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "正方形是一種特別的菱形。",
+   "answer": true,
+   "explain": "正方形四邊相等，也是菱形。",
+   "id": "MATH-P4-L04-002",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "理解",
+   "question": "正方形是一種特別的菱形。",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 菱形",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "菱形的四個角一定是直角。",
+   "answer": false,
+   "explain": "菱形的角不一定是直角。",
+   "id": "MATH-P4-L04-003",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "理解",
+   "question": "菱形的四個角一定是直角。",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 菱形",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "菱形一條邊長8cm，周界是多少cm？",
+   "answer": [
+    "32"
+   ],
+   "explain": "4×8＝32",
+   "numeric": true,
+   "id": "MATH-P4-L04-004",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "菱形一條邊長8cm，周界是多少cm？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 菱形",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "菱形的對邊：",
+   "answer": "互相平行",
+   "options": [
+    "長短不同",
+    "不相交也不平行",
+    "互相平行",
+    "互相垂直"
+   ],
+   "explain": "菱形兩組對邊互相平行。",
+   "id": "MATH-P4-L04-005",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "理解",
+   "question": "菱形的對邊：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 菱形",
+   "verified": false
+  }
+ ]
+}

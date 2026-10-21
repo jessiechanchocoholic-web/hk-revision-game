@@ -1,0 +1,98 @@
+{
+ "levelId": "p1s5",
+ "grade": "P1",
+ "subject": "sci",
+ "lesson": "L05",
+ "title": "5 成長與身體轉變",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "我們長大後，身高會：",
+   "answer": "變高",
+   "options": [
+    "變矮",
+    "變高",
+    "消失",
+    "不變"
+   ],
+   "explain": "長大會長高。",
+   "id": "SCI-P1-L05-001",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "我們長大後，身高會：",
+   "source": "research.md §5 科學《科學新領域》｜5 成長與身體轉變",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "要健康成長，我們要：",
+   "answer": "均衡飲食",
+   "options": [
+    "只吃糖果",
+    "均衡飲食",
+    "不做運動",
+    "不睡覺"
+   ],
+   "explain": "均衡飲食和多做運動。",
+   "id": "SCI-P1-L05-002",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "要健康成長，我們要：",
+   "source": "research.md §5 科學《科學新領域》｜5 成長與身體轉變",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "嬰兒長大後會變成：",
+   "answer": "兒童",
+   "options": [
+    "小狗",
+    "植物",
+    "石頭",
+    "兒童"
+   ],
+   "explain": "人由嬰兒成長為兒童。",
+   "id": "SCI-P1-L05-003",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "嬰兒長大後會變成：",
+   "source": "research.md §5 科學《科學新領域》｜5 成長與身體轉變",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "充足的睡眠幫助我們成長。",
+   "answer": true,
+   "explain": "小朋友要睡得足夠。",
+   "id": "SCI-P1-L05-004",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "充足的睡眠幫助我們成長。",
+   "source": "research.md §5 科學《科學新領域》｜5 成長與身體轉變",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "每天只吃薯片最健康。",
+   "answer": false,
+   "explain": "要均衡飲食。",
+   "id": "SCI-P1-L05-005",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "每天只吃薯片最健康。",
+   "source": "research.md §5 科學《科學新領域》｜5 成長與身體轉變",
+   "verified": false
+  }
+ ]
+}

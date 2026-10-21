@@ -1,0 +1,98 @@
+{
+ "levelId": "p1s1",
+ "grade": "P1",
+ "subject": "sci",
+ "lesson": "L01",
+ "title": "1 動手動腦學科學",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "科學家觀察東西時會用：",
+   "answer": "放大鏡",
+   "options": [
+    "枕頭",
+    "放大鏡",
+    "雨傘",
+    "書包"
+   ],
+   "explain": "放大鏡可以把東西看得更清楚。",
+   "id": "SCI-P1-L01-001",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "科學家觀察東西時會用：",
+   "source": "research.md §5 科學《科學新領域》｜1 動手動腦學科學",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "我們用甚麼感官看東西？",
+   "answer": "眼睛",
+   "options": [
+    "耳朵",
+    "鼻子",
+    "眼睛",
+    "舌頭"
+   ],
+   "explain": "眼睛用來看。",
+   "id": "SCI-P1-L01-002",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "我們用甚麼感官看東西？",
+   "source": "research.md §5 科學《科學新領域》｜1 動手動腦學科學",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "我們用甚麼感官嗅氣味？",
+   "answer": "鼻子",
+   "options": [
+    "手",
+    "鼻子",
+    "眼睛",
+    "耳朵"
+   ],
+   "explain": "鼻子用來嗅。",
+   "id": "SCI-P1-L01-003",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "我們用甚麼感官嗅氣味？",
+   "source": "research.md §5 科學《科學新領域》｜1 動手動腦學科學",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "做實驗時要注意安全。",
+   "answer": true,
+   "explain": "實驗要聽老師指示，注意安全。",
+   "id": "SCI-P1-L01-004",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "做實驗時要注意安全。",
+   "source": "research.md §5 科學《科學新領域》｜1 動手動腦學科學",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "不知道的東西可以隨便放入口嚐。",
+   "answer": false,
+   "explain": "不認識的東西不可以放入口。",
+   "id": "SCI-P1-L01-005",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "不知道的東西可以隨便放入口嚐。",
+   "source": "research.md §5 科學《科學新領域》｜1 動手動腦學科學",
+   "verified": false
+  }
+ ]
+}

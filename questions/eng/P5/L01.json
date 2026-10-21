@@ -1,0 +1,142 @@
+{
+ "levelId": "p5e1",
+ "grade": "P5",
+ "subject": "eng",
+ "lesson": "L01",
+ "title": "Ch1 Good manners",
+ "verified": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "You ___ talk loudly in the library.",
+   "answer": "shouldn't",
+   "options": [
+    "can",
+    "shouldn't",
+    "must",
+    "should"
+   ],
+   "explain": "Talking loudly in the library is bad manners.",
+   "id": "ENG-P5-L01-001",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "You ___ talk loudly in the library.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "You ___ say \"thank you\" when you get help.",
+   "answer": "should",
+   "options": [
+    "mustn't",
+    "shouldn't",
+    "don't",
+    "should"
+   ],
+   "explain": "Saying thank you is good manners.",
+   "id": "ENG-P5-L01-002",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "You ___ say \"thank you\" when you get help.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
+   "verified": true
+  },
+  {
+   "type": "fill",
+   "q": "quiet → ___ (adverb)",
+   "answer": [
+    "quietly"
+   ],
+   "explain": "Add -ly: quietly.",
+   "id": "ENG-P5-L01-003",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "quiet → ___ (adverb)",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
+   "verified": true
+  },
+  {
+   "type": "fill",
+   "q": "happy → ___ (adverb)",
+   "answer": [
+    "happily"
+   ],
+   "explain": "y → i + ly: happily.",
+   "id": "ENG-P5-L01-004",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "happy → ___ (adverb)",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "good → ? (adverb)",
+   "answer": "well",
+   "options": [
+    "goodily",
+    "well",
+    "good",
+    "goodly"
+   ],
+   "explain": "\"good\" → \"well\" (irregular).",
+   "id": "ENG-P5-L01-005",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "good → ? (adverb)",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "Please speak ___ to the old lady.",
+   "answer": "politely",
+   "options": [
+    "more polite",
+    "politeness",
+    "polite",
+    "politely"
+   ],
+   "explain": "Use an adverb to describe how we speak.",
+   "id": "ENG-P5-L01-006",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "Please speak ___ to the old lady.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "We should eat ___.",
+   "answer": "quietly",
+   "options": [
+    "quietly",
+    "quietness",
+    "quieter",
+    "quiet"
+   ],
+   "explain": "Adverb of manner: eat quietly.",
+   "id": "ENG-P5-L01-007",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "We should eat ___.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
+   "verified": true
+  }
+ ]
+}

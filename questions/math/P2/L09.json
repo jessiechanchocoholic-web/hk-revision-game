@@ -1,0 +1,130 @@
+{
+ "levelId": "p2m9",
+ "grade": "P2",
+ "subject": "math",
+ "lesson": "L09",
+ "title": "L9 銳角和鈍角",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "比直角小的角叫：",
+   "answer": "銳角",
+   "options": [
+    "直角",
+    "平角",
+    "銳角",
+    "鈍角"
+   ],
+   "explain": "小於直角是銳角。",
+   "id": "MATH-P2-L09-001",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L09",
+   "level": "記憶",
+   "question": "比直角小的角叫：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 銳角和鈍角",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "比直角大（但小於一直線）的角叫：",
+   "answer": "鈍角",
+   "options": [
+    "直角",
+    "圓角",
+    "鈍角",
+    "銳角"
+   ],
+   "explain": "大於直角是鈍角。",
+   "id": "MATH-P2-L09-002",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L09",
+   "level": "記憶",
+   "question": "比直角大（但小於一直線）的角叫：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 銳角和鈍角",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "時鐘1時正，兩支針形成甚麼角？",
+   "answer": "銳角",
+   "options": [
+    "鈍角",
+    "沒有角",
+    "銳角",
+    "直角"
+   ],
+   "explain": "1時兩針張開很小，是銳角。",
+   "id": "MATH-P2-L09-003",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L09",
+   "level": "理解",
+   "question": "時鐘1時正，兩支針形成甚麼角？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 銳角和鈍角",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "時鐘5時正，兩支針形成甚麼角？",
+   "answer": "鈍角",
+   "options": [
+    "鈍角",
+    "直角",
+    "銳角",
+    "沒有角"
+   ],
+   "explain": "5時兩針張開比直角大。",
+   "id": "MATH-P2-L09-004",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L09",
+   "level": "理解",
+   "question": "時鐘5時正，兩支針形成甚麼角？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 銳角和鈍角",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "銳角比鈍角小。",
+   "answer": true,
+   "explain": "銳角＜直角＜鈍角。",
+   "id": "MATH-P2-L09-005",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L09",
+   "level": "理解",
+   "question": "銳角比鈍角小。",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 銳角和鈍角",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "正方形的角是：",
+   "answer": "直角",
+   "options": [
+    "直角",
+    "鈍角",
+    "銳角",
+    "都不是"
+   ],
+   "explain": "正方形4個直角。",
+   "id": "MATH-P2-L09-006",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L09",
+   "level": "理解",
+   "question": "正方形的角是：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 銳角和鈍角",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}

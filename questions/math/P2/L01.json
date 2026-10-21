@@ -1,0 +1,122 @@
+{
+ "levelId": "p2m1",
+ "grade": "P2",
+ "subject": "math",
+ "lesson": "L01",
+ "title": "L1 三位數",
+ "verified": true,
+ "questions": [
+  {
+   "type": "fill",
+   "q": "1個百、7個十和7個一合起來是多少？",
+   "answer": [
+    "177"
+   ],
+   "explain": "1×100＋7×10＋7＝177",
+   "numeric": true,
+   "id": "MATH-P2-L01-001",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "1個百、7個十和7個一合起來是多少？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 三位數",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "8個百、9個十和2個一合起來是多少？",
+   "answer": [
+    "892"
+   ],
+   "explain": "8×100＋9×10＋2＝892",
+   "numeric": true,
+   "id": "MATH-P2-L01-002",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "8個百、9個十和2個一合起來是多少？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 三位數",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "988 和 271，哪個較大？",
+   "answer": "988",
+   "options": [
+    "988",
+    "271"
+   ],
+   "explain": "先比百位，再比十位、個位，988較大。",
+   "id": "MATH-P2-L01-003",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "988 和 271，哪個較大？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 三位數",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "913 和 239，哪個較大？",
+   "answer": "913",
+   "options": [
+    "913",
+    "239"
+   ],
+   "explain": "先比百位，再比十位、個位，913較大。",
+   "id": "MATH-P2-L01-004",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "913 和 239，哪個較大？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 三位數",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "585 的百位數字是多少？",
+   "answer": "5",
+   "options": [
+    "5",
+    "6",
+    "8"
+   ],
+   "explain": "585 的百位是 5。",
+   "id": "MATH-P2-L01-005",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "585 的百位數字是多少？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 三位數",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "一千是多少個百？",
+   "answer": [
+    "10"
+   ],
+   "explain": "10個百＝1000。",
+   "numeric": true,
+   "id": "MATH-P2-L01-006",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "一千是多少個百？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 三位數",
+   "verified": true,
+   "readAloud": true
+  }
+ ]
+}

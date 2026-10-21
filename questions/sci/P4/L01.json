@@ -1,0 +1,133 @@
+{
+ "levelId": "p4s1",
+ "grade": "P4",
+ "subject": "sci",
+ "lesson": "L01",
+ "title": "1 地球的結構",
+ "verified": true,
+ "questions": [
+  {
+   "type": "order",
+   "q": "由外到內排出地球的結構。",
+   "items": [
+    "地殼",
+    "地幔",
+    "地核"
+   ],
+   "explain": "最外是地殼，中間是地幔，最內是地核。",
+   "answer": [
+    "地殼",
+    "地幔",
+    "地核"
+   ],
+   "id": "SCI-P4-L01-001",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "由外到內排出地球的結構。",
+   "source": "research.md §5 科學《科學新領域》｜1 地球的結構",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "我們住在地球的哪一層？",
+   "answer": "地殼",
+   "options": [
+    "太空",
+    "地幔",
+    "地殼",
+    "地核"
+   ],
+   "explain": "我們住在地殼上。",
+   "id": "SCI-P4-L01-002",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "我們住在地球的哪一層？",
+   "source": "research.md §5 科學《科學新領域》｜1 地球的結構",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "板塊碰撞可能引致：",
+   "answer": "地震和火山爆發",
+   "options": [
+    "地震和火山爆發",
+    "彩虹",
+    "月食",
+    "下雪"
+   ],
+   "explain": "板塊移動碰撞會引起地震、火山爆發。",
+   "id": "SCI-P4-L01-003",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "板塊碰撞可能引致：",
+   "source": "research.md §5 科學《科學新領域》｜1 地球的結構",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "以下哪一項不是岩石的種類？",
+   "answer": "塑膠岩",
+   "options": [
+    "變質岩",
+    "火成岩",
+    "沉積岩",
+    "塑膠岩"
+   ],
+   "explain": "岩石分火成岩、沉積岩、變質岩。",
+   "id": "SCI-P4-L01-004",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "以下哪一項不是岩石的種類？",
+   "source": "research.md §5 科學《科學新領域》｜1 地球的結構",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "哪一種土壤排水能力最好？",
+   "answer": "沙土",
+   "options": [
+    "黏土",
+    "壤土",
+    "三者一樣",
+    "沙土"
+   ],
+   "explain": "沙土顆粒大，排水最快；黏土最慢。",
+   "id": "SCI-P4-L01-005",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "哪一種土壤排水能力最好？",
+   "source": "research.md §5 科學《科學新領域》｜1 地球的結構",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "花崗岩常用作：",
+   "answer": "建築材料",
+   "options": [
+    "建築材料",
+    "食物",
+    "衣服",
+    "燃料"
+   ],
+   "explain": "花崗岩堅硬，用作建築材料。",
+   "id": "SCI-P4-L01-006",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "花崗岩常用作：",
+   "source": "research.md §5 科學《科學新領域》｜1 地球的結構",
+   "verified": true
+  }
+ ]
+}

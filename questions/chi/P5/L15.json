@@ -1,0 +1,104 @@
+{
+ "levelId": "p5c15",
+ "grade": "P5",
+ "subject": "chi",
+ "lesson": "L15",
+ "title": "第15課 桂花雨",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "桂花在甚麼季節開花？",
+   "answer": "秋天",
+   "options": [
+    "春天",
+    "秋天",
+    "冬天",
+    "夏天"
+   ],
+   "explain": "桂花多在秋天盛開。",
+   "id": "CHI-P5-L15-001",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L15",
+   "level": "記憶",
+   "question": "桂花在甚麼季節開花？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第15課 桂花雨",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「桂花雨」是指：",
+   "answer": "搖樹時桂花像雨一樣落下",
+   "options": [
+    "桂花味的雨水",
+    "下雨天",
+    "搖樹時桂花像雨一樣落下",
+    "很多人哭"
+   ],
+   "explain": "桂花紛紛落下，好像下雨。",
+   "id": "CHI-P5-L15-002",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L15",
+   "level": "記憶",
+   "question": "「桂花雨」是指：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第15課 桂花雨",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "桂花最大的特點是：",
+   "answer": "很香",
+   "options": [
+    "很大",
+    "很臭",
+    "黑色",
+    "很香"
+   ],
+   "explain": "桂花香氣濃郁。",
+   "id": "CHI-P5-L15-003",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L15",
+   "level": "記憶",
+   "question": "桂花最大的特點是：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第15課 桂花雨",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「香氣撲鼻」的意思是：",
+   "answer": "香味很濃，傳到鼻子",
+   "options": [
+    "沒有味道",
+    "很臭",
+    "香味很濃，傳到鼻子",
+    "鼻子痛"
+   ],
+   "explain": "形容香味濃。",
+   "id": "CHI-P5-L15-004",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L15",
+   "level": "記憶",
+   "question": "「香氣撲鼻」的意思是：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第15課 桂花雨",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "作者寫桂花雨，也表達了對家鄉的懷念。",
+   "answer": true,
+   "explain": "寫童年搖桂花，表達思鄉之情。",
+   "id": "CHI-P5-L15-005",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L15",
+   "level": "記憶",
+   "question": "作者寫桂花雨，也表達了對家鄉的懷念。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第15課 桂花雨",
+   "verified": false
+  }
+ ]
+}

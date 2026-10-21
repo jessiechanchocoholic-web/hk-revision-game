@@ -1,0 +1,104 @@
+{
+ "levelId": "p4s4",
+ "grade": "P4",
+ "subject": "sci",
+ "lesson": "L04",
+ "title": "4 動植物與環境",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "北極熊有厚厚的毛，是為了適應：",
+   "answer": "寒冷的環境",
+   "options": [
+    "寒冷的環境",
+    "炎熱的沙漠",
+    "水中生活",
+    "森林"
+   ],
+   "explain": "厚毛可保暖。",
+   "id": "SCI-P4-L04-001",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "北極熊有厚厚的毛，是為了適應：",
+   "source": "research.md §5 科學《科學新領域》｜4 動植物與環境",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "仙人掌的葉變成針刺，可以：",
+   "answer": "減少水分流失",
+   "options": [
+    "減少水分流失",
+    "游泳",
+    "跑得快",
+    "吸引蜜蜂"
+   ],
+   "explain": "沙漠缺水，針狀葉減少水分散失。",
+   "id": "SCI-P4-L04-002",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "仙人掌的葉變成針刺，可以：",
+   "source": "research.md §5 科學《科學新領域》｜4 動植物與環境",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "駱駝適合生活在：",
+   "answer": "沙漠",
+   "options": [
+    "北極",
+    "雨林",
+    "沙漠",
+    "海洋"
+   ],
+   "explain": "駱駝能長時間不喝水。",
+   "id": "SCI-P4-L04-003",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "駱駝適合生活在：",
+   "source": "research.md §5 科學《科學新領域》｜4 動植物與環境",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "魚用甚麼適應水中生活？",
+   "answer": "鰓和鰭",
+   "options": [
+    "毛和腳",
+    "肺和翅膀",
+    "鰓和鰭",
+    "殼和觸角"
+   ],
+   "explain": "鰓呼吸，鰭游泳。",
+   "id": "SCI-P4-L04-004",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "魚用甚麼適應水中生活？",
+   "source": "research.md §5 科學《科學新領域》｜4 動植物與環境",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "所有動植物都可以在任何環境生存。",
+   "answer": false,
+   "explain": "動植物有不同的適應特徵。",
+   "id": "SCI-P4-L04-005",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "所有動植物都可以在任何環境生存。",
+   "source": "research.md §5 科學《科學新領域》｜4 動植物與環境",
+   "verified": false
+  }
+ ]
+}

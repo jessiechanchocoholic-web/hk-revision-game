@@ -1,0 +1,124 @@
+{
+ "levelId": "p4c1",
+ "grade": "P4",
+ "subject": "chi",
+ "lesson": "L01",
+ "title": "第1課 週記一則——掌聲",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "週記多久寫一次？",
+   "answer": "一星期一次",
+   "options": [
+    "一星期一次",
+    "一個月一次",
+    "一天一次",
+    "一年一次"
+   ],
+   "explain": "「週」就是星期，週記每星期寫一次。",
+   "id": "CHI-P4-L01-001",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "週記多久寫一次？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "週記一般要寫上：",
+   "answer": "日期和題目",
+   "options": [
+    "日期和題目",
+    "地址和郵票",
+    "上款和下款",
+    "收件人電郵"
+   ],
+   "explain": "週記要寫日期（或星期）和題目。",
+   "id": "CHI-P4-L01-002",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "週記一般要寫上：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「掌聲」是用甚麼發出的聲音？",
+   "answer": "雙手拍掌",
+   "options": [
+    "雙手拍掌",
+    "敲鼓",
+    "口唱歌",
+    "雙腳跳"
+   ],
+   "explain": "拍手發出的聲音就是掌聲。",
+   "id": "CHI-P4-L01-003",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "「掌聲」是用甚麼發出的聲音？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "同學在台上緊張時，大家給他掌聲，表示：",
+   "answer": "鼓勵和支持",
+   "options": [
+    "不理睬",
+    "責罵",
+    "嘲笑",
+    "鼓勵和支持"
+   ],
+   "explain": "掌聲可以給人鼓勵。",
+   "id": "CHI-P4-L01-004",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "同學在台上緊張時，大家給他掌聲，表示：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "週記可以記下一星期內印象最深刻的事和感受。",
+   "answer": true,
+   "explain": "週記要寫事情和自己的感受。",
+   "id": "CHI-P4-L01-005",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "週記可以記下一星期內印象最深刻的事和感受。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「鼓勵」的近義詞是：",
+   "answer": "激勵",
+   "options": [
+    "批評",
+    "激勵",
+    "放棄",
+    "責怪"
+   ],
+   "explain": "鼓勵和激勵意思相近。",
+   "id": "CHI-P4-L01-006",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "「鼓勵」的近義詞是：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
+   "verified": false
+  }
+ ]
+}
