@@ -24,5 +24,12 @@
    git worktree remove /workspace/hk-revision-game-<bot名>
    ```
    注意：同一分支唔可以同時喺兩個 worktree check out。
+   每個 worktree 要設 `git config user.name "<Bot名>"`（勿用共用 config，否則 commit 作者會變成其他 Bot）。用 worktree 專屬設定：
+   ```bash
+   cd /workspace/hk-revision-game-<bot名>
+   git config extensions.worktreeConfig true      # 每個 repo 開一次
+   git config --worktree user.name "<Bot名>"       # 例：git config --worktree user.name "文件 Bot"
+   git log -1 --format='%an'                       # commit 後檢查作者
+   ```
 12. **research.md 不放入 repo**（D-015、D-019）；需要時喺 box `/workspace/hk-revision-game/research.md` 參考，唔好提交。
 13. **技術及發佈（D-019）**：純靜態網站（D-008）、GitHub Pages `/game/`（D-009）、公開 repo（D-010）、無登入任何人可玩（D-013）；啟用部署前仍要問 Jessie（D-007）。
