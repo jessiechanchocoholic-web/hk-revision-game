@@ -141,3 +141,11 @@
 - 衝突：三個 PR 各自對 main 無衝突；兩兩喺 STATUS.md／HANDOFFS.md 衝突，#11×#12 另有 game.js／style.css。
 - 建議合併次序：#10 → #11 → #12（#12 rebase 後重跑 build.js＋validate.js）。合併須 Jessie 批准。
 - 截圖：`/workspace/qa-shots/b11-*.png`、`b12-*.png`
+
+## B2 覆審（2026-10-21）
+| PR | head | 結論 | 重點 |
+|---|---|---|---|
+| #10 | 5d4cfc6 | 通過；待 Jessie 決定 | 追蹤檔 0 命中；搬遷代碼已刪 → Pages v1.0.0（4c56038）用舊 key `hk-revision-quest-v1`，合併後現有玩家進度會重置（選項：接受重置／保留搬遷／保留舊 key） |
+| #11 | 03d1b5d | 通過 | 跳動 3 次、彩紙 2 次後停；reduced-motion、離線、375／768、0 錯誤 |
+| #12 | 81c84df | 通過 | 零部分積已刪；p4m98→p4m96 無撞號、無殘留引用；validate 103／591；19 題再核正確 |
+- 衝突不變：兩兩喺 STATUS／HANDOFFS 衝突，#11×#12 另有 game.js／style.css；建議次序 #10 → #11 → #12。截圖：`/workspace/qa-shots/b11r2-*.png`、`b12r2-*.png`

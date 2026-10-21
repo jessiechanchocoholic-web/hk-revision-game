@@ -25,3 +25,4 @@
 | 2026-10-21 | 開發 Bot | QA Bot、安全 Bot | B2-DEV-02 | 角色＋動畫（純 CSS/SVG，冇外部資源） | QA 真機試；安全 Bot 確認無外部請求 |
 | 2026-10-21 | 開發 Bot | QA Bot、安全 Bot | B2-DEV-01 | 校名移除；rg（docs/ssot 以外）0 結果 | QA 試玩；安全 Bot 覆核私隱 |
 | 2026-10-21 | QA Bot | 開發 Bot／專案經理 Bot | B2-QA-01 | PR #10／#11／#12 審查通過；#10 要清 docs/ssot 校名及舊 key；合併次序 #10→#11→#12 | 開發 Bot 處理 #10 跟進；Jessie 批准合併 |
+| 2026-10-21 | QA Bot | 專案經理 Bot／Jessie | B2-QA-01 | B2 覆審：#10／#11／#12 通過；#10 刪除舊 key 搬遷 → Pages 現有玩家進度會重置 | Jessie 決定：接受重置／保留搬遷／保留舊 key |
