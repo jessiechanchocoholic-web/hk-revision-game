@@ -26,7 +26,7 @@ python3 -m http.server 8000
 已決定用 GitHub Pages 發佈（D-009），預計網址 `https://jessiechanchocoholic-web.github.io/hk-revision-game/game/`，**目前未啟用**（啟用前要問 Jessie）。公開版任何人可玩、無登入（D-013），並只顯示已核實題目（D-016）。
 
 ### 只顯示已核實題目（`?verifiedOnly`，PR #2）
-- `game/game.js` 頂部 `VERIFIED_ONLY_DEFAULT = true`：預設只顯示 `verified: true` 嘅關卡（現時 28 關／167 題）。
+- `game/game.js` 頂部 `VERIFIED_ONLY_DEFAULT = true`：預設只顯示 `verified: true` 嘅關卡（PR #2 最新 `b8e7e98`：26 關／154 題已核實，其餘 394 題未核實）。
 - 網址加 `?verifiedOnly=1` 強制只顯示已核實；`?verifiedOnly=0` 顯示全部題目（老師核對用），例：`game/index.html?verifiedOnly=0`。
 - 可用 `#level=<關卡ID>` 直接開某關，例：`game/index.html#level=p5m4`。
 

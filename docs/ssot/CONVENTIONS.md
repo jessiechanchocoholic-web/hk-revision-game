@@ -24,7 +24,7 @@
    git worktree remove /workspace/hk-revision-game-<bot名>
    ```
    注意：同一分支唔可以同時喺兩個 worktree check out。
-   每個 worktree 要設 `git config user.name "<Bot名>"`（勿用共用 config，否則 commit 作者會變成其他 Bot）。用 worktree 專屬設定：
+   每個 worktree 要設 `git config user.name "<Bot名>"`（D-023）（勿用共用 config，否則 commit 作者會變成其他 Bot）。用 worktree 專屬設定：
    ```bash
    cd /workspace/hk-revision-game-<bot名>
    git config extensions.worktreeConfig true      # 每個 repo 開一次
