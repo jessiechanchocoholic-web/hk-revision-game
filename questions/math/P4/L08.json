@@ -1,0 +1,112 @@
+{
+ "levelId": "p4m8",
+ "grade": "P4",
+ "subject": "math",
+ "lesson": "L08",
+ "title": "L8 乘除應用題",
+ "verified": false,
+ "questions": [
+  {
+   "type": "fill",
+   "q": "每盒有48枝筆，3盒共有多少枝？",
+   "answer": [
+    "144"
+   ],
+   "explain": "48×3＝144",
+   "numeric": true,
+   "id": "MATH-P4-L08-001",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L08",
+   "level": "應用",
+   "question": "每盒有48枝筆，3盒共有多少枝？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "每盒有47枝筆，3盒共有多少枝？",
+   "answer": [
+    "141"
+   ],
+   "explain": "47×3＝141",
+   "numeric": true,
+   "id": "MATH-P4-L08-002",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L08",
+   "level": "應用",
+   "question": "每盒有47枝筆，3盒共有多少枝？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "每盒有25枝筆，3盒共有多少枝？",
+   "answer": [
+    "75"
+   ],
+   "explain": "25×3＝75",
+   "numeric": true,
+   "id": "MATH-P4-L08-003",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L08",
+   "level": "應用",
+   "question": "每盒有25枝筆，3盒共有多少枝？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "117個蘋果平均分給3個班，每班得多少個？",
+   "answer": [
+    "39"
+   ],
+   "explain": "117÷3＝39",
+   "numeric": true,
+   "id": "MATH-P4-L08-004",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L08",
+   "level": "應用",
+   "question": "117個蘋果平均分給3個班，每班得多少個？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "51個蘋果平均分給3個班，每班得多少個？",
+   "answer": [
+    "17"
+   ],
+   "explain": "51÷3＝17",
+   "numeric": true,
+   "id": "MATH-P4-L08-005",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L08",
+   "level": "應用",
+   "question": "51個蘋果平均分給3個班，每班得多少個？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "100個蘋果平均分給5個班，每班得多少個？",
+   "answer": [
+    "20"
+   ],
+   "explain": "100÷5＝20",
+   "numeric": true,
+   "id": "MATH-P4-L08-006",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L08",
+   "level": "應用",
+   "question": "100個蘋果平均分給5個班，每班得多少個？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
+   "verified": false
+  }
+ ]
+}

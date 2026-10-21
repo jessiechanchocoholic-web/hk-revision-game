@@ -1,0 +1,112 @@
+{
+ "levelId": "p4m7",
+ "grade": "P4",
+ "subject": "math",
+ "lesson": "L07",
+ "title": "L7 除法(二)",
+ "verified": false,
+ "questions": [
+  {
+   "type": "fill",
+   "q": "456 ÷ 3 ＝ ？",
+   "answer": [
+    "152"
+   ],
+   "explain": "3×152＝456",
+   "numeric": true,
+   "id": "MATH-P4-L07-001",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "456 ÷ 3 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 除法(二)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "512 ÷ 8 ＝ ？",
+   "answer": [
+    "64"
+   ],
+   "explain": "8×64＝512",
+   "numeric": true,
+   "id": "MATH-P4-L07-002",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "512 ÷ 8 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 除法(二)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "1746 ÷ 6 ＝ ？",
+   "answer": [
+    "291"
+   ],
+   "explain": "6×291＝1746",
+   "numeric": true,
+   "id": "MATH-P4-L07-003",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "1746 ÷ 6 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 除法(二)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "494 ÷ 7 的餘數是多少？",
+   "answer": [
+    "4"
+   ],
+   "explain": "7×70＝490，494－490＝4",
+   "numeric": true,
+   "id": "MATH-P4-L07-004",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "494 ÷ 7 的餘數是多少？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 除法(二)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "326 ÷ 4 的餘數是多少？",
+   "answer": [
+    "2"
+   ],
+   "explain": "4×81＝324，326－324＝2",
+   "numeric": true,
+   "id": "MATH-P4-L07-005",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "326 ÷ 4 的餘數是多少？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 除法(二)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "394 ÷ 7 的餘數是多少？",
+   "answer": [
+    "2"
+   ],
+   "explain": "7×56＝392，394－392＝2",
+   "numeric": true,
+   "id": "MATH-P4-L07-006",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "394 ÷ 7 的餘數是多少？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 除法(二)",
+   "verified": false
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "levelId": "p4c13",
+ "grade": "P4",
+ "subject": "chi",
+ "lesson": "L13",
+ "title": "第13課 桂林山水",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "桂林在中國哪個省區？",
+   "answer": "廣西",
+   "options": [
+    "廣東",
+    "北京",
+    "廣西",
+    "上海"
+   ],
+   "explain": "桂林位於廣西壯族自治區。",
+   "id": "CHI-P4-L13-001",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L13",
+   "level": "記憶",
+   "question": "桂林在中國哪個省區？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第13課 桂林山水",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "有一句話說「桂林山水甲天下」，「甲」的意思是：",
+   "answer": "第一",
+   "options": [
+    "最遠",
+    "最小",
+    "第一",
+    "最差"
+   ],
+   "explain": "「甲天下」指天下第一。",
+   "id": "CHI-P4-L13-002",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L13",
+   "level": "記憶",
+   "question": "有一句話說「桂林山水甲天下」，「甲」的意思是：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第13課 桂林山水",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "漓江的水最大的特點是：",
+   "answer": "清、靜、綠",
+   "options": [
+    "清、靜、綠",
+    "鹹、冷、黑",
+    "黃、急、濁",
+    "乾、熱、少"
+   ],
+   "explain": "桂林的水又靜又清又綠。",
+   "id": "CHI-P4-L13-003",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L13",
+   "level": "記憶",
+   "question": "漓江的水最大的特點是：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第13課 桂林山水",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "桂林的山的特點是：",
+   "answer": "奇、秀、險",
+   "options": [
+    "平、矮、圓",
+    "沒有樹木",
+    "奇、秀、險",
+    "全是雪山"
+   ],
+   "explain": "桂林的山奇、秀、險。",
+   "id": "CHI-P4-L13-004",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L13",
+   "level": "記憶",
+   "question": "桂林的山的特點是：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第13課 桂林山水",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「山像老人，像巨象。」用了甚麼修辭？",
+   "answer": "比喻",
+   "options": [
+    "設問",
+    "誇張",
+    "比喻",
+    "反問"
+   ],
+   "explain": "用「像」作比較，是比喻。",
+   "id": "CHI-P4-L13-005",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L13",
+   "level": "記憶",
+   "question": "「山像老人，像巨象。」用了甚麼修辭？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第13課 桂林山水",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "遊記會描寫遊覽時看到的景物和感受。",
+   "answer": true,
+   "explain": "《桂林山水》是寫景的文章。",
+   "id": "CHI-P4-L13-006",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L13",
+   "level": "記憶",
+   "question": "遊記會描寫遊覽時看到的景物和感受。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第13課 桂林山水",
+   "verified": false
+  }
+ ]
+}

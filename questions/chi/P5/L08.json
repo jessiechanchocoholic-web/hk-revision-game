@@ -1,0 +1,110 @@
+{
+ "levelId": "p5c8",
+ "grade": "P5",
+ "subject": "chi",
+ "lesson": "L08",
+ "title": "第8課 金鏤衣",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "《金縷衣》是一首：",
+   "answer": "古詩",
+   "options": [
+    "書信",
+    "古詩",
+    "新聞",
+    "日記"
+   ],
+   "explain": "《金縷衣》是唐代詩歌。",
+   "id": "CHI-P5-L08-001",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "《金縷衣》是一首：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 金鏤衣",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「花開堪折直須折，莫待無花空折枝。」主要勸人：",
+   "answer": "珍惜時光",
+   "options": [
+    "多種花",
+    "珍惜時光",
+    "買新衣服",
+    "不要摘花"
+   ],
+   "explain": "勸人把握時機，珍惜少年時光。",
+   "id": "CHI-P5-L08-002",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "「花開堪折直須折，莫待無花空折枝。」主要勸人：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 金鏤衣",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「勸君莫惜金縷衣」，「金縷衣」是：",
+   "answer": "用金線織成的華麗衣服",
+   "options": [
+    "金色的花",
+    "一種食物",
+    "一本書",
+    "用金線織成的華麗衣服"
+   ],
+   "explain": "金縷衣是用金線縫製的衣服，代表財富。",
+   "id": "CHI-P5-L08-003",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "「勸君莫惜金縷衣」，「金縷衣」是：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 金鏤衣",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「莫」字的意思是：",
+   "answer": "不要",
+   "options": [
+    "很多",
+    "不要",
+    "已經",
+    "一定"
+   ],
+   "explain": "「莫」解作不要。",
+   "id": "CHI-P5-L08-004",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "「莫」字的意思是：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 金鏤衣",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「勸君惜取少年時」，「少年時」指：",
+   "answer": "年輕的時光",
+   "options": [
+    "老年",
+    "晚上",
+    "年輕的時光",
+    "昨天"
+   ],
+   "explain": "少年時就是年輕的時候。",
+   "id": "CHI-P5-L08-005",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "「勸君惜取少年時」，「少年時」指：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 金鏤衣",
+   "verified": false
+  }
+ ]
+}

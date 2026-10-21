@@ -1,0 +1,130 @@
+{
+ "levelId": "p2c8",
+ "grade": "P2",
+ "subject": "chi",
+ "lesson": "L08",
+ "title": "第8課 在爸爸的肩膀上",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "「肩膀」是身體哪個部分？",
+   "answer": "頸和手臂之間",
+   "options": [
+    "頸和手臂之間",
+    "腳底",
+    "肚子",
+    "頭頂"
+   ],
+   "explain": "肩膀在頸和手臂之間。",
+   "id": "CHI-P2-L08-001",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "「肩膀」是身體哪個部分？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 在爸爸的肩膀上",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "坐在爸爸的肩膀上，看得更：",
+   "answer": "遠",
+   "options": [
+    "小",
+    "遠",
+    "短",
+    "黑"
+   ],
+   "explain": "坐得高，可以看得更遠。",
+   "id": "CHI-P2-L08-002",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "坐在爸爸的肩膀上，看得更：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 在爸爸的肩膀上",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "「爸爸很愛我。」可以改成：",
+   "answer": "爸爸非常愛我。",
+   "options": [
+    "爸爸非常愛我。",
+    "爸爸愛不愛我？",
+    "爸爸不愛我。",
+    "爸爸很怕我。"
+   ],
+   "explain": "「很」和「非常」意思相近。",
+   "id": "CHI-P2-L08-003",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "「爸爸很愛我。」可以改成：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 在爸爸的肩膀上",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "「（ ）爸爸，你累嗎？」選出合適的詞：",
+   "answer": "親愛的",
+   "options": [
+    "親愛的",
+    "生氣的",
+    "吵鬧的",
+    "骯髒的"
+   ],
+   "explain": "對家人用「親愛的」表達愛。",
+   "id": "CHI-P2-L08-004",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "「（ ）爸爸，你累嗎？」選出合適的詞：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 在爸爸的肩膀上",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "以下哪個是正確的句子？",
+   "answer": "我和爸爸去公園。",
+   "options": [
+    "公園去我和爸爸。",
+    "去公園爸爸我和。",
+    "爸爸公園我去。",
+    "我和爸爸去公園。"
+   ],
+   "explain": "句子要有正確的次序：誰＋做甚麼。",
+   "id": "CHI-P2-L08-005",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "以下哪個是正確的句子？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 在爸爸的肩膀上",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "「肩膀」兩個字的部首都是「月」。",
+   "answer": true,
+   "explain": "「肩」和「膀」的部首都是「月」（肉月旁），與身體有關。",
+   "id": "CHI-P2-L08-006",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "「肩膀」兩個字的部首都是「月」。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 在爸爸的肩膀上",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}

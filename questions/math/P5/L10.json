@@ -1,0 +1,115 @@
+{
+ "levelId": "p5m10",
+ "grade": "P5",
+ "subject": "math",
+ "lesson": "L10",
+ "title": "L10 多邊形的面積",
+ "verified": false,
+ "questions": [
+  {
+   "type": "fill",
+   "q": "一個多邊形由長方形（長9cm，闊3cm）和三角形（底9cm，高5cm）組成，總面積是多少cm²？",
+   "answer": [
+    "49.5"
+   ],
+   "explain": "9×3＋9×5÷2＝49.5",
+   "numeric": true,
+   "id": "MATH-P5-L10-001",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L10",
+   "level": "應用",
+   "question": "一個多邊形由長方形（長9cm，闊3cm）和三角形（底9cm，高5cm）組成，總面積是多少cm²？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 多邊形的面積",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "一個多邊形由長方形（長8cm，闊3cm）和三角形（底8cm，高2cm）組成，總面積是多少cm²？",
+   "answer": [
+    "32"
+   ],
+   "explain": "8×3＋8×2÷2＝32",
+   "numeric": true,
+   "id": "MATH-P5-L10-002",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L10",
+   "level": "應用",
+   "question": "一個多邊形由長方形（長8cm，闊3cm）和三角形（底8cm，高2cm）組成，總面積是多少cm²？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 多邊形的面積",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "一個多邊形由長方形（長5cm，闊3cm）和三角形（底5cm，高4cm）組成，總面積是多少cm²？",
+   "answer": [
+    "25"
+   ],
+   "explain": "5×3＋5×4÷2＝25",
+   "numeric": true,
+   "id": "MATH-P5-L10-003",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L10",
+   "level": "應用",
+   "question": "一個多邊形由長方形（長5cm，闊3cm）和三角形（底5cm，高4cm）組成，總面積是多少cm²？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 多邊形的面積",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "一個多邊形由長方形（長6cm，闊5cm）和三角形（底6cm，高6cm）組成，總面積是多少cm²？",
+   "answer": [
+    "48"
+   ],
+   "explain": "6×5＋6×6÷2＝48",
+   "numeric": true,
+   "id": "MATH-P5-L10-004",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L10",
+   "level": "應用",
+   "question": "一個多邊形由長方形（長6cm，闊5cm）和三角形（底6cm，高6cm）組成，總面積是多少cm²？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 多邊形的面積",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "計算多邊形面積，常用方法是：",
+   "answer": "分割成已知圖形再相加",
+   "options": [
+    "只看最長的邊",
+    "數頂點",
+    "分割成已知圖形再相加",
+    "量周界"
+   ],
+   "explain": "先分割成長方形、三角形等，再相加或相減。",
+   "id": "MATH-P5-L10-005",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L10",
+   "level": "應用",
+   "question": "計算多邊形面積，常用方法是：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 多邊形的面積",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "長方形12cm×9cm，切去一個邊長3cm的正方形角，剩下面積是多少cm²？",
+   "answer": [
+    "99"
+   ],
+   "explain": "108－9＝99",
+   "numeric": true,
+   "id": "MATH-P5-L10-006",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L10",
+   "level": "應用",
+   "question": "長方形12cm×9cm，切去一個邊長3cm的正方形角，剩下面積是多少cm²？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 多邊形的面積",
+   "verified": false
+  }
+ ]
+}
