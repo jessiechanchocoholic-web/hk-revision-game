@@ -1,0 +1,104 @@
+{
+ "levelId": "p1e0",
+ "grade": "P1",
+ "subject": "eng",
+ "lesson": "L00",
+ "title": "Getting started",
+ "verified": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "It is 8 o'clock in the morning. You meet your teacher. You say:",
+   "answer": "Good morning!",
+   "options": [
+    "Good morning!",
+    "Happy birthday!",
+    "Goodbye!",
+    "Good night!"
+   ],
+   "explain": "We say \"Good morning\" in the morning.",
+   "id": "ENG-P1-L00-001",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L00",
+   "level": "記憶",
+   "question": "It is 8 o'clock in the morning. You meet your teacher. You say:",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Getting started",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "Your friend says \"Hello!\" You say:",
+   "answer": "Hello!",
+   "options": [
+    "Good night!",
+    "Thank you!",
+    "Hello!",
+    "Sorry!"
+   ],
+   "explain": "Answer \"Hello!\" with \"Hello!\".",
+   "id": "ENG-P1-L00-002",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L00",
+   "level": "記憶",
+   "question": "Your friend says \"Hello!\" You say:",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Getting started",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "You go home after school. You say:",
+   "answer": "Goodbye!",
+   "options": [
+    "Goodbye!",
+    "Good morning!",
+    "Sorry!",
+    "Hello!"
+   ],
+   "explain": "We say \"Goodbye\" when we leave.",
+   "id": "ENG-P1-L00-003",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L00",
+   "level": "記憶",
+   "question": "You go home after school. You say:",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Getting started",
+   "verified": true
+  },
+  {
+   "type": "tf",
+   "q": "\"Hi\" means the same as \"Hello\".",
+   "answer": true,
+   "explain": "Both are greetings.",
+   "id": "ENG-P1-L00-004",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L00",
+   "level": "記憶",
+   "question": "\"Hi\" means the same as \"Hello\".",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Getting started",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "Someone gives you a present. You say:",
+   "answer": "Thank you!",
+   "options": [
+    "Hello!",
+    "Good night!",
+    "Goodbye!",
+    "Thank you!"
+   ],
+   "explain": "Say \"Thank you\" to be polite.",
+   "id": "ENG-P1-L00-005",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L00",
+   "level": "記憶",
+   "question": "Someone gives you a present. You say:",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Getting started",
+   "verified": true
+  }
+ ]
+}

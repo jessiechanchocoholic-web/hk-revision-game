@@ -1,0 +1,124 @@
+{
+ "levelId": "p2e2",
+ "grade": "P2",
+ "subject": "eng",
+ "lesson": "L02",
+ "title": "Ch2 Please be good",
+ "verified": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "We ___ run in the corridor.",
+   "answer": "mustn't",
+   "options": [
+    "are",
+    "mustn't",
+    "can",
+    "must"
+   ],
+   "explain": "Running in the corridor is dangerous, so we mustn't.",
+   "id": "ENG-P2-L02-001",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "We ___ run in the corridor.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Please be good",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "We ___ line up quietly.",
+   "answer": "must",
+   "options": [
+    "must",
+    "don't",
+    "mustn't",
+    "aren't"
+   ],
+   "explain": "Lining up quietly is a good rule.",
+   "id": "ENG-P2-L02-002",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "We ___ line up quietly.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Please be good",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "You mustn't ___ in the library.",
+   "answer": "shout",
+   "options": [
+    "listen",
+    "shout",
+    "sit",
+    "read"
+   ],
+   "explain": "Be quiet in the library.",
+   "id": "ENG-P2-L02-003",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "You mustn't ___ in the library.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Please be good",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "\"We must be kind to others\" is a good rule.",
+   "answer": true,
+   "explain": "Being kind is good.",
+   "id": "ENG-P2-L02-004",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "\"We must be kind to others\" is a good rule.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Please be good",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "The books are ___ the shelf.",
+   "answer": "on",
+   "options": [
+    "in",
+    "on",
+    "between",
+    "under"
+   ],
+   "explain": "The books are on (top of) the shelf.",
+   "id": "ENG-P2-L02-005",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "The books are ___ the shelf.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Please be good",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "We must throw rubbish on the floor.",
+   "answer": false,
+   "explain": "We mustn't litter. Put rubbish in the bin.",
+   "id": "ENG-P2-L02-006",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "We must throw rubbish on the floor.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Please be good",
+   "verified": true,
+   "readAloud": true
+  }
+ ]
+}

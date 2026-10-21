@@ -1,0 +1,120 @@
+{
+ "levelId": "p5e3",
+ "grade": "P5",
+ "subject": "eng",
+ "lesson": "L03",
+ "title": "Ch3 Describing people",
+ "verified": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "The boy ___ the long hair is my cousin.",
+   "answer": "with",
+   "options": [
+    "in",
+    "with",
+    "at",
+    "on"
+   ],
+   "explain": "Use \"with\" for things a person has.",
+   "id": "ENG-P5-L03-001",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "The boy ___ the long hair is my cousin.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Describing people",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "The girl ___ the red dress is Amy.",
+   "answer": "in",
+   "options": [
+    "with",
+    "on",
+    "at",
+    "in"
+   ],
+   "explain": "Use \"in\" for clothes.",
+   "id": "ENG-P5-L03-002",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "The girl ___ the red dress is Amy.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Describing people",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "I have a friend ___ likes music.",
+   "answer": "who",
+   "options": [
+    "where",
+    "which",
+    "what",
+    "who"
+   ],
+   "explain": "Use \"who\" for people.",
+   "id": "ENG-P5-L03-003",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "I have a friend ___ likes music.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Describing people",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "The man ___ is wearing glasses is my teacher.",
+   "answer": "who",
+   "options": [
+    "which",
+    "who",
+    "whose",
+    "when"
+   ],
+   "explain": "\"who\" describes people.",
+   "id": "ENG-P5-L03-004",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "The man ___ is wearing glasses is my teacher.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Describing people",
+   "verified": true
+  },
+  {
+   "type": "tf",
+   "q": "\"The boy in the vest\" describes what the boy is wearing.",
+   "answer": true,
+   "explain": "\"in\" + clothes.",
+   "id": "ENG-P5-L03-005",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "\"The boy in the vest\" describes what the boy is wearing.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Describing people",
+   "verified": true
+  },
+  {
+   "type": "fill",
+   "q": "The woman ___ a big smile is my aunt. (preposition)",
+   "answer": [
+    "with"
+   ],
+   "explain": "\"with\" + feature.",
+   "id": "ENG-P5-L03-006",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "理解",
+   "question": "The woman ___ a big smile is my aunt. (preposition)",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Describing people",
+   "verified": true
+  }
+ ]
+}

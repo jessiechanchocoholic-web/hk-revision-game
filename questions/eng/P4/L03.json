@@ -1,0 +1,146 @@
+{
+ "levelId": "p4e3",
+ "grade": "P4",
+ "subject": "eng",
+ "lesson": "L03",
+ "title": "Ch3 At the supermarket",
+ "verified": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "An apple is ___ than a grape.",
+   "answer": "bigger",
+   "options": [
+    "biggest",
+    "bigger",
+    "big",
+    "more big"
+   ],
+   "explain": "Comparative: big → bigger.",
+   "id": "ENG-P4-L03-001",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "An apple is ___ than a grape.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "This is the ___ watermelon in the shop.",
+   "answer": "heaviest",
+   "options": [
+    "heavy",
+    "heavier",
+    "most heavy",
+    "heaviest"
+   ],
+   "explain": "Superlative: heavy → heaviest.",
+   "id": "ENG-P4-L03-002",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "This is the ___ watermelon in the shop.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "The cake is ___ than the bread.",
+   "answer": "more expensive",
+   "options": [
+    "more expensive",
+    "expensiver",
+    "expensive",
+    "most expensive"
+   ],
+   "explain": "Long words use \"more\".",
+   "id": "ENG-P4-L03-003",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "The cake is ___ than the bread.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "I want a ___ of milk.",
+   "answer": "carton",
+   "options": [
+    "carton",
+    "bar",
+    "bunch",
+    "loaf"
+   ],
+   "explain": "A carton of milk.",
+   "id": "ENG-P4-L03-004",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "I want a ___ of milk.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "a ___ of bananas",
+   "answer": "bunch",
+   "options": [
+    "loaf",
+    "bunch",
+    "bottle",
+    "carton"
+   ],
+   "explain": "A bunch of bananas.",
+   "id": "ENG-P4-L03-005",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "a ___ of bananas",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
+   "verified": true
+  },
+  {
+   "type": "fill",
+   "q": "good → better → ___",
+   "answer": [
+    "best"
+   ],
+   "explain": "good, better, best.",
+   "id": "ENG-P4-L03-006",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "理解",
+   "question": "good → better → ___",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "a ___ of bread",
+   "answer": "loaf",
+   "options": [
+    "bowl",
+    "can",
+    "loaf",
+    "bunch"
+   ],
+   "explain": "A loaf of bread.",
+   "id": "ENG-P4-L03-007",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "a ___ of bread",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
+   "verified": true
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "levelId": "p4c99",
+ "grade": "P4",
+ "subject": "chi",
+ "lesson": "L99",
+ "title": "實用文：週記",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "週記的題目應該：",
+   "answer": "配合內容，簡短",
+   "options": [
+    "配合內容，簡短",
+    "不用寫",
+    "越長越好",
+    "寫上收件人"
+   ],
+   "explain": "題目要切合內容。",
+   "id": "CHI-P4-L99-001",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L99",
+   "level": "記憶",
+   "question": "週記的題目應該：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "週記寫事情，要包括：",
+   "answer": "事情經過和感受",
+   "options": [
+    "只寫天氣",
+    "只寫日期",
+    "事情經過和感受",
+    "只寫名字"
+   ],
+   "explain": "經過加上感受，週記才完整。",
+   "id": "CHI-P4-L99-002",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L99",
+   "level": "記憶",
+   "question": "週記寫事情，要包括：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
+   "verified": false
+  },
+  {
+   "type": "order",
+   "q": "排好寫週記的步驟。",
+   "items": [
+    "寫上日期",
+    "寫題目",
+    "記述事情經過",
+    "寫出感受"
+   ],
+   "explain": "先寫日期題目，再寫經過，最後寫感受。",
+   "answer": [
+    "寫上日期",
+    "寫題目",
+    "記述事情經過",
+    "寫出感受"
+   ],
+   "id": "CHI-P4-L99-003",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L99",
+   "level": "理解",
+   "question": "排好寫週記的步驟。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "週記要寫上款和下款。",
+   "answer": false,
+   "explain": "上款下款是書信、賀卡的格式，週記不用。",
+   "id": "CHI-P4-L99-004",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L99",
+   "level": "記憶",
+   "question": "週記要寫上款和下款。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "以下哪一句最適合作週記的感受部分？",
+   "answer": "這次經歷令我明白合作的重要。",
+   "options": [
+    "我住在柴灣。",
+    "我的書包是藍色的。",
+    "這次經歷令我明白合作的重要。",
+    "今天是星期一。"
+   ],
+   "explain": "感受要寫出自己的想法和得着。",
+   "id": "CHI-P4-L99-005",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L99",
+   "level": "記憶",
+   "question": "以下哪一句最適合作週記的感受部分？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
+   "verified": false
+  }
+ ]
+}

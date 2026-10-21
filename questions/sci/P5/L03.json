@@ -1,0 +1,124 @@
+{
+ "levelId": "p5s3",
+ "grade": "P5",
+ "subject": "sci",
+ "lesson": "L03",
+ "title": "3 空氣的特性",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "空氣佔有空間嗎？",
+   "answer": "佔有空間",
+   "options": [
+    "佔有空間",
+    "不佔空間",
+    "只在水中佔空間",
+    "只在晚上佔空間"
+   ],
+   "explain": "空氣佔有空間。",
+   "id": "SCI-P5-L03-001",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "空氣佔有空間嗎？",
+   "source": "research.md §5 科學《科學新領域》｜3 空氣的特性",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "空氣有重量嗎？",
+   "answer": "有",
+   "options": [
+    "有",
+    "不知道",
+    "沒有",
+    "只有熱空氣有"
+   ],
+   "explain": "空氣有重量。",
+   "id": "SCI-P5-L03-002",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "空氣有重量嗎？",
+   "source": "research.md §5 科學《科學新領域》｜3 空氣的特性",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "空氣受熱後會：",
+   "answer": "膨脹",
+   "options": [
+    "收縮",
+    "膨脹",
+    "變成水",
+    "消失"
+   ],
+   "explain": "熱空氣膨脹。",
+   "id": "SCI-P5-L03-003",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "空氣受熱後會：",
+   "source": "research.md §5 科學《科學新領域》｜3 空氣的特性",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "燃燒需要空氣中的：",
+   "answer": "氧氣",
+   "options": [
+    "氮氣",
+    "氧氣",
+    "水蒸氣",
+    "二氧化碳"
+   ],
+   "explain": "燃燒需要氧氣。",
+   "id": "SCI-P5-L03-004",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "燃燒需要空氣中的：",
+   "source": "research.md §5 科學《科學新領域》｜3 空氣的特性",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "空氣可以被看見。",
+   "answer": false,
+   "explain": "空氣無色、看不見。",
+   "id": "SCI-P5-L03-005",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "空氣可以被看見。",
+   "source": "research.md §5 科學《科學新領域》｜3 空氣的特性",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "空氣可以被壓縮嗎？",
+   "answer": "可以",
+   "options": [
+    "不可以",
+    "只有在水裏可以",
+    "只有冷空氣可以",
+    "可以"
+   ],
+   "explain": "空氣可以被壓縮，例如打氣筒。",
+   "id": "SCI-P5-L03-006",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "空氣可以被壓縮嗎？",
+   "source": "research.md §5 科學《科學新領域》｜3 空氣的特性",
+   "verified": false
+  }
+ ]
+}

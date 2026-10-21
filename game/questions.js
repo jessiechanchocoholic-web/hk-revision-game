@@ -18,7 +18,15 @@ window.QUESTION_BANK = {
       "跑來跑去",
       "吃東西"
      ],
-     "explain": "上課要專心聽老師說話。"
+     "explain": "上課要專心聽老師說話。",
+     "id": "CHI-P1-L01-001",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "上課時，老師說話，我們要怎樣做？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜單元一 我是小學生",
+     "verified": false
     },
     {
      "type": "mc",
@@ -30,7 +38,15 @@ window.QUESTION_BANK = {
       "一年級",
       "三年級"
      ],
-     "explain": "剛入小學讀一年級。"
+     "explain": "剛入小學讀一年級。",
+     "id": "CHI-P1-L01-002",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「開學了」，我們升讀小學幾年級？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜單元一 我是小學生",
+     "verified": false
     },
     {
      "type": "mc",
@@ -42,7 +58,15 @@ window.QUESTION_BANK = {
       "課室",
       "睡房"
      ],
-     "explain": "課室是學校裏上課的地方。"
+     "explain": "課室是學校裏上課的地方。",
+     "id": "CHI-P1-L01-003",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "哪一個是學校裏的地方？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜單元一 我是小學生",
+     "verified": false
     },
     {
      "type": "mc",
@@ -54,21 +78,47 @@ window.QUESTION_BANK = {
       "對不起！",
       "老師早！"
      ],
-     "explain": "早上見到老師要有禮貌地說「老師早」。"
+     "explain": "早上見到老師要有禮貌地說「老師早」。",
+     "id": "CHI-P1-L01-004",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "見到老師，我們應該說：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜單元一 我是小學生",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "上學時要帶書包。",
      "answer": true,
-     "explain": "書包用來放課本和文具。"
+     "explain": "書包用來放課本和文具。",
+     "id": "CHI-P1-L01-005",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "上學時要帶書包。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜單元一 我是小學生",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "上課時可以隨便離開座位。",
      "answer": false,
-     "explain": "上課要坐好，有需要先舉手問老師。"
+     "explain": "上課要坐好，有需要先舉手問老師。",
+     "id": "CHI-P1-L01-006",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "上課時可以隨便離開座位。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜單元一 我是小學生",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L01",
+   "verified": false
   },
   {
    "id": "p1c2",
@@ -86,7 +136,15 @@ window.QUESTION_BANK = {
       "四",
       "八"
      ],
-     "explain": "數數：一、二、三、四。"
+     "explain": "數數：一、二、三、四。",
+     "id": "CHI-P1-L02-001",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "「一、二、三」之後是：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜單元二 來學常用字",
+     "verified": false
     },
     {
      "type": "mc",
@@ -98,7 +156,15 @@ window.QUESTION_BANK = {
       "電梯",
       "大樹"
      ],
-     "explain": "郊外有很多大樹和花草。"
+     "explain": "郊外有很多大樹和花草。",
+     "id": "CHI-P1-L02-002",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "郊外常常可以見到：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜單元二 來學常用字",
+     "verified": false
     },
     {
      "type": "mc",
@@ -110,7 +176,15 @@ window.QUESTION_BANK = {
       "地底",
       "下面"
      ],
-     "explain": "天空在我們上面。"
+     "explain": "天空在我們上面。",
+     "id": "CHI-P1-L02-003",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "「天空」的「天」，在哪裏？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜單元二 來學常用字",
+     "verified": false
     },
     {
      "type": "mc",
@@ -122,7 +196,15 @@ window.QUESTION_BANK = {
       "露珠",
       "石頭"
      ],
-     "explain": "早上草葉上的小水珠叫露珠。"
+     "explain": "早上草葉上的小水珠叫露珠。",
+     "id": "CHI-P1-L02-004",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "早上，草上亮晶晶的小水珠叫：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜單元二 來學常用字",
+     "verified": false
     },
     {
      "type": "mc",
@@ -134,15 +216,33 @@ window.QUESTION_BANK = {
       "腳",
       "鼻子"
      ],
-     "explain": "我們用耳朵聽。"
+     "explain": "我們用耳朵聽。",
+     "id": "CHI-P1-L02-005",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "「專心聽」的「聽」，要用身體哪部分？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜單元二 來學常用字",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "「小羊數數」會用到數字。",
      "answer": true,
-     "explain": "數數就是數一、二、三……"
+     "explain": "數數就是數一、二、三……",
+     "id": "CHI-P1-L02-006",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "「小羊數數」會用到數字。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜單元二 來學常用字",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L02",
+   "verified": false
   },
   {
    "id": "p2c1",
@@ -160,7 +260,16 @@ window.QUESTION_BANK = {
       "！",
       "？"
      ],
-     "explain": "說明自己的句子，句末用句號「。」。"
+     "explain": "說明自己的句子，句末用句號「。」。",
+     "id": "CHI-P2-L01-001",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "選出正確的標點：我叫欣欣（ ）",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 欣欣的故事",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -172,7 +281,16 @@ window.QUESTION_BANK = {
       "，",
       "、"
      ],
-     "explain": "問問題的句子用問號「？」。"
+     "explain": "問問題的句子用問號「？」。",
+     "id": "CHI-P2-L01-002",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "你叫甚麼名字（ ）",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 欣欣的故事",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -184,7 +302,16 @@ window.QUESTION_BANK = {
       "隻",
       "條"
      ],
-     "explain": "書用「本」：一本書。"
+     "explain": "書用「本」：一本書。",
+     "id": "CHI-P2-L01-003",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「一（ ）書」，括號應填哪個量詞？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 欣欣的故事",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -196,7 +323,16 @@ window.QUESTION_BANK = {
       "快樂",
       "傷心"
      ],
-     "explain": "高興的相反是傷心。"
+     "explain": "高興的相反是傷心。",
+     "id": "CHI-P2-L01-004",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「高興」的相反詞是：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 欣欣的故事",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -208,7 +344,16 @@ window.QUESTION_BANK = {
       "爸爸",
       "老師"
      ],
-     "explain": "「我和同學」一起玩。"
+     "explain": "「我和同學」一起玩。",
+     "id": "CHI-P2-L01-005",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「我和同學一起玩。」句中誰在玩？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 欣欣的故事",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -216,9 +361,20 @@ window.QUESTION_BANK = {
      "answer": [
       "隻"
      ],
-     "explain": "小狗用「隻」：一隻小狗。"
+     "explain": "小狗用「隻」：一隻小狗。",
+     "id": "CHI-P2-L01-006",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "「一（ ）小狗」，括號填量詞。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 欣欣的故事",
+     "verified": false,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L01",
+   "verified": false
   },
   {
    "id": "p2c5",
@@ -236,7 +392,16 @@ window.QUESTION_BANK = {
       "看病",
       "住宿"
      ],
-     "explain": "旅店是給旅客住宿的地方。"
+     "explain": "旅店是給旅客住宿的地方。",
+     "id": "CHI-P2-L05-001",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "「旅店」是讓人做甚麼的地方？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 森林旅店（上）",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -248,7 +413,16 @@ window.QUESTION_BANK = {
       "高高的",
       "響響的"
      ],
-     "explain": "樹可以用「高高的」形容。"
+     "explain": "樹可以用「高高的」形容。",
+     "id": "CHI-P2-L05-002",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "「森林裏有很多（ ）樹。」括號應填：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 森林旅店（上）",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -260,7 +434,16 @@ window.QUESTION_BANK = {
       "本",
       "棵"
      ],
-     "explain": "樹用「棵」：一棵樹。"
+     "explain": "樹用「棵」：一棵樹。",
+     "id": "CHI-P2-L05-003",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "「一（ ）樹」，括號應填：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 森林旅店（上）",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -272,13 +455,31 @@ window.QUESTION_BANK = {
       "高興地迎接",
       "慢慢走開"
      ],
-     "explain": "歡迎就是高興地迎接客人。"
+     "explain": "歡迎就是高興地迎接客人。",
+     "id": "CHI-P2-L05-004",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "「歡迎」的意思最接近：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 森林旅店（上）",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "tf",
      "q": "「小鳥在樹上唱歌。」這句子用了擬人法。",
      "answer": true,
-     "explain": "小鳥像人一樣「唱歌」，是擬人法。"
+     "explain": "小鳥像人一樣「唱歌」，是擬人法。",
+     "id": "CHI-P2-L05-005",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "「小鳥在樹上唱歌。」這句子用了擬人法。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 森林旅店（上）",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -286,9 +487,20 @@ window.QUESTION_BANK = {
      "answer": [
       "張"
      ],
-     "explain": "床用「張」：一張床。"
+     "explain": "床用「張」：一張床。",
+     "id": "CHI-P2-L05-006",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "「一（ ）床」，括號填量詞。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 森林旅店（上）",
+     "verified": false,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L05",
+   "verified": false
   },
   {
    "id": "p2c8",
@@ -306,7 +518,16 @@ window.QUESTION_BANK = {
       "肚子",
       "頭頂"
      ],
-     "explain": "肩膀在頸和手臂之間。"
+     "explain": "肩膀在頸和手臂之間。",
+     "id": "CHI-P2-L08-001",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "「肩膀」是身體哪個部分？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 在爸爸的肩膀上",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -318,7 +539,16 @@ window.QUESTION_BANK = {
       "短",
       "黑"
      ],
-     "explain": "坐得高，可以看得更遠。"
+     "explain": "坐得高，可以看得更遠。",
+     "id": "CHI-P2-L08-002",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "坐在爸爸的肩膀上，看得更：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 在爸爸的肩膀上",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -330,7 +560,16 @@ window.QUESTION_BANK = {
       "爸爸不愛我。",
       "爸爸很怕我。"
      ],
-     "explain": "「很」和「非常」意思相近。"
+     "explain": "「很」和「非常」意思相近。",
+     "id": "CHI-P2-L08-003",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "「爸爸很愛我。」可以改成：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 在爸爸的肩膀上",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -342,7 +581,16 @@ window.QUESTION_BANK = {
       "吵鬧的",
       "骯髒的"
      ],
-     "explain": "對家人用「親愛的」表達愛。"
+     "explain": "對家人用「親愛的」表達愛。",
+     "id": "CHI-P2-L08-004",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "「（ ）爸爸，你累嗎？」選出合適的詞：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 在爸爸的肩膀上",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -354,15 +602,35 @@ window.QUESTION_BANK = {
       "爸爸公園我去。",
       "我和爸爸去公園。"
      ],
-     "explain": "句子要有正確的次序：誰＋做甚麼。"
+     "explain": "句子要有正確的次序：誰＋做甚麼。",
+     "id": "CHI-P2-L08-005",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "以下哪個是正確的句子？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 在爸爸的肩膀上",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "tf",
      "q": "「肩膀」兩個字的部首都是「月」。",
      "answer": true,
-     "explain": "「肩」和「膀」的部首都是「月」（肉月旁），與身體有關。"
+     "explain": "「肩」和「膀」的部首都是「月」（肉月旁），與身體有關。",
+     "id": "CHI-P2-L08-006",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "「肩膀」兩個字的部首都是「月」。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 在爸爸的肩膀上",
+     "verified": false,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L08",
+   "verified": false
   },
   {
    "id": "p2c11",
@@ -380,7 +648,16 @@ window.QUESTION_BANK = {
       "廚房",
       "圖書館"
      ],
-     "explain": "體育課多數在操場或禮堂上。"
+     "explain": "體育課多數在操場或禮堂上。",
+     "id": "CHI-P2-L11-001",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L11",
+     "level": "記憶",
+     "question": "體育課時，我們常常在哪裏上課？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第11課 我愛體育課",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -392,7 +669,16 @@ window.QUESTION_BANK = {
       "快",
       "甜"
      ],
-     "explain": "跑步用「快」形容。"
+     "explain": "跑步用「快」形容。",
+     "id": "CHI-P2-L11-002",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L11",
+     "level": "記憶",
+     "question": "「我們跑得很（ ）。」括號應填：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第11課 我愛體育課",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -404,7 +690,16 @@ window.QUESTION_BANK = {
       "睡覺",
       "熱身"
      ],
-     "explain": "先熱身可以避免受傷。"
+     "explain": "先熱身可以避免受傷。",
+     "id": "CHI-P2-L11-003",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L11",
+     "level": "記憶",
+     "question": "做運動前要先：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第11課 我愛體育課",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -416,13 +711,31 @@ window.QUESTION_BANK = {
       "書",
       "飯"
      ],
-     "explain": "我們拍皮球。"
+     "explain": "我們拍皮球。",
+     "id": "CHI-P2-L11-004",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L11",
+     "level": "記憶",
+     "question": "「拍（ ）」，括號應填：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第11課 我愛體育課",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "tf",
      "q": "做運動可以使身體強壯。",
      "answer": true,
-     "explain": "多做運動，身體更健康。"
+     "explain": "多做運動，身體更健康。",
+     "id": "CHI-P2-L11-005",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L11",
+     "level": "記憶",
+     "question": "做運動可以使身體強壯。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第11課 我愛體育課",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -430,9 +743,20 @@ window.QUESTION_BANK = {
      "answer": [
       "繩"
      ],
-     "explain": "跳繩是常見的運動。"
+     "explain": "跳繩是常見的運動。",
+     "id": "CHI-P2-L11-006",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L11",
+     "level": "理解",
+     "question": "「跳（ ）」：體育課跳一條長長的繩子。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第11課 我愛體育課",
+     "verified": false,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L11",
+   "verified": false
   },
   {
    "id": "p2c99",
@@ -450,7 +774,16 @@ window.QUESTION_BANK = {
       "日期",
       "地址"
      ],
-     "explain": "賀卡先寫上款，例如「親愛的媽媽：」。"
+     "explain": "賀卡先寫上款，例如「親愛的媽媽：」。",
+     "id": "CHI-P2-L99-001",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L99",
+     "level": "記憶",
+     "question": "賀卡最開頭要寫甚麼？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：賀卡",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -462,7 +795,16 @@ window.QUESTION_BANK = {
       "？",
       "。"
      ],
-     "explain": "上款後面用冒號「：」。"
+     "explain": "上款後面用冒號「：」。",
+     "id": "CHI-P2-L99-002",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L99",
+     "level": "記憶",
+     "question": "上款後面要加甚麼標點？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：賀卡",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -474,7 +816,16 @@ window.QUESTION_BANK = {
       "下款（寫卡人）和日期",
       "地址"
      ],
-     "explain": "最後寫下款和日期。"
+     "explain": "最後寫下款和日期。",
+     "id": "CHI-P2-L99-003",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L99",
+     "level": "記憶",
+     "question": "賀卡最後要寫：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：賀卡",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -486,7 +837,16 @@ window.QUESTION_BANK = {
       "學生 欣欣 上",
       "爸爸"
      ],
-     "explain": "寫給老師，下款可寫「學生某某上」。"
+     "explain": "寫給老師，下款可寫「學生某某上」。",
+     "id": "CHI-P2-L99-004",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L99",
+     "level": "記憶",
+     "question": "送給老師的賀卡，下款可以寫：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：賀卡",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "order",
@@ -497,7 +857,22 @@ window.QUESTION_BANK = {
       "下款",
       "日期"
      ],
-     "explain": "賀卡次序：上款、祝福語、下款、日期。"
+     "explain": "賀卡次序：上款、祝福語、下款、日期。",
+     "answer": [
+      "上款",
+      "祝福語",
+      "下款",
+      "日期"
+     ],
+     "id": "CHI-P2-L99-005",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L99",
+     "level": "理解",
+     "question": "把賀卡內容排好次序。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：賀卡",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -509,9 +884,20 @@ window.QUESTION_BANK = {
       "祝您母親節快樂！",
       "祝你生日快樂！"
      ],
-     "explain": "母親節要配合節日寫祝福語。"
+     "explain": "母親節要配合節日寫祝福語。",
+     "id": "CHI-P2-L99-006",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L99",
+     "level": "記憶",
+     "question": "母親節賀卡的祝福語可以寫：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：賀卡",
+     "verified": false,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L99",
+   "verified": false
   },
   {
    "id": "p4c1",
@@ -529,7 +915,15 @@ window.QUESTION_BANK = {
       "一天一次",
       "一年一次"
      ],
-     "explain": "「週」就是星期，週記每星期寫一次。"
+     "explain": "「週」就是星期，週記每星期寫一次。",
+     "id": "CHI-P4-L01-001",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "週記多久寫一次？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
+     "verified": false
     },
     {
      "type": "mc",
@@ -541,7 +935,15 @@ window.QUESTION_BANK = {
       "上款和下款",
       "收件人電郵"
      ],
-     "explain": "週記要寫日期（或星期）和題目。"
+     "explain": "週記要寫日期（或星期）和題目。",
+     "id": "CHI-P4-L01-002",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "週記一般要寫上：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
+     "verified": false
     },
     {
      "type": "mc",
@@ -553,7 +955,15 @@ window.QUESTION_BANK = {
       "口唱歌",
       "雙腳跳"
      ],
-     "explain": "拍手發出的聲音就是掌聲。"
+     "explain": "拍手發出的聲音就是掌聲。",
+     "id": "CHI-P4-L01-003",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「掌聲」是用甚麼發出的聲音？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
+     "verified": false
     },
     {
      "type": "mc",
@@ -565,13 +975,29 @@ window.QUESTION_BANK = {
       "嘲笑",
       "鼓勵和支持"
      ],
-     "explain": "掌聲可以給人鼓勵。"
+     "explain": "掌聲可以給人鼓勵。",
+     "id": "CHI-P4-L01-004",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "同學在台上緊張時，大家給他掌聲，表示：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "週記可以記下一星期內印象最深刻的事和感受。",
      "answer": true,
-     "explain": "週記要寫事情和自己的感受。"
+     "explain": "週記要寫事情和自己的感受。",
+     "id": "CHI-P4-L01-005",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "週記可以記下一星期內印象最深刻的事和感受。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
+     "verified": false
     },
     {
      "type": "mc",
@@ -583,9 +1009,19 @@ window.QUESTION_BANK = {
       "放棄",
       "責怪"
      ],
-     "explain": "鼓勵和激勵意思相近。"
+     "explain": "鼓勵和激勵意思相近。",
+     "id": "CHI-P4-L01-006",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「鼓勵」的近義詞是：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L01",
+   "verified": false
   },
   {
    "id": "p4c5",
@@ -603,7 +1039,15 @@ window.QUESTION_BANK = {
       "魚類",
       "哺乳類"
      ],
-     "explain": "蝴蝶有六隻腳，是昆蟲。"
+     "explain": "蝴蝶有六隻腳，是昆蟲。",
+     "id": "CHI-P4-L05-001",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "蝴蝶屬於哪一類動物？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 白蝴蝶之戀",
+     "verified": false
     },
     {
      "type": "mc",
@@ -615,7 +1059,15 @@ window.QUESTION_BANK = {
       "害怕",
       "忘記"
      ],
-     "explain": "「戀」表示喜愛、不捨得。"
+     "explain": "「戀」表示喜愛、不捨得。",
+     "id": "CHI-P4-L05-002",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "「戀」字的意思是：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 白蝴蝶之戀",
+     "verified": false
     },
     {
      "type": "mc",
@@ -627,7 +1079,15 @@ window.QUESTION_BANK = {
       "擬人",
       "反問"
      ],
-     "explain": "用「像」把蝴蝶比作雪花，是比喻。"
+     "explain": "用「像」把蝴蝶比作雪花，是比喻。",
+     "id": "CHI-P4-L05-003",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "「白蝴蝶像一片小小的雪花。」用了甚麼修辭？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 白蝴蝶之戀",
+     "verified": false
     },
     {
      "type": "mc",
@@ -639,7 +1099,15 @@ window.QUESTION_BANK = {
       "條",
       "朵"
      ],
-     "explain": "蝴蝶用「隻」。"
+     "explain": "蝴蝶用「隻」。",
+     "id": "CHI-P4-L05-004",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "「一（ ）蝴蝶」，括號應填：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 白蝴蝶之戀",
+     "verified": false
     },
     {
      "type": "mc",
@@ -651,15 +1119,33 @@ window.QUESTION_BANK = {
       "捉回家玩",
       "拔去翅膀"
      ],
-     "explain": "要尊重和愛護生命。"
+     "explain": "要尊重和愛護生命。",
+     "id": "CHI-P4-L05-005",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "愛護小動物，我們應該：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 白蝴蝶之戀",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "「憐惜」有愛護、同情的意思。",
      "answer": true,
-     "explain": "憐惜就是同情和愛護。"
+     "explain": "憐惜就是同情和愛護。",
+     "id": "CHI-P4-L05-006",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "「憐惜」有愛護、同情的意思。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 白蝴蝶之戀",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L05",
+   "verified": false
   },
   {
    "id": "p4c8",
@@ -677,7 +1163,15 @@ window.QUESTION_BANK = {
       "書信",
       "說明文"
      ],
-     "explain": "盤古開天是中國古代神話。"
+     "explain": "盤古開天是中國古代神話。",
+     "id": "CHI-P4-L08-001",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "《盤古開天闢地》是一個：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 盤古開天闢地",
+     "verified": false
     },
     {
      "type": "mc",
@@ -689,7 +1183,15 @@ window.QUESTION_BANK = {
       "繩子",
       "雨傘"
      ],
-     "explain": "傳說盤古用大斧劈開天地。"
+     "explain": "傳說盤古用大斧劈開天地。",
+     "id": "CHI-P4-L08-002",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "傳說盤古用甚麼劈開天地？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 盤古開天闢地",
+     "verified": false
     },
     {
      "type": "mc",
@@ -701,7 +1203,15 @@ window.QUESTION_BANK = {
       "河流",
       "高山"
      ],
-     "explain": "神話說他的雙眼變成日月。"
+     "explain": "神話說他的雙眼變成日月。",
+     "id": "CHI-P4-L08-003",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "傳說中，盤古死後他的眼睛變成了：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 盤古開天闢地",
+     "verified": false
     },
     {
      "type": "mc",
@@ -713,7 +1223,15 @@ window.QUESTION_BANK = {
       "天氣很好",
       "打開窗戶"
      ],
-     "explain": "開天闢地比喻有史以來第一次。"
+     "explain": "開天闢地比喻有史以來第一次。",
+     "id": "CHI-P4-L08-004",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "「開天闢地」現在常用來比喻：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 盤古開天闢地",
+     "verified": false
     },
     {
      "type": "mc",
@@ -725,15 +1243,33 @@ window.QUESTION_BANK = {
       "山",
       "天"
      ],
-     "explain": "輕清的上升為天，重濁的下沉為地。"
+     "explain": "輕清的上升為天，重濁的下沉為地。",
+     "id": "CHI-P4-L08-005",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "天和地分開後，輕而清的東西上升變成：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 盤古開天闢地",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "神話故事所寫的都是真實發生的事。",
      "answer": false,
-     "explain": "神話是古人想像出來的故事。"
+     "explain": "神話是古人想像出來的故事。",
+     "id": "CHI-P4-L08-006",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "神話故事所寫的都是真實發生的事。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 盤古開天闢地",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L08",
+   "verified": false
   },
   {
    "id": "p4c13",
@@ -751,7 +1287,15 @@ window.QUESTION_BANK = {
       "廣西",
       "上海"
      ],
-     "explain": "桂林位於廣西壯族自治區。"
+     "explain": "桂林位於廣西壯族自治區。",
+     "id": "CHI-P4-L13-001",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L13",
+     "level": "記憶",
+     "question": "桂林在中國哪個省區？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第13課 桂林山水",
+     "verified": false
     },
     {
      "type": "mc",
@@ -763,7 +1307,15 @@ window.QUESTION_BANK = {
       "第一",
       "最差"
      ],
-     "explain": "「甲天下」指天下第一。"
+     "explain": "「甲天下」指天下第一。",
+     "id": "CHI-P4-L13-002",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L13",
+     "level": "記憶",
+     "question": "有一句話說「桂林山水甲天下」，「甲」的意思是：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第13課 桂林山水",
+     "verified": false
     },
     {
      "type": "mc",
@@ -775,7 +1327,15 @@ window.QUESTION_BANK = {
       "黃、急、濁",
       "乾、熱、少"
      ],
-     "explain": "桂林的水又靜又清又綠。"
+     "explain": "桂林的水又靜又清又綠。",
+     "id": "CHI-P4-L13-003",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L13",
+     "level": "記憶",
+     "question": "漓江的水最大的特點是：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第13課 桂林山水",
+     "verified": false
     },
     {
      "type": "mc",
@@ -787,7 +1347,15 @@ window.QUESTION_BANK = {
       "奇、秀、險",
       "全是雪山"
      ],
-     "explain": "桂林的山奇、秀、險。"
+     "explain": "桂林的山奇、秀、險。",
+     "id": "CHI-P4-L13-004",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L13",
+     "level": "記憶",
+     "question": "桂林的山的特點是：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第13課 桂林山水",
+     "verified": false
     },
     {
      "type": "mc",
@@ -799,15 +1367,33 @@ window.QUESTION_BANK = {
       "比喻",
       "反問"
      ],
-     "explain": "用「像」作比較，是比喻。"
+     "explain": "用「像」作比較，是比喻。",
+     "id": "CHI-P4-L13-005",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L13",
+     "level": "記憶",
+     "question": "「山像老人，像巨象。」用了甚麼修辭？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第13課 桂林山水",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "遊記會描寫遊覽時看到的景物和感受。",
      "answer": true,
-     "explain": "《桂林山水》是寫景的文章。"
+     "explain": "《桂林山水》是寫景的文章。",
+     "id": "CHI-P4-L13-006",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L13",
+     "level": "記憶",
+     "question": "遊記會描寫遊覽時看到的景物和感受。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第13課 桂林山水",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L13",
+   "verified": false
   },
   {
    "id": "p4c99",
@@ -825,7 +1411,15 @@ window.QUESTION_BANK = {
       "越長越好",
       "寫上收件人"
      ],
-     "explain": "題目要切合內容。"
+     "explain": "題目要切合內容。",
+     "id": "CHI-P4-L99-001",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L99",
+     "level": "記憶",
+     "question": "週記的題目應該：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
+     "verified": false
     },
     {
      "type": "mc",
@@ -837,7 +1431,15 @@ window.QUESTION_BANK = {
       "事情經過和感受",
       "只寫名字"
      ],
-     "explain": "經過加上感受，週記才完整。"
+     "explain": "經過加上感受，週記才完整。",
+     "id": "CHI-P4-L99-002",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L99",
+     "level": "記憶",
+     "question": "週記寫事情，要包括：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
+     "verified": false
     },
     {
      "type": "order",
@@ -848,13 +1450,35 @@ window.QUESTION_BANK = {
       "記述事情經過",
       "寫出感受"
      ],
-     "explain": "先寫日期題目，再寫經過，最後寫感受。"
+     "explain": "先寫日期題目，再寫經過，最後寫感受。",
+     "answer": [
+      "寫上日期",
+      "寫題目",
+      "記述事情經過",
+      "寫出感受"
+     ],
+     "id": "CHI-P4-L99-003",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L99",
+     "level": "理解",
+     "question": "排好寫週記的步驟。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "週記要寫上款和下款。",
      "answer": false,
-     "explain": "上款下款是書信、賀卡的格式，週記不用。"
+     "explain": "上款下款是書信、賀卡的格式，週記不用。",
+     "id": "CHI-P4-L99-004",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L99",
+     "level": "記憶",
+     "question": "週記要寫上款和下款。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
+     "verified": false
     },
     {
      "type": "mc",
@@ -866,9 +1490,19 @@ window.QUESTION_BANK = {
       "這次經歷令我明白合作的重要。",
       "今天是星期一。"
      ],
-     "explain": "感受要寫出自己的想法和得着。"
+     "explain": "感受要寫出自己的想法和得着。",
+     "id": "CHI-P4-L99-005",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L99",
+     "level": "記憶",
+     "question": "以下哪一句最適合作週記的感受部分？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L99",
+   "verified": false
   },
   {
    "id": "p5c1",
@@ -886,7 +1520,15 @@ window.QUESTION_BANK = {
       "打風球",
       "下大雨"
      ],
-     "explain": "風箏要靠風才能飛起。"
+     "explain": "風箏要靠風才能飛起。",
+     "id": "CHI-P5-L01-001",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "放風箏需要甚麼天氣？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 風箏",
+     "verified": false
     },
     {
      "type": "mc",
@@ -898,7 +1540,15 @@ window.QUESTION_BANK = {
       "條",
       "本"
      ],
-     "explain": "風箏用「隻」。"
+     "explain": "風箏用「隻」。",
+     "id": "CHI-P5-L01-002",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「一（ ）風箏」，括號應填：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 風箏",
+     "verified": false
     },
     {
      "type": "mc",
@@ -910,7 +1560,15 @@ window.QUESTION_BANK = {
       "選擇",
       "因果"
      ],
-     "explain": "越……越……表示程度加深。"
+     "explain": "越……越……表示程度加深。",
+     "id": "CHI-P5-L01-003",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「風箏越飛越高」中「越……越……」表示：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 風箏",
+     "verified": false
     },
     {
      "type": "mc",
@@ -922,15 +1580,33 @@ window.QUESTION_BANK = {
       "非常疲倦",
       "非常憤怒"
      ],
-     "explain": "興高采烈形容十分高興。"
+     "explain": "興高采烈形容十分高興。",
+     "id": "CHI-P5-L01-004",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「興高采烈」的意思是：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 風箏",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "「風箏像一隻小鳥在天空飛翔。」是比喻句。",
      "answer": true,
-     "explain": "用「像」把風箏比作小鳥。"
+     "explain": "用「像」把風箏比作小鳥。",
+     "id": "CHI-P5-L01-005",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「風箏像一隻小鳥在天空飛翔。」是比喻句。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 風箏",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L01",
+   "verified": false
   },
   {
    "id": "p5c2",
@@ -948,7 +1624,15 @@ window.QUESTION_BANK = {
       "吵架",
       "一個人做完"
      ],
-     "explain": "小組要分工合作。"
+     "explain": "小組要分工合作。",
+     "id": "CHI-P5-L02-001",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "小組作業最需要：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第2課 小組作業",
+     "verified": false
     },
     {
      "type": "mc",
@@ -960,7 +1644,15 @@ window.QUESTION_BANK = {
       "放棄",
       "不理別人"
      ],
-     "explain": "要尊重別人的意見。"
+     "explain": "要尊重別人的意見。",
+     "id": "CHI-P5-L02-002",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "「意見不同時，我們應該」：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第2課 小組作業",
+     "verified": false
     },
     {
      "type": "mc",
@@ -972,7 +1664,15 @@ window.QUESTION_BANK = {
       "幫助",
       "協作"
      ],
-     "explain": "合作的反義詞是分裂。"
+     "explain": "合作的反義詞是分裂。",
+     "id": "CHI-P5-L02-003",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "「合作」的反義詞是：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第2課 小組作業",
+     "verified": false
     },
     {
      "type": "mc",
@@ -984,7 +1684,15 @@ window.QUESTION_BANK = {
       "因果",
       "轉折"
      ],
-     "explain": "雖然……但是……表示轉折。"
+     "explain": "雖然……但是……表示轉折。",
+     "id": "CHI-P5-L02-004",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "「雖然……但是……」是哪種關係？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第2課 小組作業",
+     "verified": false
     },
     {
      "type": "fill",
@@ -992,9 +1700,19 @@ window.QUESTION_BANK = {
      "answer": [
       "因為"
      ],
-     "explain": "因為……所以……表示因果。"
+     "explain": "因為……所以……表示因果。",
+     "id": "CHI-P5-L02-005",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "理解",
+     "question": "用關聯詞完成：（ ）大家同心合力，所以作業做得很好。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第2課 小組作業",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L02",
+   "verified": false
   },
   {
    "id": "p5c4",
@@ -1012,7 +1730,15 @@ window.QUESTION_BANK = {
       "李白",
       "孫中山"
      ],
-     "explain": "1839年林則徐在虎門銷毀鴉片。"
+     "explain": "1839年林則徐在虎門銷毀鴉片。",
+     "id": "CHI-P5-L04-001",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "虎門銷煙由哪位清朝官員主持？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第4課 虎門銷煙",
+     "verified": false
     },
     {
      "type": "mc",
@@ -1024,7 +1750,15 @@ window.QUESTION_BANK = {
       "瓷器",
       "絲綢"
      ],
-     "explain": "林則徐銷毀了大量鴉片。"
+     "explain": "林則徐銷毀了大量鴉片。",
+     "id": "CHI-P5-L04-002",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "虎門銷煙銷毀的是：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第4課 虎門銷煙",
+     "verified": false
     },
     {
      "type": "mc",
@@ -1036,7 +1770,15 @@ window.QUESTION_BANK = {
       "使人更強壯",
       "沒有影響"
      ],
-     "explain": "鴉片是毒品，令人上癮。"
+     "explain": "鴉片是毒品，令人上癮。",
+     "id": "CHI-P5-L04-003",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "鴉片對人有甚麼害處？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第4課 虎門銷煙",
+     "verified": false
     },
     {
      "type": "mc",
@@ -1048,15 +1790,33 @@ window.QUESTION_BANK = {
       "廣東",
       "廣西"
      ],
-     "explain": "虎門位於廣東東莞。"
+     "explain": "虎門位於廣東東莞。",
+     "id": "CHI-P5-L04-004",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "虎門在今天中國哪個省？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第4課 虎門銷煙",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "虎門銷煙後不久，爆發了鴉片戰爭。",
      "answer": true,
-     "explain": "1840年爆發鴉片戰爭。"
+     "explain": "1840年爆發鴉片戰爭。",
+     "id": "CHI-P5-L04-005",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "虎門銷煙後不久，爆發了鴉片戰爭。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第4課 虎門銷煙",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L04",
+   "verified": false
   },
   {
    "id": "p5c5",
@@ -1074,7 +1834,15 @@ window.QUESTION_BANK = {
       "清朝",
       "明朝"
      ],
-     "explain": "鄭和是明朝航海家。"
+     "explain": "鄭和是明朝航海家。",
+     "id": "CHI-P5-L05-001",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "鄭和是哪個朝代的人？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 鄭和遠航",
+     "verified": false
     },
     {
      "type": "mc",
@@ -1086,7 +1854,15 @@ window.QUESTION_BANK = {
       "十次",
       "三次"
      ],
-     "explain": "鄭和七次下西洋。"
+     "explain": "鄭和七次下西洋。",
+     "id": "CHI-P5-L05-002",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "鄭和一共下西洋多少次？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 鄭和遠航",
+     "verified": false
     },
     {
      "type": "mc",
@@ -1098,7 +1874,15 @@ window.QUESTION_BANK = {
       "火車",
       "船"
      ],
-     "explain": "鄭和率領龐大船隊出海。"
+     "explain": "鄭和率領龐大船隊出海。",
+     "id": "CHI-P5-L05-003",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "鄭和遠航主要乘坐甚麼交通工具？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 鄭和遠航",
+     "verified": false
     },
     {
      "type": "mc",
@@ -1110,15 +1894,33 @@ window.QUESTION_BANK = {
       "侵略別國",
       "促進中國與各國的交往"
      ],
-     "explain": "鄭和促進了友好交流和貿易。"
+     "explain": "鄭和促進了友好交流和貿易。",
+     "id": "CHI-P5-L05-004",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "鄭和遠航的意義是：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 鄭和遠航",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "鄭和只到過香港附近。",
      "answer": false,
-     "explain": "鄭和遠至東南亞、印度、阿拉伯和非洲東岸。"
+     "explain": "鄭和遠至東南亞、印度、阿拉伯和非洲東岸。",
+     "id": "CHI-P5-L05-005",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "鄭和只到過香港附近。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 鄭和遠航",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L05",
+   "verified": false
   },
   {
    "id": "p5c8",
@@ -1136,7 +1938,15 @@ window.QUESTION_BANK = {
       "新聞",
       "日記"
      ],
-     "explain": "《金縷衣》是唐代詩歌。"
+     "explain": "《金縷衣》是唐代詩歌。",
+     "id": "CHI-P5-L08-001",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "《金縷衣》是一首：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 金鏤衣",
+     "verified": false
     },
     {
      "type": "mc",
@@ -1148,7 +1958,15 @@ window.QUESTION_BANK = {
       "買新衣服",
       "不要摘花"
      ],
-     "explain": "勸人把握時機，珍惜少年時光。"
+     "explain": "勸人把握時機，珍惜少年時光。",
+     "id": "CHI-P5-L08-002",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "「花開堪折直須折，莫待無花空折枝。」主要勸人：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 金鏤衣",
+     "verified": false
     },
     {
      "type": "mc",
@@ -1160,7 +1978,15 @@ window.QUESTION_BANK = {
       "一本書",
       "用金線織成的華麗衣服"
      ],
-     "explain": "金縷衣是用金線縫製的衣服，代表財富。"
+     "explain": "金縷衣是用金線縫製的衣服，代表財富。",
+     "id": "CHI-P5-L08-003",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "「勸君莫惜金縷衣」，「金縷衣」是：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 金鏤衣",
+     "verified": false
     },
     {
      "type": "mc",
@@ -1172,7 +1998,15 @@ window.QUESTION_BANK = {
       "已經",
       "一定"
      ],
-     "explain": "「莫」解作不要。"
+     "explain": "「莫」解作不要。",
+     "id": "CHI-P5-L08-004",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "「莫」字的意思是：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 金鏤衣",
+     "verified": false
     },
     {
      "type": "mc",
@@ -1184,9 +2018,19 @@ window.QUESTION_BANK = {
       "年輕的時光",
       "昨天"
      ],
-     "explain": "少年時就是年輕的時候。"
+     "explain": "少年時就是年輕的時候。",
+     "id": "CHI-P5-L08-005",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "「勸君惜取少年時」，「少年時」指：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 金鏤衣",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L08",
+   "verified": false
   },
   {
    "id": "p5c14",
@@ -1204,7 +2048,15 @@ window.QUESTION_BANK = {
       "藤",
       "鐵"
      ],
-     "explain": "藤椅是用藤條編成的。"
+     "explain": "藤椅是用藤條編成的。",
+     "id": "CHI-P5-L14-001",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L14",
+     "level": "記憶",
+     "question": "藤椅是用甚麼材料做的？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第14課 老藤椅",
+     "verified": false
     },
     {
      "type": "mc",
@@ -1216,7 +2068,15 @@ window.QUESTION_BANK = {
       "很值錢",
       "有家人的回憶"
      ],
-     "explain": "舊物承載了回憶和感情。"
+     "explain": "舊物承載了回憶和感情。",
+     "id": "CHI-P5-L14-002",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L14",
+     "level": "記憶",
+     "question": "一張舊椅子令人懷念，是因為它：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第14課 老藤椅",
+     "verified": false
     },
     {
      "type": "mc",
@@ -1228,7 +2088,15 @@ window.QUESTION_BANK = {
       "思念",
       "害怕"
      ],
-     "explain": "懷念、思念意思相近。"
+     "explain": "懷念、思念意思相近。",
+     "id": "CHI-P5-L14-003",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L14",
+     "level": "記憶",
+     "question": "「懷念」的近義詞是：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第14課 老藤椅",
+     "verified": false
     },
     {
      "type": "mc",
@@ -1240,15 +2108,33 @@ window.QUESTION_BANK = {
       "張",
       "本"
      ],
-     "explain": "椅子用「張」。"
+     "explain": "椅子用「張」。",
+     "id": "CHI-P5-L14-004",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L14",
+     "level": "記憶",
+     "question": "「一（ ）藤椅」，括號應填：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第14課 老藤椅",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "借物抒情是借描寫物件來表達感情。",
      "answer": true,
-     "explain": "老藤椅寫物，其實表達對親人的情感。"
+     "explain": "老藤椅寫物，其實表達對親人的情感。",
+     "id": "CHI-P5-L14-005",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L14",
+     "level": "記憶",
+     "question": "借物抒情是借描寫物件來表達感情。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第14課 老藤椅",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L14",
+   "verified": false
   },
   {
    "id": "p5c15",
@@ -1266,7 +2152,15 @@ window.QUESTION_BANK = {
       "冬天",
       "夏天"
      ],
-     "explain": "桂花多在秋天盛開。"
+     "explain": "桂花多在秋天盛開。",
+     "id": "CHI-P5-L15-001",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L15",
+     "level": "記憶",
+     "question": "桂花在甚麼季節開花？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第15課 桂花雨",
+     "verified": false
     },
     {
      "type": "mc",
@@ -1278,7 +2172,15 @@ window.QUESTION_BANK = {
       "搖樹時桂花像雨一樣落下",
       "很多人哭"
      ],
-     "explain": "桂花紛紛落下，好像下雨。"
+     "explain": "桂花紛紛落下，好像下雨。",
+     "id": "CHI-P5-L15-002",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L15",
+     "level": "記憶",
+     "question": "「桂花雨」是指：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第15課 桂花雨",
+     "verified": false
     },
     {
      "type": "mc",
@@ -1290,7 +2192,15 @@ window.QUESTION_BANK = {
       "黑色",
       "很香"
      ],
-     "explain": "桂花香氣濃郁。"
+     "explain": "桂花香氣濃郁。",
+     "id": "CHI-P5-L15-003",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L15",
+     "level": "記憶",
+     "question": "桂花最大的特點是：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第15課 桂花雨",
+     "verified": false
     },
     {
      "type": "mc",
@@ -1302,15 +2212,33 @@ window.QUESTION_BANK = {
       "香味很濃，傳到鼻子",
       "鼻子痛"
      ],
-     "explain": "形容香味濃。"
+     "explain": "形容香味濃。",
+     "id": "CHI-P5-L15-004",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L15",
+     "level": "記憶",
+     "question": "「香氣撲鼻」的意思是：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第15課 桂花雨",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "作者寫桂花雨，也表達了對家鄉的懷念。",
      "answer": true,
-     "explain": "寫童年搖桂花，表達思鄉之情。"
+     "explain": "寫童年搖桂花，表達思鄉之情。",
+     "id": "CHI-P5-L15-005",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L15",
+     "level": "記憶",
+     "question": "作者寫桂花雨，也表達了對家鄉的懷念。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第15課 桂花雨",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L15",
+   "verified": false
   },
   {
    "id": "p5c99",
@@ -1328,13 +2256,29 @@ window.QUESTION_BANK = {
       "邀請朋友",
       "通知家長"
      ],
-     "explain": "週記記一星期的生活和感受。"
+     "explain": "週記記一星期的生活和感受。",
+     "id": "CHI-P5-L99-001",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L99",
+     "level": "記憶",
+     "question": "週記最主要的作用是：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "週記需要寫上下款。",
      "answer": false,
-     "explain": "週記寫日期和題目，不用上下款。"
+     "explain": "週記寫日期和題目，不用上下款。",
+     "id": "CHI-P5-L99-002",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L99",
+     "level": "記憶",
+     "question": "週記需要寫上下款。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
+     "verified": false
     },
     {
      "type": "order",
@@ -1345,7 +2289,21 @@ window.QUESTION_BANK = {
       "事情經過",
       "感受和反思"
      ],
-     "explain": "週記：日期、題目、經過、感受。"
+     "explain": "週記：日期、題目、經過、感受。",
+     "answer": [
+      "日期",
+      "題目",
+      "事情經過",
+      "感受和反思"
+     ],
+     "id": "CHI-P5-L99-003",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L99",
+     "level": "理解",
+     "question": "排好週記內容。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
+     "verified": false
     },
     {
      "type": "mc",
@@ -1357,7 +2315,15 @@ window.QUESTION_BANK = {
       "不用人稱",
       "第二人稱「你」"
      ],
-     "explain": "週記寫自己的經歷，用「我」。"
+     "explain": "週記寫自己的經歷，用「我」。",
+     "id": "CHI-P5-L99-004",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L99",
+     "level": "記憶",
+     "question": "週記用哪種人稱來寫最常見？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
+     "verified": false
     },
     {
      "type": "mc",
@@ -1369,9 +2335,19 @@ window.QUESTION_BANK = {
       "感受和反思",
       "題目"
      ],
-     "explain": "寫明白了甚麼是反思。"
+     "explain": "寫明白了甚麼是反思。",
+     "id": "CHI-P5-L99-005",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L99",
+     "level": "記憶",
+     "question": "「今天的事令我明白……」屬於週記的：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L99",
+   "verified": false
   },
   {
    "id": "p1e0",
@@ -1389,7 +2365,15 @@ window.QUESTION_BANK = {
       "Goodbye!",
       "Good night!"
      ],
-     "explain": "We say \"Good morning\" in the morning."
+     "explain": "We say \"Good morning\" in the morning.",
+     "id": "ENG-P1-L00-001",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L00",
+     "level": "記憶",
+     "question": "It is 8 o'clock in the morning. You meet your teacher. You say:",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Getting started",
+     "verified": true
     },
     {
      "type": "mc",
@@ -1401,7 +2385,15 @@ window.QUESTION_BANK = {
       "Hello!",
       "Sorry!"
      ],
-     "explain": "Answer \"Hello!\" with \"Hello!\"."
+     "explain": "Answer \"Hello!\" with \"Hello!\".",
+     "id": "ENG-P1-L00-002",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L00",
+     "level": "記憶",
+     "question": "Your friend says \"Hello!\" You say:",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Getting started",
+     "verified": true
     },
     {
      "type": "mc",
@@ -1413,13 +2405,29 @@ window.QUESTION_BANK = {
       "Sorry!",
       "Hello!"
      ],
-     "explain": "We say \"Goodbye\" when we leave."
+     "explain": "We say \"Goodbye\" when we leave.",
+     "id": "ENG-P1-L00-003",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L00",
+     "level": "記憶",
+     "question": "You go home after school. You say:",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Getting started",
+     "verified": true
     },
     {
      "type": "tf",
      "q": "\"Hi\" means the same as \"Hello\".",
      "answer": true,
-     "explain": "Both are greetings."
+     "explain": "Both are greetings.",
+     "id": "ENG-P1-L00-004",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L00",
+     "level": "記憶",
+     "question": "\"Hi\" means the same as \"Hello\".",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Getting started",
+     "verified": true
     },
     {
      "type": "mc",
@@ -1431,9 +2439,19 @@ window.QUESTION_BANK = {
       "Goodbye!",
       "Thank you!"
      ],
-     "explain": "Say \"Thank you\" to be polite."
+     "explain": "Say \"Thank you\" to be polite.",
+     "id": "ENG-P1-L00-005",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L00",
+     "level": "記憶",
+     "question": "Someone gives you a present. You say:",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Getting started",
+     "verified": true
     }
-   ]
+   ],
+   "lesson": "L00",
+   "verified": true
   },
   {
    "id": "p1e1",
@@ -1451,7 +2469,15 @@ window.QUESTION_BANK = {
       "My name is Ben.",
       "It is red."
      ],
-     "explain": "Answer \"What is your name?\" with \"My name is …\"."
+     "explain": "Answer \"What is your name?\" with \"My name is …\".",
+     "id": "ENG-P1-L01-001",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "What is your name?",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
+     "verified": true
     },
     {
      "type": "mc",
@@ -1463,7 +2489,15 @@ window.QUESTION_BANK = {
       "Yes, I am.",
       "It's a pen."
      ],
-     "explain": "Answer \"How old\" with your age."
+     "explain": "Answer \"How old\" with your age.",
+     "id": "ENG-P1-L01-002",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "How old are you?",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
+     "verified": true
     },
     {
      "type": "mc",
@@ -1475,7 +2509,15 @@ window.QUESTION_BANK = {
       "is",
       "be"
      ],
-     "explain": "\"This is …\" for one person."
+     "explain": "\"This is …\" for one person.",
+     "id": "ENG-P1-L01-003",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "This ___ my friend, Tom.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
+     "verified": true
     },
     {
      "type": "mc",
@@ -1487,7 +2529,15 @@ window.QUESTION_BANK = {
       "be",
       "are"
      ],
-     "explain": "Use \"I am\"."
+     "explain": "Use \"I am\".",
+     "id": "ENG-P1-L01-004",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "I ___ Amy.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
+     "verified": true
     },
     {
      "type": "fill",
@@ -1495,9 +2545,19 @@ window.QUESTION_BANK = {
      "answer": [
       "seven"
      ],
-     "explain": "7 = seven."
+     "explain": "7 = seven.",
+     "id": "ENG-P1-L01-005",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "How old are you? I am ___ (7 in words).",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
+     "verified": true
     }
-   ]
+   ],
+   "lesson": "L01",
+   "verified": true
   },
   {
    "id": "p1e2",
@@ -1515,7 +2575,15 @@ window.QUESTION_BANK = {
       "She",
       "It"
      ],
-     "explain": "Use \"he\" for a boy."
+     "explain": "Use \"he\" for a boy.",
+     "id": "ENG-P1-L02-001",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "Tom is a boy. ___ is my friend.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Nice to meet you",
+     "verified": true
     },
     {
      "type": "mc",
@@ -1527,7 +2595,15 @@ window.QUESTION_BANK = {
       "They",
       "She"
      ],
-     "explain": "Use \"she\" for a girl."
+     "explain": "Use \"she\" for a girl.",
+     "id": "ENG-P1-L02-002",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "Amy is a girl. ___ is seven.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Nice to meet you",
+     "verified": true
     },
     {
      "type": "mc",
@@ -1539,7 +2615,15 @@ window.QUESTION_BANK = {
       "is",
       "be"
      ],
-     "explain": "\"We are\" / \"Ben and I are\"."
+     "explain": "\"We are\" / \"Ben and I are\".",
+     "id": "ENG-P1-L02-003",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "Ben and I ___ classmates.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Nice to meet you",
+     "verified": true
     },
     {
      "type": "mc",
@@ -1551,15 +2635,33 @@ window.QUESTION_BANK = {
       "Good night!",
       "Goodbye!"
      ],
-     "explain": "Reply with \"Nice to meet you too!\"."
+     "explain": "Reply with \"Nice to meet you too!\".",
+     "id": "ENG-P1-L02-004",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "Nice to meet you!",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Nice to meet you",
+     "verified": true
     },
     {
      "type": "tf",
      "q": "We say \"She is\" for a boy.",
      "answer": false,
-     "explain": "For a boy we say \"He is\"."
+     "explain": "For a boy we say \"He is\".",
+     "id": "ENG-P1-L02-005",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "We say \"She is\" for a boy.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Nice to meet you",
+     "verified": true
     }
-   ]
+   ],
+   "lesson": "L02",
+   "verified": true
   },
   {
    "id": "p1e3",
@@ -1577,7 +2679,15 @@ window.QUESTION_BANK = {
       "Do",
       "Don't"
      ],
-     "explain": "\"Don't\" tells us not to do something."
+     "explain": "\"Don't\" tells us not to do something.",
+     "id": "ENG-P1-L03-001",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "___ talk in class.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
+     "verified": true
     },
     {
      "type": "mc",
@@ -1589,7 +2699,15 @@ window.QUESTION_BANK = {
       "put up",
       "eat"
      ],
-     "explain": "Put up your hand before you talk."
+     "explain": "Put up your hand before you talk.",
+     "id": "ENG-P1-L03-002",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "Please ___ your hand.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
+     "verified": true
     },
     {
      "type": "mc",
@@ -1601,7 +2719,15 @@ window.QUESTION_BANK = {
       "in",
       "on"
      ],
-     "explain": "\"Sit down.\""
+     "explain": "\"Sit down.\"",
+     "id": "ENG-P1-L03-003",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "Please sit ___.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
+     "verified": true
     },
     {
      "type": "mc",
@@ -1613,15 +2739,33 @@ window.QUESTION_BANK = {
       "run",
       "read"
      ],
-     "explain": "Don't run in the classroom."
+     "explain": "Don't run in the classroom.",
+     "id": "ENG-P1-L03-004",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "Don't ___ in the classroom.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
+     "verified": true
     },
     {
      "type": "tf",
      "q": "\"Please listen to the teacher\" is a good class rule.",
      "answer": true,
-     "explain": "We listen to the teacher in class."
+     "explain": "We listen to the teacher in class.",
+     "id": "ENG-P1-L03-005",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "\"Please listen to the teacher\" is a good class rule.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
+     "verified": true
     }
-   ]
+   ],
+   "lesson": "L03",
+   "verified": true
   },
   {
    "id": "p1e4",
@@ -1639,7 +2783,15 @@ window.QUESTION_BANK = {
       "has",
       "have"
      ],
-     "explain": "Use \"I have\"."
+     "explain": "Use \"I have\".",
+     "id": "ENG-P1-L04-001",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "I ___ a pencil.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch4 Things I bring to school",
+     "verified": true
     },
     {
      "type": "mc",
@@ -1651,7 +2803,15 @@ window.QUESTION_BANK = {
       "am",
       "have"
      ],
-     "explain": "Use \"has\" with he/she/one person."
+     "explain": "Use \"has\" with he/she/one person.",
+     "id": "ENG-P1-L04-002",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "Tom ___ a ruler.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch4 Things I bring to school",
+     "verified": true
     },
     {
      "type": "mc",
@@ -1663,7 +2823,15 @@ window.QUESTION_BANK = {
       "book",
       "bookes"
      ],
-     "explain": "Add -s for more than one."
+     "explain": "Add -s for more than one.",
+     "id": "ENG-P1-L04-003",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "one book, two ___",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch4 Things I bring to school",
+     "verified": true
     },
     {
      "type": "mc",
@@ -1675,7 +2843,15 @@ window.QUESTION_BANK = {
       "boxs",
       "boxies"
      ],
-     "explain": "Words ending in -x add -es."
+     "explain": "Words ending in -x add -es.",
+     "id": "ENG-P1-L04-004",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "one box, two ___",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch4 Things I bring to school",
+     "verified": true
     },
     {
      "type": "fill",
@@ -1683,9 +2859,19 @@ window.QUESTION_BANK = {
      "answer": [
       "pens"
      ],
-     "explain": "Add -s: pens."
+     "explain": "Add -s: pens.",
+     "id": "ENG-P1-L04-005",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "理解",
+     "question": "one pen, three ___",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch4 Things I bring to school",
+     "verified": true
     }
-   ]
+   ],
+   "lesson": "L04",
+   "verified": true
   },
   {
    "id": "p2e1",
@@ -1703,7 +2889,16 @@ window.QUESTION_BANK = {
       "Am",
       "Are"
      ],
-     "explain": "\"Is there …?\" for one thing."
+     "explain": "\"Is there …?\" for one thing.",
+     "id": "ENG-P2-L01-001",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "___ there a library in your school?",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -1715,7 +2910,16 @@ window.QUESTION_BANK = {
       "I am",
       "there are"
      ],
-     "explain": "Answer \"Is there…?\" with \"Yes, there is.\""
+     "explain": "Answer \"Is there…?\" with \"Yes, there is.\"",
+     "id": "ENG-P2-L01-002",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "Is there a hall? Yes, ___.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -1727,7 +2931,16 @@ window.QUESTION_BANK = {
       "firstly",
       "once"
      ],
-     "explain": "1st = first."
+     "explain": "1st = first.",
+     "id": "ENG-P2-L01-003",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "The library is on the ___ floor (1st).",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -1739,7 +2952,16 @@ window.QUESTION_BANK = {
       "is",
       "am"
      ],
-     "explain": "\"Where is …?\" for one place."
+     "explain": "\"Where is …?\" for one place.",
+     "id": "ENG-P2-L01-004",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "Where ___ the music room?",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -1751,7 +2973,16 @@ window.QUESTION_BANK = {
       "on",
       "under"
      ],
-     "explain": "We say \"on the ground floor\"."
+     "explain": "We say \"on the ground floor\".",
+     "id": "ENG-P2-L01-005",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "The tuck shop is ___ the ground floor.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -1759,7 +2990,16 @@ window.QUESTION_BANK = {
      "answer": [
       "second"
      ],
-     "explain": "2nd = second."
+     "explain": "2nd = second.",
+     "id": "ENG-P2-L01-006",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "2nd floor = the ___ floor",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "order",
@@ -1770,9 +3010,26 @@ window.QUESTION_BANK = {
       "third",
       "fourth"
      ],
-     "explain": "1st, 2nd, 3rd, 4th."
+     "explain": "1st, 2nd, 3rd, 4th.",
+     "answer": [
+      "first",
+      "second",
+      "third",
+      "fourth"
+     ],
+     "id": "ENG-P2-L01-007",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "Put in order (smallest first).",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
+     "verified": true,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L01",
+   "verified": true
   },
   {
    "id": "p2e2",
@@ -1790,7 +3047,16 @@ window.QUESTION_BANK = {
       "can",
       "must"
      ],
-     "explain": "Running in the corridor is dangerous, so we mustn't."
+     "explain": "Running in the corridor is dangerous, so we mustn't.",
+     "id": "ENG-P2-L02-001",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "We ___ run in the corridor.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Please be good",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -1802,7 +3068,16 @@ window.QUESTION_BANK = {
       "mustn't",
       "aren't"
      ],
-     "explain": "Lining up quietly is a good rule."
+     "explain": "Lining up quietly is a good rule.",
+     "id": "ENG-P2-L02-002",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "We ___ line up quietly.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Please be good",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -1814,13 +3089,31 @@ window.QUESTION_BANK = {
       "sit",
       "read"
      ],
-     "explain": "Be quiet in the library."
+     "explain": "Be quiet in the library.",
+     "id": "ENG-P2-L02-003",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "You mustn't ___ in the library.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Please be good",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "tf",
      "q": "\"We must be kind to others\" is a good rule.",
      "answer": true,
-     "explain": "Being kind is good."
+     "explain": "Being kind is good.",
+     "id": "ENG-P2-L02-004",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "\"We must be kind to others\" is a good rule.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Please be good",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -1832,15 +3125,35 @@ window.QUESTION_BANK = {
       "between",
       "under"
      ],
-     "explain": "The books are on (top of) the shelf."
+     "explain": "The books are on (top of) the shelf.",
+     "id": "ENG-P2-L02-005",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "The books are ___ the shelf.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Please be good",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "tf",
      "q": "We must throw rubbish on the floor.",
      "answer": false,
-     "explain": "We mustn't litter. Put rubbish in the bin."
+     "explain": "We mustn't litter. Put rubbish in the bin.",
+     "id": "ENG-P2-L02-006",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "We must throw rubbish on the floor.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Please be good",
+     "verified": true,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L02",
+   "verified": true
   },
   {
    "id": "p2e3",
@@ -1858,7 +3171,16 @@ window.QUESTION_BANK = {
       "am",
       "is"
      ],
-     "explain": "Answer \"Are you…?\" with \"Yes, I am.\""
+     "explain": "Answer \"Are you…?\" with \"Yes, I am.\"",
+     "id": "ENG-P2-L03-001",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "Are you cold? Yes, I ___.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Caring for others",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -1870,7 +3192,16 @@ window.QUESTION_BANK = {
       "don't",
       "isn't"
      ],
-     "explain": "\"No, I'm not.\""
+     "explain": "\"No, I'm not.\"",
+     "id": "ENG-P2-L03-002",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "Are you hungry? No, I'm ___.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Caring for others",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -1882,7 +3213,16 @@ window.QUESTION_BANK = {
       "too",
       "two"
      ],
-     "explain": "\"too hot\" = more than we want."
+     "explain": "\"too hot\" = more than we want.",
+     "id": "ENG-P2-L03-003",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "The soup is ___ hot. I can't drink it.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Caring for others",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -1894,7 +3234,16 @@ window.QUESTION_BANK = {
       "Lets",
       "Let us to"
      ],
-     "explain": "\"Let's …\" = let us."
+     "explain": "\"Let's …\" = let us.",
+     "id": "ENG-P2-L03-004",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "I'm thirsty. ___ get some water.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Caring for others",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -1906,7 +3255,16 @@ window.QUESTION_BANK = {
       "Are you OK?",
       "Good night!"
      ],
-     "explain": "Ask kindly: Are you OK?"
+     "explain": "Ask kindly: Are you OK?",
+     "id": "ENG-P2-L03-005",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "Your friend is sad. You say:",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Caring for others",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -1914,9 +3272,20 @@ window.QUESTION_BANK = {
      "answer": [
       "not"
      ],
-     "explain": "Short answer: No, I'm not."
+     "explain": "Short answer: No, I'm not.",
+     "id": "ENG-P2-L03-006",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "Are you tired? No, I'm ___.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Caring for others",
+     "verified": true,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L03",
+   "verified": true
   },
   {
    "id": "p4e1",
@@ -1934,7 +3303,15 @@ window.QUESTION_BANK = {
       "do",
       "is"
      ],
-     "explain": "\"What do you like doing…?\""
+     "explain": "\"What do you like doing…?\"",
+     "id": "ENG-P4-L01-001",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "What ___ you like doing after school?",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 My favourite activities",
+     "verified": true
     },
     {
      "type": "mc",
@@ -1946,7 +3323,15 @@ window.QUESTION_BANK = {
       "is like",
       "like"
      ],
-     "explain": "He/She + likes."
+     "explain": "He/She + likes.",
+     "id": "ENG-P4-L01-002",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "Peter ___ playing football.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 My favourite activities",
+     "verified": true
     },
     {
      "type": "mc",
@@ -1958,7 +3343,15 @@ window.QUESTION_BANK = {
       "always",
       "never"
      ],
-     "explain": "Always = every time."
+     "explain": "Always = every time.",
+     "id": "ENG-P4-L01-003",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "I ___ go swimming. (100% of the time)",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 My favourite activities",
+     "verified": true
     },
     {
      "type": "mc",
@@ -1970,7 +3363,15 @@ window.QUESTION_BANK = {
       "usually",
       "always"
      ],
-     "explain": "Never = 0%."
+     "explain": "Never = 0%.",
+     "id": "ENG-P4-L01-004",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "She ___ eats vegetables. She hates them. (0%)",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 My favourite activities",
+     "verified": true
     },
     {
      "type": "order",
@@ -1982,7 +3383,22 @@ window.QUESTION_BANK = {
       "seldom",
       "never"
      ],
-     "explain": "always > often > sometimes > seldom > never"
+     "explain": "always > often > sometimes > seldom > never",
+     "answer": [
+      "always",
+      "often",
+      "sometimes",
+      "seldom",
+      "never"
+     ],
+     "id": "ENG-P4-L01-005",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "Order from most to least often.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 My favourite activities",
+     "verified": true
     },
     {
      "type": "mc",
@@ -1994,7 +3410,15 @@ window.QUESTION_BANK = {
       "Are",
       "Is"
      ],
-     "explain": "Use \"Does\" with he/she."
+     "explain": "Use \"Does\" with he/she.",
+     "id": "ENG-P4-L01-006",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "___ Tom like reading? Yes, he does.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 My favourite activities",
+     "verified": true
     },
     {
      "type": "fill",
@@ -2002,9 +3426,19 @@ window.QUESTION_BANK = {
      "answer": [
       "watches"
      ],
-     "explain": "He/She + verb + -es after \"ch\"."
+     "explain": "He/She + verb + -es after \"ch\".",
+     "id": "ENG-P4-L01-007",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "My sister ___ (watch) TV every day.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 My favourite activities",
+     "verified": true
     }
-   ]
+   ],
+   "lesson": "L01",
+   "verified": true
   },
   {
    "id": "p4e2",
@@ -2022,7 +3456,15 @@ window.QUESTION_BANK = {
       "either",
       "too"
      ],
-     "explain": "Use \"too\" in positive sentences."
+     "explain": "Use \"too\" in positive sentences.",
+     "id": "ENG-P4-L02-001",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "I like magic shows. My brother likes them ___.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Shows we like",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2034,7 +3476,15 @@ window.QUESTION_BANK = {
       "either",
       "and"
      ],
-     "explain": "Use \"either\" in negative sentences."
+     "explain": "Use \"either\" in negative sentences.",
+     "id": "ENG-P4-L02-002",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "I don't like puppet shows. Amy doesn't like them ___.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Shows we like",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2046,7 +3496,15 @@ window.QUESTION_BANK = {
       "Either",
       "Both"
      ],
-     "explain": "\"Both … and …\" = the two of them."
+     "explain": "\"Both … and …\" = the two of them.",
+     "id": "ENG-P4-L02-003",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "___ Ken and Mary like dance shows.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Shows we like",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2058,7 +3516,15 @@ window.QUESTION_BANK = {
       "but",
       "and"
      ],
-     "explain": "Use \"or\" in negative sentences."
+     "explain": "Use \"or\" in negative sentences.",
+     "id": "ENG-P4-L02-004",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "I don't like singing ___ dancing.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Shows we like",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2070,15 +3536,33 @@ window.QUESTION_BANK = {
       "but",
       "either"
      ],
-     "explain": "\"But\" shows a difference."
+     "explain": "\"But\" shows a difference.",
+     "id": "ENG-P4-L02-005",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "I like cartoons, ___ I don't like horror films.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Shows we like",
+     "verified": true
     },
     {
      "type": "tf",
      "q": "\"I don't like it too.\" is correct.",
      "answer": false,
-     "explain": "In negative sentences use \"either\": I don't like it either."
+     "explain": "In negative sentences use \"either\": I don't like it either.",
+     "id": "ENG-P4-L02-006",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "\"I don't like it too.\" is correct.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Shows we like",
+     "verified": true
     }
-   ]
+   ],
+   "lesson": "L02",
+   "verified": true
   },
   {
    "id": "p4e3",
@@ -2096,7 +3580,15 @@ window.QUESTION_BANK = {
       "big",
       "more big"
      ],
-     "explain": "Comparative: big → bigger."
+     "explain": "Comparative: big → bigger.",
+     "id": "ENG-P4-L03-001",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "An apple is ___ than a grape.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2108,7 +3600,15 @@ window.QUESTION_BANK = {
       "most heavy",
       "heaviest"
      ],
-     "explain": "Superlative: heavy → heaviest."
+     "explain": "Superlative: heavy → heaviest.",
+     "id": "ENG-P4-L03-002",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "This is the ___ watermelon in the shop.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2120,7 +3620,15 @@ window.QUESTION_BANK = {
       "expensive",
       "most expensive"
      ],
-     "explain": "Long words use \"more\"."
+     "explain": "Long words use \"more\".",
+     "id": "ENG-P4-L03-003",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "The cake is ___ than the bread.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2132,7 +3640,15 @@ window.QUESTION_BANK = {
       "bunch",
       "loaf"
      ],
-     "explain": "A carton of milk."
+     "explain": "A carton of milk.",
+     "id": "ENG-P4-L03-004",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "I want a ___ of milk.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2144,7 +3660,15 @@ window.QUESTION_BANK = {
       "bottle",
       "carton"
      ],
-     "explain": "A bunch of bananas."
+     "explain": "A bunch of bananas.",
+     "id": "ENG-P4-L03-005",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "a ___ of bananas",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
+     "verified": true
     },
     {
      "type": "fill",
@@ -2152,7 +3676,15 @@ window.QUESTION_BANK = {
      "answer": [
       "best"
      ],
-     "explain": "good, better, best."
+     "explain": "good, better, best.",
+     "id": "ENG-P4-L03-006",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "good → better → ___",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2164,9 +3696,19 @@ window.QUESTION_BANK = {
       "loaf",
       "bunch"
      ],
-     "explain": "A loaf of bread."
+     "explain": "A loaf of bread.",
+     "id": "ENG-P4-L03-007",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "a ___ of bread",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
+     "verified": true
     }
-   ]
+   ],
+   "lesson": "L03",
+   "verified": true
   },
   {
    "id": "p5e1",
@@ -2184,7 +3726,15 @@ window.QUESTION_BANK = {
       "must",
       "should"
      ],
-     "explain": "Talking loudly in the library is bad manners."
+     "explain": "Talking loudly in the library is bad manners.",
+     "id": "ENG-P5-L01-001",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "You ___ talk loudly in the library.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2196,7 +3746,15 @@ window.QUESTION_BANK = {
       "don't",
       "should"
      ],
-     "explain": "Saying thank you is good manners."
+     "explain": "Saying thank you is good manners.",
+     "id": "ENG-P5-L01-002",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "You ___ say \"thank you\" when you get help.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
+     "verified": true
     },
     {
      "type": "fill",
@@ -2204,7 +3762,15 @@ window.QUESTION_BANK = {
      "answer": [
       "quietly"
      ],
-     "explain": "Add -ly: quietly."
+     "explain": "Add -ly: quietly.",
+     "id": "ENG-P5-L01-003",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "quiet → ___ (adverb)",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
+     "verified": true
     },
     {
      "type": "fill",
@@ -2212,7 +3778,15 @@ window.QUESTION_BANK = {
      "answer": [
       "happily"
      ],
-     "explain": "y → i + ly: happily."
+     "explain": "y → i + ly: happily.",
+     "id": "ENG-P5-L01-004",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "happy → ___ (adverb)",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2224,7 +3798,15 @@ window.QUESTION_BANK = {
       "good",
       "goodly"
      ],
-     "explain": "\"good\" → \"well\" (irregular)."
+     "explain": "\"good\" → \"well\" (irregular).",
+     "id": "ENG-P5-L01-005",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "good → ? (adverb)",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2236,7 +3818,15 @@ window.QUESTION_BANK = {
       "polite",
       "politely"
      ],
-     "explain": "Use an adverb to describe how we speak."
+     "explain": "Use an adverb to describe how we speak.",
+     "id": "ENG-P5-L01-006",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "Please speak ___ to the old lady.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2248,9 +3838,19 @@ window.QUESTION_BANK = {
       "quieter",
       "quiet"
      ],
-     "explain": "Adverb of manner: eat quietly."
+     "explain": "Adverb of manner: eat quietly.",
+     "id": "ENG-P5-L01-007",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "We should eat ___.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
+     "verified": true
     }
-   ]
+   ],
+   "lesson": "L01",
+   "verified": true
   },
   {
    "id": "p5e2",
@@ -2268,7 +3868,15 @@ window.QUESTION_BANK = {
       "with",
       "at"
      ],
-     "explain": "quarrel with someone."
+     "explain": "quarrel with someone.",
+     "id": "ENG-P5-L02-001",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "Don't quarrel ___ your friends.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2280,7 +3888,15 @@ window.QUESTION_BANK = {
       "of",
       "with"
      ],
-     "explain": "be jealous of."
+     "explain": "be jealous of.",
+     "id": "ENG-P5-L02-002",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "Tom is jealous ___ his brother's new bike.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2292,7 +3908,15 @@ window.QUESTION_BANK = {
       "at",
       "with"
      ],
-     "explain": "be good at."
+     "explain": "be good at.",
+     "id": "ENG-P5-L02-003",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "I am good ___ drawing.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2304,7 +3928,15 @@ window.QUESTION_BANK = {
       "of",
       "at"
      ],
-     "explain": "be afraid of."
+     "explain": "be afraid of.",
+     "id": "ENG-P5-L02-004",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "Mary is afraid ___ dogs.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2316,7 +3948,15 @@ window.QUESTION_BANK = {
       "a little",
       "really"
      ],
-     "explain": "\"really\" shows a high degree."
+     "explain": "\"really\" shows a high degree.",
+     "id": "ENG-P5-L02-005",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "She is ___ kind. She always helps others. (very strong)",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2328,7 +3968,15 @@ window.QUESTION_BANK = {
       "a bit",
       "so"
      ],
-     "explain": "\"a bit\" = a small degree."
+     "explain": "\"a bit\" = a small degree.",
+     "id": "ENG-P5-L02-006",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "I'm ___ tired, but I can still play. (small degree)",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
+     "verified": true
     },
     {
      "type": "fill",
@@ -2336,9 +3984,19 @@ window.QUESTION_BANK = {
      "answer": [
       "with"
      ],
-     "explain": "share with someone."
+     "explain": "share with someone.",
+     "id": "ENG-P5-L02-007",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "理解",
+     "question": "Please share your toys ___ your friends.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
+     "verified": true
     }
-   ]
+   ],
+   "lesson": "L02",
+   "verified": true
   },
   {
    "id": "p5e3",
@@ -2356,7 +4014,15 @@ window.QUESTION_BANK = {
       "at",
       "on"
      ],
-     "explain": "Use \"with\" for things a person has."
+     "explain": "Use \"with\" for things a person has.",
+     "id": "ENG-P5-L03-001",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "The boy ___ the long hair is my cousin.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Describing people",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2368,7 +4034,15 @@ window.QUESTION_BANK = {
       "at",
       "in"
      ],
-     "explain": "Use \"in\" for clothes."
+     "explain": "Use \"in\" for clothes.",
+     "id": "ENG-P5-L03-002",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "The girl ___ the red dress is Amy.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Describing people",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2380,7 +4054,15 @@ window.QUESTION_BANK = {
       "what",
       "who"
      ],
-     "explain": "Use \"who\" for people."
+     "explain": "Use \"who\" for people.",
+     "id": "ENG-P5-L03-003",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "I have a friend ___ likes music.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Describing people",
+     "verified": true
     },
     {
      "type": "mc",
@@ -2392,13 +4074,29 @@ window.QUESTION_BANK = {
       "whose",
       "when"
      ],
-     "explain": "\"who\" describes people."
+     "explain": "\"who\" describes people.",
+     "id": "ENG-P5-L03-004",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "The man ___ is wearing glasses is my teacher.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Describing people",
+     "verified": true
     },
     {
      "type": "tf",
      "q": "\"The boy in the vest\" describes what the boy is wearing.",
      "answer": true,
-     "explain": "\"in\" + clothes."
+     "explain": "\"in\" + clothes.",
+     "id": "ENG-P5-L03-005",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "\"The boy in the vest\" describes what the boy is wearing.",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Describing people",
+     "verified": true
     },
     {
      "type": "fill",
@@ -2406,9 +4104,19 @@ window.QUESTION_BANK = {
      "answer": [
       "with"
      ],
-     "explain": "\"with\" + feature."
+     "explain": "\"with\" + feature.",
+     "id": "ENG-P5-L03-006",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "The woman ___ a big smile is my aunt. (preposition)",
+     "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Describing people",
+     "verified": true
     }
-   ]
+   ],
+   "lesson": "L03",
+   "verified": true
   },
   {
    "id": "p1s1",
@@ -2426,7 +4134,15 @@ window.QUESTION_BANK = {
       "雨傘",
       "書包"
      ],
-     "explain": "放大鏡可以把東西看得更清楚。"
+     "explain": "放大鏡可以把東西看得更清楚。",
+     "id": "SCI-P1-L01-001",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "科學家觀察東西時會用：",
+     "source": "research.md §5 科學《科學新領域》｜1 動手動腦學科學",
+     "verified": false
     },
     {
      "type": "mc",
@@ -2438,7 +4154,15 @@ window.QUESTION_BANK = {
       "眼睛",
       "舌頭"
      ],
-     "explain": "眼睛用來看。"
+     "explain": "眼睛用來看。",
+     "id": "SCI-P1-L01-002",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "我們用甚麼感官看東西？",
+     "source": "research.md §5 科學《科學新領域》｜1 動手動腦學科學",
+     "verified": false
     },
     {
      "type": "mc",
@@ -2450,21 +4174,47 @@ window.QUESTION_BANK = {
       "眼睛",
       "耳朵"
      ],
-     "explain": "鼻子用來嗅。"
+     "explain": "鼻子用來嗅。",
+     "id": "SCI-P1-L01-003",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "我們用甚麼感官嗅氣味？",
+     "source": "research.md §5 科學《科學新領域》｜1 動手動腦學科學",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "做實驗時要注意安全。",
      "answer": true,
-     "explain": "實驗要聽老師指示，注意安全。"
+     "explain": "實驗要聽老師指示，注意安全。",
+     "id": "SCI-P1-L01-004",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "做實驗時要注意安全。",
+     "source": "research.md §5 科學《科學新領域》｜1 動手動腦學科學",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "不知道的東西可以隨便放入口嚐。",
      "answer": false,
-     "explain": "不認識的東西不可以放入口。"
+     "explain": "不認識的東西不可以放入口。",
+     "id": "SCI-P1-L01-005",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "不知道的東西可以隨便放入口嚐。",
+     "source": "research.md §5 科學《科學新領域》｜1 動手動腦學科學",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L01",
+   "verified": false
   },
   {
    "id": "p1s2",
@@ -2482,7 +4232,15 @@ window.QUESTION_BANK = {
       "魚",
       "貓"
      ],
-     "explain": "小鳥有翅膀，會飛。"
+     "explain": "小鳥有翅膀，會飛。",
+     "id": "SCI-P1-L02-001",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "哪種動物會飛？",
+     "source": "research.md §5 科學《科學新領域》｜2 動物知多少",
+     "verified": false
     },
     {
      "type": "mc",
@@ -2494,7 +4252,15 @@ window.QUESTION_BANK = {
       "手",
       "鰭"
      ],
-     "explain": "魚用鰭游泳。"
+     "explain": "魚用鰭游泳。",
+     "id": "SCI-P1-L02-002",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "魚用甚麼游泳？",
+     "source": "research.md §5 科學《科學新領域》｜2 動物知多少",
+     "verified": false
     },
     {
      "type": "mc",
@@ -2506,13 +4272,29 @@ window.QUESTION_BANK = {
       "雞",
       "蛇"
      ],
-     "explain": "狗有四條腿。"
+     "explain": "狗有四條腿。",
+     "id": "SCI-P1-L02-003",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "哪種動物有四條腿？",
+     "source": "research.md §5 科學《科學新領域》｜2 動物知多少",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "動物要吃東西才能生存。",
      "answer": true,
-     "explain": "動物需要食物。"
+     "explain": "動物需要食物。",
+     "id": "SCI-P1-L02-004",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "動物要吃東西才能生存。",
+     "source": "research.md §5 科學《科學新領域》｜2 動物知多少",
+     "verified": false
     },
     {
      "type": "mc",
@@ -2524,9 +4306,19 @@ window.QUESTION_BANK = {
       "兔子",
       "狗"
      ],
-     "explain": "魚生活在水中。"
+     "explain": "魚生活在水中。",
+     "id": "SCI-P1-L02-005",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "哪種動物住在水裏？",
+     "source": "research.md §5 科學《科學新領域》｜2 動物知多少",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L02",
+   "verified": false
   },
   {
    "id": "p1s3",
@@ -2544,7 +4336,15 @@ window.QUESTION_BANK = {
       "根",
       "花"
      ],
-     "explain": "根從泥土吸收水分。"
+     "explain": "根從泥土吸收水分。",
+     "id": "SCI-P1-L03-001",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "植物用甚麼吸收水分？",
+     "source": "research.md §5 科學《科學新領域》｜3 植物知多少",
+     "verified": false
     },
     {
      "type": "mc",
@@ -2556,7 +4356,15 @@ window.QUESTION_BANK = {
       "糖果",
       "陽光和水"
      ],
-     "explain": "植物需要陽光、空氣和水。"
+     "explain": "植物需要陽光、空氣和水。",
+     "id": "SCI-P1-L03-002",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "植物需要甚麼才能生長？",
+     "source": "research.md §5 科學《科學新領域》｜3 植物知多少",
+     "verified": false
     },
     {
      "type": "mc",
@@ -2568,13 +4376,29 @@ window.QUESTION_BANK = {
       "小貓",
       "水"
      ],
-     "explain": "樹是植物。"
+     "explain": "樹是植物。",
+     "id": "SCI-P1-L03-003",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "哪一個是植物？",
+     "source": "research.md §5 科學《科學新領域》｜3 植物知多少",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "植物也是生物。",
      "answer": true,
-     "explain": "植物會生長，是生物。"
+     "explain": "植物會生長，是生物。",
+     "id": "SCI-P1-L03-004",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "植物也是生物。",
+     "source": "research.md §5 科學《科學新領域》｜3 植物知多少",
+     "verified": false
     },
     {
      "type": "mc",
@@ -2586,9 +4410,19 @@ window.QUESTION_BANK = {
       "綠色",
       "黑色"
      ],
-     "explain": "大部分葉子是綠色的。"
+     "explain": "大部分葉子是綠色的。",
+     "id": "SCI-P1-L03-005",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "植物通常是甚麼顏色的葉？",
+     "source": "research.md §5 科學《科學新領域》｜3 植物知多少",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L03",
+   "verified": false
   },
   {
    "id": "p1s4",
@@ -2606,7 +4440,15 @@ window.QUESTION_BANK = {
       "鼻子",
       "嘴巴"
      ],
-     "explain": "耳朵用來聽。"
+     "explain": "耳朵用來聽。",
+     "id": "SCI-P1-L04-001",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "我們用甚麼聽聲音？",
+     "source": "research.md §5 科學《科學新領域》｜4 奇妙的身體",
+     "verified": false
     },
     {
      "type": "mc",
@@ -2618,7 +4460,15 @@ window.QUESTION_BANK = {
       "手肘",
       "頭髮"
      ],
-     "explain": "舌頭嚐味道。"
+     "explain": "舌頭嚐味道。",
+     "id": "SCI-P1-L04-002",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "我們用甚麼嚐味道？",
+     "source": "research.md §5 科學《科學新領域》｜4 奇妙的身體",
+     "verified": false
     },
     {
      "type": "mc",
@@ -2630,21 +4480,47 @@ window.QUESTION_BANK = {
       "洗手",
       "睡覺"
      ],
-     "explain": "飯前洗手，保持衞生。"
+     "explain": "飯前洗手，保持衞生。",
+     "id": "SCI-P1-L04-003",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "飯前要先：",
+     "source": "research.md §5 科學《科學新領域》｜4 奇妙的身體",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "每天刷牙可以保護牙齒。",
      "answer": true,
-     "explain": "早晚刷牙，牙齒健康。"
+     "explain": "早晚刷牙，牙齒健康。",
+     "id": "SCI-P1-L04-004",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "每天刷牙可以保護牙齒。",
+     "source": "research.md §5 科學《科學新領域》｜4 奇妙的身體",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "眼睛可以用來嗅氣味。",
      "answer": false,
-     "explain": "嗅氣味要用鼻子。"
+     "explain": "嗅氣味要用鼻子。",
+     "id": "SCI-P1-L04-005",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "眼睛可以用來嗅氣味。",
+     "source": "research.md §5 科學《科學新領域》｜4 奇妙的身體",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L04",
+   "verified": false
   },
   {
    "id": "p1s5",
@@ -2662,7 +4538,15 @@ window.QUESTION_BANK = {
       "消失",
       "不變"
      ],
-     "explain": "長大會長高。"
+     "explain": "長大會長高。",
+     "id": "SCI-P1-L05-001",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "我們長大後，身高會：",
+     "source": "research.md §5 科學《科學新領域》｜5 成長與身體轉變",
+     "verified": false
     },
     {
      "type": "mc",
@@ -2674,7 +4558,15 @@ window.QUESTION_BANK = {
       "不做運動",
       "不睡覺"
      ],
-     "explain": "均衡飲食和多做運動。"
+     "explain": "均衡飲食和多做運動。",
+     "id": "SCI-P1-L05-002",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "要健康成長，我們要：",
+     "source": "research.md §5 科學《科學新領域》｜5 成長與身體轉變",
+     "verified": false
     },
     {
      "type": "mc",
@@ -2686,21 +4578,47 @@ window.QUESTION_BANK = {
       "石頭",
       "兒童"
      ],
-     "explain": "人由嬰兒成長為兒童。"
+     "explain": "人由嬰兒成長為兒童。",
+     "id": "SCI-P1-L05-003",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "嬰兒長大後會變成：",
+     "source": "research.md §5 科學《科學新領域》｜5 成長與身體轉變",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "充足的睡眠幫助我們成長。",
      "answer": true,
-     "explain": "小朋友要睡得足夠。"
+     "explain": "小朋友要睡得足夠。",
+     "id": "SCI-P1-L05-004",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "充足的睡眠幫助我們成長。",
+     "source": "research.md §5 科學《科學新領域》｜5 成長與身體轉變",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "每天只吃薯片最健康。",
      "answer": false,
-     "explain": "要均衡飲食。"
+     "explain": "要均衡飲食。",
+     "id": "SCI-P1-L05-005",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "每天只吃薯片最健康。",
+     "source": "research.md §5 科學《科學新領域》｜5 成長與身體轉變",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L05",
+   "verified": false
   },
   {
    "id": "p1s6",
@@ -2718,7 +4636,15 @@ window.QUESTION_BANK = {
       "房屋",
       "沙漠"
      ],
-     "explain": "地球表面大部分是海洋。"
+     "explain": "地球表面大部分是海洋。",
+     "id": "SCI-P1-L06-001",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L06",
+     "level": "記憶",
+     "question": "地球上最多的是：",
+     "source": "research.md §5 科學《科學新領域》｜6 我們的地球",
+     "verified": false
     },
     {
      "type": "mc",
@@ -2730,7 +4656,15 @@ window.QUESTION_BANK = {
       "雲",
       "星星"
      ],
-     "explain": "白天有太陽。"
+     "explain": "白天有太陽。",
+     "id": "SCI-P1-L06-002",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L06",
+     "level": "記憶",
+     "question": "白天天空中最光的是：",
+     "source": "research.md §5 科學《科學新領域》｜6 我們的地球",
+     "verified": false
     },
     {
      "type": "mc",
@@ -2742,13 +4676,29 @@ window.QUESTION_BANK = {
       "月亮",
       "太陽"
      ],
-     "explain": "我們住在地球。"
+     "explain": "我們住在地球。",
+     "id": "SCI-P1-L06-003",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L06",
+     "level": "記憶",
+     "question": "我們住在哪個星球？",
+     "source": "research.md §5 科學《科學新領域》｜6 我們的地球",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "我們要愛護地球。",
      "answer": true,
-     "explain": "減少浪費，保護地球。"
+     "explain": "減少浪費，保護地球。",
+     "id": "SCI-P1-L06-004",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L06",
+     "level": "記憶",
+     "question": "我們要愛護地球。",
+     "source": "research.md §5 科學《科學新領域》｜6 我們的地球",
+     "verified": false
     },
     {
      "type": "mc",
@@ -2760,9 +4710,19 @@ window.QUESTION_BANK = {
       "太陽",
       "雨傘"
      ],
-     "explain": "晚上可以看見月亮和星星。"
+     "explain": "晚上可以看見月亮和星星。",
+     "id": "SCI-P1-L06-005",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L06",
+     "level": "記憶",
+     "question": "晚上天空中常見到：",
+     "source": "research.md §5 科學《科學新領域》｜6 我們的地球",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L06",
+   "verified": false
   },
   {
    "id": "p1s7",
@@ -2780,7 +4740,15 @@ window.QUESTION_BANK = {
       "沙",
       "石頭"
      ],
-     "explain": "呼吸需要空氣。"
+     "explain": "呼吸需要空氣。",
+     "id": "SCI-P1-L07-001",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L07",
+     "level": "記憶",
+     "question": "人和動物需要甚麼來呼吸？",
+     "source": "research.md §5 科學《科學新領域》｜7 水和空氣",
+     "verified": false
     },
     {
      "type": "mc",
@@ -2792,13 +4760,29 @@ window.QUESTION_BANK = {
       "油",
       "水蒸氣"
      ],
-     "explain": "水遇冷會結成冰。"
+     "explain": "水遇冷會結成冰。",
+     "id": "SCI-P1-L07-002",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L07",
+     "level": "記憶",
+     "question": "水放進冰格會變成：",
+     "source": "research.md §5 科學《科學新領域》｜7 水和空氣",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "我們看不見空氣，但空氣是存在的。",
      "answer": true,
-     "explain": "風就是流動的空氣。"
+     "explain": "風就是流動的空氣。",
+     "id": "SCI-P1-L07-003",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L07",
+     "level": "記憶",
+     "question": "我們看不見空氣，但空氣是存在的。",
+     "source": "research.md §5 科學《科學新領域》｜7 水和空氣",
+     "verified": false
     },
     {
      "type": "mc",
@@ -2810,15 +4794,33 @@ window.QUESTION_BANK = {
       "一直開着水",
       "用很多水"
      ],
-     "explain": "刷牙時關水龍頭可以節約用水。"
+     "explain": "刷牙時關水龍頭可以節約用水。",
+     "id": "SCI-P1-L07-004",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L07",
+     "level": "記憶",
+     "question": "節約用水，刷牙時應該：",
+     "source": "research.md §5 科學《科學新領域》｜7 水和空氣",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "水是不需要節約的。",
      "answer": false,
-     "explain": "水很珍貴，要節約。"
+     "explain": "水很珍貴，要節約。",
+     "id": "SCI-P1-L07-005",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L07",
+     "level": "記憶",
+     "question": "水是不需要節約的。",
+     "source": "research.md §5 科學《科學新領域》｜7 水和空氣",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L07",
+   "verified": false
   },
   {
    "id": "p2s1",
@@ -2836,7 +4838,16 @@ window.QUESTION_BANK = {
       "石頭",
       "水杯"
      ],
-     "explain": "小狗有生命，是生物。"
+     "explain": "小狗有生命，是生物。",
+     "id": "SCI-P2-L01-001",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "以下哪一個是生物？",
+     "source": "research.md §5 科學《科學新領域》｜1 生物和非生物",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -2848,25 +4859,61 @@ window.QUESTION_BANK = {
       "金魚",
       "小鳥"
      ],
-     "explain": "椅子沒有生命。"
+     "explain": "椅子沒有生命。",
+     "id": "SCI-P2-L01-002",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "以下哪一個是非生物？",
+     "source": "research.md §5 科學《科學新領域》｜1 生物和非生物",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "tf",
      "q": "生物會生長。",
      "answer": true,
-     "explain": "生物會長大。"
+     "explain": "生物會長大。",
+     "id": "SCI-P2-L01-003",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "生物會生長。",
+     "source": "research.md §5 科學《科學新領域》｜1 生物和非生物",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "tf",
      "q": "生物可以繁殖。",
      "answer": true,
-     "explain": "生物可以繁殖下一代。"
+     "explain": "生物可以繁殖下一代。",
+     "id": "SCI-P2-L01-004",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "生物可以繁殖。",
+     "source": "research.md §5 科學《科學新領域》｜1 生物和非生物",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "tf",
      "q": "玩具機械人會動，所以它是生物。",
      "answer": false,
-     "explain": "玩具不會生長和繁殖，是非生物。"
+     "explain": "玩具不會生長和繁殖，是非生物。",
+     "id": "SCI-P2-L01-005",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "玩具機械人會動，所以它是生物。",
+     "source": "research.md §5 科學《科學新領域》｜1 生物和非生物",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -2878,9 +4925,20 @@ window.QUESTION_BANK = {
       "不是，植物不吃東西",
       "不知道"
      ],
-     "explain": "植物會生長、繁殖，是生物。"
+     "explain": "植物會生長、繁殖，是生物。",
+     "id": "SCI-P2-L01-006",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "植物是不是生物？",
+     "source": "research.md §5 科學《科學新領域》｜1 生物和非生物",
+     "verified": true,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L01",
+   "verified": true
   },
   {
    "id": "p2s2",
@@ -2898,7 +4956,16 @@ window.QUESTION_BANK = {
       "蛇",
       "雞"
      ],
-     "explain": "鳥類身上有羽毛。"
+     "explain": "鳥類身上有羽毛。",
+     "id": "SCI-P2-L02-001",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "哪種動物身上有羽毛？",
+     "source": "research.md §5 科學《科學新領域》｜2 認識動物",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -2910,7 +4977,16 @@ window.QUESTION_BANK = {
       "貓",
       "狗"
      ],
-     "explain": "魚用鰓呼吸。"
+     "explain": "魚用鰓呼吸。",
+     "id": "SCI-P2-L02-002",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "哪種動物用鰓呼吸？",
+     "source": "research.md §5 科學《科學新領域》｜2 認識動物",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -2922,7 +4998,16 @@ window.QUESTION_BANK = {
       "爬行",
       "跳"
      ],
-     "explain": "蛇在地上爬行。"
+     "explain": "蛇在地上爬行。",
+     "id": "SCI-P2-L02-003",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "蛇怎樣移動？",
+     "source": "research.md §5 科學《科學新領域》｜2 認識動物",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -2934,13 +5019,31 @@ window.QUESTION_BANK = {
       "膠",
       "肉"
      ],
-     "explain": "兔子吃植物。"
+     "explain": "兔子吃植物。",
+     "id": "SCI-P2-L02-004",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "兔子吃甚麼？",
+     "source": "research.md §5 科學《科學新領域》｜2 認識動物",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "tf",
      "q": "有些動物生活在水中，有些生活在陸地上。",
      "answer": true,
-     "explain": "動物生活在不同地方。"
+     "explain": "動物生活在不同地方。",
+     "id": "SCI-P2-L02-005",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "有些動物生活在水中，有些生活在陸地上。",
+     "source": "research.md §5 科學《科學新領域》｜2 認識動物",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -2952,9 +5055,20 @@ window.QUESTION_BANK = {
       "鴨",
       "魚"
      ],
-     "explain": "魚身上有鱗片。"
+     "explain": "魚身上有鱗片。",
+     "id": "SCI-P2-L02-006",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "哪種動物身上有鱗片？",
+     "source": "research.md §5 科學《科學新領域》｜2 認識動物",
+     "verified": false,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L02",
+   "verified": false
   },
   {
    "id": "p2s3",
@@ -2972,7 +5086,16 @@ window.QUESTION_BANK = {
       "鹽",
       "糖"
      ],
-     "explain": "種子發芽需要水、空氣和適當溫度。"
+     "explain": "種子發芽需要水、空氣和適當溫度。",
+     "id": "SCI-P2-L03-001",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "種子發芽需要：",
+     "source": "research.md §5 科學《科學新領域》｜3 動手種植物",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -2984,7 +5107,16 @@ window.QUESTION_BANK = {
       "根",
       "種子"
      ],
-     "explain": "根吸收水分。"
+     "explain": "根吸收水分。",
+     "id": "SCI-P2-L03-002",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "植物的哪部分吸收水分？",
+     "source": "research.md §5 科學《科學新領域》｜3 動手種植物",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -2996,7 +5128,16 @@ window.QUESTION_BANK = {
       "黑暗",
       "陽光"
      ],
-     "explain": "葉子需要陽光。"
+     "explain": "葉子需要陽光。",
+     "id": "SCI-P2-L03-003",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "植物的葉需要甚麼來製造養料？",
+     "source": "research.md §5 科學《科學新領域》｜3 動手種植物",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "order",
@@ -3007,13 +5148,37 @@ window.QUESTION_BANK = {
       "幼苗",
       "長大的植物"
      ],
-     "explain": "種子發芽，長成幼苗，再長大。"
+     "explain": "種子發芽，長成幼苗，再長大。",
+     "answer": [
+      "種子",
+      "發芽",
+      "幼苗",
+      "長大的植物"
+     ],
+     "id": "SCI-P2-L03-004",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "排出植物的生長次序。",
+     "source": "research.md §5 科學《科學新領域》｜3 動手種植物",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "tf",
      "q": "植物不用淋水也能生長得很好。",
      "answer": false,
-     "explain": "植物需要水。"
+     "explain": "植物需要水。",
+     "id": "SCI-P2-L03-005",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "植物不用淋水也能生長得很好。",
+     "source": "research.md §5 科學《科學新領域》｜3 動手種植物",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -3025,9 +5190,20 @@ window.QUESTION_BANK = {
       "發出聲音",
       "吃蟲"
      ],
-     "explain": "莖支持植物並運送水分。"
+     "explain": "莖支持植物並運送水分。",
+     "id": "SCI-P2-L03-006",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "植物的莖有甚麼作用？",
+     "source": "research.md §5 科學《科學新領域》｜3 動手種植物",
+     "verified": false,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L03",
+   "verified": false
   },
   {
    "id": "p2s4",
@@ -3045,7 +5221,16 @@ window.QUESTION_BANK = {
       "浪費紙張",
       "亂拋垃圾"
      ],
-     "explain": "循環再用可減少垃圾。"
+     "explain": "循環再用可減少垃圾。",
+     "id": "SCI-P2-L04-001",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "以下哪個是愛護環境的行為？",
+     "source": "research.md §5 科學《科學新領域》｜4 愛護環境",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -3057,7 +5242,16 @@ window.QUESTION_BANK = {
       "黃色",
       "紅色"
      ],
-     "explain": "香港：黃色回收鋁罐，藍色廢紙，啡色膠樽。"
+     "explain": "香港：黃色回收鋁罐，藍色廢紙，啡色膠樽。",
+     "id": "SCI-P2-L04-002",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "鋁罐應放入哪個回收箱？",
+     "source": "research.md §5 科學《科學新領域》｜4 愛護環境",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -3069,13 +5263,31 @@ window.QUESTION_BANK = {
       "黃色",
       "藍色"
      ],
-     "explain": "藍色回收箱收集廢紙。"
+     "explain": "藍色回收箱收集廢紙。",
+     "id": "SCI-P2-L04-003",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "廢紙應放入哪個回收箱？",
+     "source": "research.md §5 科學《科學新領域》｜4 愛護環境",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "tf",
      "q": "離開房間時關燈可以節約能源。",
      "answer": true,
-     "explain": "隨手關燈。"
+     "explain": "隨手關燈。",
+     "id": "SCI-P2-L04-004",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "離開房間時關燈可以節約能源。",
+     "source": "research.md §5 科學《科學新領域》｜4 愛護環境",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -3087,15 +5299,35 @@ window.QUESTION_BANK = {
       "紙巾",
       "環保袋"
      ],
-     "explain": "自備環保袋。"
+     "explain": "自備環保袋。",
+     "id": "SCI-P2-L04-005",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "買東西時，可以帶甚麼減少用膠袋？",
+     "source": "research.md §5 科學《科學新領域》｜4 愛護環境",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "tf",
      "q": "把垃圾丟進海裏不會影響海洋動物。",
      "answer": false,
-     "explain": "垃圾會傷害海洋動物。"
+     "explain": "垃圾會傷害海洋動物。",
+     "id": "SCI-P2-L04-006",
+     "grade": "P2",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "把垃圾丟進海裏不會影響海洋動物。",
+     "source": "research.md §5 科學《科學新領域》｜4 愛護環境",
+     "verified": false,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L04",
+   "verified": false
   },
   {
    "id": "p4s1",
@@ -3111,7 +5343,20 @@ window.QUESTION_BANK = {
       "地幔",
       "地核"
      ],
-     "explain": "最外是地殼，中間是地幔，最內是地核。"
+     "explain": "最外是地殼，中間是地幔，最內是地核。",
+     "answer": [
+      "地殼",
+      "地幔",
+      "地核"
+     ],
+     "id": "SCI-P4-L01-001",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "由外到內排出地球的結構。",
+     "source": "research.md §5 科學《科學新領域》｜1 地球的結構",
+     "verified": true
     },
     {
      "type": "mc",
@@ -3123,7 +5368,15 @@ window.QUESTION_BANK = {
       "地殼",
       "地核"
      ],
-     "explain": "我們住在地殼上。"
+     "explain": "我們住在地殼上。",
+     "id": "SCI-P4-L01-002",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "我們住在地球的哪一層？",
+     "source": "research.md §5 科學《科學新領域》｜1 地球的結構",
+     "verified": true
     },
     {
      "type": "mc",
@@ -3135,7 +5388,15 @@ window.QUESTION_BANK = {
       "月食",
       "下雪"
      ],
-     "explain": "板塊移動碰撞會引起地震、火山爆發。"
+     "explain": "板塊移動碰撞會引起地震、火山爆發。",
+     "id": "SCI-P4-L01-003",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "板塊碰撞可能引致：",
+     "source": "research.md §5 科學《科學新領域》｜1 地球的結構",
+     "verified": true
     },
     {
      "type": "mc",
@@ -3147,7 +5408,15 @@ window.QUESTION_BANK = {
       "沉積岩",
       "塑膠岩"
      ],
-     "explain": "岩石分火成岩、沉積岩、變質岩。"
+     "explain": "岩石分火成岩、沉積岩、變質岩。",
+     "id": "SCI-P4-L01-004",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "以下哪一項不是岩石的種類？",
+     "source": "research.md §5 科學《科學新領域》｜1 地球的結構",
+     "verified": true
     },
     {
      "type": "mc",
@@ -3159,7 +5428,15 @@ window.QUESTION_BANK = {
       "三者一樣",
       "沙土"
      ],
-     "explain": "沙土顆粒大，排水最快；黏土最慢。"
+     "explain": "沙土顆粒大，排水最快；黏土最慢。",
+     "id": "SCI-P4-L01-005",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "哪一種土壤排水能力最好？",
+     "source": "research.md §5 科學《科學新領域》｜1 地球的結構",
+     "verified": true
     },
     {
      "type": "mc",
@@ -3171,9 +5448,19 @@ window.QUESTION_BANK = {
       "衣服",
       "燃料"
      ],
-     "explain": "花崗岩堅硬，用作建築材料。"
+     "explain": "花崗岩堅硬，用作建築材料。",
+     "id": "SCI-P4-L01-006",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "花崗岩常用作：",
+     "source": "research.md §5 科學《科學新領域》｜1 地球的結構",
+     "verified": true
     }
-   ]
+   ],
+   "lesson": "L01",
+   "verified": true
   },
   {
    "id": "p4s2",
@@ -3191,7 +5478,15 @@ window.QUESTION_BANK = {
       "一年",
       "一天（24小時）"
      ],
-     "explain": "地球自轉一周約24小時。"
+     "explain": "地球自轉一周約24小時。",
+     "id": "SCI-P4-L02-001",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "地球自轉一周大約需要：",
+     "source": "research.md §5 科學《科學新領域》｜2 轉動的地球",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3203,7 +5498,15 @@ window.QUESTION_BANK = {
       "太陽熄滅",
       "地球變大"
      ],
-     "explain": "地球自轉，面向太陽是白天。"
+     "explain": "地球自轉，面向太陽是白天。",
+     "id": "SCI-P4-L02-002",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "日夜交替是因為：",
+     "source": "research.md §5 科學《科學新領域》｜2 轉動的地球",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3215,7 +5518,15 @@ window.QUESTION_BANK = {
       "一年",
       "一天"
      ],
-     "explain": "公轉一周約365天。"
+     "explain": "公轉一周約365天。",
+     "id": "SCI-P4-L02-003",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "地球公轉（環繞太陽）一周大約需要：",
+     "source": "research.md §5 科學《科學新領域》｜2 轉動的地球",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3227,15 +5538,33 @@ window.QUESTION_BANK = {
       "南",
       "西"
      ],
-     "explain": "地球由西向東自轉，太陽看似從東方升起。"
+     "explain": "地球由西向東自轉，太陽看似從東方升起。",
+     "id": "SCI-P4-L02-004",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "太陽從哪個方向升起？",
+     "source": "research.md §5 科學《科學新領域》｜2 轉動的地球",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "面向太陽的一面是白天。",
      "answer": true,
-     "explain": "背向太陽的一面是黑夜。"
+     "explain": "背向太陽的一面是黑夜。",
+     "id": "SCI-P4-L02-005",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "面向太陽的一面是白天。",
+     "source": "research.md §5 科學《科學新領域》｜2 轉動的地球",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L02",
+   "verified": false
   },
   {
    "id": "p4s3",
@@ -3253,7 +5582,15 @@ window.QUESTION_BANK = {
       "雨量計",
       "尺"
      ],
-     "explain": "溫度計量度氣溫。"
+     "explain": "溫度計量度氣溫。",
+     "id": "SCI-P4-L03-001",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "量度氣溫用：",
+     "source": "research.md §5 科學《科學新領域》｜3 天氣和氣候",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3265,7 +5602,15 @@ window.QUESTION_BANK = {
       "秤",
       "放大鏡"
      ],
-     "explain": "雨量計量度雨量。"
+     "explain": "雨量計量度雨量。",
+     "id": "SCI-P4-L03-002",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "量度雨量用：",
+     "source": "research.md §5 科學《科學新領域》｜3 天氣和氣候",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3277,7 +5622,15 @@ window.QUESTION_BANK = {
       "非常乾旱",
       "下雪"
      ],
-     "explain": "香港夏天炎熱潮濕多雨。"
+     "explain": "香港夏天炎熱潮濕多雨。",
+     "id": "SCI-P4-L03-003",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "香港的夏季天氣通常：",
+     "source": "research.md §5 科學《科學新領域》｜3 天氣和氣候",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3289,15 +5642,33 @@ window.QUESTION_BANK = {
       "天氣指很多年",
       "兩者完全一樣"
      ],
-     "explain": "天氣是短時間，氣候是長期平均。"
+     "explain": "天氣是短時間，氣候是長期平均。",
+     "id": "SCI-P4-L03-004",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "「天氣」和「氣候」的分別是：",
+     "source": "research.md §5 科學《科學新領域》｜3 天氣和氣候",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "八號風球時應留在室內。",
      "answer": true,
-     "explain": "颱風時留在安全的室內。"
+     "explain": "颱風時留在安全的室內。",
+     "id": "SCI-P4-L03-005",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "八號風球時應留在室內。",
+     "source": "research.md §5 科學《科學新領域》｜3 天氣和氣候",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L03",
+   "verified": false
   },
   {
    "id": "p4s4",
@@ -3315,7 +5686,15 @@ window.QUESTION_BANK = {
       "水中生活",
       "森林"
      ],
-     "explain": "厚毛可保暖。"
+     "explain": "厚毛可保暖。",
+     "id": "SCI-P4-L04-001",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "北極熊有厚厚的毛，是為了適應：",
+     "source": "research.md §5 科學《科學新領域》｜4 動植物與環境",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3327,7 +5706,15 @@ window.QUESTION_BANK = {
       "跑得快",
       "吸引蜜蜂"
      ],
-     "explain": "沙漠缺水，針狀葉減少水分散失。"
+     "explain": "沙漠缺水，針狀葉減少水分散失。",
+     "id": "SCI-P4-L04-002",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "仙人掌的葉變成針刺，可以：",
+     "source": "research.md §5 科學《科學新領域》｜4 動植物與環境",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3339,7 +5726,15 @@ window.QUESTION_BANK = {
       "沙漠",
       "海洋"
      ],
-     "explain": "駱駝能長時間不喝水。"
+     "explain": "駱駝能長時間不喝水。",
+     "id": "SCI-P4-L04-003",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "駱駝適合生活在：",
+     "source": "research.md §5 科學《科學新領域》｜4 動植物與環境",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3351,15 +5746,33 @@ window.QUESTION_BANK = {
       "鰓和鰭",
       "殼和觸角"
      ],
-     "explain": "鰓呼吸，鰭游泳。"
+     "explain": "鰓呼吸，鰭游泳。",
+     "id": "SCI-P4-L04-004",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "魚用甚麼適應水中生活？",
+     "source": "research.md §5 科學《科學新領域》｜4 動植物與環境",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "所有動植物都可以在任何環境生存。",
      "answer": false,
-     "explain": "動植物有不同的適應特徵。"
+     "explain": "動植物有不同的適應特徵。",
+     "id": "SCI-P4-L04-005",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "所有動植物都可以在任何環境生存。",
+     "source": "research.md §5 科學《科學新領域》｜4 動植物與環境",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L04",
+   "verified": false
   },
   {
    "id": "p4s5",
@@ -3375,7 +5788,20 @@ window.QUESTION_BANK = {
       "兔",
       "狐狸"
      ],
-     "explain": "草被兔吃，兔被狐狸吃。"
+     "explain": "草被兔吃，兔被狐狸吃。",
+     "answer": [
+      "草",
+      "兔",
+      "狐狸"
+     ],
+     "id": "SCI-P4-L05-001",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "排出食物鏈（被吃的在前）。",
+     "source": "research.md §5 科學《科學新領域》｜5 大自然的平衡",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3387,7 +5813,15 @@ window.QUESTION_BANK = {
       "植物",
       "石頭"
      ],
-     "explain": "植物是生產者，製造養料。"
+     "explain": "植物是生產者，製造養料。",
+     "id": "SCI-P4-L05-002",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "食物鏈的起點通常是：",
+     "source": "research.md §5 科學《科學新領域》｜5 大自然的平衡",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3399,7 +5833,15 @@ window.QUESTION_BANK = {
       "破壞大自然的平衡",
       "沒有影響"
      ],
-     "explain": "生物互相依存。"
+     "explain": "生物互相依存。",
+     "id": "SCI-P4-L05-003",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "如果一種動物被大量捕殺，會：",
+     "source": "research.md §5 科學《科學新領域》｜5 大自然的平衡",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3411,15 +5853,33 @@ window.QUESTION_BANK = {
       "生產者",
       "分解者"
      ],
-     "explain": "植物自己製造養料，是生產者。"
+     "explain": "植物自己製造養料，是生產者。",
+     "id": "SCI-P4-L05-004",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "植物在食物鏈中稱為：",
+     "source": "research.md §5 科學《科學新領域》｜5 大自然的平衡",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "保護環境可以維持大自然的平衡。",
      "answer": true,
-     "explain": "人類要保護自然。"
+     "explain": "人類要保護自然。",
+     "id": "SCI-P4-L05-005",
+     "grade": "P4",
+     "subject": "sci",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "保護環境可以維持大自然的平衡。",
+     "source": "research.md §5 科學《科學新領域》｜5 大自然的平衡",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L05",
+   "verified": false
   },
   {
    "id": "p5s1",
@@ -3437,7 +5897,15 @@ window.QUESTION_BANK = {
       "二氧化碳",
       "水蒸氣"
      ],
-     "explain": "呼吸時吸入氧氣，呼出二氧化碳。"
+     "explain": "呼吸時吸入氧氣，呼出二氧化碳。",
+     "id": "SCI-P5-L01-001",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "人體吸入空氣中的：",
+     "source": "research.md §5 科學《科學新領域》｜1 呼吸和消化",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3449,7 +5917,15 @@ window.QUESTION_BANK = {
       "肺",
       "胃"
      ],
-     "explain": "肺是呼吸器官。"
+     "explain": "肺是呼吸器官。",
+     "id": "SCI-P5-L01-002",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "呼吸時，氣體交換在哪個器官進行？",
+     "source": "research.md §5 科學《科學新領域》｜1 呼吸和消化",
+     "verified": false
     },
     {
      "type": "order",
@@ -3461,7 +5937,22 @@ window.QUESTION_BANK = {
       "小腸",
       "大腸"
      ],
-     "explain": "口腔→食道→胃→小腸→大腸。"
+     "explain": "口腔→食道→胃→小腸→大腸。",
+     "answer": [
+      "口腔",
+      "食道",
+      "胃",
+      "小腸",
+      "大腸"
+     ],
+     "id": "SCI-P5-L01-003",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "排出食物經過消化系統的次序。",
+     "source": "research.md §5 科學《科學新領域》｜1 呼吸和消化",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3473,7 +5964,15 @@ window.QUESTION_BANK = {
       "食道",
       "口腔"
      ],
-     "explain": "小腸吸收養分。"
+     "explain": "小腸吸收養分。",
+     "id": "SCI-P5-L01-004",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "主要吸收養分的器官是：",
+     "source": "research.md §5 科學《科學新領域》｜1 呼吸和消化",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3485,15 +5984,33 @@ window.QUESTION_BANK = {
       "血液",
       "骨骼"
      ],
-     "explain": "大腸吸收水分。"
+     "explain": "大腸吸收水分。",
+     "id": "SCI-P5-L01-005",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "大腸主要吸收：",
+     "source": "research.md §5 科學《科學新領域》｜1 呼吸和消化",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "吸煙會損害肺部。",
      "answer": true,
-     "explain": "吸煙有害呼吸系統。"
+     "explain": "吸煙有害呼吸系統。",
+     "id": "SCI-P5-L01-006",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "吸煙會損害肺部。",
+     "source": "research.md §5 科學《科學新領域》｜1 呼吸和消化",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L01",
+   "verified": false
   },
   {
    "id": "p5s2",
@@ -3510,7 +6027,21 @@ window.QUESTION_BANK = {
       "蛹",
       "成蟲"
      ],
-     "explain": "蝴蝶：卵、幼蟲、蛹、成蟲。"
+     "explain": "蝴蝶：卵、幼蟲、蛹、成蟲。",
+     "answer": [
+      "卵",
+      "幼蟲",
+      "蛹",
+      "成蟲"
+     ],
+     "id": "SCI-P5-L02-001",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "理解",
+     "question": "排出蝴蝶的生命周期。",
+     "source": "research.md §5 科學《科學新領域》｜2 生殖與發育",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3522,7 +6053,15 @@ window.QUESTION_BANK = {
       "不再變化",
       "變矮"
      ],
-     "explain": "青春期身體出現第二性徵。"
+     "explain": "青春期身體出現第二性徵。",
+     "id": "SCI-P5-L02-002",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "青春期時，身體會：",
+     "source": "research.md §5 科學《科學新領域》｜2 生殖與發育",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3534,7 +6073,15 @@ window.QUESTION_BANK = {
       "肺",
       "心臟"
      ],
-     "explain": "胎兒在子宮內發育。"
+     "explain": "胎兒在子宮內發育。",
+     "id": "SCI-P5-L02-003",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "人類胎兒在母親哪個器官內發育？",
+     "source": "research.md §5 科學《科學新領域》｜2 生殖與發育",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3546,15 +6093,33 @@ window.QUESTION_BANK = {
       "直接生出小雞（胎生）",
       "種子"
      ],
-     "explain": "雞是卵生動物。"
+     "explain": "雞是卵生動物。",
+     "id": "SCI-P5-L02-004",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "雞是用甚麼方式繁殖？",
+     "source": "research.md §5 科學《科學新領域》｜2 生殖與發育",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "青蛙的生命周期包括蝌蚪階段。",
      "answer": true,
-     "explain": "卵→蝌蚪→幼蛙→成蛙。"
+     "explain": "卵→蝌蚪→幼蛙→成蛙。",
+     "id": "SCI-P5-L02-005",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "青蛙的生命周期包括蝌蚪階段。",
+     "source": "research.md §5 科學《科學新領域》｜2 生殖與發育",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L02",
+   "verified": false
   },
   {
    "id": "p5s3",
@@ -3572,7 +6137,15 @@ window.QUESTION_BANK = {
       "只在水中佔空間",
       "只在晚上佔空間"
      ],
-     "explain": "空氣佔有空間。"
+     "explain": "空氣佔有空間。",
+     "id": "SCI-P5-L03-001",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "空氣佔有空間嗎？",
+     "source": "research.md §5 科學《科學新領域》｜3 空氣的特性",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3584,7 +6157,15 @@ window.QUESTION_BANK = {
       "沒有",
       "只有熱空氣有"
      ],
-     "explain": "空氣有重量。"
+     "explain": "空氣有重量。",
+     "id": "SCI-P5-L03-002",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "空氣有重量嗎？",
+     "source": "research.md §5 科學《科學新領域》｜3 空氣的特性",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3596,7 +6177,15 @@ window.QUESTION_BANK = {
       "變成水",
       "消失"
      ],
-     "explain": "熱空氣膨脹。"
+     "explain": "熱空氣膨脹。",
+     "id": "SCI-P5-L03-003",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "空氣受熱後會：",
+     "source": "research.md §5 科學《科學新領域》｜3 空氣的特性",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3608,13 +6197,29 @@ window.QUESTION_BANK = {
       "水蒸氣",
       "二氧化碳"
      ],
-     "explain": "燃燒需要氧氣。"
+     "explain": "燃燒需要氧氣。",
+     "id": "SCI-P5-L03-004",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "燃燒需要空氣中的：",
+     "source": "research.md §5 科學《科學新領域》｜3 空氣的特性",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "空氣可以被看見。",
      "answer": false,
-     "explain": "空氣無色、看不見。"
+     "explain": "空氣無色、看不見。",
+     "id": "SCI-P5-L03-005",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "空氣可以被看見。",
+     "source": "research.md §5 科學《科學新領域》｜3 空氣的特性",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3626,9 +6231,19 @@ window.QUESTION_BANK = {
       "只有冷空氣可以",
       "可以"
      ],
-     "explain": "空氣可以被壓縮，例如打氣筒。"
+     "explain": "空氣可以被壓縮，例如打氣筒。",
+     "id": "SCI-P5-L03-006",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "空氣可以被壓縮嗎？",
+     "source": "research.md §5 科學《科學新領域》｜3 空氣的特性",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L03",
+   "verified": false
   },
   {
    "id": "p5s4",
@@ -3646,7 +6261,15 @@ window.QUESTION_BANK = {
       "冰融化成水",
       "煎蛋"
      ],
-     "explain": "水可以再結成冰。"
+     "explain": "水可以再結成冰。",
+     "id": "SCI-P5-L04-001",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "以下哪個是可逆轉的變化？",
+     "source": "research.md §5 科學《科學新領域》｜4 可逆轉和不可逆轉的變化",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3658,7 +6281,15 @@ window.QUESTION_BANK = {
       "水結冰",
       "水蒸發"
      ],
-     "explain": "木燒成灰不能變回木。"
+     "explain": "木燒成灰不能變回木。",
+     "id": "SCI-P5-L04-002",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "以下哪個是不可逆轉的變化？",
+     "source": "research.md §5 科學《科學新領域》｜4 可逆轉和不可逆轉的變化",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3670,21 +6301,47 @@ window.QUESTION_BANK = {
       "沒有變化",
       "可逆轉的變化"
      ],
-     "explain": "鐵鏽不能變回鐵。"
+     "explain": "鐵鏽不能變回鐵。",
+     "id": "SCI-P5-L04-003",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "鐵生鏽是：",
+     "source": "research.md §5 科學《科學新領域》｜4 可逆轉和不可逆轉的變化",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "水蒸發成水蒸氣是可逆轉的變化。",
      "answer": true,
-     "explain": "水蒸氣遇冷凝結成水。"
+     "explain": "水蒸氣遇冷凝結成水。",
+     "id": "SCI-P5-L04-004",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "水蒸發成水蒸氣是可逆轉的變化。",
+     "source": "research.md §5 科學《科學新領域》｜4 可逆轉和不可逆轉的變化",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "煮熟的雞蛋可以變回生雞蛋。",
      "answer": false,
-     "explain": "煮蛋是不可逆轉的變化。"
+     "explain": "煮蛋是不可逆轉的變化。",
+     "id": "SCI-P5-L04-005",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "煮熟的雞蛋可以變回生雞蛋。",
+     "source": "research.md §5 科學《科學新領域》｜4 可逆轉和不可逆轉的變化",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L04",
+   "verified": false
   },
   {
    "id": "p5s5",
@@ -3702,7 +6359,15 @@ window.QUESTION_BANK = {
       "放大鏡就夠",
       "溫度計"
      ],
-     "explain": "微生物太小，要用顯微鏡。"
+     "explain": "微生物太小，要用顯微鏡。",
+     "id": "SCI-P5-L05-001",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "觀察微生物要用：",
+     "source": "research.md §5 科學《科學新領域》｜5 顯微鏡下的微生物",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3714,7 +6379,15 @@ window.QUESTION_BANK = {
       "石頭",
       "花"
      ],
-     "explain": "霉菌是微生物。"
+     "explain": "霉菌是微生物。",
+     "id": "SCI-P5-L05-002",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "麵包放久了會生出：",
+     "source": "research.md §5 科學《科學新領域》｜5 顯微鏡下的微生物",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3726,7 +6399,15 @@ window.QUESTION_BANK = {
       "霉菌",
       "病毒"
      ],
-     "explain": "酵母菌令麵團發脹。"
+     "explain": "酵母菌令麵團發脹。",
+     "id": "SCI-P5-L05-003",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "製作麵包用到哪種微生物？",
+     "source": "research.md §5 科學《科學新領域》｜5 顯微鏡下的微生物",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3738,21 +6419,47 @@ window.QUESTION_BANK = {
       "不加蓋",
       "放在濕的地方"
      ],
-     "explain": "低溫減慢微生物生長。"
+     "explain": "低溫減慢微生物生長。",
+     "id": "SCI-P5-L05-004",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "防止食物變壞，可以：",
+     "source": "research.md §5 科學《科學新領域》｜5 顯微鏡下的微生物",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "有些微生物對人有益。",
      "answer": true,
-     "explain": "例如酵母菌、乳酸菌。"
+     "explain": "例如酵母菌、乳酸菌。",
+     "id": "SCI-P5-L05-005",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "有些微生物對人有益。",
+     "source": "research.md §5 科學《科學新領域》｜5 顯微鏡下的微生物",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "所有微生物都會令人生病。",
      "answer": false,
-     "explain": "有些有益，有些有害。"
+     "explain": "有些有益，有些有害。",
+     "id": "SCI-P5-L05-006",
+     "grade": "P5",
+     "subject": "sci",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "所有微生物都會令人生病。",
+     "source": "research.md §5 科學《科學新領域》｜5 顯微鏡下的微生物",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L05",
+   "verified": false
   },
   {
    "id": "p4h1",
@@ -3770,7 +6477,15 @@ window.QUESTION_BANK = {
       "不告訴家人",
       "甚麼都不準備"
      ],
-     "explain": "考察前先定目的和計劃。"
+     "explain": "考察前先定目的和計劃。",
+     "id": "HUM-P4-L01-001",
+     "grade": "P4",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "實地考察前，我們應該：",
+     "source": "research.md §4 人文《今日人文》｜第1課 小小考察隊",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3782,7 +6497,15 @@ window.QUESTION_BANK = {
       "寫筆記",
       "繪畫草圖"
      ],
-     "explain": "拍照、筆記、繪圖都是記錄方法。"
+     "explain": "拍照、筆記、繪圖都是記錄方法。",
+     "id": "HUM-P4-L01-002",
+     "grade": "P4",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "考察時用來記錄的方法不包括：",
+     "source": "research.md §4 人文《今日人文》｜第1課 小小考察隊",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3794,21 +6517,47 @@ window.QUESTION_BANK = {
       "天氣",
       "廣告"
      ],
-     "explain": "指向標和圖例幫助讀地圖。"
+     "explain": "指向標和圖例幫助讀地圖。",
+     "id": "HUM-P4-L01-003",
+     "grade": "P4",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "考察時看地圖要先看：",
+     "source": "research.md §4 人文《今日人文》｜第1課 小小考察隊",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "考察時要注意安全，遵守規則。",
      "answer": true,
-     "explain": "安全第一。"
+     "explain": "安全第一。",
+     "id": "HUM-P4-L01-004",
+     "grade": "P4",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "考察時要注意安全，遵守規則。",
+     "source": "research.md §4 人文《今日人文》｜第1課 小小考察隊",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "考察後不用整理資料。",
      "answer": false,
-     "explain": "考察後要整理資料，作出結論。"
+     "explain": "考察後要整理資料，作出結論。",
+     "id": "HUM-P4-L01-005",
+     "grade": "P4",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "考察後不用整理資料。",
+     "source": "research.md §4 人文《今日人文》｜第1課 小小考察隊",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L01",
+   "verified": false
   },
   {
    "id": "p4h2",
@@ -3826,7 +6575,15 @@ window.QUESTION_BANK = {
       "中環、旺角、沙田",
       "東區、西區、南區"
      ],
-     "explain": "香港分為香港島、九龍和新界（包括離島）。"
+     "explain": "香港分為香港島、九龍和新界（包括離島）。",
+     "id": "HUM-P4-L02-001",
+     "grade": "P4",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "香港主要由哪三部分組成？",
+     "source": "research.md §4 人文《今日人文》｜第2課 漫遊香港",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3838,7 +6595,15 @@ window.QUESTION_BANK = {
       "沙田",
       "東區（香港島）"
      ],
-     "explain": "愛秩序灣位於香港島東區。"
+     "explain": "愛秩序灣位於香港島東區。",
+     "id": "HUM-P4-L02-002",
+     "grade": "P4",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "愛秩序灣在哪一區？",
+     "source": "research.md §4 人文《今日人文》｜第2課 漫遊香港",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3850,7 +6615,15 @@ window.QUESTION_BANK = {
       "大嶼山",
       "長洲"
      ],
-     "explain": "大嶼山是香港最大的島。"
+     "explain": "大嶼山是香港最大的島。",
+     "id": "HUM-P4-L02-003",
+     "grade": "P4",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "香港面積最大的島嶼是：",
+     "source": "research.md §4 人文《今日人文》｜第2課 漫遊香港",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3862,7 +6635,15 @@ window.QUESTION_BANK = {
       "大帽山",
       "飛鵝山"
      ],
-     "explain": "大帽山約957米，是香港最高的山。"
+     "explain": "大帽山約957米，是香港最高的山。",
+     "id": "HUM-P4-L02-004",
+     "grade": "P4",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "香港最高的山是：",
+     "source": "research.md §4 人文《今日人文》｜第2課 漫遊香港",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3874,9 +6655,19 @@ window.QUESTION_BANK = {
       "吐露港",
       "維多利亞港"
      ],
-     "explain": "維多利亞港在港島和九龍之間。"
+     "explain": "維多利亞港在港島和九龍之間。",
+     "id": "HUM-P4-L02-005",
+     "grade": "P4",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "分隔香港島和九龍的是：",
+     "source": "research.md §4 人文《今日人文》｜第2課 漫遊香港",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L02",
+   "verified": false
   },
   {
    "id": "p4h3",
@@ -3894,7 +6685,15 @@ window.QUESTION_BANK = {
       "亞熱帶氣候",
       "寒帶氣候"
      ],
-     "explain": "香港屬亞熱帶季風氣候。"
+     "explain": "香港屬亞熱帶季風氣候。",
+     "id": "HUM-P4-L03-001",
+     "grade": "P4",
+     "subject": "hum",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "香港屬於哪種氣候？",
+     "source": "research.md §4 人文《今日人文》｜第3課 香港的氣候",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3906,7 +6705,15 @@ window.QUESTION_BANK = {
       "寒冷乾燥",
       "非常乾旱"
      ],
-     "explain": "夏季炎熱潮濕。"
+     "explain": "夏季炎熱潮濕。",
+     "id": "HUM-P4-L03-002",
+     "grade": "P4",
+     "subject": "hum",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "香港夏季天氣：",
+     "source": "research.md §4 人文《今日人文》｜第3課 香港的氣候",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3918,7 +6725,15 @@ window.QUESTION_BANK = {
       "清涼乾燥",
       "有暴風雪"
      ],
-     "explain": "冬季較涼及乾燥。"
+     "explain": "冬季較涼及乾燥。",
+     "id": "HUM-P4-L03-003",
+     "grade": "P4",
+     "subject": "hum",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "香港冬季天氣：",
+     "source": "research.md §4 人文《今日人文》｜第3課 香港的氣候",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3930,7 +6745,15 @@ window.QUESTION_BANK = {
       "夏季和秋季",
       "只在春季"
      ],
-     "explain": "颱風季主要在夏秋。"
+     "explain": "颱風季主要在夏秋。",
+     "id": "HUM-P4-L03-004",
+     "grade": "P4",
+     "subject": "hum",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "颱風多在甚麼季節影響香港？",
+     "source": "research.md §4 人文《今日人文》｜第3課 香港的氣候",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3942,9 +6765,19 @@ window.QUESTION_BANK = {
       "香港天文台",
       "圖書館"
      ],
-     "explain": "香港天文台發佈天氣報告。"
+     "explain": "香港天文台發佈天氣報告。",
+     "id": "HUM-P4-L03-005",
+     "grade": "P4",
+     "subject": "hum",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "提供天氣資訊的政府部門是：",
+     "source": "research.md §4 人文《今日人文》｜第3課 香港的氣候",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L03",
+   "verified": false
   },
   {
    "id": "p4h4",
@@ -3962,7 +6795,15 @@ window.QUESTION_BANK = {
       "冰",
       "沙漠"
      ],
-     "explain": "約七成是海洋。"
+     "explain": "約七成是海洋。",
+     "id": "HUM-P4-L04-001",
+     "grade": "P4",
+     "subject": "hum",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "地球表面大部分被甚麼覆蓋？",
+     "source": "research.md §4 人文《今日人文》｜第4課 發現地球",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3974,7 +6815,15 @@ window.QUESTION_BANK = {
       "三個",
       "七個"
      ],
-     "explain": "亞洲、非洲、北美洲、南美洲、南極洲、歐洲、大洋洲。"
+     "explain": "亞洲、非洲、北美洲、南美洲、南極洲、歐洲、大洋洲。",
+     "id": "HUM-P4-L04-002",
+     "grade": "P4",
+     "subject": "hum",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "世界上有幾個大洲？",
+     "source": "research.md §4 人文《今日人文》｜第4課 發現地球",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3986,7 +6835,15 @@ window.QUESTION_BANK = {
       "非洲",
       "亞洲"
      ],
-     "explain": "中國在亞洲。"
+     "explain": "中國在亞洲。",
+     "id": "HUM-P4-L04-003",
+     "grade": "P4",
+     "subject": "hum",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "中國位於哪個大洲？",
+     "source": "research.md §4 人文《今日人文》｜第4課 發現地球",
+     "verified": false
     },
     {
      "type": "mc",
@@ -3998,7 +6855,15 @@ window.QUESTION_BANK = {
       "北冰洋",
       "印度洋"
      ],
-     "explain": "太平洋最大。"
+     "explain": "太平洋最大。",
+     "id": "HUM-P4-L04-004",
+     "grade": "P4",
+     "subject": "hum",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "世界上最大的海洋是：",
+     "source": "research.md §4 人文《今日人文》｜第4課 發現地球",
+     "verified": false
     },
     {
      "type": "mc",
@@ -4010,9 +6875,19 @@ window.QUESTION_BANK = {
       "河流",
       "赤道"
      ],
-     "explain": "赤道把地球分為南北半球。"
+     "explain": "赤道把地球分為南北半球。",
+     "id": "HUM-P4-L04-005",
+     "grade": "P4",
+     "subject": "hum",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "地球儀上，把地球分成南北半球的是：",
+     "source": "research.md §4 人文《今日人文》｜第4課 發現地球",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L04",
+   "verified": false
   },
   {
    "id": "p2m1",
@@ -4027,7 +6902,16 @@ window.QUESTION_BANK = {
       "177"
      ],
      "explain": "1×100＋7×10＋7＝177",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L01-001",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "1個百、7個十和7個一合起來是多少？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 三位數",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4036,7 +6920,16 @@ window.QUESTION_BANK = {
       "892"
      ],
      "explain": "8×100＋9×10＋2＝892",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L01-002",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "8個百、9個十和2個一合起來是多少？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 三位數",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4046,7 +6939,16 @@ window.QUESTION_BANK = {
       "988",
       "271"
      ],
-     "explain": "先比百位，再比十位、個位，988較大。"
+     "explain": "先比百位，再比十位、個位，988較大。",
+     "id": "MATH-P2-L01-003",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "988 和 271，哪個較大？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 三位數",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4056,7 +6958,16 @@ window.QUESTION_BANK = {
       "913",
       "239"
      ],
-     "explain": "先比百位，再比十位、個位，913較大。"
+     "explain": "先比百位，再比十位、個位，913較大。",
+     "id": "MATH-P2-L01-004",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "913 和 239，哪個較大？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 三位數",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4067,7 +6978,16 @@ window.QUESTION_BANK = {
       "6",
       "8"
      ],
-     "explain": "585 的百位是 5。"
+     "explain": "585 的百位是 5。",
+     "id": "MATH-P2-L01-005",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "585 的百位數字是多少？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 三位數",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4076,9 +6996,20 @@ window.QUESTION_BANK = {
       "10"
      ],
      "explain": "10個百＝1000。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L01-006",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "一千是多少個百？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 三位數",
+     "verified": true,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L01",
+   "verified": true
   },
   {
    "id": "p2m2",
@@ -4093,7 +7024,16 @@ window.QUESTION_BANK = {
       "100"
      ],
      "explain": "每次加25。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L02-001",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "25、50、75、（ ），括號應填？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4102,7 +7042,16 @@ window.QUESTION_BANK = {
       "400"
      ],
      "explain": "每次加100。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L02-002",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "100、200、300、（ ），括號應填？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4111,7 +7060,16 @@ window.QUESTION_BANK = {
       "100"
      ],
      "explain": "每次加20。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L02-003",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "20、40、60、80、（ ），括號應填？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4120,7 +7078,16 @@ window.QUESTION_BANK = {
       "200"
      ],
      "explain": "每次加50。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L02-004",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "50、100、150、（ ），括號應填？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4132,7 +7099,16 @@ window.QUESTION_BANK = {
       "140",
       "26"
      ],
-     "explain": "20、40、60、80、100、120。"
+     "explain": "20、40、60、80、100、120。",
+     "id": "MATH-P2-L02-005",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "理解",
+     "question": "有6組，每組20粒糖，大約數數共有多少粒？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4141,9 +7117,20 @@ window.QUESTION_BANK = {
       "225"
      ],
      "explain": "每次減25。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L02-006",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "300、275、250、（ ），括號應填？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
+     "verified": true,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L02",
+   "verified": true
   },
   {
    "id": "p2m3",
@@ -4158,7 +7145,16 @@ window.QUESTION_BANK = {
       "161"
      ],
      "explain": "77＋84＝161",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L03-001",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "77 ＋ 84 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 加法(一)",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4167,7 +7163,16 @@ window.QUESTION_BANK = {
       "102"
      ],
      "explain": "57＋45＝102",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L03-002",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "57 ＋ 45 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 加法(一)",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4176,7 +7181,16 @@ window.QUESTION_BANK = {
       "106"
      ],
      "explain": "61＋45＝106",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L03-003",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "61 ＋ 45 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 加法(一)",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4185,7 +7199,16 @@ window.QUESTION_BANK = {
       "122"
      ],
      "explain": "28＋94＝122",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L03-004",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "28 ＋ 94 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 加法(一)",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4194,7 +7217,16 @@ window.QUESTION_BANK = {
       "110"
      ],
      "explain": "92＋18＝110",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L03-005",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "92 ＋ 18 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 加法(一)",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4206,9 +7238,20 @@ window.QUESTION_BANK = {
       "144",
       "154"
      ],
-     "explain": "100＋45＝145，再減1＝144。"
+     "explain": "100＋45＝145，再減1＝144。",
+     "id": "MATH-P2-L03-006",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "99＋45 用巧算：先算 100＋45 再…",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 加法(一)",
+     "verified": true,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L03",
+   "verified": true
   },
   {
    "id": "p2m4",
@@ -4223,7 +7266,16 @@ window.QUESTION_BANK = {
       "644"
      ],
      "explain": "342＋302＝644",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L04-001",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "342 ＋ 302 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4232,7 +7284,16 @@ window.QUESTION_BANK = {
       "841"
      ],
      "explain": "387＋454＝841",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L04-002",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "387 ＋ 454 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4241,7 +7302,16 @@ window.QUESTION_BANK = {
       "717"
      ],
      "explain": "467＋250＝717",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L04-003",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "467 ＋ 250 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4250,7 +7320,16 @@ window.QUESTION_BANK = {
       "804"
      ],
      "explain": "482＋322＝804",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L04-004",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "482 ＋ 322 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4259,7 +7338,16 @@ window.QUESTION_BANK = {
       "824"
      ],
      "explain": "380＋444＝824",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L04-005",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "380 ＋ 444 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4268,9 +7356,20 @@ window.QUESTION_BANK = {
       "678"
      ],
      "explain": "284＋394＝678",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L04-006",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "284 ＋ 394 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
+     "verified": true,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L04",
+   "verified": true
   },
   {
    "id": "p2m5",
@@ -4285,7 +7384,16 @@ window.QUESTION_BANK = {
       "113"
      ],
      "explain": "877－764＝113",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L05-001",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "877 － 764 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 減法",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4294,7 +7402,16 @@ window.QUESTION_BANK = {
       "3"
      ],
      "explain": "580－577＝3",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L05-002",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "580 － 577 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 減法",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4303,7 +7420,16 @@ window.QUESTION_BANK = {
       "277"
      ],
      "explain": "983－706＝277",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L05-003",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "983 － 706 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 減法",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4312,7 +7438,16 @@ window.QUESTION_BANK = {
       "53"
      ],
      "explain": "854－801＝53",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L05-004",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "854 － 801 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 減法",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4321,7 +7456,16 @@ window.QUESTION_BANK = {
       "348"
      ],
      "explain": "538－190＝348",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L05-005",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "538 － 190 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 減法",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4330,9 +7474,20 @@ window.QUESTION_BANK = {
       "172"
      ],
      "explain": "305－133＝172",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L05-006",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "305 － 133 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 減法",
+     "verified": true,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L05",
+   "verified": true
   },
   {
    "id": "p2m6",
@@ -4347,7 +7502,16 @@ window.QUESTION_BANK = {
       "269"
      ],
      "explain": "216＋53＝269",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L06-001",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "圖書館有故事書216本，又買了53本，現在共有多少本？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 加減應用題",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4356,7 +7520,16 @@ window.QUESTION_BANK = {
       "279"
      ],
      "explain": "139＋140＝279",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L06-002",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "圖書館有故事書139本，又買了140本，現在共有多少本？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 加減應用題",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4365,7 +7538,16 @@ window.QUESTION_BANK = {
       "511"
      ],
      "explain": "264＋247＝511",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L06-003",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "圖書館有故事書264本，又買了247本，現在共有多少本？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 加減應用題",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4374,7 +7556,16 @@ window.QUESTION_BANK = {
       "321"
      ],
      "explain": "576－255＝321",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L06-004",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "學校有576個學生，其中255個去旅行，留在學校的有多少個？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 加減應用題",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4383,7 +7574,16 @@ window.QUESTION_BANK = {
       "499"
      ],
      "explain": "780－281＝499",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L06-005",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "學校有780個學生，其中281個去旅行，留在學校的有多少個？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 加減應用題",
+     "verified": true,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4392,9 +7592,20 @@ window.QUESTION_BANK = {
       "308"
      ],
      "explain": "576－268＝308",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L06-006",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "學校有576個學生，其中268個去旅行，留在學校的有多少個？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 加減應用題",
+     "verified": true,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L06",
+   "verified": true
   },
   {
    "id": "p2m7",
@@ -4412,13 +7623,31 @@ window.QUESTION_BANK = {
       "直角",
       "銳角"
      ],
-     "explain": "3時正兩針成直角。"
+     "explain": "3時正兩針成直角。",
+     "id": "MATH-P2-L07-001",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L07",
+     "level": "理解",
+     "question": "時鐘3時正，兩支針形成甚麼角？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 角和直角",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "tf",
      "q": "一個角有一個頂點和兩條邊。",
      "answer": true,
-     "explain": "角由頂點和兩條邊組成。"
+     "explain": "角由頂點和兩條邊組成。",
+     "id": "MATH-P2-L07-002",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L07",
+     "level": "理解",
+     "question": "一個角有一個頂點和兩條邊。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 角和直角",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4430,13 +7659,31 @@ window.QUESTION_BANK = {
       "4",
       "0"
      ],
-     "explain": "長方形4個角都是直角。"
+     "explain": "長方形4個角都是直角。",
+     "id": "MATH-P2-L07-003",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L07",
+     "level": "理解",
+     "question": "一張長方形紙有多少個直角？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 角和直角",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "tf",
      "q": "角的大小和邊的長短有關。",
      "answer": false,
-     "explain": "角的大小只看兩條邊張開的程度。"
+     "explain": "角的大小只看兩條邊張開的程度。",
+     "id": "MATH-P2-L07-004",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L07",
+     "level": "理解",
+     "question": "角的大小和邊的長短有關。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 角和直角",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4448,7 +7695,16 @@ window.QUESTION_BANK = {
       "4",
       "3"
      ],
-     "explain": "正方形4個角都是直角。"
+     "explain": "正方形4個角都是直角。",
+     "id": "MATH-P2-L07-005",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L07",
+     "level": "理解",
+     "question": "正方形有多少個直角？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 角和直角",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4460,9 +7716,20 @@ window.QUESTION_BANK = {
       "直角",
       "銳角"
      ],
-     "explain": "三角尺有一個直角。"
+     "explain": "三角尺有一個直角。",
+     "id": "MATH-P2-L07-006",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L07",
+     "level": "理解",
+     "question": "三角尺上最大的角通常是：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 角和直角",
+     "verified": false,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L07",
+   "verified": false
   },
   {
    "id": "p2m8",
@@ -4480,19 +7747,46 @@ window.QUESTION_BANK = {
       "互相平行",
       "彎曲"
      ],
-     "explain": "相交成直角就是垂直。"
+     "explain": "相交成直角就是垂直。",
+     "id": "MATH-P2-L08-001",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L08",
+     "level": "理解",
+     "question": "兩條直線相交成直角，叫做：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 垂直線",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "tf",
      "q": "長方形相鄰的兩條邊互相垂直。",
      "answer": true,
-     "explain": "相鄰兩邊成直角。"
+     "explain": "相鄰兩邊成直角。",
+     "id": "MATH-P2-L08-002",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L08",
+     "level": "理解",
+     "question": "長方形相鄰的兩條邊互相垂直。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 垂直線",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "tf",
      "q": "互相垂直的兩條線一定不相交。",
      "answer": false,
-     "explain": "垂直線相交成直角。"
+     "explain": "垂直線相交成直角。",
+     "id": "MATH-P2-L08-003",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L08",
+     "level": "理解",
+     "question": "互相垂直的兩條線一定不相交。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 垂直線",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4504,7 +7798,16 @@ window.QUESTION_BANK = {
       "O",
       "T"
      ],
-     "explain": "T 的一橫一豎互相垂直。"
+     "explain": "T 的一橫一豎互相垂直。",
+     "id": "MATH-P2-L08-004",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L08",
+     "level": "理解",
+     "question": "哪個英文字母有互相垂直的線？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 垂直線",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4516,9 +7819,20 @@ window.QUESTION_BANK = {
       "三角尺的直角",
       "溫度計"
      ],
-     "explain": "用三角尺的直角比一比。"
+     "explain": "用三角尺的直角比一比。",
+     "id": "MATH-P2-L08-005",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L08",
+     "level": "理解",
+     "question": "檢查兩條線是否垂直，可以用：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 垂直線",
+     "verified": false,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L08",
+   "verified": false
   },
   {
    "id": "p2m9",
@@ -4536,7 +7850,16 @@ window.QUESTION_BANK = {
       "銳角",
       "鈍角"
      ],
-     "explain": "小於直角是銳角。"
+     "explain": "小於直角是銳角。",
+     "id": "MATH-P2-L09-001",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L09",
+     "level": "理解",
+     "question": "比直角小的角叫：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 銳角和鈍角",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4548,7 +7871,16 @@ window.QUESTION_BANK = {
       "鈍角",
       "銳角"
      ],
-     "explain": "大於直角是鈍角。"
+     "explain": "大於直角是鈍角。",
+     "id": "MATH-P2-L09-002",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L09",
+     "level": "理解",
+     "question": "比直角大（但小於一直線）的角叫：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 銳角和鈍角",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4560,7 +7892,16 @@ window.QUESTION_BANK = {
       "銳角",
       "直角"
      ],
-     "explain": "1時兩針張開很小，是銳角。"
+     "explain": "1時兩針張開很小，是銳角。",
+     "id": "MATH-P2-L09-003",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L09",
+     "level": "理解",
+     "question": "時鐘1時正，兩支針形成甚麼角？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 銳角和鈍角",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4572,13 +7913,31 @@ window.QUESTION_BANK = {
       "銳角",
       "沒有角"
      ],
-     "explain": "5時兩針張開比直角大。"
+     "explain": "5時兩針張開比直角大。",
+     "id": "MATH-P2-L09-004",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L09",
+     "level": "理解",
+     "question": "時鐘5時正，兩支針形成甚麼角？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 銳角和鈍角",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "tf",
      "q": "銳角比鈍角小。",
      "answer": true,
-     "explain": "銳角＜直角＜鈍角。"
+     "explain": "銳角＜直角＜鈍角。",
+     "id": "MATH-P2-L09-005",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L09",
+     "level": "理解",
+     "question": "銳角比鈍角小。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 銳角和鈍角",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4590,9 +7949,20 @@ window.QUESTION_BANK = {
       "銳角",
       "都不是"
      ],
-     "explain": "正方形4個直角。"
+     "explain": "正方形4個直角。",
+     "id": "MATH-P2-L09-006",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L09",
+     "level": "理解",
+     "question": "正方形的角是：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 銳角和鈍角",
+     "verified": false,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L09",
+   "verified": false
   },
   {
    "id": "p2m10",
@@ -4610,7 +7980,16 @@ window.QUESTION_BANK = {
       "升(L)",
       "米(m)"
      ],
-     "explain": "較長的距離用米。"
+     "explain": "較長的距離用米。",
+     "id": "MATH-P2-L10-001",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L10",
+     "level": "理解",
+     "question": "量度課室的長度，用甚麼單位最適合？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 米的認識(一)",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4619,13 +7998,31 @@ window.QUESTION_BANK = {
       "100"
      ],
      "explain": "1m＝100cm。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L10-002",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L10",
+     "level": "應用",
+     "question": "1米＝（ ）厘米",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 米的認識(一)",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "tf",
      "q": "1米比1厘米長。",
      "answer": true,
-     "explain": "1米＝100厘米。"
+     "explain": "1米＝100厘米。",
+     "id": "MATH-P2-L10-003",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L10",
+     "level": "理解",
+     "question": "1米比1厘米長。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 米的認識(一)",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4637,7 +8034,16 @@ window.QUESTION_BANK = {
       "200米",
       "2厘米"
      ],
-     "explain": "門大約2米高。"
+     "explain": "門大約2米高。",
+     "id": "MATH-P2-L10-004",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L10",
+     "level": "理解",
+     "question": "一扇門大約高多少？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 米的認識(一)",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4649,9 +8055,20 @@ window.QUESTION_BANK = {
       "米",
       "克"
      ],
-     "explain": "長距離用米。"
+     "explain": "長距離用米。",
+     "id": "MATH-P2-L10-005",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L10",
+     "level": "理解",
+     "question": "量度一條長跑道，用：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 米的認識(一)",
+     "verified": false,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L10",
+   "verified": false
   },
   {
    "id": "p2m11",
@@ -4666,7 +8083,16 @@ window.QUESTION_BANK = {
       "489"
      ],
      "explain": "4米＝400厘米，再加89厘米。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L11-001",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L11",
+     "level": "應用",
+     "question": "4米89厘米＝（ ）厘米",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4675,7 +8101,16 @@ window.QUESTION_BANK = {
       "195"
      ],
      "explain": "1米＝100厘米，再加95厘米。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L11-002",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L11",
+     "level": "應用",
+     "question": "1米95厘米＝（ ）厘米",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4684,7 +8119,16 @@ window.QUESTION_BANK = {
       "263"
      ],
      "explain": "2米＝200厘米，再加63厘米。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L11-003",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L11",
+     "level": "應用",
+     "question": "2米63厘米＝（ ）厘米",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4693,7 +8137,16 @@ window.QUESTION_BANK = {
       "2"
      ],
      "explain": "6－4＝2",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L11-004",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L11",
+     "level": "應用",
+     "question": "繩子長6米，剪去4米，剩下多少米？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4702,7 +8155,16 @@ window.QUESTION_BANK = {
       "3"
      ],
      "explain": "100厘米＝1米。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L11-005",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L11",
+     "level": "應用",
+     "question": "300厘米＝（ ）米",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4714,9 +8176,20 @@ window.QUESTION_BANK = {
       "1米",
       "99厘米"
      ],
-     "explain": "2米＝200厘米，最長。"
+     "explain": "2米＝200厘米，最長。",
+     "id": "MATH-P2-L11-006",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L11",
+     "level": "理解",
+     "question": "哪個最長？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
+     "verified": false,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L11",
+   "verified": false
   },
   {
    "id": "p2m18",
@@ -4726,7 +8199,7 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "mc",
-     "q": "時針指着2和3之間（或剛好2），分針指着1。現在是幾時幾分？",
+     "q": "時針在2和3之間，分針指着1。現在是幾時幾分？",
      "answer": "2時5分",
      "options": [
       "2時5分",
@@ -4734,11 +8207,20 @@ window.QUESTION_BANK = {
       "2時20分",
       "2時35分"
      ],
-     "explain": "分針指1表示5分。"
+     "explain": "分針指1表示5分。",
+     "id": "MATH-P2-L18-001",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L18",
+     "level": "理解",
+     "question": "時針在2和3之間，分針指着1。現在是幾時幾分？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 報時",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
-     "q": "時針指着6和7之間（或剛好6），分針指着7。現在是幾時幾分？",
+     "q": "時針在6和7之間，分針指着7。現在是幾時幾分？",
      "answer": "6時35分",
      "options": [
       "6時5分",
@@ -4746,11 +8228,20 @@ window.QUESTION_BANK = {
       "6時35分",
       "6時50分"
      ],
-     "explain": "分針指7表示35分。"
+     "explain": "分針指7表示35分。",
+     "id": "MATH-P2-L18-002",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L18",
+     "level": "理解",
+     "question": "時針在6和7之間，分針指着7。現在是幾時幾分？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 報時",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
-     "q": "時針指着2和3之間（或剛好2），分針指着2。現在是幾時幾分？",
+     "q": "時針在2和3之間，分針指着2。現在是幾時幾分？",
      "answer": "2時10分",
      "options": [
       "3時10分",
@@ -4758,7 +8249,16 @@ window.QUESTION_BANK = {
       "2時40分",
       "2時25分"
      ],
-     "explain": "分針指2表示10分。"
+     "explain": "分針指2表示10分。",
+     "id": "MATH-P2-L18-003",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L18",
+     "level": "理解",
+     "question": "時針在2和3之間，分針指着2。現在是幾時幾分？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 報時",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4767,7 +8267,16 @@ window.QUESTION_BANK = {
       "30"
      ],
      "explain": "每個數字代表5分鐘，6×5＝30。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L18-004",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L18",
+     "level": "應用",
+     "question": "分針由12走到6，經過了多少分鐘？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 報時",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4776,7 +8285,16 @@ window.QUESTION_BANK = {
       "60"
      ],
      "explain": "1小時有60分鐘。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L18-005",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L18",
+     "level": "應用",
+     "question": "1小時＝（ ）分鐘",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 報時",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4788,9 +8306,20 @@ window.QUESTION_BANK = {
       "3時15分",
       "3時30分"
      ],
-     "explain": "半小時＝30分。"
+     "explain": "半小時＝30分。",
+     "id": "MATH-P2-L18-006",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L18",
+     "level": "理解",
+     "question": "「3時半」即是：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 報時",
+     "verified": false,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L18",
+   "verified": false
   },
   {
    "id": "p2m19",
@@ -4805,7 +8334,16 @@ window.QUESTION_BANK = {
       "40"
      ],
      "explain": "由開始到結束共40分鐘。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L19-001",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L19",
+     "level": "應用",
+     "question": "活動由15時正開始，15時40分結束，共用了多少分鐘？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 活動時間",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4814,7 +8352,16 @@ window.QUESTION_BANK = {
       "45"
      ],
      "explain": "由開始到結束共45分鐘。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L19-002",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L19",
+     "level": "應用",
+     "question": "活動由14時20分開始，15時5分結束，共用了多少分鐘？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 活動時間",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4823,7 +8370,16 @@ window.QUESTION_BANK = {
       "10"
      ],
      "explain": "由開始到結束共10分鐘。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L19-003",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L19",
+     "level": "應用",
+     "question": "活動由8時正開始，8時10分結束，共用了多少分鐘？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 活動時間",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4832,7 +8388,16 @@ window.QUESTION_BANK = {
       "15"
      ],
      "explain": "由開始到結束共15分鐘。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L19-004",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L19",
+     "level": "應用",
+     "question": "活動由10時15分開始，10時30分結束，共用了多少分鐘？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 活動時間",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4844,15 +8409,35 @@ window.QUESTION_BANK = {
       "下午8時",
       "凌晨3時"
      ],
-     "explain": "上學在上午。"
+     "explain": "上學在上午。",
+     "id": "MATH-P2-L19-005",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L19",
+     "level": "理解",
+     "question": "早上上學，大約是：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 活動時間",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "tf",
      "q": "下午3時比上午10時遲。",
      "answer": true,
-     "explain": "下午在上午之後。"
+     "explain": "下午在上午之後。",
+     "id": "MATH-P2-L19-006",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L19",
+     "level": "理解",
+     "question": "下午3時比上午10時遲。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 活動時間",
+     "verified": false,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L19",
+   "verified": false
   },
   {
    "id": "p2m20",
@@ -4867,7 +8452,16 @@ window.QUESTION_BANK = {
       "12"
      ],
      "explain": "一年12個月。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L20-001",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L20",
+     "level": "應用",
+     "question": "一年有多少個月？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L20 年和月",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4879,7 +8473,16 @@ window.QUESTION_BANK = {
       "9月",
       "6月"
      ],
-     "explain": "1、3、5、7、8、10、12月有31日。"
+     "explain": "1、3、5、7、8、10、12月有31日。",
+     "id": "MATH-P2-L20-002",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L20",
+     "level": "理解",
+     "question": "哪個月有31日？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L20 年和月",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4891,7 +8494,16 @@ window.QUESTION_BANK = {
       "8月",
       "12月"
      ],
-     "explain": "4、6、9、11月有30日。"
+     "explain": "4、6、9、11月有30日。",
+     "id": "MATH-P2-L20-003",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L20",
+     "level": "理解",
+     "question": "哪個月只有30日？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L20 年和月",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4900,7 +8512,16 @@ window.QUESTION_BANK = {
       "28"
      ],
      "explain": "平年2月28日，閏年29日。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L20-004",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L20",
+     "level": "應用",
+     "question": "平年的2月有多少日？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L20 年和月",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "mc",
@@ -4912,7 +8533,16 @@ window.QUESTION_BANK = {
       "12月",
       "5月"
      ],
-     "explain": "3月之後是4月。"
+     "explain": "3月之後是4月。",
+     "id": "MATH-P2-L20-005",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L20",
+     "level": "理解",
+     "question": "3月的下一個月是：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L20 年和月",
+     "verified": false,
+     "readAloud": true
     },
     {
      "type": "fill",
@@ -4921,9 +8551,20 @@ window.QUESTION_BANK = {
       "365"
      ],
      "explain": "平年365日。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P2-L20-006",
+     "grade": "P2",
+     "subject": "math",
+     "lesson": "L20",
+     "level": "應用",
+     "question": "平年一年有多少日？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L20 年和月",
+     "verified": false,
+     "readAloud": true
     }
-   ]
+   ],
+   "lesson": "L20",
+   "verified": false
   },
   {
    "id": "p4m4",
@@ -4941,19 +8582,43 @@ window.QUESTION_BANK = {
       "一定有直角",
       "都不一樣長"
      ],
-     "explain": "菱形四邊相等。"
+     "explain": "菱形四邊相等。",
+     "id": "MATH-P4-L04-001",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "理解",
+     "question": "菱形的四條邊：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 菱形",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "正方形是一種特別的菱形。",
      "answer": true,
-     "explain": "正方形四邊相等，也是菱形。"
+     "explain": "正方形四邊相等，也是菱形。",
+     "id": "MATH-P4-L04-002",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "理解",
+     "question": "正方形是一種特別的菱形。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 菱形",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "菱形的四個角一定是直角。",
      "answer": false,
-     "explain": "菱形的角不一定是直角。"
+     "explain": "菱形的角不一定是直角。",
+     "id": "MATH-P4-L04-003",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "理解",
+     "question": "菱形的四個角一定是直角。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 菱形",
+     "verified": false
     },
     {
      "type": "fill",
@@ -4962,7 +8627,15 @@ window.QUESTION_BANK = {
       "32"
      ],
      "explain": "4×8＝32",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L04-004",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "菱形一條邊長8cm，周界是多少cm？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 菱形",
+     "verified": false
     },
     {
      "type": "mc",
@@ -4974,9 +8647,19 @@ window.QUESTION_BANK = {
       "互相平行",
       "互相垂直"
      ],
-     "explain": "菱形兩組對邊互相平行。"
+     "explain": "菱形兩組對邊互相平行。",
+     "id": "MATH-P4-L04-005",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "理解",
+     "question": "菱形的對邊：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 菱形",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L04",
+   "verified": false
   },
   {
    "id": "p4m5",
@@ -4988,19 +8671,43 @@ window.QUESTION_BANK = {
      "type": "tf",
      "q": "所有正方形都是長方形。",
      "answer": true,
-     "explain": "正方形有4個直角，也是長方形。"
+     "explain": "正方形有4個直角，也是長方形。",
+     "id": "MATH-P4-L05-001",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "所有正方形都是長方形。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 四邊形之間的關係",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "所有長方形都是正方形。",
      "answer": false,
-     "explain": "長方形四邊不一定相等。"
+     "explain": "長方形四邊不一定相等。",
+     "id": "MATH-P4-L05-002",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "所有長方形都是正方形。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 四邊形之間的關係",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "長方形是平行四邊形。",
      "answer": true,
-     "explain": "長方形兩組對邊平行。"
+     "explain": "長方形兩組對邊平行。",
+     "id": "MATH-P4-L05-003",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "長方形是平行四邊形。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 四邊形之間的關係",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5012,7 +8719,15 @@ window.QUESTION_BANK = {
       "正方形",
       "長方形"
      ],
-     "explain": "梯形只有一組對邊平行。"
+     "explain": "梯形只有一組對邊平行。",
+     "id": "MATH-P4-L05-004",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "只有一組對邊平行的四邊形是：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 四邊形之間的關係",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5024,9 +8739,19 @@ window.QUESTION_BANK = {
       "正方形",
       "平行四邊形"
      ],
-     "explain": "正方形。"
+     "explain": "正方形。",
+     "id": "MATH-P4-L05-005",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "四邊相等並有4個直角的是：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 四邊形之間的關係",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L05",
+   "verified": false
   },
   {
    "id": "p4m6",
@@ -5041,7 +8766,15 @@ window.QUESTION_BANK = {
       "67"
      ],
      "explain": "3×67＝201",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L06-001",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "201 ÷ 3 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 除法(一)",
+     "verified": false
     },
     {
      "type": "fill",
@@ -5050,7 +8783,15 @@ window.QUESTION_BANK = {
       "29"
      ],
      "explain": "9×29＝261",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L06-002",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "261 ÷ 9 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 除法(一)",
+     "verified": false
     },
     {
      "type": "fill",
@@ -5059,7 +8800,15 @@ window.QUESTION_BANK = {
       "18"
      ],
      "explain": "2×18＝36",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L06-003",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "36 ÷ 2 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 除法(一)",
+     "verified": false
     },
     {
      "type": "fill",
@@ -5068,7 +8817,15 @@ window.QUESTION_BANK = {
       "88"
      ],
      "explain": "2×88＝176",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L06-004",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "176 ÷ 2 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 除法(一)",
+     "verified": false
     },
     {
      "type": "fill",
@@ -5077,7 +8834,15 @@ window.QUESTION_BANK = {
       "41"
      ],
      "explain": "7×41＝287",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L06-005",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "287 ÷ 7 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 除法(一)",
+     "verified": false
     },
     {
      "type": "fill",
@@ -5086,9 +8851,19 @@ window.QUESTION_BANK = {
       "99"
      ],
      "explain": "8×99＝792",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L06-006",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "792 ÷ 8 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 除法(一)",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L06",
+   "verified": false
   },
   {
    "id": "p4m7",
@@ -5103,7 +8878,15 @@ window.QUESTION_BANK = {
       "152"
      ],
      "explain": "3×152＝456",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L07-001",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "456 ÷ 3 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 除法(二)",
+     "verified": false
     },
     {
      "type": "fill",
@@ -5112,7 +8895,15 @@ window.QUESTION_BANK = {
       "64"
      ],
      "explain": "8×64＝512",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L07-002",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "512 ÷ 8 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 除法(二)",
+     "verified": false
     },
     {
      "type": "fill",
@@ -5121,7 +8912,15 @@ window.QUESTION_BANK = {
       "291"
      ],
      "explain": "6×291＝1746",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L07-003",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "1746 ÷ 6 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 除法(二)",
+     "verified": false
     },
     {
      "type": "fill",
@@ -5130,7 +8929,15 @@ window.QUESTION_BANK = {
       "4"
      ],
      "explain": "7×70＝490，494－490＝4",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L07-004",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "494 ÷ 7 的餘數是多少？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 除法(二)",
+     "verified": false
     },
     {
      "type": "fill",
@@ -5139,7 +8946,15 @@ window.QUESTION_BANK = {
       "2"
      ],
      "explain": "4×81＝324，326－324＝2",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L07-005",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "326 ÷ 4 的餘數是多少？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 除法(二)",
+     "verified": false
     },
     {
      "type": "fill",
@@ -5148,9 +8963,19 @@ window.QUESTION_BANK = {
       "2"
      ],
      "explain": "7×56＝392，394－392＝2",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L07-006",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "394 ÷ 7 的餘數是多少？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 除法(二)",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L07",
+   "verified": false
   },
   {
    "id": "p4m8",
@@ -5165,7 +8990,15 @@ window.QUESTION_BANK = {
       "144"
      ],
      "explain": "48×3＝144",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L08-001",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "每盒有48枝筆，3盒共有多少枝？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
+     "verified": false
     },
     {
      "type": "fill",
@@ -5174,7 +9007,15 @@ window.QUESTION_BANK = {
       "141"
      ],
      "explain": "47×3＝141",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L08-002",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "每盒有47枝筆，3盒共有多少枝？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
+     "verified": false
     },
     {
      "type": "fill",
@@ -5183,7 +9024,15 @@ window.QUESTION_BANK = {
       "75"
      ],
      "explain": "25×3＝75",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L08-003",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "每盒有25枝筆，3盒共有多少枝？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
+     "verified": false
     },
     {
      "type": "fill",
@@ -5192,7 +9041,15 @@ window.QUESTION_BANK = {
       "39"
      ],
      "explain": "117÷3＝39",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L08-004",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "117個蘋果平均分給3個班，每班得多少個？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
+     "verified": false
     },
     {
      "type": "fill",
@@ -5201,7 +9058,15 @@ window.QUESTION_BANK = {
       "17"
      ],
      "explain": "51÷3＝17",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L08-005",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "51個蘋果平均分給3個班，每班得多少個？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
+     "verified": false
     },
     {
      "type": "fill",
@@ -5210,9 +9075,19 @@ window.QUESTION_BANK = {
       "20"
      ],
      "explain": "100÷5＝20",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L08-006",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "100個蘋果平均分給5個班，每班得多少個？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L08",
+   "verified": false
   },
   {
    "id": "p4m9",
@@ -5230,7 +9105,15 @@ window.QUESTION_BANK = {
       "693",
       "455"
      ],
-     "explain": "788÷2＝394，沒有餘數。"
+     "explain": "788÷2＝394，沒有餘數。",
+     "id": "MATH-P4-L09-001",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L09",
+     "level": "理解",
+     "question": "哪個數可以被2整除？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 整除性",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5242,7 +9125,15 @@ window.QUESTION_BANK = {
       "816",
       "455"
      ],
-     "explain": "816÷3＝272，沒有餘數。"
+     "explain": "816÷3＝272，沒有餘數。",
+     "id": "MATH-P4-L09-002",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L09",
+     "level": "理解",
+     "question": "哪個數可以被3整除？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 整除性",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5254,7 +9145,15 @@ window.QUESTION_BANK = {
       "351",
       "423"
      ],
-     "explain": "260÷5＝52，沒有餘數。"
+     "explain": "260÷5＝52，沒有餘數。",
+     "id": "MATH-P4-L09-003",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L09",
+     "level": "理解",
+     "question": "哪個數可以被5整除？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 整除性",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5266,7 +9165,15 @@ window.QUESTION_BANK = {
       "200",
       "570"
      ],
-     "explain": "200÷4＝50，沒有餘數。"
+     "explain": "200÷4＝50，沒有餘數。",
+     "id": "MATH-P4-L09-004",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L09",
+     "level": "理解",
+     "question": "哪個數可以被4整除？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 整除性",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5278,7 +9185,15 @@ window.QUESTION_BANK = {
       "330",
       "710"
      ],
-     "explain": "252÷9＝28，沒有餘數。"
+     "explain": "252÷9＝28，沒有餘數。",
+     "id": "MATH-P4-L09-005",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L09",
+     "level": "理解",
+     "question": "哪個數可以被9整除？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 整除性",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5290,9 +9205,19 @@ window.QUESTION_BANK = {
       "642",
       "107"
      ],
-     "explain": "180÷10＝18，沒有餘數。"
+     "explain": "180÷10＝18，沒有餘數。",
+     "id": "MATH-P4-L09-006",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L09",
+     "level": "理解",
+     "question": "哪個數可以被10整除？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 整除性",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L09",
+   "verified": false
   },
   {
    "id": "p4m11",
@@ -5310,7 +9235,15 @@ window.QUESTION_BANK = {
       "西",
       "北"
      ],
-     "explain": "北的相反是南。"
+     "explain": "北的相反是南。",
+     "id": "MATH-P4-L11-001",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L11",
+     "level": "理解",
+     "question": "面向北，向後轉，面向：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 方向(一)",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5322,7 +9255,15 @@ window.QUESTION_BANK = {
       "東",
       "西"
      ],
-     "explain": "面北時右手是東。"
+     "explain": "面北時右手是東。",
+     "id": "MATH-P4-L11-002",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L11",
+     "level": "理解",
+     "question": "面向北，右手指向：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 方向(一)",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5334,7 +9275,15 @@ window.QUESTION_BANK = {
       "南",
       "北"
      ],
-     "explain": "面東時左手是北。"
+     "explain": "面東時左手是北。",
+     "id": "MATH-P4-L11-003",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L11",
+     "level": "理解",
+     "question": "面向東，左手指向：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 方向(一)",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5346,7 +9295,15 @@ window.QUESTION_BANK = {
       "西",
       "南"
      ],
-     "explain": "日出東方。"
+     "explain": "日出東方。",
+     "id": "MATH-P4-L11-004",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L11",
+     "level": "理解",
+     "question": "太陽在早上從哪方升起？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 方向(一)",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5358,9 +9315,19 @@ window.QUESTION_BANK = {
       "東",
       "西"
      ],
-     "explain": "東與西相反。"
+     "explain": "東與西相反。",
+     "id": "MATH-P4-L11-005",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L11",
+     "level": "理解",
+     "question": "東的相反方向是：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 方向(一)",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L11",
+   "verified": false
   },
   {
    "id": "p4m12",
@@ -5378,7 +9345,15 @@ window.QUESTION_BANK = {
       "東南",
       "西北"
      ],
-     "explain": "東、北之間是東北。"
+     "explain": "東、北之間是東北。",
+     "id": "MATH-P4-L12-001",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L12",
+     "level": "理解",
+     "question": "東和北之間的方向是：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L12 方向(二)",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5390,7 +9365,15 @@ window.QUESTION_BANK = {
       "東南",
       "東北"
      ],
-     "explain": "西北對東南。"
+     "explain": "西北對東南。",
+     "id": "MATH-P4-L12-002",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L12",
+     "level": "理解",
+     "question": "西北的相反方向是：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L12 方向(二)",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5402,7 +9385,15 @@ window.QUESTION_BANK = {
       "東北",
       "西北"
      ],
-     "explain": "西南。"
+     "explain": "西南。",
+     "id": "MATH-P4-L12-003",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L12",
+     "level": "理解",
+     "question": "西和南之間的方向是：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L12 方向(二)",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5414,7 +9405,15 @@ window.QUESTION_BANK = {
       "東南",
       "西南"
      ],
-     "explain": "東北對西南。"
+     "explain": "東北對西南。",
+     "id": "MATH-P4-L12-004",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L12",
+     "level": "理解",
+     "question": "東北的相反方向是：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L12 方向(二)",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5426,7 +9425,15 @@ window.QUESTION_BANK = {
       "西北",
       "東北"
      ],
-     "explain": "北和東之間是東北。"
+     "explain": "北和東之間是東北。",
+     "id": "MATH-P4-L12-005",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L12",
+     "level": "理解",
+     "question": "面向北，向右轉半個直角，面向：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L12 方向(二)",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5438,9 +9445,19 @@ window.QUESTION_BANK = {
       "8",
       "10"
      ],
-     "explain": "東、南、西、北及東北、東南、西北、西南。"
+     "explain": "東、南、西、北及東北、東南、西北、西南。",
+     "id": "MATH-P4-L12-006",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L12",
+     "level": "理解",
+     "question": "一共有多少個主要方向（包括東南西北和四個斜方向）？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L12 方向(二)",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L12",
+   "verified": false
   },
   {
    "id": "p4m13",
@@ -5458,7 +9475,15 @@ window.QUESTION_BANK = {
       "36",
       "86"
      ],
-     "explain": "36＝3×12。"
+     "explain": "36＝3×12。",
+     "id": "MATH-P4-L13-001",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L13",
+     "level": "理解",
+     "question": "哪個是3的倍數？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L13 倍數",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5470,7 +9495,15 @@ window.QUESTION_BANK = {
       "34",
       "10"
      ],
-     "explain": "24＝4×6。"
+     "explain": "24＝4×6。",
+     "id": "MATH-P4-L13-002",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L13",
+     "level": "理解",
+     "question": "哪個是4的倍數？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L13 倍數",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5482,7 +9515,15 @@ window.QUESTION_BANK = {
       "73",
       "19"
      ],
-     "explain": "18＝6×3。"
+     "explain": "18＝6×3。",
+     "id": "MATH-P4-L13-003",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L13",
+     "level": "理解",
+     "question": "哪個是6的倍數？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L13 倍數",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5494,7 +9535,15 @@ window.QUESTION_BANK = {
       "15",
       "99"
      ],
-     "explain": "21＝7×3。"
+     "explain": "21＝7×3。",
+     "id": "MATH-P4-L13-004",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L13",
+     "level": "理解",
+     "question": "哪個是7的倍數？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L13 倍數",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5506,7 +9555,15 @@ window.QUESTION_BANK = {
       "14",
       "75"
      ],
-     "explain": "88＝8×11。"
+     "explain": "88＝8×11。",
+     "id": "MATH-P4-L13-005",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L13",
+     "level": "理解",
+     "question": "哪個是8的倍數？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L13 倍數",
+     "verified": false
     },
     {
      "type": "fill",
@@ -5515,9 +9572,19 @@ window.QUESTION_BANK = {
       "24"
      ],
      "explain": "6、12、18、24。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L13-006",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L13",
+     "level": "應用",
+     "question": "6的第4個倍數是多少？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L13 倍數",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L13",
+   "verified": false
   },
   {
    "id": "p4m14",
@@ -5535,7 +9602,15 @@ window.QUESTION_BANK = {
       "7",
       "5"
      ],
-     "explain": "12÷3＝4，12的因數：1、2、3、4、6、12"
+     "explain": "12÷3＝4，12的因數：1、2、3、4、6、12",
+     "id": "MATH-P4-L14-001",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L14",
+     "level": "理解",
+     "question": "哪個是12的因數？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L14 因數",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5547,7 +9622,15 @@ window.QUESTION_BANK = {
       "12",
       "5"
      ],
-     "explain": "18÷3＝6，18的因數：1、2、3、6、9、18"
+     "explain": "18÷3＝6，18的因數：1、2、3、6、9、18",
+     "id": "MATH-P4-L14-002",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L14",
+     "level": "理解",
+     "question": "哪個是18的因數？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L14 因數",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5559,7 +9642,15 @@ window.QUESTION_BANK = {
       "3",
       "13"
      ],
-     "explain": "20÷4＝5，20的因數：1、2、4、5、10、20"
+     "explain": "20÷4＝5，20的因數：1、2、4、5、10、20",
+     "id": "MATH-P4-L14-003",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L14",
+     "level": "理解",
+     "question": "哪個是20的因數？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L14 因數",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5571,7 +9662,15 @@ window.QUESTION_BANK = {
       "10",
       "15"
      ],
-     "explain": "24÷3＝8，24的因數：1、2、3、4、6、8、12、24"
+     "explain": "24÷3＝8，24的因數：1、2、3、4、6、8、12、24",
+     "id": "MATH-P4-L14-004",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L14",
+     "level": "理解",
+     "question": "哪個是24的因數？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L14 因數",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5583,7 +9682,15 @@ window.QUESTION_BANK = {
       "20",
       "21"
      ],
-     "explain": "30÷6＝5，30的因數：1、2、3、5、6、10、15、30"
+     "explain": "30÷6＝5，30的因數：1、2、3、5、6、10、15、30",
+     "id": "MATH-P4-L14-005",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L14",
+     "level": "理解",
+     "question": "哪個是30的因數？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L14 因數",
+     "verified": false
     },
     {
      "type": "fill",
@@ -5592,9 +9699,19 @@ window.QUESTION_BANK = {
       "6"
      ],
      "explain": "1、2、3、4、6、12，共6個。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L14-006",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L14",
+     "level": "應用",
+     "question": "12有多少個因數？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L14 因數",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L14",
+   "verified": false
   },
   {
    "id": "p4m18",
@@ -5612,7 +9729,15 @@ window.QUESTION_BANK = {
       "圓形",
       "正方形"
      ],
-     "explain": "對角線把正方形分成兩個三角形。"
+     "explain": "對角線把正方形分成兩個三角形。",
+     "id": "MATH-P4-L18-001",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L18",
+     "level": "理解",
+     "question": "一個正方形沿對角線剪開，得到兩個：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 圖形分割",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5624,13 +9749,29 @@ window.QUESTION_BANK = {
       "長方形",
       "五邊形"
      ],
-     "explain": "沿中線剪成兩個長方形。"
+     "explain": "沿中線剪成兩個長方形。",
+     "id": "MATH-P4-L18-002",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L18",
+     "level": "理解",
+     "question": "一個長方形沿中間直線剪成兩半，可能得到兩個：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 圖形分割",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "把一個圖形分割，各部分面積加起來等於原來的面積。",
      "answer": true,
-     "explain": "分割不改變總面積。"
+     "explain": "分割不改變總面積。",
+     "id": "MATH-P4-L18-003",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L18",
+     "level": "理解",
+     "question": "把一個圖形分割，各部分面積加起來等於原來的面積。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 圖形分割",
+     "verified": false
     },
     {
      "type": "fill",
@@ -5639,7 +9780,15 @@ window.QUESTION_BANK = {
       "4"
      ],
      "explain": "兩條對角線分成4個三角形。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L18-004",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L18",
+     "level": "應用",
+     "question": "一個正方形畫兩條對角線，可分成多少個三角形？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 圖形分割",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5651,9 +9800,19 @@ window.QUESTION_BANK = {
       "一個長方形和三角形",
       "一個圓形和正方形"
      ],
-     "explain": "梯形可分成長方形和三角形。"
+     "explain": "梯形可分成長方形和三角形。",
+     "id": "MATH-P4-L18-005",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L18",
+     "level": "理解",
+     "question": "一個梯形可以分割成：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 圖形分割",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L18",
+   "verified": false
   },
   {
    "id": "p4m19",
@@ -5671,7 +9830,15 @@ window.QUESTION_BANK = {
       "圓柱",
       "五邊形"
      ],
-     "explain": "兩個直角三角形可拼成長方形。"
+     "explain": "兩個直角三角形可拼成長方形。",
+     "id": "MATH-P4-L19-001",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L19",
+     "level": "理解",
+     "question": "兩個相同的直角三角形可以拼成：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 圖形拼砌",
+     "verified": false
     },
     {
      "type": "fill",
@@ -5680,7 +9847,15 @@ window.QUESTION_BANK = {
       "4"
      ],
      "explain": "2×2＝4。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L19-002",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L19",
+     "level": "應用",
+     "question": "用多少個相同的小正方形可拼成一個邊長2格的正方形？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 圖形拼砌",
+     "verified": false
     },
     {
      "type": "mc",
@@ -5692,13 +9867,29 @@ window.QUESTION_BANK = {
       "梯形",
       "長方形"
      ],
-     "explain": "兩個正方形並排成長方形。"
+     "explain": "兩個正方形並排成長方形。",
+     "id": "MATH-P4-L19-003",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L19",
+     "level": "理解",
+     "question": "兩個相同的正方形拼在一起成為：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 圖形拼砌",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "兩個相同的梯形可以拼成一個平行四邊形。",
      "answer": true,
-     "explain": "把其中一個梯形倒轉拼合。"
+     "explain": "把其中一個梯形倒轉拼合。",
+     "id": "MATH-P4-L19-004",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L19",
+     "level": "理解",
+     "question": "兩個相同的梯形可以拼成一個平行四邊形。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 圖形拼砌",
+     "verified": false
     },
     {
      "type": "fill",
@@ -5707,9 +9898,19 @@ window.QUESTION_BANK = {
       "9"
      ],
      "explain": "3×3＝9。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P4-L19-005",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L19",
+     "level": "應用",
+     "question": "用多少個相同的小正方形可拼成一個邊長3格的正方形？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 圖形拼砌",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L19",
+   "verified": false
   },
   {
    "id": "p5m1",
@@ -5719,7 +9920,7 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "mc",
-     "q": "在 33,361,030 中，數字 3 在哪個數位？（看第7個數字）",
+     "q": "在 33,361,030 中，數字 3 在哪個數位？（由左數起第7個數字）",
      "answer": "十位",
      "options": [
       "百位",
@@ -5727,11 +9928,19 @@ window.QUESTION_BANK = {
       "十位",
       "千位"
      ],
-     "explain": "由右數起第2位是十位。"
+     "explain": "由右數起第2位是十位。",
+     "id": "MATH-P5-L01-001",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "在 33,361,030 中，數字 3 在哪個數位？（由左數起第7個數字）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 多位數",
+     "verified": true
     },
     {
      "type": "mc",
-     "q": "在 17,642,902 中，數字 6 在哪個數位？（看第3個數字）",
+     "q": "在 17,642,902 中，數字 6 在哪個數位？（由左數起第3個數字）",
      "answer": "十萬位",
      "options": [
       "個位",
@@ -5739,7 +9948,15 @@ window.QUESTION_BANK = {
       "十位",
       "百位"
      ],
-     "explain": "由右數起第6位是十萬位。"
+     "explain": "由右數起第6位是十萬位。",
+     "id": "MATH-P5-L01-002",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "在 17,642,902 中，數字 6 在哪個數位？（由左數起第3個數字）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 多位數",
+     "verified": true
     },
     {
      "type": "fill",
@@ -5748,7 +9965,15 @@ window.QUESTION_BANK = {
       "1000000"
      ],
      "explain": "一百萬＝1000000。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P5-L01-003",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "一百萬寫成數字是多少？（不用逗號）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 多位數",
+     "verified": true
     },
     {
      "type": "fill",
@@ -5757,7 +9982,15 @@ window.QUESTION_BANK = {
       "3050000"
      ],
      "explain": "3000000＋50000＝3050000。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P5-L01-004",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "3個百萬、5個萬合起來是多少？（不用逗號）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 多位數",
+     "verified": true
     },
     {
      "type": "mc",
@@ -5767,7 +10000,15 @@ window.QUESTION_BANK = {
       "7,112,846",
       "7,126,192"
      ],
-     "explain": "由最高位起逐位比較。"
+     "explain": "由最高位起逐位比較。",
+     "id": "MATH-P5-L01-005",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "7,112,846 和 7,126,192，哪個較大？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 多位數",
+     "verified": true
     },
     {
      "type": "fill",
@@ -5776,9 +10017,19 @@ window.QUESTION_BANK = {
       "10"
      ],
      "explain": "10×1000000＝10000000。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P5-L01-006",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "一千萬有多少個百萬？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 多位數",
+     "verified": true
     }
-   ]
+   ],
+   "lesson": "L01",
+   "verified": true
   },
   {
    "id": "p5m2",
@@ -5793,7 +10044,15 @@ window.QUESTION_BANK = {
       "8220000"
      ],
      "explain": "看千位右邊一位，8220000。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P5-L02-001",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "把 8219957 四捨五入至千位（不用逗號）。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 近似值和大數量的估計",
+     "verified": true
     },
     {
      "type": "fill",
@@ -5802,7 +10061,15 @@ window.QUESTION_BANK = {
       "4740000"
      ],
      "explain": "看萬位右邊一位，4740000。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P5-L02-002",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "把 4739464 四捨五入至萬位（不用逗號）。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 近似值和大數量的估計",
+     "verified": true
     },
     {
      "type": "fill",
@@ -5811,7 +10078,15 @@ window.QUESTION_BANK = {
       "1700000"
      ],
      "explain": "看十萬位右邊一位，1700000。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P5-L02-003",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "把 1713234 四捨五入至十萬位（不用逗號）。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 近似值和大數量的估計",
+     "verified": true
     },
     {
      "type": "fill",
@@ -5820,7 +10095,15 @@ window.QUESTION_BANK = {
       "8437000"
      ],
      "explain": "看千位右邊一位，8437000。",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P5-L02-004",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "把 8437246 四捨五入至千位（不用逗號）。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 近似值和大數量的估計",
+     "verified": true
     },
     {
      "type": "mc",
@@ -5832,15 +10115,33 @@ window.QUESTION_BANK = {
       "100000",
       "25000"
      ],
-     "explain": "20000×5＝100000。"
+     "explain": "20000×5＝100000。",
+     "id": "MATH-P5-L02-005",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "理解",
+     "question": "一包米約有20000粒，5包大約有多少粒？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 近似值和大數量的估計",
+     "verified": true
     },
     {
      "type": "tf",
      "q": "把 45 四捨五入至十位，得 50。",
      "answer": true,
-     "explain": "個位是5，要進位。"
+     "explain": "個位是5，要進位。",
+     "id": "MATH-P5-L02-006",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "理解",
+     "question": "把 45 四捨五入至十位，得 50。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 近似值和大數量的估計",
+     "verified": true
     }
-   ]
+   ],
+   "lesson": "L02",
+   "verified": true
   },
   {
    "id": "p5m3",
@@ -5857,7 +10158,15 @@ window.QUESTION_BANK = {
       "2/3",
       "1/10"
      ],
-     "explain": "通分後比較：20/30 與 3/30。"
+     "explain": "通分後比較：20/30 與 3/30。",
+     "id": "MATH-P5-L03-001",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "2/3 和 1/10，哪個較大？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 分數的比較",
+     "verified": true
     },
     {
      "type": "mc",
@@ -5868,48 +10177,90 @@ window.QUESTION_BANK = {
       "1/5",
       "一樣大"
      ],
-     "explain": "通分後比較：9/45 與 35/45。"
+     "explain": "通分後比較：9/45 與 35/45。",
+     "id": "MATH-P5-L03-002",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "1/5 和 7/9，哪個較大？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 分數的比較",
+     "verified": true
     },
     {
      "type": "mc",
-     "q": "2/10 和 1/3，哪個較大？",
-     "answer": "1/3",
+     "q": "1/3 和 9/10，哪個較大？",
+     "answer": "9/10",
      "options": [
-      "1/3",
-      "2/10",
-      "一樣大"
+      "一樣大",
+      "9/10",
+      "1/3"
      ],
-     "explain": "通分後比較：6/30 與 10/30。"
+     "explain": "通分後比較：10/30 與 27/30。",
+     "id": "MATH-P5-L03-003",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "1/3 和 9/10，哪個較大？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 分數的比較",
+     "verified": true
     },
     {
      "type": "mc",
-     "q": "1/9 和 4/5，哪個較大？",
+     "q": "4/5 和 2/3，哪個較大？",
      "answer": "4/5",
      "options": [
+      "4/5",
       "一樣大",
-      "1/9",
-      "4/5"
+      "2/3"
      ],
-     "explain": "通分後比較：5/45 與 36/45。"
+     "explain": "通分後比較：12/15 與 10/15。",
+     "id": "MATH-P5-L03-004",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "4/5 和 2/3，哪個較大？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 分數的比較",
+     "verified": true
     },
     {
      "type": "mc",
-     "q": "5/6 和 2/3，哪個較大？",
-     "answer": "5/6",
+     "q": "2/3 和 3/5，哪個較大？",
+     "answer": "2/3",
      "options": [
-      "一樣大",
+      "3/5",
       "2/3",
-      "5/6"
+      "一樣大"
      ],
-     "explain": "通分後比較：15/18 與 12/18。"
+     "explain": "通分後比較：10/15 與 9/15。",
+     "id": "MATH-P5-L03-005",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "2/3 和 3/5，哪個較大？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 分數的比較",
+     "verified": true
     },
     {
      "type": "tf",
      "q": "1/3 比 1/4 大。",
      "answer": true,
-     "explain": "分子相同，分母越小分數越大。"
+     "explain": "分子相同，分母越小分數越大。",
+     "id": "MATH-P5-L03-006",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "1/3 比 1/4 大。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 分數的比較",
+     "verified": true
     }
-   ]
+   ],
+   "lesson": "L03",
+   "verified": true
   },
   {
    "id": "p5m4",
@@ -5919,39 +10270,20 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "fill",
-     "q": "5/11 ＋ 4/6 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+     "q": "5/9 ＋ 1/3 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
      "answer": [
-      "37/33"
+      "8/9"
      ],
-     "explain": "通分：30/66 ＋ 44/66 ＝ 74/66 ＝ 37/33",
-     "fraction": true
-    },
-    {
-     "type": "fill",
-     "q": "3/6 ＋ 5/9 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
-     "answer": [
-      "19/18"
-     ],
-     "explain": "通分：27/54 ＋ 30/54 ＝ 57/54 ＝ 19/18",
-     "fraction": true
-    },
-    {
-     "type": "fill",
-     "q": "6/9 ＋ 9/12 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
-     "answer": [
-      "17/12"
-     ],
-     "explain": "通分：72/108 ＋ 81/108 ＝ 153/108 ＝ 17/12",
-     "fraction": true
-    },
-    {
-     "type": "fill",
-     "q": "1/3 ＋ 3/9 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
-     "answer": [
-      "2/3"
-     ],
-     "explain": "通分：9/27 ＋ 9/27 ＝ 18/27 ＝ 2/3",
-     "fraction": true
+     "explain": "通分：15/27 ＋ 9/27 ＝ 24/27 ＝ 8/9",
+     "fraction": true,
+     "id": "MATH-P5-L04-001",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "5/9 ＋ 1/3 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 異分母分數加法",
+     "verified": true
     },
     {
      "type": "fill",
@@ -5960,7 +10292,66 @@ window.QUESTION_BANK = {
       "13/12"
      ],
      "explain": "通分：9/12 ＋ 4/12 ＝ 13/12 ＝ 13/12",
-     "fraction": true
+     "fraction": true,
+     "id": "MATH-P5-L04-002",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "3/4 ＋ 1/3 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 異分母分數加法",
+     "verified": true
+    },
+    {
+     "type": "fill",
+     "q": "3/4 ＋ 9/10 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+     "answer": [
+      "33/20"
+     ],
+     "explain": "通分：30/40 ＋ 36/40 ＝ 66/40 ＝ 33/20",
+     "fraction": true,
+     "id": "MATH-P5-L04-003",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "3/4 ＋ 9/10 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 異分母分數加法",
+     "verified": true
+    },
+    {
+     "type": "fill",
+     "q": "11/12 ＋ 5/7 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+     "answer": [
+      "137/84"
+     ],
+     "explain": "通分：77/84 ＋ 60/84 ＝ 137/84 ＝ 137/84",
+     "fraction": true,
+     "id": "MATH-P5-L04-004",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "11/12 ＋ 5/7 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 異分母分數加法",
+     "verified": true
+    },
+    {
+     "type": "fill",
+     "q": "3/10 ＋ 4/7 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+     "answer": [
+      "61/70"
+     ],
+     "explain": "通分：21/70 ＋ 40/70 ＝ 61/70 ＝ 61/70",
+     "fraction": true,
+     "id": "MATH-P5-L04-005",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "3/10 ＋ 4/7 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 異分母分數加法",
+     "verified": true
     },
     {
      "type": "mc",
@@ -5969,12 +10360,22 @@ window.QUESTION_BANK = {
      "options": [
       "1/6",
       "2/5",
-      "2/6",
-      "5/6"
+      "5/6",
+      "2/6"
      ],
-     "explain": "3/6＋2/6＝5/6。不可以分子加分子、分母加分母。"
+     "explain": "3/6＋2/6＝5/6。不可以分子加分子、分母加分母。",
+     "id": "MATH-P5-L04-006",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "理解",
+     "question": "1/2 ＋ 1/3 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 異分母分數加法",
+     "verified": true
     }
-   ]
+   ],
+   "lesson": "L04",
+   "verified": true
   },
   {
    "id": "p5m5",
@@ -5984,48 +10385,88 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "fill",
-     "q": "3/5 － 4/8 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+     "q": "3/5 － 1/4 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
      "answer": [
-      "1/10"
+      "7/20"
      ],
-     "explain": "通分：24/40 － 20/40 ＝ 4/40 ＝ 1/10",
-     "fraction": true
+     "explain": "通分：12/20 － 5/20 ＝ 7/20 ＝ 7/20",
+     "fraction": true,
+     "id": "MATH-P5-L05-001",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "3/5 － 1/4 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 異分母分數減法",
+     "verified": true
     },
     {
      "type": "fill",
-     "q": "1/4 － 1/6 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+     "q": "7/12 － 1/3 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
      "answer": [
-      "1/12"
+      "1/4"
      ],
-     "explain": "通分：6/24 － 4/24 ＝ 2/24 ＝ 1/12",
-     "fraction": true
+     "explain": "通分：21/36 － 12/36 ＝ 9/36 ＝ 1/4",
+     "fraction": true,
+     "id": "MATH-P5-L05-002",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "7/12 － 1/3 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 異分母分數減法",
+     "verified": true
     },
     {
      "type": "fill",
-     "q": "3/6 － 1/8 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+     "q": "7/9 － 5/11 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
      "answer": [
-      "3/8"
+      "32/99"
      ],
-     "explain": "通分：24/48 － 6/48 ＝ 18/48 ＝ 3/8",
-     "fraction": true
+     "explain": "通分：77/99 － 45/99 ＝ 32/99 ＝ 32/99",
+     "fraction": true,
+     "id": "MATH-P5-L05-003",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "7/9 － 5/11 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 異分母分數減法",
+     "verified": true
     },
     {
      "type": "fill",
-     "q": "2/4 － 4/9 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+     "q": "4/11 － 2/7 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
      "answer": [
-      "1/18"
+      "6/77"
      ],
-     "explain": "通分：18/36 － 16/36 ＝ 2/36 ＝ 1/18",
-     "fraction": true
+     "explain": "通分：28/77 － 22/77 ＝ 6/77 ＝ 6/77",
+     "fraction": true,
+     "id": "MATH-P5-L05-004",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "4/11 － 2/7 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 異分母分數減法",
+     "verified": true
     },
     {
      "type": "fill",
-     "q": "2/4 － 2/7 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+     "q": "4/5 － 3/8 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
      "answer": [
-      "3/14"
+      "17/40"
      ],
-     "explain": "通分：14/28 － 8/28 ＝ 6/28 ＝ 3/14",
-     "fraction": true
+     "explain": "通分：32/40 － 15/40 ＝ 17/40 ＝ 17/40",
+     "fraction": true,
+     "id": "MATH-P5-L05-005",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "4/5 － 3/8 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 異分母分數減法",
+     "verified": true
     },
     {
      "type": "mc",
@@ -6033,13 +10474,23 @@ window.QUESTION_BANK = {
      "answer": "1/4",
      "options": [
       "2/2",
+      "1/2",
       "2/4",
-      "1/4",
-      "1/2"
+      "1/4"
      ],
-     "explain": "3/4－2/4＝1/4。"
+     "explain": "3/4－2/4＝1/4。",
+     "id": "MATH-P5-L05-006",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "3/4 － 1/2 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 異分母分數減法",
+     "verified": true
     }
-   ]
+   ],
+   "lesson": "L05",
+   "verified": true
   },
   {
    "id": "p5m6",
@@ -6049,39 +10500,71 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "fill",
-     "q": "5/7 ＋ 3/5 － 3/10 ＝ ？（最簡分數）",
+     "q": "6/11 ＋ 1/3 － 2/5 ＝ ？（最簡分數）",
      "answer": [
-      "71/70"
+      "79/165"
      ],
-     "explain": "通分計算，答案是 71/70",
-     "fraction": true
+     "explain": "通分計算，答案是 79/165",
+     "fraction": true,
+     "id": "MATH-P5-L06-001",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "6/11 ＋ 1/3 － 2/5 ＝ ？（最簡分數）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 異分母分數加減混合運算",
+     "verified": true
     },
     {
      "type": "fill",
-     "q": "1/3 ＋ 2/5 － 2/8 ＝ ？（最簡分數）",
+     "q": "2/3 ＋ 3/10 － 7/12 ＝ ？（最簡分數）",
      "answer": [
-      "29/60"
+      "23/60"
      ],
-     "explain": "通分計算，答案是 29/60",
-     "fraction": true
+     "explain": "通分計算，答案是 23/60",
+     "fraction": true,
+     "id": "MATH-P5-L06-002",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "2/3 ＋ 3/10 － 7/12 ＝ ？（最簡分數）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 異分母分數加減混合運算",
+     "verified": true
     },
     {
      "type": "fill",
-     "q": "2/3 ＋ 4/6 － 3/10 ＝ ？（最簡分數）",
+     "q": "1/5 ＋ 4/7 － 5/9 ＝ ？（最簡分數）",
      "answer": [
-      "31/30"
+      "68/315"
      ],
-     "explain": "通分計算，答案是 31/30",
-     "fraction": true
+     "explain": "通分計算，答案是 68/315",
+     "fraction": true,
+     "id": "MATH-P5-L06-003",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "1/5 ＋ 4/7 － 5/9 ＝ ？（最簡分數）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 異分母分數加減混合運算",
+     "verified": true
     },
     {
      "type": "fill",
-     "q": "3/6 ＋ 7/12 － 4/6 ＝ ？（最簡分數）",
+     "q": "6/11 ＋ 2/3 － 2/5 ＝ ？（最簡分數）",
      "answer": [
-      "5/12"
+      "134/165"
      ],
-     "explain": "通分計算，答案是 5/12",
-     "fraction": true
+     "explain": "通分計算，答案是 134/165",
+     "fraction": true,
+     "id": "MATH-P5-L06-004",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "6/11 ＋ 2/3 － 2/5 ＝ ？（最簡分數）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 異分母分數加減混合運算",
+     "verified": true
     },
     {
      "type": "fill",
@@ -6090,9 +10573,19 @@ window.QUESTION_BANK = {
       "1/4"
      ],
      "explain": "9/12－4/12－2/12＝3/12＝1/4",
-     "fraction": true
+     "fraction": true,
+     "id": "MATH-P5-L06-005",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "一條絲帶長 3/4 米，用去 1/3 米，再用去 1/6 米，剩下多少米？（最簡分數）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 異分母分數加減混合運算",
+     "verified": true
     }
-   ]
+   ],
+   "lesson": "L06",
+   "verified": true
   },
   {
    "id": "p5m7",
@@ -6102,21 +10595,54 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "fill",
-     "q": "平行四邊形底5cm，高12cm，面積是多少cm²？",
+     "q": "平行四邊形底13cm，高4cm，面積是多少cm²？",
      "answer": [
-      "60"
+      "52"
      ],
-     "explain": "底×高＝5×12＝60",
-     "numeric": true
+     "explain": "底×高＝13×4＝52",
+     "numeric": true,
+     "id": "MATH-P5-L07-001",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "平行四邊形底13cm，高4cm，面積是多少cm²？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 平行四邊形",
+     "verified": false
     },
     {
      "type": "fill",
-     "q": "平行四邊形底15cm，高10cm，面積是多少cm²？",
+     "q": "平行四邊形底4cm，高2cm，面積是多少cm²？",
      "answer": [
-      "150"
+      "8"
      ],
-     "explain": "底×高＝15×10＝150",
-     "numeric": true
+     "explain": "底×高＝4×2＝8",
+     "numeric": true,
+     "id": "MATH-P5-L07-002",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "平行四邊形底4cm，高2cm，面積是多少cm²？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 平行四邊形",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "平行四邊形底4cm，高11cm，面積是多少cm²？",
+     "answer": [
+      "44"
+     ],
+     "explain": "底×高＝4×11＝44",
+     "numeric": true,
+     "id": "MATH-P5-L07-003",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "平行四邊形底4cm，高11cm，面積是多少cm²？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 平行四邊形",
+     "verified": false
     },
     {
      "type": "fill",
@@ -6125,33 +10651,50 @@ window.QUESTION_BANK = {
       "66"
      ],
      "explain": "底×高＝11×6＝66",
-     "numeric": true
-    },
-    {
-     "type": "fill",
-     "q": "平行四邊形底5cm，高2cm，面積是多少cm²？",
-     "answer": [
-      "10"
-     ],
-     "explain": "底×高＝5×2＝10",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P5-L07-004",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "平行四邊形底11cm，高6cm，面積是多少cm²？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 平行四邊形",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "平行四邊形的面積＝底×高。",
      "answer": true,
-     "explain": "公式：底×高。"
+     "explain": "公式：底×高。",
+     "id": "MATH-P5-L07-005",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L07",
+     "level": "理解",
+     "question": "平行四邊形的面積＝底×高。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 平行四邊形",
+     "verified": false
     },
     {
      "type": "fill",
-     "q": "平行四邊形面積56cm²，底8cm，高是多少cm？",
+     "q": "平行四邊形面積30cm²，底10cm，高是多少cm？",
      "answer": [
-      "7"
+      "3"
      ],
-     "explain": "56÷8＝7",
-     "numeric": true
+     "explain": "30÷10＝3",
+     "numeric": true,
+     "id": "MATH-P5-L07-006",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "平行四邊形面積30cm²，底10cm，高是多少cm？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 平行四邊形",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L07",
+   "verified": false
   },
   {
    "id": "p5m8",
@@ -6161,39 +10704,71 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "fill",
-     "q": "三角形底16cm，高8cm，面積是多少cm²？",
+     "q": "三角形底16cm，高4cm，面積是多少cm²？",
      "answer": [
-      "64"
+      "32"
      ],
-     "explain": "底×高÷2＝16×8÷2＝64",
-     "numeric": true
+     "explain": "底×高÷2＝16×4÷2＝32",
+     "numeric": true,
+     "id": "MATH-P5-L08-001",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "三角形底16cm，高4cm，面積是多少cm²？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 三角形",
+     "verified": false
     },
     {
      "type": "fill",
-     "q": "三角形底8cm，高9cm，面積是多少cm²？",
+     "q": "三角形底6cm，高5cm，面積是多少cm²？",
      "answer": [
-      "36"
+      "15"
      ],
-     "explain": "底×高÷2＝8×9÷2＝36",
-     "numeric": true
+     "explain": "底×高÷2＝6×5÷2＝15",
+     "numeric": true,
+     "id": "MATH-P5-L08-002",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "三角形底6cm，高5cm，面積是多少cm²？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 三角形",
+     "verified": false
     },
     {
      "type": "fill",
-     "q": "三角形底12cm，高3cm，面積是多少cm²？",
+     "q": "三角形底16cm，高5cm，面積是多少cm²？",
      "answer": [
-      "18"
+      "40"
      ],
-     "explain": "底×高÷2＝12×3÷2＝18",
-     "numeric": true
+     "explain": "底×高÷2＝16×5÷2＝40",
+     "numeric": true,
+     "id": "MATH-P5-L08-003",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "三角形底16cm，高5cm，面積是多少cm²？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 三角形",
+     "verified": false
     },
     {
      "type": "fill",
-     "q": "三角形底14cm，高5cm，面積是多少cm²？",
+     "q": "三角形底6cm，高3cm，面積是多少cm²？",
      "answer": [
-      "35"
+      "9"
      ],
-     "explain": "底×高÷2＝14×5÷2＝35",
-     "numeric": true
+     "explain": "底×高÷2＝6×3÷2＝9",
+     "numeric": true,
+     "id": "MATH-P5-L08-004",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "三角形底6cm，高3cm，面積是多少cm²？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 三角形",
+     "verified": false
     },
     {
      "type": "mc",
@@ -6201,22 +10776,40 @@ window.QUESTION_BANK = {
      "answer": "底×高÷2",
      "options": [
       "底×高÷2",
-      "底×高",
       "底＋高",
-      "(底＋高)×2"
+      "(底＋高)×2",
+      "底×高"
      ],
-     "explain": "三角形是同底同高平行四邊形的一半。"
+     "explain": "三角形是同底同高平行四邊形的一半。",
+     "id": "MATH-P5-L08-005",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L08",
+     "level": "理解",
+     "question": "三角形面積公式是：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 三角形",
+     "verified": false
     },
     {
      "type": "fill",
-     "q": "三角形面積28cm²，底8cm，高是多少cm？",
+     "q": "三角形面積36cm²，底8cm，高是多少cm？",
      "answer": [
-      "7"
+      "9"
      ],
-     "explain": "28×2÷8＝7",
-     "numeric": true
+     "explain": "36×2÷8＝9",
+     "numeric": true,
+     "id": "MATH-P5-L08-006",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "三角形面積36cm²，底8cm，高是多少cm？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 三角形",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L08",
+   "verified": false
   },
   {
    "id": "p5m9",
@@ -6226,39 +10819,71 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "fill",
-     "q": "梯形上底10cm，下底16cm，高10cm，面積是多少cm²？",
+     "q": "梯形上底6cm，下底15cm，高8cm，面積是多少cm²？",
      "answer": [
-      "130"
+      "84"
      ],
-     "explain": "(10＋16)×10÷2＝130",
-     "numeric": true
+     "explain": "(6＋15)×8÷2＝84",
+     "numeric": true,
+     "id": "MATH-P5-L09-001",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L09",
+     "level": "應用",
+     "question": "梯形上底6cm，下底15cm，高8cm，面積是多少cm²？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 梯形",
+     "verified": false
     },
     {
      "type": "fill",
-     "q": "梯形上底8cm，下底12cm，高6cm，面積是多少cm²？",
+     "q": "梯形上底10cm，下底14cm，高2cm，面積是多少cm²？",
      "answer": [
-      "60"
+      "24"
      ],
-     "explain": "(8＋12)×6÷2＝60",
-     "numeric": true
+     "explain": "(10＋14)×2÷2＝24",
+     "numeric": true,
+     "id": "MATH-P5-L09-002",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L09",
+     "level": "應用",
+     "question": "梯形上底10cm，下底14cm，高2cm，面積是多少cm²？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 梯形",
+     "verified": false
     },
     {
      "type": "fill",
-     "q": "梯形上底6cm，下底14cm，高6cm，面積是多少cm²？",
+     "q": "梯形上底3cm，下底5cm，高12cm，面積是多少cm²？",
      "answer": [
-      "60"
+      "48"
      ],
-     "explain": "(6＋14)×6÷2＝60",
-     "numeric": true
+     "explain": "(3＋5)×12÷2＝48",
+     "numeric": true,
+     "id": "MATH-P5-L09-003",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L09",
+     "level": "應用",
+     "question": "梯形上底3cm，下底5cm，高12cm，面積是多少cm²？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 梯形",
+     "verified": false
     },
     {
      "type": "fill",
-     "q": "梯形上底2cm，下底16cm，高10cm，面積是多少cm²？",
+     "q": "梯形上底9cm，下底12cm，高12cm，面積是多少cm²？",
      "answer": [
-      "90"
+      "126"
      ],
-     "explain": "(2＋16)×10÷2＝90",
-     "numeric": true
+     "explain": "(9＋12)×12÷2＝126",
+     "numeric": true,
+     "id": "MATH-P5-L09-004",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L09",
+     "level": "應用",
+     "question": "梯形上底9cm，下底12cm，高12cm，面積是多少cm²？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 梯形",
+     "verified": false
     },
     {
      "type": "mc",
@@ -6266,19 +10891,37 @@ window.QUESTION_BANK = {
      "answer": "(上底＋下底)×高÷2",
      "options": [
       "底×高",
-      "(上底＋下底)×高÷2",
       "上底×下底",
+      "(上底＋下底)×高÷2",
       "(上底＋下底)×2"
      ],
-     "explain": "梯形面積＝(上底＋下底)×高÷2。"
+     "explain": "梯形面積＝(上底＋下底)×高÷2。",
+     "id": "MATH-P5-L09-005",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L09",
+     "level": "理解",
+     "question": "梯形面積公式是：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 梯形",
+     "verified": false
     },
     {
      "type": "tf",
      "q": "梯形的高是上底和下底之間的垂直距離。",
      "answer": true,
-     "explain": "高要與底垂直。"
+     "explain": "高要與底垂直。",
+     "id": "MATH-P5-L09-006",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L09",
+     "level": "理解",
+     "question": "梯形的高是上底和下底之間的垂直距離。",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 梯形",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L09",
+   "verified": false
   },
   {
    "id": "p5m10",
@@ -6288,39 +10931,71 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "fill",
-     "q": "一個多邊形由長方形（長8cm，闊3cm）和三角形（底8cm，高6cm）組成，總面積是多少cm²？",
+     "q": "一個多邊形由長方形（長9cm，闊3cm）和三角形（底9cm，高5cm）組成，總面積是多少cm²？",
+     "answer": [
+      "49.5"
+     ],
+     "explain": "9×3＋9×5÷2＝49.5",
+     "numeric": true,
+     "id": "MATH-P5-L10-001",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L10",
+     "level": "應用",
+     "question": "一個多邊形由長方形（長9cm，闊3cm）和三角形（底9cm，高5cm）組成，總面積是多少cm²？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 多邊形的面積",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "一個多邊形由長方形（長8cm，闊3cm）和三角形（底8cm，高2cm）組成，總面積是多少cm²？",
+     "answer": [
+      "32"
+     ],
+     "explain": "8×3＋8×2÷2＝32",
+     "numeric": true,
+     "id": "MATH-P5-L10-002",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L10",
+     "level": "應用",
+     "question": "一個多邊形由長方形（長8cm，闊3cm）和三角形（底8cm，高2cm）組成，總面積是多少cm²？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 多邊形的面積",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "一個多邊形由長方形（長5cm，闊3cm）和三角形（底5cm，高4cm）組成，總面積是多少cm²？",
+     "answer": [
+      "25"
+     ],
+     "explain": "5×3＋5×4÷2＝25",
+     "numeric": true,
+     "id": "MATH-P5-L10-003",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L10",
+     "level": "應用",
+     "question": "一個多邊形由長方形（長5cm，闊3cm）和三角形（底5cm，高4cm）組成，總面積是多少cm²？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 多邊形的面積",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "一個多邊形由長方形（長6cm，闊5cm）和三角形（底6cm，高6cm）組成，總面積是多少cm²？",
      "answer": [
       "48"
      ],
-     "explain": "8×3＋8×6÷2＝48",
-     "numeric": true
-    },
-    {
-     "type": "fill",
-     "q": "一個多邊形由長方形（長5cm，闊5cm）和三角形（底5cm，高6cm）組成，總面積是多少cm²？",
-     "answer": [
-      "40"
-     ],
-     "explain": "5×5＋5×6÷2＝40",
-     "numeric": true
-    },
-    {
-     "type": "fill",
-     "q": "一個多邊形由長方形（長5cm，闊3cm）和三角形（底5cm，高2cm）組成，總面積是多少cm²？",
-     "answer": [
-      "20"
-     ],
-     "explain": "5×3＋5×2÷2＝20",
-     "numeric": true
-    },
-    {
-     "type": "fill",
-     "q": "一個多邊形由長方形（長4cm，闊8cm）和三角形（底4cm，高5cm）組成，總面積是多少cm²？",
-     "answer": [
-      "42"
-     ],
-     "explain": "4×8＋4×5÷2＝42",
-     "numeric": true
+     "explain": "6×5＋6×6÷2＝48",
+     "numeric": true,
+     "id": "MATH-P5-L10-004",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L10",
+     "level": "應用",
+     "question": "一個多邊形由長方形（長6cm，闊5cm）和三角形（底6cm，高6cm）組成，總面積是多少cm²？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 多邊形的面積",
+     "verified": false
     },
     {
      "type": "mc",
@@ -6328,22 +11003,40 @@ window.QUESTION_BANK = {
      "answer": "分割成已知圖形再相加",
      "options": [
       "只看最長的邊",
-      "分割成已知圖形再相加",
       "數頂點",
+      "分割成已知圖形再相加",
       "量周界"
      ],
-     "explain": "先分割成長方形、三角形等，再相加或相減。"
+     "explain": "先分割成長方形、三角形等，再相加或相減。",
+     "id": "MATH-P5-L10-005",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L10",
+     "level": "理解",
+     "question": "計算多邊形面積，常用方法是：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 多邊形的面積",
+     "verified": false
     },
     {
      "type": "fill",
-     "q": "長方形11cm×6cm，切去一個邊長2cm的正方形角，剩下面積是多少cm²？",
+     "q": "長方形12cm×9cm，切去一個邊長3cm的正方形角，剩下面積是多少cm²？",
      "answer": [
-      "62"
+      "99"
      ],
-     "explain": "66－4＝62",
-     "numeric": true
+     "explain": "108－9＝99",
+     "numeric": true,
+     "id": "MATH-P5-L10-006",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L10",
+     "level": "應用",
+     "question": "長方形12cm×9cm，切去一個邊長3cm的正方形角，剩下面積是多少cm²？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 多邊形的面積",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L10",
+   "verified": false
   },
   {
    "id": "p5m14",
@@ -6358,60 +11051,110 @@ window.QUESTION_BANK = {
       "14"
      ],
      "explain": "7＋7＝14",
-     "numeric": true
+     "numeric": true,
+     "id": "MATH-P5-L14-001",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L14",
+     "level": "應用",
+     "question": "若 y ＝ 7，y ＋ 7 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L14 代數符號(一)",
+     "verified": false
     },
     {
      "type": "fill",
-     "q": "若 y ＝ 15，y ＋ 7 ＝ ？",
+     "q": "若 y ＝ 19，y ＋ 7 ＝ ？",
      "answer": [
-      "22"
+      "26"
      ],
-     "explain": "15＋7＝22",
-     "numeric": true
+     "explain": "19＋7＝26",
+     "numeric": true,
+     "id": "MATH-P5-L14-002",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L14",
+     "level": "應用",
+     "question": "若 y ＝ 19，y ＋ 7 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L14 代數符號(一)",
+     "verified": false
     },
     {
      "type": "fill",
-     "q": "若 y ＝ 7，y ＋ 7 ＝ ？",
+     "q": "若 y ＝ 3，y ＋ 7 ＝ ？",
      "answer": [
-      "14"
+      "10"
      ],
-     "explain": "7＋7＝14",
-     "numeric": true
+     "explain": "3＋7＝10",
+     "numeric": true,
+     "id": "MATH-P5-L14-003",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L14",
+     "level": "應用",
+     "question": "若 y ＝ 3，y ＋ 7 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L14 代數符號(一)",
+     "verified": false
     },
     {
      "type": "mc",
      "q": "「a 的 3 倍」用代數表示是：",
      "answer": "3a",
      "options": [
-      "a＋3",
-      "a－3",
       "a÷3",
-      "3a"
+      "a＋3",
+      "3a",
+      "a－3"
      ],
-     "explain": "3×a 寫作 3a。"
+     "explain": "3×a 寫作 3a。",
+     "id": "MATH-P5-L14-004",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L14",
+     "level": "理解",
+     "question": "「a 的 3 倍」用代數表示是：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L14 代數符號(一)",
+     "verified": false
     },
     {
      "type": "mc",
      "q": "「比 n 少 5」用代數表示是：",
      "answer": "n－5",
      "options": [
-      "n－5",
+      "5－n",
       "n＋5",
-      "5n",
-      "5－n"
+      "n－5",
+      "5n"
      ],
-     "explain": "比 n 少 5 即 n－5。"
+     "explain": "比 n 少 5 即 n－5。",
+     "id": "MATH-P5-L14-005",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L14",
+     "level": "理解",
+     "question": "「比 n 少 5」用代數表示是：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L14 代數符號(一)",
+     "verified": false
     },
     {
      "type": "fill",
-     "q": "若 x ＝ 5，4x ＝ ？",
+     "q": "若 x ＝ 3，4x ＝ ？",
      "answer": [
-      "20"
+      "12"
      ],
-     "explain": "4×5＝20",
-     "numeric": true
+     "explain": "4×3＝12",
+     "numeric": true,
+     "id": "MATH-P5-L14-006",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L14",
+     "level": "應用",
+     "question": "若 x ＝ 3，4x ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L14 代數符號(一)",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L14",
+   "verified": false
   },
   {
    "id": "p5m15",
@@ -6421,65 +11164,115 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "fill",
-     "q": "若 a ＝ 10、b ＝ 5，2a ＋ b ＝ ？",
+     "q": "若 a ＝ 5、b ＝ 1，2a ＋ b ＝ ？",
      "answer": [
-      "25"
+      "11"
      ],
-     "explain": "2×10＋5＝25",
-     "numeric": true
+     "explain": "2×5＋1＝11",
+     "numeric": true,
+     "id": "MATH-P5-L15-001",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L15",
+     "level": "應用",
+     "question": "若 a ＝ 5、b ＝ 1，2a ＋ b ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L15 代數符號(二)",
+     "verified": false
     },
     {
      "type": "fill",
-     "q": "若 a ＝ 12、b ＝ 5，2a ＋ b ＝ ？",
+     "q": "若 a ＝ 4、b ＝ 1，2a ＋ b ＝ ？",
      "answer": [
-      "29"
+      "9"
      ],
-     "explain": "2×12＋5＝29",
-     "numeric": true
+     "explain": "2×4＋1＝9",
+     "numeric": true,
+     "id": "MATH-P5-L15-002",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L15",
+     "level": "應用",
+     "question": "若 a ＝ 4、b ＝ 1，2a ＋ b ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L15 代數符號(二)",
+     "verified": false
     },
     {
      "type": "fill",
-     "q": "若 a ＝ 2、b ＝ 2，2a ＋ b ＝ ？",
+     "q": "若 a ＝ 4、b ＝ 2，2a ＋ b ＝ ？",
      "answer": [
-      "6"
+      "10"
      ],
-     "explain": "2×2＋2＝6",
-     "numeric": true
+     "explain": "2×4＋2＝10",
+     "numeric": true,
+     "id": "MATH-P5-L15-003",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L15",
+     "level": "應用",
+     "question": "若 a ＝ 4、b ＝ 2，2a ＋ b ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L15 代數符號(二)",
+     "verified": false
     },
     {
      "type": "mc",
      "q": "每枝筆 p 元，買 6 枝要付：",
      "answer": "6p 元",
      "options": [
-      "p÷6 元",
-      "p＋6 元",
       "p－6 元",
-      "6p 元"
+      "6p 元",
+      "p＋6 元",
+      "p÷6 元"
      ],
-     "explain": "6×p＝6p。"
+     "explain": "6×p＝6p。",
+     "id": "MATH-P5-L15-004",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L15",
+     "level": "理解",
+     "question": "每枝筆 p 元，買 6 枝要付：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L15 代數符號(二)",
+     "verified": false
     },
     {
      "type": "mc",
      "q": "小明有 m 張貼紙，送出 4 張，剩下：",
      "answer": "m－4 張",
      "options": [
-      "m－4 張",
-      "m＋4 張",
+      "4－m 張",
       "4m 張",
-      "4－m 張"
+      "m＋4 張",
+      "m－4 張"
      ],
-     "explain": "m－4。"
+     "explain": "m－4。",
+     "id": "MATH-P5-L15-005",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L15",
+     "level": "理解",
+     "question": "小明有 m 張貼紙，送出 4 張，剩下：",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L15 代數符號(二)",
+     "verified": false
     },
     {
      "type": "fill",
-     "q": "若 n ＝ 7，3n － 7 ＝ ？",
+     "q": "若 n ＝ 9，8n － 9 ＝ ？",
      "answer": [
-      "14"
+      "63"
      ],
-     "explain": "3×7－7＝14",
-     "numeric": true
+     "explain": "8×9－9＝63",
+     "numeric": true,
+     "id": "MATH-P5-L15-006",
+     "grade": "P5",
+     "subject": "math",
+     "lesson": "L15",
+     "level": "應用",
+     "question": "若 n ＝ 9，8n － 9 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L15 代數符號(二)",
+     "verified": false
     }
-   ]
+   ],
+   "lesson": "L15",
+   "verified": false
   }
  ]
 };

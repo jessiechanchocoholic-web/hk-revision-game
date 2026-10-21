@@ -1,0 +1,109 @@
+{
+ "levelId": "p5m7",
+ "grade": "P5",
+ "subject": "math",
+ "lesson": "L07",
+ "title": "L7 平行四邊形",
+ "verified": false,
+ "questions": [
+  {
+   "type": "fill",
+   "q": "平行四邊形底13cm，高4cm，面積是多少cm²？",
+   "answer": [
+    "52"
+   ],
+   "explain": "底×高＝13×4＝52",
+   "numeric": true,
+   "id": "MATH-P5-L07-001",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "平行四邊形底13cm，高4cm，面積是多少cm²？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 平行四邊形",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "平行四邊形底4cm，高2cm，面積是多少cm²？",
+   "answer": [
+    "8"
+   ],
+   "explain": "底×高＝4×2＝8",
+   "numeric": true,
+   "id": "MATH-P5-L07-002",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "平行四邊形底4cm，高2cm，面積是多少cm²？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 平行四邊形",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "平行四邊形底4cm，高11cm，面積是多少cm²？",
+   "answer": [
+    "44"
+   ],
+   "explain": "底×高＝4×11＝44",
+   "numeric": true,
+   "id": "MATH-P5-L07-003",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "平行四邊形底4cm，高11cm，面積是多少cm²？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 平行四邊形",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "平行四邊形底11cm，高6cm，面積是多少cm²？",
+   "answer": [
+    "66"
+   ],
+   "explain": "底×高＝11×6＝66",
+   "numeric": true,
+   "id": "MATH-P5-L07-004",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "平行四邊形底11cm，高6cm，面積是多少cm²？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 平行四邊形",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "平行四邊形的面積＝底×高。",
+   "answer": true,
+   "explain": "公式：底×高。",
+   "id": "MATH-P5-L07-005",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L07",
+   "level": "理解",
+   "question": "平行四邊形的面積＝底×高。",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 平行四邊形",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "平行四邊形面積30cm²，底10cm，高是多少cm？",
+   "answer": [
+    "3"
+   ],
+   "explain": "30÷10＝3",
+   "numeric": true,
+   "id": "MATH-P5-L07-006",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "平行四邊形面積30cm²，底10cm，高是多少cm？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 平行四邊形",
+   "verified": false
+  }
+ ]
+}

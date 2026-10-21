@@ -1,0 +1,132 @@
+{
+ "levelId": "p2e3",
+ "grade": "P2",
+ "subject": "eng",
+ "lesson": "L03",
+ "title": "Ch3 Caring for others",
+ "verified": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Are you cold? Yes, I ___.",
+   "answer": "am",
+   "options": [
+    "are",
+    "do",
+    "am",
+    "is"
+   ],
+   "explain": "Answer \"Are you…?\" with \"Yes, I am.\"",
+   "id": "ENG-P2-L03-001",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "Are you cold? Yes, I ___.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Caring for others",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "Are you hungry? No, I'm ___.",
+   "answer": "not",
+   "options": [
+    "no",
+    "not",
+    "don't",
+    "isn't"
+   ],
+   "explain": "\"No, I'm not.\"",
+   "id": "ENG-P2-L03-002",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "Are you hungry? No, I'm ___.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Caring for others",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "The soup is ___ hot. I can't drink it.",
+   "answer": "too",
+   "options": [
+    "to",
+    "very good",
+    "too",
+    "two"
+   ],
+   "explain": "\"too hot\" = more than we want.",
+   "id": "ENG-P2-L03-003",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "The soup is ___ hot. I can't drink it.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Caring for others",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "I'm thirsty. ___ get some water.",
+   "answer": "Let's",
+   "options": [
+    "Let",
+    "Let's",
+    "Lets",
+    "Let us to"
+   ],
+   "explain": "\"Let's …\" = let us.",
+   "id": "ENG-P2-L03-004",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "I'm thirsty. ___ get some water.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Caring for others",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "Your friend is sad. You say:",
+   "answer": "Are you OK?",
+   "options": [
+    "Go away!",
+    "I'm happy!",
+    "Are you OK?",
+    "Good night!"
+   ],
+   "explain": "Ask kindly: Are you OK?",
+   "id": "ENG-P2-L03-005",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "Your friend is sad. You say:",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Caring for others",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "Are you tired? No, I'm ___.",
+   "answer": [
+    "not"
+   ],
+   "explain": "Short answer: No, I'm not.",
+   "id": "ENG-P2-L03-006",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "理解",
+   "question": "Are you tired? No, I'm ___.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Caring for others",
+   "verified": true,
+   "readAloud": true
+  }
+ ]
+}

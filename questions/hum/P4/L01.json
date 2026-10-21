@@ -1,0 +1,98 @@
+{
+ "levelId": "p4h1",
+ "grade": "P4",
+ "subject": "hum",
+ "lesson": "L01",
+ "title": "第1課 小小考察隊",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "實地考察前，我們應該：",
+   "answer": "訂立考察目的和計劃",
+   "options": [
+    "訂立考察目的和計劃",
+    "只帶零食",
+    "不告訴家人",
+    "甚麼都不準備"
+   ],
+   "explain": "考察前先定目的和計劃。",
+   "id": "HUM-P4-L01-001",
+   "grade": "P4",
+   "subject": "hum",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "實地考察前，我們應該：",
+   "source": "research.md §4 人文《今日人文》｜第1課 小小考察隊",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "考察時用來記錄的方法不包括：",
+   "answer": "亂拋垃圾",
+   "options": [
+    "拍照",
+    "亂拋垃圾",
+    "寫筆記",
+    "繪畫草圖"
+   ],
+   "explain": "拍照、筆記、繪圖都是記錄方法。",
+   "id": "HUM-P4-L01-002",
+   "grade": "P4",
+   "subject": "hum",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "考察時用來記錄的方法不包括：",
+   "source": "research.md §4 人文《今日人文》｜第1課 小小考察隊",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "考察時看地圖要先看：",
+   "answer": "指向標和圖例",
+   "options": [
+    "指向標和圖例",
+    "價錢",
+    "天氣",
+    "廣告"
+   ],
+   "explain": "指向標和圖例幫助讀地圖。",
+   "id": "HUM-P4-L01-003",
+   "grade": "P4",
+   "subject": "hum",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "考察時看地圖要先看：",
+   "source": "research.md §4 人文《今日人文》｜第1課 小小考察隊",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "考察時要注意安全，遵守規則。",
+   "answer": true,
+   "explain": "安全第一。",
+   "id": "HUM-P4-L01-004",
+   "grade": "P4",
+   "subject": "hum",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "考察時要注意安全，遵守規則。",
+   "source": "research.md §4 人文《今日人文》｜第1課 小小考察隊",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "考察後不用整理資料。",
+   "answer": false,
+   "explain": "考察後要整理資料，作出結論。",
+   "id": "HUM-P4-L01-005",
+   "grade": "P4",
+   "subject": "hum",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "考察後不用整理資料。",
+   "source": "research.md §4 人文《今日人文》｜第1課 小小考察隊",
+   "verified": false
+  }
+ ]
+}

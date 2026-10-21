@@ -1,0 +1,158 @@
+{
+ "levelId": "p2e1",
+ "grade": "P2",
+ "subject": "eng",
+ "lesson": "L01",
+ "title": "Ch1 At my school",
+ "verified": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "___ there a library in your school?",
+   "answer": "Is",
+   "options": [
+    "Is",
+    "Do",
+    "Am",
+    "Are"
+   ],
+   "explain": "\"Is there …?\" for one thing.",
+   "id": "ENG-P2-L01-001",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "___ there a library in your school?",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "Is there a hall? Yes, ___.",
+   "answer": "there is",
+   "options": [
+    "it is",
+    "there is",
+    "I am",
+    "there are"
+   ],
+   "explain": "Answer \"Is there…?\" with \"Yes, there is.\"",
+   "id": "ENG-P2-L01-002",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "Is there a hall? Yes, ___.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "The library is on the ___ floor (1st).",
+   "answer": "first",
+   "options": [
+    "first",
+    "one",
+    "firstly",
+    "once"
+   ],
+   "explain": "1st = first.",
+   "id": "ENG-P2-L01-003",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "The library is on the ___ floor (1st).",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "Where ___ the music room?",
+   "answer": "is",
+   "options": [
+    "do",
+    "are",
+    "is",
+    "am"
+   ],
+   "explain": "\"Where is …?\" for one place.",
+   "id": "ENG-P2-L01-004",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "Where ___ the music room?",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "The tuck shop is ___ the ground floor.",
+   "answer": "on",
+   "options": [
+    "in",
+    "at",
+    "on",
+    "under"
+   ],
+   "explain": "We say \"on the ground floor\".",
+   "id": "ENG-P2-L01-005",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "The tuck shop is ___ the ground floor.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "2nd floor = the ___ floor",
+   "answer": [
+    "second"
+   ],
+   "explain": "2nd = second.",
+   "id": "ENG-P2-L01-006",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "2nd floor = the ___ floor",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "order",
+   "q": "Put in order (smallest first).",
+   "items": [
+    "first",
+    "second",
+    "third",
+    "fourth"
+   ],
+   "explain": "1st, 2nd, 3rd, 4th.",
+   "answer": [
+    "first",
+    "second",
+    "third",
+    "fourth"
+   ],
+   "id": "ENG-P2-L01-007",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "Put in order (smallest first).",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
+   "verified": true,
+   "readAloud": true
+  }
+ ]
+}

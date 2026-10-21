@@ -1,0 +1,106 @@
+{
+ "levelId": "p2m10",
+ "grade": "P2",
+ "subject": "math",
+ "lesson": "L10",
+ "title": "L10 米的認識(一)",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "量度課室的長度，用甚麼單位最適合？",
+   "answer": "米(m)",
+   "options": [
+    "公斤(kg)",
+    "厘米(cm)",
+    "升(L)",
+    "米(m)"
+   ],
+   "explain": "較長的距離用米。",
+   "id": "MATH-P2-L10-001",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L10",
+   "level": "理解",
+   "question": "量度課室的長度，用甚麼單位最適合？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 米的認識(一)",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "1米＝（ ）厘米",
+   "answer": [
+    "100"
+   ],
+   "explain": "1m＝100cm。",
+   "numeric": true,
+   "id": "MATH-P2-L10-002",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L10",
+   "level": "應用",
+   "question": "1米＝（ ）厘米",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 米的認識(一)",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "1米比1厘米長。",
+   "answer": true,
+   "explain": "1米＝100厘米。",
+   "id": "MATH-P2-L10-003",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L10",
+   "level": "理解",
+   "question": "1米比1厘米長。",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 米的認識(一)",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "一扇門大約高多少？",
+   "answer": "2米",
+   "options": [
+    "20米",
+    "2米",
+    "200米",
+    "2厘米"
+   ],
+   "explain": "門大約2米高。",
+   "id": "MATH-P2-L10-004",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L10",
+   "level": "理解",
+   "question": "一扇門大約高多少？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 米的認識(一)",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "量度一條長跑道，用：",
+   "answer": "米",
+   "options": [
+    "厘米",
+    "毫升",
+    "米",
+    "克"
+   ],
+   "explain": "長距離用米。",
+   "id": "MATH-P2-L10-005",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L10",
+   "level": "理解",
+   "question": "量度一條長跑道，用：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 米的認識(一)",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}

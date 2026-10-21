@@ -1,0 +1,124 @@
+{
+ "levelId": "p4e2",
+ "grade": "P4",
+ "subject": "eng",
+ "lesson": "L02",
+ "title": "Ch2 Shows we like",
+ "verified": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "I like magic shows. My brother likes them ___.",
+   "answer": "too",
+   "options": [
+    "or",
+    "both",
+    "either",
+    "too"
+   ],
+   "explain": "Use \"too\" in positive sentences.",
+   "id": "ENG-P4-L02-001",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "I like magic shows. My brother likes them ___.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Shows we like",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "I don't like puppet shows. Amy doesn't like them ___.",
+   "answer": "either",
+   "options": [
+    "both",
+    "too",
+    "either",
+    "and"
+   ],
+   "explain": "Use \"either\" in negative sentences.",
+   "id": "ENG-P4-L02-002",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "I don't like puppet shows. Amy doesn't like them ___.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Shows we like",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "___ Ken and Mary like dance shows.",
+   "answer": "Both",
+   "options": [
+    "Or",
+    "Too",
+    "Either",
+    "Both"
+   ],
+   "explain": "\"Both … and …\" = the two of them.",
+   "id": "ENG-P4-L02-003",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "___ Ken and Mary like dance shows.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Shows we like",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "I don't like singing ___ dancing.",
+   "answer": "or",
+   "options": [
+    "too",
+    "or",
+    "but",
+    "and"
+   ],
+   "explain": "Use \"or\" in negative sentences.",
+   "id": "ENG-P4-L02-004",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "I don't like singing ___ dancing.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Shows we like",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "I like cartoons, ___ I don't like horror films.",
+   "answer": "but",
+   "options": [
+    "both",
+    "or",
+    "but",
+    "either"
+   ],
+   "explain": "\"But\" shows a difference.",
+   "id": "ENG-P4-L02-005",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "I like cartoons, ___ I don't like horror films.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Shows we like",
+   "verified": true
+  },
+  {
+   "type": "tf",
+   "q": "\"I don't like it too.\" is correct.",
+   "answer": false,
+   "explain": "In negative sentences use \"either\": I don't like it either.",
+   "id": "ENG-P4-L02-006",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "\"I don't like it too.\" is correct.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Shows we like",
+   "verified": true
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "levelId": "p1e1",
+ "grade": "P1",
+ "subject": "eng",
+ "lesson": "L01",
+ "title": "Ch1 Starting school",
+ "verified": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "What is your name?",
+   "answer": "My name is Ben.",
+   "options": [
+    "I am six.",
+    "I am fine.",
+    "My name is Ben.",
+    "It is red."
+   ],
+   "explain": "Answer \"What is your name?\" with \"My name is …\".",
+   "id": "ENG-P1-L01-001",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "What is your name?",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "How old are you?",
+   "answer": "I am six.",
+   "options": [
+    "I am six.",
+    "My name is Amy.",
+    "Yes, I am.",
+    "It's a pen."
+   ],
+   "explain": "Answer \"How old\" with your age.",
+   "id": "ENG-P1-L01-002",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "How old are you?",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "This ___ my friend, Tom.",
+   "answer": "is",
+   "options": [
+    "am",
+    "are",
+    "is",
+    "be"
+   ],
+   "explain": "\"This is …\" for one person.",
+   "id": "ENG-P1-L01-003",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "This ___ my friend, Tom.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "I ___ Amy.",
+   "answer": "am",
+   "options": [
+    "am",
+    "is",
+    "be",
+    "are"
+   ],
+   "explain": "Use \"I am\".",
+   "id": "ENG-P1-L01-004",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "I ___ Amy.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
+   "verified": true
+  },
+  {
+   "type": "fill",
+   "q": "How old are you? I am ___ (7 in words).",
+   "answer": [
+    "seven"
+   ],
+   "explain": "7 = seven.",
+   "id": "ENG-P1-L01-005",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "How old are you? I am ___ (7 in words).",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
+   "verified": true
+  }
+ ]
+}

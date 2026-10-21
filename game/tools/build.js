@@ -74,7 +74,7 @@ L('P2','p2m11','L11 米的認識(二)',[
  mcN('哪個最長？','2米',['150厘米','99厘米','1米'],'2米＝200厘米，最長。')]);
 const hhmm=(h,m)=>`${h}時${m===0?'正':m+'分'}`;
 L('P2','p2m18','L18 報時',[
- ...rep(3,()=>{const h=ri(1,12),m=ri(0,11)*5;const wrong=[hhmm(h,(m+15)%60),hhmm(h%12+1,m),hhmm(h,(m+30)%60)];return mcN(`時針指着${h}和${h%12+1}之間（或剛好${h}），分針指着${m/5===0?12:m/5}。現在是幾時幾分？`,hhmm(h,m),wrong,`分針指${m/5===0?12:m/5}表示${m}分。`)}),
+ ...rep(3,()=>{const h=ri(1,12),m=ri(0,11)*5;const wrong=[hhmm(h,(m+15)%60),hhmm(h%12+1,m),hhmm(h,(m+30)%60)];return mcN(`時針${m===0?'指着'+h:'在'+h+'和'+(h%12+1)+'之間'}，分針指着${m/5===0?12:m/5}。現在是幾時幾分？`,hhmm(h,m),wrong,`分針指${m/5===0?12:m/5}表示${m}分。`)}),
  fillN('分針由12走到6，經過了多少分鐘？',30,'每個數字代表5分鐘，6×5＝30。'),
  fillN('1小時＝（ ）分鐘',60,'1小時有60分鐘。'),
  mcN('「3時半」即是：','3時30分',['3時15分','3時45分','6時3分'],'半小時＝30分。')]);
@@ -143,7 +143,7 @@ L('P4','p4m19','L19 圖形拼砌',[
 // P5
 const fmt=n=>n.toLocaleString('en-US');
 L('P5','p5m1','L1 多位數',[
- ...rep(2,()=>{const n=ri(10000,99999999);const s=String(n),k=ri(0,s.length-1),names=['個','十','百','千','萬','十萬','百萬','千萬'];const pos=s.length-1-k;return mcN(`在 ${fmt(n)} 中，數字 ${s[k]} 在哪個數位？（看第${k+1}個數字）`,names[pos]+'位',names.filter((_,i)=>i!==pos).slice(0,3).map(x=>x+'位'),`由右數起第${pos+1}位是${names[pos]}位。`)}),
+ ...rep(2,()=>{const n=ri(10000,99999999);const s=String(n),k=ri(0,s.length-1),names=['個','十','百','千','萬','十萬','百萬','千萬'];const pos=s.length-1-k;return mcN(`在 ${fmt(n)} 中，數字 ${s[k]} 在哪個數位？（由左數起第${k+1}個數字）`,names[pos]+'位',names.filter((_,i)=>i!==pos).slice(0,3).map(x=>x+'位'),`由右數起第${pos+1}位是${names[pos]}位。`)}),
  fillN('一百萬寫成數字是多少？（不用逗號）',1000000,'一百萬＝1000000。'),
  fillN('3個百萬、5個萬合起來是多少？（不用逗號）',3050000,'3000000＋50000＝3050000。'),
  (()=>{let a=ri(1000000,9999999),b=a+ri(-50000,50000);if(a===b)b++;return mcN(`${fmt(a)} 和 ${fmt(b)}，哪個較大？`,fmt(Math.max(a,b)),[fmt(Math.min(a,b))],'由最高位起逐位比較。')})(),
@@ -153,7 +153,7 @@ L('P5','p5m2','L2 近似值和大數量的估計',[
  ...[[1000,'千位'],[10000,'萬位'],[100000,'十萬位'],[1000,'千位']].map(([u,nm])=>{let n=ri(100000,9999999);if(n%u===u/2)n++;const r=roundTo(n,u);return fillN(`把 ${n} 四捨五入至${nm}（不用逗號）。`,r,`看${nm}右邊一位，${r}。`)}),
  mcN('一包米約有20000粒，5包大約有多少粒？','100000',['25000','10000','1000000'],'20000×5＝100000。'),
  {type:'tf',q:'把 45 四捨五入至十位，得 50。',answer:true,explain:'個位是5，要進位。'}]);
-const fr=()=>{const d=ri(3,12),n=ri(1,d-1);return[n,d]};
+const fr=()=>{let d,n;do{d=ri(3,12);n=ri(1,d-1)}while(gcd(n,d)!==1);return[n,d]};
 L('P5','p5m3','L3 分數的比較',[
  ...rep(5,()=>{let a,b;do{a=fr();b=fr()}while(a[0]*b[1]===b[0]*a[1]||a[1]===b[1]);const big=a[0]*b[1]>b[0]*a[1]?a:b,sm=big===a?b:a;return mcN(`${a[0]}/${a[1]} 和 ${b[0]}/${b[1]}，哪個較大？`,`${big[0]}/${big[1]}`,[`${sm[0]}/${sm[1]}`,'一樣大'],`通分後比較：${a[0]*b[1]}/${a[1]*b[1]} 與 ${b[0]*a[1]}/${a[1]*b[1]}。`)}),
  {type:'tf',q:'1/3 比 1/4 大。',answer:true,explain:'分子相同，分母越小分數越大。'}]);
@@ -169,6 +169,18 @@ L('P5','p5m9','L9 梯形',[...rep(4,()=>{const a=ri(2,10),b=ri(a+1,16),h=ri(1,6)
 L('P5','p5m10','L10 多邊形的面積',[...rep(4,()=>{const w=ri(4,10),h=ri(3,8),tb=w,th=ri(2,6);return fillN(`一個多邊形由長方形（長${w}cm，闊${h}cm）和三角形（底${tb}cm，高${th}cm）組成，總面積是多少cm²？`,w*h+tb*th/2,`${w}×${h}＋${tb}×${th}÷2＝${w*h+tb*th/2}`)}),mcN('計算多邊形面積，常用方法是：','分割成已知圖形再相加',['量周界','數頂點','只看最長的邊'],'先分割成長方形、三角形等，再相加或相減。'),(()=>{const W=ri(8,12),H=ri(6,9),c=ri(2,4);return fillN(`長方形${W}cm×${H}cm，切去一個邊長${c}cm的正方形角，剩下面積是多少cm²？`,W*H-c*c,`${W*H}－${c*c}＝${W*H-c*c}`)})()]);
 L('P5','p5m14','L14 代數符號(一)',[...rep(3,()=>{const x=ri(2,20);return fillN(`若 y ＝ ${x}，y ＋ 7 ＝ ？`,x+7,`${x}＋7＝${x+7}`)}),mcN('「a 的 3 倍」用代數表示是：','3a',['a＋3','a－3','a÷3'],'3×a 寫作 3a。'),mcN('「比 n 少 5」用代數表示是：','n－5',['5－n','5n','n＋5'],'比 n 少 5 即 n－5。'),(()=>{const x=ri(2,9);return fillN(`若 x ＝ ${x}，4x ＝ ？`,4*x,`4×${x}＝${4*x}`)})()]);
 L('P5','p5m15','L15 代數符號(二)',[...rep(3,()=>{const x=ri(2,12),y=ri(1,9);return fillN(`若 a ＝ ${x}、b ＝ ${y}，2a ＋ b ＝ ？`,2*x+y,`2×${x}＋${y}＝${2*x+y}`)}),mcN('每枝筆 p 元，買 6 枝要付：','6p 元',['p＋6 元','p－6 元','p÷6 元'],'6×p＝6p。'),mcN('小明有 m 張貼紙，送出 4 張，剩下：','m－4 張',['4－m 張','4m 張','m＋4 張'],'m－4。'),(()=>{const k=ri(3,9),x=ri(2,9);return fillN(`若 n ＝ ${x}，${k}n － ${x} ＝ ？`,k*x-x,`${k}×${x}－${x}＝${k*x-x}`)})()]);
+// --- SSOT metadata (CONVENTIONS.md §4–6): id/lesson/level/source/verified/readAloud
+const SUBJ_CODE={chi:'CHI',eng:'ENG',math:'MATH',hum:'HUM',sci:'SCI'};
+const SRC={chi:'research.md §1 中文《我愛學語文》（第二版）',eng:'research.md §2 Primary Longman Elect (2nd ed)',math:'research.md §3 數學《小學數學新思維》（第二版）',hum:'research.md §4 人文《今日人文》',sci:'research.md §5 科學《科學新領域》'};
+// 只有「課題＋學習重點」都已 ✅ 的關卡先標 verified:true；其餘（只核實課名／題型推斷）一律 false
+const VERIFIED=new Set(['p2m1','p2m2','p2m3','p2m4','p2m5','p2m6','p5m1','p5m2','p5m3','p5m4','p5m5','p5m6',
+ 'p1e0','p1e1','p1e2','p1e3','p1e4','p2e1','p2e2','p2e3','p4e1','p4e2','p4e3','p5e1','p5e2','p5e3','p4s1','p2s1']);
+const lessonNo=l=>{const m=l.id.match(/(\d+)$/);return 'L'+String(+m[1]).padStart(2,'0')};
+const levelOf=(l,q)=>/應用題/.test(l.title)?'應用':l.subject==='math'?(q.type==='fill'?'應用':'理解'):(q.type==='mc'||q.type==='tf')?'記憶':'理解';
+for(const l of levels){l.lesson=lessonNo(l);l.verified=VERIFIED.has(l.id);
+ l.questions.forEach((q,i)=>{if(q.type==='order'&&q.answer===undefined)q.answer=q.items.slice();Object.assign(q,{id:`${SUBJ_CODE[l.subject]}-${l.grade}-${l.lesson}-${String(i+1).padStart(3,'0')}`,grade:l.grade,subject:l.subject,lesson:l.lesson,level:levelOf(l,q),question:q.q,source:SRC[l.subject]+'｜'+l.title,verified:l.verified});if(l.grade==='P2')q.readAloud=true;});
+ const dir=path.join(__dirname,'..','..','questions',l.subject,l.grade);fs.mkdirSync(dir,{recursive:true});
+ fs.writeFileSync(path.join(dir,l.lesson+'.json'),JSON.stringify({levelId:l.id,grade:l.grade,subject:l.subject,lesson:l.lesson,title:l.title,verified:l.verified,questions:l.questions},null,1)+'\n');}
 // Boss: generated at runtime from world levels. Output
 const subj={chi:'中文城',eng:'English Island',math:'數學山',hum:'人文村',sci:'科學實驗室'};
 fs.writeFileSync(path.join(__dirname,'..','questions.js'),'// AUTO-GENERATED by tools/build.js — edit tools/content.txt or build.js, then run: node tools/build.js\nwindow.QUESTION_BANK = '+JSON.stringify({version:'2026-10-21',levels},null,1)+';\n');

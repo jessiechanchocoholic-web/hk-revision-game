@@ -1,0 +1,118 @@
+{
+ "levelId": "p5s5",
+ "grade": "P5",
+ "subject": "sci",
+ "lesson": "L05",
+ "title": "5 顯微鏡下的微生物",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "觀察微生物要用：",
+   "answer": "顯微鏡",
+   "options": [
+    "望遠鏡",
+    "顯微鏡",
+    "放大鏡就夠",
+    "溫度計"
+   ],
+   "explain": "微生物太小，要用顯微鏡。",
+   "id": "SCI-P5-L05-001",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "觀察微生物要用：",
+   "source": "research.md §5 科學《科學新領域》｜5 顯微鏡下的微生物",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "麵包放久了會生出：",
+   "answer": "霉菌",
+   "options": [
+    "霉菌",
+    "昆蟲",
+    "石頭",
+    "花"
+   ],
+   "explain": "霉菌是微生物。",
+   "id": "SCI-P5-L05-002",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "麵包放久了會生出：",
+   "source": "research.md §5 科學《科學新領域》｜5 顯微鏡下的微生物",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "製作麵包用到哪種微生物？",
+   "answer": "酵母菌",
+   "options": [
+    "藻類",
+    "酵母菌",
+    "霉菌",
+    "病毒"
+   ],
+   "explain": "酵母菌令麵團發脹。",
+   "id": "SCI-P5-L05-003",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "製作麵包用到哪種微生物？",
+   "source": "research.md §5 科學《科學新領域》｜5 顯微鏡下的微生物",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "防止食物變壞，可以：",
+   "answer": "放進雪櫃冷藏",
+   "options": [
+    "放進雪櫃冷藏",
+    "放在太陽下",
+    "不加蓋",
+    "放在濕的地方"
+   ],
+   "explain": "低溫減慢微生物生長。",
+   "id": "SCI-P5-L05-004",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "防止食物變壞，可以：",
+   "source": "research.md §5 科學《科學新領域》｜5 顯微鏡下的微生物",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "有些微生物對人有益。",
+   "answer": true,
+   "explain": "例如酵母菌、乳酸菌。",
+   "id": "SCI-P5-L05-005",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "有些微生物對人有益。",
+   "source": "research.md §5 科學《科學新領域》｜5 顯微鏡下的微生物",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "所有微生物都會令人生病。",
+   "answer": false,
+   "explain": "有些有益，有些有害。",
+   "id": "SCI-P5-L05-006",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "所有微生物都會令人生病。",
+   "source": "research.md §5 科學《科學新領域》｜5 顯微鏡下的微生物",
+   "verified": false
+  }
+ ]
+}

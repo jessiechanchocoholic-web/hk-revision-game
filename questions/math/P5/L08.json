@@ -1,0 +1,115 @@
+{
+ "levelId": "p5m8",
+ "grade": "P5",
+ "subject": "math",
+ "lesson": "L08",
+ "title": "L8 三角形",
+ "verified": false,
+ "questions": [
+  {
+   "type": "fill",
+   "q": "三角形底16cm，高4cm，面積是多少cm²？",
+   "answer": [
+    "32"
+   ],
+   "explain": "底×高÷2＝16×4÷2＝32",
+   "numeric": true,
+   "id": "MATH-P5-L08-001",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L08",
+   "level": "應用",
+   "question": "三角形底16cm，高4cm，面積是多少cm²？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 三角形",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "三角形底6cm，高5cm，面積是多少cm²？",
+   "answer": [
+    "15"
+   ],
+   "explain": "底×高÷2＝6×5÷2＝15",
+   "numeric": true,
+   "id": "MATH-P5-L08-002",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L08",
+   "level": "應用",
+   "question": "三角形底6cm，高5cm，面積是多少cm²？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 三角形",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "三角形底16cm，高5cm，面積是多少cm²？",
+   "answer": [
+    "40"
+   ],
+   "explain": "底×高÷2＝16×5÷2＝40",
+   "numeric": true,
+   "id": "MATH-P5-L08-003",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L08",
+   "level": "應用",
+   "question": "三角形底16cm，高5cm，面積是多少cm²？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 三角形",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "三角形底6cm，高3cm，面積是多少cm²？",
+   "answer": [
+    "9"
+   ],
+   "explain": "底×高÷2＝6×3÷2＝9",
+   "numeric": true,
+   "id": "MATH-P5-L08-004",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L08",
+   "level": "應用",
+   "question": "三角形底6cm，高3cm，面積是多少cm²？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 三角形",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "三角形面積公式是：",
+   "answer": "底×高÷2",
+   "options": [
+    "底×高÷2",
+    "底＋高",
+    "(底＋高)×2",
+    "底×高"
+   ],
+   "explain": "三角形是同底同高平行四邊形的一半。",
+   "id": "MATH-P5-L08-005",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L08",
+   "level": "理解",
+   "question": "三角形面積公式是：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 三角形",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "三角形面積36cm²，底8cm，高是多少cm？",
+   "answer": [
+    "9"
+   ],
+   "explain": "36×2÷8＝9",
+   "numeric": true,
+   "id": "MATH-P5-L08-006",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L08",
+   "level": "應用",
+   "question": "三角形面積36cm²，底8cm，高是多少cm？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 三角形",
+   "verified": false
+  }
+ ]
+}
