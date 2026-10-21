@@ -3,8 +3,8 @@
 更新：2026-10-21（文件 Bot）｜只標記，**冇改任何題目或答案**。核對後請喺「狀態」欄更新，並通知 QA Bot。
 
 ## 總體說明
-- `main` 現行題庫（97 關、548 題）未有 `verified`／`source` 欄位。PR #2 會以**關卡**為單位加 `verified`：26 關已核實；按 D-017 定案應為 154 題 `true`、394 題 `false`（PR #2 commit `2bcc01b` 暫時係 147／401，待開發 Bot 將 7 題改返 `true`）；`source` 只係科目層級（例「research.md §3 …｜關卡名」），唔係逐題來源。
-- P1／P2 英文（44 題）：全部當已核實（D-017 已定案）。PR #2 `2bcc01b` 曾將 7 題改 `false`，Jessie 不接受，須改返 `true`（見 C 類紀錄）。
+- `main` 現行題庫（97 關、548 題）未有 `verified`／`source` 欄位。PR #2 會以**關卡**為單位加 `verified`：26 關已核實；154 題 `true`、394 題 `false`（PR #2 commit `b8e7e98`，已按 D-017 將 7 題改返 `true`）；`source` 只係科目層級（例「research.md §3 …｜關卡名」），唔係逐題來源。
+- P1／P2 英文（44 題）：全部當已核實（D-017 已定案）。PR #2 `2bcc01b` 曾將 7 題改 `false`，Jessie 不接受，PR #2 `b8e7e98` 已改返 `true`（見 C 類紀錄）。
 - PR #2 最新版另將 p2m2（P2 數學 L2，6 題）、p5e2（P5 英文 Ch2，7 題）同三個實用文關卡（p2c99、p4c99、p5c99，16 題）標 `false`；呢 29 題唔喺 A 類，原因請睇 PR #2／QA 報告。
 - 核對依據 `research.md`（未放入 repo，box 路徑 `/workspace/hk-revision-game/research.md`）：✅＝已核實、⚠️＝推斷。
 - 檔案欄：`content.txt`＝`game/tools/content.txt`；`build.js`＝`game/tools/build.js`（數學）。
@@ -54,7 +54,9 @@
 | B15 | build.js | p2m18 | 報時題「時針指着 h 和 h+1 之間（或剛好 h）」 | 題目字眼同時包含兩種情況，對 P2 可能混淆；分針「指着12」表示正點 | PR #2 已改字眼（正點寫「時針指着 h」，否則「在 h 和 h+1 之間」），待 QA 確認 |
 | B16 | build.js | p2m20 | 「平年的2月有多少日？」「平年一年有多少日？」 | 「平年／閏年」可能超出 P2 L20 範圍 | 待核 |
 
-## C. 紀錄：PR #2 `2bcc01b` 曾逐題改為 `verified: false`（已解決：Jessie 不接受，全部當已核實，D-017；待開發 Bot 改返 `true`）
+## C. 紀錄：PR #2 `2bcc01b` 曾逐題改為 `verified: false`（已解決：Jessie 不接受，全部當已核實，D-017；PR #2 `b8e7e98` 已改返 `true`）
+
+> 註：`2bcc01b`／`b8e7e98` 作者顯示「安全 Bot」係共用 git config 所致，實際由開發 Bot 提交。
 
 | # | 題目 ID | 關卡 ID | 題目 | 原因 |
 |---|---|---|---|---|
@@ -71,4 +73,4 @@
 - 已解決：A11，44 題（包括 C 類 7 題）
 - B 類（個別題目疑問）：16 項
 - C 類：0 題待處理（7 題已解決，見上）
-- D-017 定案後 `verified: false`：394 題＝A 類 365＋其他 29（見總體說明）；`verified: true`：154 題（PR #2 `2bcc01b` 未修正前顯示 147／401；`main` 現時全部 548 題無此欄位）
+- D-017 定案後 `verified: false`：394 題＝A 類 365＋其他 29（見總體說明）；`verified: true`：154 題（已喺 PR #2 `b8e7e98` 核對；`main` 現時全部 548 題無此欄位）

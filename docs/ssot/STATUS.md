@@ -56,4 +56,4 @@ P1 中文一上單元一二、英文 1A Ch1–4、科學一上。
 | ID | 任務 | 負責 Bot | 狀態 | 更新日期 | 備註 |
 |---|---|---|---|---|---|
 | B1-DEV-08 | 為題目加 `verified`／`source` 欄位（content.txt＋build.js），試玩只顯示已核實題目 | 開發 Bot | 審查中 | 2026-10-21 | D-014、D-016；PR #2 已實施，待 QA 及合併 |
-| B1-DEV-09 | PR #2：將 commit `2bcc01b` 改為 false 嘅 7 題（ENG-P1-L00-005、ENG-P1-L01-004、ENG-P1-L01-005、ENG-P1-L03-002、ENG-P1-L03-003、ENG-P1-L03-005、ENG-P2-L03-005）改返 `verified: true`（移除 `UNVERIFIED_Q` 入面呢 7 個 ID），重新 build／validate | 開發 Bot | 待辦 | 2026-10-21 | D-017 已定案：P1／P2 英文 44 題全部已核實 |
+| B1-DEV-09 | PR #2：將 commit `2bcc01b` 改為 false 嘅 7 題（ENG-P1-L00-005、ENG-P1-L01-004、ENG-P1-L01-005、ENG-P1-L03-002、ENG-P1-L03-003、ENG-P1-L03-005、ENG-P2-L03-005）改返 `verified: true`（移除 `UNVERIFIED_Q` 入面呢 7 個 ID），重新 build／validate | 開發 Bot | 完成 | 2026-10-21 | D-017 已定案：P1／P2 英文 44 題全部已核實；PR #2 commit `b8e7e98` 已改返，文件 Bot 核對：7 題全部 true，總數 154 true／394 false |
