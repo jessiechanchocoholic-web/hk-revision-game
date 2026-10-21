@@ -131,3 +131,13 @@
 - 衝突：#1～#5 各自對 main 無衝突；兩兩之間都喺 HANDOFFS.md 衝突（#3×#4 另有 DECISIONS／OPEN-QUESTIONS／STATUS）。
 - 建議合併次序：#2（題庫＋遊戲）→ #1（安全）→ #4（文件）→ #3（發佈準備）→ #5（QA 結果），每合併一個其餘 rebase；合併須 Jessie 批准。
 - 注意：PR #5 遠端仍係 6ebf521，本機 qa/B1-QA-01-results 有之後嘅覆審 commit 未 push。
+
+## B2 審查（2026-10-21，基於 main 4c56038）
+| PR | head | 結論 | 重點 |
+|---|---|---|---|
+| #10 移除校名 | 8676fb5 | 通過，有跟進 | game／questions／README 0 命中、截圖已改；docs/ssot（STATUS:1、RELEASE:26、SECURITY_REVIEW:17,53）仍有校名／舊 key；git 歷史仍有校名（改寫歷史要 Jessie 決定） |
+| #11 卡通動畫 | bab4afa | 通過 | 離線 0 外部請求、0 錯誤；reduced-motion 停晒動畫；375／768 無溢出；效能正常 |
+| #12 進階數學 | 59decf3 | 通過 | 19 題答案及步驟 QA 獨立重算全部正確；verified 全 false 合理；validate ALL OK 103／591 |
+- 衝突：三個 PR 各自對 main 無衝突；兩兩喺 STATUS.md／HANDOFFS.md 衝突，#11×#12 另有 game.js／style.css。
+- 建議合併次序：#10 → #11 → #12（#12 rebase 後重跑 build.js＋validate.js）。合併須 Jessie 批准。
+- 截圖：`/workspace/qa-shots/b11-*.png`、`b12-*.png`

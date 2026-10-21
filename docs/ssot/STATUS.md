@@ -75,3 +75,4 @@ P1 中文一上單元一二、英文 1A Ch1–4、科學一上。
 - 2026-10-21 歷史改寫後語意覆核：文字替換將舊進度 key 名換成新 key 名；已逐行檢查，修正 STATUS 第 70 行（「沿用舊進度」已不正確）。
 - 2026-10-21 B2 完成：Jessie 批准（D-027），PR #10→#11→#12 已合併（4e4705c、7e445bf、0f3e632），GitHub Pages 已更新（103 關／591 題，VERIFIED_ONLY_DEFAULT=false、UNLOCK_ALL=true，校名 0 結果）；單一離線 HTML 已出；玩家舊進度重設，家長通知見 RELEASE.md 第 6 節。#13／#14／#15 未合併。
 - 2026-10-21 文件 Bot 核對 main `8c49220`：`validate.js` → ALL OK 103 levels 591 questions；154 題 `verified:true`（26 關）、437 題 `false`；B2 新增 p2m96（6）、p4m96（8）、p5m96（5）共 19 題，全部 `verified:false`。
+- 2026-10-21 B2-QA-01 審查中：QA Bot 審查 PR #10／#11／#12 全部通過（#10 有 docs/ssot 跟進），見 QA_REPORT.md「B2 審查」。
