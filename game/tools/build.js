@@ -175,6 +175,8 @@ const SRC={chi:'research.md §1 中文《我愛學語文》（第二版）',eng:
 // 只有「課題＋學習重點」都已 ✅ 的關卡先標 verified:true；其餘（只核實課名／題型推斷）一律 false
 const VERIFIED=new Set(['p2m1','p2m3','p2m4','p2m5','p2m6','p5m1','p5m2','p5m3','p5m4','p5m5','p5m6',
  'p1e0','p1e1','p1e2','p1e3','p1e4','p2e1','p2e2','p2e3','p4e1','p4e2','p4e3','p5e1','p5e3','p4s1','p2s1']);
+// 逐題覆寫：關卡已核實但該題內容（詞彙／句式）喺 research.md 冇明確出處 → verified:false
+const UNVERIFIED_Q=new Set(['ENG-P1-L00-005','ENG-P1-L01-004','ENG-P1-L01-005','ENG-P1-L03-002','ENG-P1-L03-003','ENG-P1-L03-005','ENG-P2-L03-005']);
 const lessonNo=l=>{const m=l.id.match(/(\d+)$/);return 'L'+String(+m[1]).padStart(2,'0')};
 // 能力層次：可喺題目加 level 覆寫；否則按內容推定
 const RECALL=/叫做|叫：|公式|寫成數字|是多少個|有多少個月|有多少日|一年有|＝（ ）|1小時|1米|相反方向是|數位|位是多少|有多少個主要方向/;
@@ -187,7 +189,7 @@ const levelOf=(l,q)=>{if(q.level)return q.level;const t=q.q||'';
  if(q.type==='order')return '理解';
  return q.type==='fill'?'理解':'記憶'};
 for(const l of levels){l.lesson=lessonNo(l);l.verified=VERIFIED.has(l.id);
- l.questions.forEach((q,i)=>{if(q.type==='order'&&q.answer===undefined)q.answer=q.items.slice();Object.assign(q,{id:`${SUBJ_CODE[l.subject]}-${l.grade}-${l.lesson}-${String(i+1).padStart(3,'0')}`,grade:l.grade,subject:l.subject,lesson:l.lesson,level:levelOf(l,q),question:q.q,source:SRC[l.subject]+'｜'+l.title,verified:l.verified});if(l.grade==='P2')q.readAloud=true;});
+ l.questions.forEach((q,i)=>{if(q.type==='order'&&q.answer===undefined)q.answer=q.items.slice();Object.assign(q,{id:`${SUBJ_CODE[l.subject]}-${l.grade}-${l.lesson}-${String(i+1).padStart(3,'0')}`,grade:l.grade,subject:l.subject,lesson:l.lesson,level:levelOf(l,q),question:q.q,source:SRC[l.subject]+'｜'+l.title,verified:l.verified});if(UNVERIFIED_Q.has(q.id))q.verified=false;if(l.grade==='P2')q.readAloud=true;});
  const dir=path.join(__dirname,'..','..','questions',l.subject,l.grade);fs.mkdirSync(dir,{recursive:true});
  fs.writeFileSync(path.join(dir,l.lesson+'.json'),JSON.stringify({levelId:l.id,grade:l.grade,subject:l.subject,lesson:l.lesson,title:l.title,verified:l.verified,questions:l.questions},null,1)+'\n');}
 // Boss: generated at runtime from world levels. Output

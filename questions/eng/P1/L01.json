@@ -84,7 +84,7 @@
    "level": "應用",
    "question": "I ___ Amy.",
    "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
-   "verified": true
+   "verified": false
   },
   {
    "type": "fill",
@@ -100,7 +100,7 @@
    "level": "應用",
    "question": "How old are you? I am ___ (7 in words).",
    "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
-   "verified": true
+   "verified": false
   }
  ]
 }
