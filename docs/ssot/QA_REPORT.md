@@ -92,3 +92,12 @@
 - 非阻擋：無粵語語音時仍顯示讀題掣；p5m1#5、p2s1#4 level 小執；帶分數輸入、答錯提示洩露答案（已延後）。
 - 截圖：`/workspace/qa-shots/r3-*.png`
 **結論：已核實模式可供 Jessie 今晚試玩。**
+
+## 最終覆審 PR #2 2bcc01b（2026-10-21）
+- 對比 f010cdb：只改 7 題英文（P1 L00/L01/L03、P2 L03）為 verified:false，game.js 不變。
+- validate.js：ALL OK；預設／`=1`：26 關／147 題；`=0`：97 關；冇空關卡。
+- P1 English 5 關（4／3／5／2／5 題）逐關玩通，解鎖及 Boss（10 題）正常，冇出現未核實題目；手機／平板 0 console 錯誤、無溢出。
+- 非阻擋：p1e3 只得 2 題、p1e1 3 題；P1 練習世界仍有 Boss（與 B1-DEV-07 不符）。截圖：`/workspace/qa-shots/r4-*.png`
+**結論：已核實模式可供 Jessie 今晚試玩。**
+- 題數核對（2bcc01b）：548＝true 147＋false 401。PR 寫 394 只計 71 個 false 關卡，漏 7 題逐題覆寫；文件 Bot 365 再少 29（p2m2 6、p5e2 7、實用文 99 關 16）。正確：**401**。Boss／錯題簿屬執行時生成，冇重複計。
+- P1/P2 英文剩餘 37 題 verified:true：全部有 research.md 直接出處；邊緣：ENG-P1-L00-004、ENG-P2-L02-004、ENG-P2-L02-006（可保留）。
