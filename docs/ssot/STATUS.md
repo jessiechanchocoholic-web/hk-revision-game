@@ -71,3 +71,4 @@ P1 中文一上單元一二、英文 1A Ch1–4、科學一上。
 - 2026-10-21 B2-DEV-02 審查中：卡通角色「波波」（inline SVG）＋答啱／答錯／過關／Boss 動畫；離線單檔 HTML、手機 375px、prefers-reduced-motion 已測。
 - 2026-10-21 B2-DEV-01 審查中：移除公開文字中嘅校名（標題、README、使用說明、遊戲首頁、截圖、人文題地名改為「柴灣」、localStorage key 改 `hk-revision-quest-v1`（不讀舊進度 key，玩家進度會重置；Jessie 已接受））。
 - 2026-10-21 歷史改寫後語意覆核：文字替換將舊進度 key 名換成新 key 名；已逐行檢查，修正 STATUS 第 70 行（「沿用舊進度」已不正確）。
+- 2026-10-21 B2 完成：Jessie 批准（D-027），PR #10→#11→#12 已合併（4e4705c、7e445bf、0f3e632），GitHub Pages 已更新（103 關／591 題，VERIFIED_ONLY_DEFAULT=false、UNLOCK_ALL=true，校名 0 結果）；單一離線 HTML 已出；玩家舊進度重設，家長通知見 RELEASE.md 第 6 節。#13／#14／#15 未合併。
