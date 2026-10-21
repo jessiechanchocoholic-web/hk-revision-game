@@ -1,0 +1,132 @@
+{
+ "levelId": "p2c1",
+ "grade": "P2",
+ "subject": "chi",
+ "lesson": "L01",
+ "title": "第1課 欣欣的故事",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "選出正確的標點：我叫欣欣（ ）",
+   "answer": "。",
+   "options": [
+    "、",
+    "。",
+    "！",
+    "？"
+   ],
+   "explain": "說明自己的句子，句末用句號「。」。",
+   "id": "CHI-P2-L01-001",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "選出正確的標點：我叫欣欣（ ）",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 欣欣的故事",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "你叫甚麼名字（ ）",
+   "answer": "？",
+   "options": [
+    "。",
+    "？",
+    "，",
+    "、"
+   ],
+   "explain": "問問題的句子用問號「？」。",
+   "id": "CHI-P2-L01-002",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "你叫甚麼名字（ ）",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 欣欣的故事",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "「一（ ）書」，括號應填哪個量詞？",
+   "answer": "本",
+   "options": [
+    "本",
+    "朵",
+    "隻",
+    "條"
+   ],
+   "explain": "書用「本」：一本書。",
+   "id": "CHI-P2-L01-003",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "「一（ ）書」，括號應填哪個量詞？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 欣欣的故事",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "「高興」的相反詞是：",
+   "answer": "傷心",
+   "options": [
+    "興奮",
+    "開心",
+    "快樂",
+    "傷心"
+   ],
+   "explain": "高興的相反是傷心。",
+   "id": "CHI-P2-L01-004",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "「高興」的相反詞是：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 欣欣的故事",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "「我和同學一起玩。」句中誰在玩？",
+   "answer": "我和同學",
+   "options": [
+    "小狗",
+    "我和同學",
+    "爸爸",
+    "老師"
+   ],
+   "explain": "「我和同學」一起玩。",
+   "id": "CHI-P2-L01-005",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "「我和同學一起玩。」句中誰在玩？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 欣欣的故事",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "「一（ ）小狗」，括號填量詞。",
+   "answer": [
+    "隻"
+   ],
+   "explain": "小狗用「隻」：一隻小狗。",
+   "id": "CHI-P2-L01-006",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "「一（ ）小狗」，括號填量詞。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 欣欣的故事",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}

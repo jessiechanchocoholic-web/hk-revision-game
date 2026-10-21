@@ -1,0 +1,109 @@
+{
+ "levelId": "p5s2",
+ "grade": "P5",
+ "subject": "sci",
+ "lesson": "L02",
+ "title": "2 生殖與發育",
+ "verified": false,
+ "questions": [
+  {
+   "type": "order",
+   "q": "排出蝴蝶的生命周期。",
+   "items": [
+    "卵",
+    "幼蟲",
+    "蛹",
+    "成蟲"
+   ],
+   "explain": "蝴蝶：卵、幼蟲、蛹、成蟲。",
+   "answer": [
+    "卵",
+    "幼蟲",
+    "蛹",
+    "成蟲"
+   ],
+   "id": "SCI-P5-L02-001",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "理解",
+   "question": "排出蝴蝶的生命周期。",
+   "source": "research.md §5 科學《科學新領域》｜2 生殖與發育",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "青春期時，身體會：",
+   "answer": "出現明顯轉變",
+   "options": [
+    "出現明顯轉變",
+    "停止生長",
+    "不再變化",
+    "變矮"
+   ],
+   "explain": "青春期身體出現第二性徵。",
+   "id": "SCI-P5-L02-002",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "青春期時，身體會：",
+   "source": "research.md §5 科學《科學新領域》｜2 生殖與發育",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "人類胎兒在母親哪個器官內發育？",
+   "answer": "子宮",
+   "options": [
+    "子宮",
+    "胃",
+    "肺",
+    "心臟"
+   ],
+   "explain": "胎兒在子宮內發育。",
+   "id": "SCI-P5-L02-003",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "人類胎兒在母親哪個器官內發育？",
+   "source": "research.md §5 科學《科學新領域》｜2 生殖與發育",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "雞是用甚麼方式繁殖？",
+   "answer": "生蛋（卵生）",
+   "options": [
+    "分裂",
+    "生蛋（卵生）",
+    "直接生出小雞（胎生）",
+    "種子"
+   ],
+   "explain": "雞是卵生動物。",
+   "id": "SCI-P5-L02-004",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "雞是用甚麼方式繁殖？",
+   "source": "research.md §5 科學《科學新領域》｜2 生殖與發育",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "青蛙的生命周期包括蝌蚪階段。",
+   "answer": true,
+   "explain": "卵→蝌蚪→幼蛙→成蛙。",
+   "id": "SCI-P5-L02-005",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "青蛙的生命周期包括蝌蚪階段。",
+   "source": "research.md §5 科學《科學新領域》｜2 生殖與發育",
+   "verified": false
+  }
+ ]
+}

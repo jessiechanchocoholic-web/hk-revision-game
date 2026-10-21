@@ -1,0 +1,124 @@
+{
+ "levelId": "p2s4",
+ "grade": "P2",
+ "subject": "sci",
+ "lesson": "L04",
+ "title": "4 愛護環境",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "以下哪個是愛護環境的行為？",
+   "answer": "循環再用膠樽",
+   "options": [
+    "循環再用膠樽",
+    "長開水龍頭",
+    "浪費紙張",
+    "亂拋垃圾"
+   ],
+   "explain": "循環再用可減少垃圾。",
+   "id": "SCI-P2-L04-001",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "以下哪個是愛護環境的行為？",
+   "source": "research.md §5 科學《科學新領域》｜4 愛護環境",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "鋁罐應放入哪個回收箱？",
+   "answer": "黃色",
+   "options": [
+    "藍色",
+    "啡色",
+    "黃色",
+    "紅色"
+   ],
+   "explain": "香港：黃色回收鋁罐，藍色廢紙，啡色膠樽。",
+   "id": "SCI-P2-L04-002",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "鋁罐應放入哪個回收箱？",
+   "source": "research.md §5 科學《科學新領域》｜4 愛護環境",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "廢紙應放入哪個回收箱？",
+   "answer": "藍色",
+   "options": [
+    "綠色",
+    "啡色",
+    "黃色",
+    "藍色"
+   ],
+   "explain": "藍色回收箱收集廢紙。",
+   "id": "SCI-P2-L04-003",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "廢紙應放入哪個回收箱？",
+   "source": "research.md §5 科學《科學新領域》｜4 愛護環境",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "離開房間時關燈可以節約能源。",
+   "answer": true,
+   "explain": "隨手關燈。",
+   "id": "SCI-P2-L04-004",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "離開房間時關燈可以節約能源。",
+   "source": "research.md §5 科學《科學新領域》｜4 愛護環境",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "買東西時，可以帶甚麼減少用膠袋？",
+   "answer": "環保袋",
+   "options": [
+    "雨傘",
+    "更多膠袋",
+    "紙巾",
+    "環保袋"
+   ],
+   "explain": "自備環保袋。",
+   "id": "SCI-P2-L04-005",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "買東西時，可以帶甚麼減少用膠袋？",
+   "source": "research.md §5 科學《科學新領域》｜4 愛護環境",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "把垃圾丟進海裏不會影響海洋動物。",
+   "answer": false,
+   "explain": "垃圾會傷害海洋動物。",
+   "id": "SCI-P2-L04-006",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "把垃圾丟進海裏不會影響海洋動物。",
+   "source": "research.md §5 科學《科學新領域》｜4 愛護環境",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}

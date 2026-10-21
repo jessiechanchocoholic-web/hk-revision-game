@@ -1,0 +1,103 @@
+{
+ "levelId": "p2m8",
+ "grade": "P2",
+ "subject": "math",
+ "lesson": "L08",
+ "title": "L8 垂直線",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "兩條直線相交成直角，叫做：",
+   "answer": "互相垂直",
+   "options": [
+    "重疊",
+    "互相垂直",
+    "互相平行",
+    "彎曲"
+   ],
+   "explain": "相交成直角就是垂直。",
+   "id": "MATH-P2-L08-001",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "兩條直線相交成直角，叫做：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 垂直線",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "長方形相鄰的兩條邊互相垂直。",
+   "answer": true,
+   "explain": "相鄰兩邊成直角。",
+   "id": "MATH-P2-L08-002",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L08",
+   "level": "理解",
+   "question": "長方形相鄰的兩條邊互相垂直。",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 垂直線",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "互相垂直的兩條線一定不相交。",
+   "answer": false,
+   "explain": "垂直線相交成直角。",
+   "id": "MATH-P2-L08-003",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L08",
+   "level": "理解",
+   "question": "互相垂直的兩條線一定不相交。",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 垂直線",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "哪個英文字母有互相垂直的線？",
+   "answer": "T",
+   "options": [
+    "S",
+    "C",
+    "O",
+    "T"
+   ],
+   "explain": "T 的一橫一豎互相垂直。",
+   "id": "MATH-P2-L08-004",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L08",
+   "level": "理解",
+   "question": "哪個英文字母有互相垂直的線？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 垂直線",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "檢查兩條線是否垂直，可以用：",
+   "answer": "三角尺的直角",
+   "options": [
+    "秤",
+    "時鐘",
+    "三角尺的直角",
+    "溫度計"
+   ],
+   "explain": "用三角尺的直角比一比。",
+   "id": "MATH-P2-L08-005",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L08",
+   "level": "理解",
+   "question": "檢查兩條線是否垂直，可以用：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 垂直線",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}

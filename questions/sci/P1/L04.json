@@ -1,0 +1,98 @@
+{
+ "levelId": "p1s4",
+ "grade": "P1",
+ "subject": "sci",
+ "lesson": "L04",
+ "title": "4 奇妙的身體",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "我們用甚麼聽聲音？",
+   "answer": "耳朵",
+   "options": [
+    "耳朵",
+    "眼睛",
+    "鼻子",
+    "嘴巴"
+   ],
+   "explain": "耳朵用來聽。",
+   "id": "SCI-P1-L04-001",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "我們用甚麼聽聲音？",
+   "source": "research.md §5 科學《科學新領域》｜4 奇妙的身體",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "我們用甚麼嚐味道？",
+   "answer": "舌頭",
+   "options": [
+    "舌頭",
+    "耳朵",
+    "手肘",
+    "頭髮"
+   ],
+   "explain": "舌頭嚐味道。",
+   "id": "SCI-P1-L04-002",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "我們用甚麼嚐味道？",
+   "source": "research.md §5 科學《科學新領域》｜4 奇妙的身體",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "飯前要先：",
+   "answer": "洗手",
+   "options": [
+    "跑步",
+    "看電視",
+    "洗手",
+    "睡覺"
+   ],
+   "explain": "飯前洗手，保持衞生。",
+   "id": "SCI-P1-L04-003",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "飯前要先：",
+   "source": "research.md §5 科學《科學新領域》｜4 奇妙的身體",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "每天刷牙可以保護牙齒。",
+   "answer": true,
+   "explain": "早晚刷牙，牙齒健康。",
+   "id": "SCI-P1-L04-004",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "每天刷牙可以保護牙齒。",
+   "source": "research.md §5 科學《科學新領域》｜4 奇妙的身體",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "眼睛可以用來嗅氣味。",
+   "answer": false,
+   "explain": "嗅氣味要用鼻子。",
+   "id": "SCI-P1-L04-005",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "眼睛可以用來嗅氣味。",
+   "source": "research.md §5 科學《科學新領域》｜4 奇妙的身體",
+   "verified": false
+  }
+ ]
+}

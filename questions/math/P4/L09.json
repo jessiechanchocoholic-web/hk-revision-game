@@ -1,0 +1,130 @@
+{
+ "levelId": "p4m9",
+ "grade": "P4",
+ "subject": "math",
+ "lesson": "L09",
+ "title": "L9 整除性",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "哪個數可以被2整除？",
+   "answer": "788",
+   "options": [
+    "788",
+    "201",
+    "693",
+    "455"
+   ],
+   "explain": "788÷2＝394，沒有餘數。",
+   "id": "MATH-P4-L09-001",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L09",
+   "level": "理解",
+   "question": "哪個數可以被2整除？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 整除性",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "哪個數可以被3整除？",
+   "answer": "816",
+   "options": [
+    "983",
+    "319",
+    "816",
+    "455"
+   ],
+   "explain": "816÷3＝272，沒有餘數。",
+   "id": "MATH-P4-L09-002",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L09",
+   "level": "理解",
+   "question": "哪個數可以被3整除？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 整除性",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "哪個數可以被5整除？",
+   "answer": "260",
+   "options": [
+    "927",
+    "260",
+    "351",
+    "423"
+   ],
+   "explain": "260÷5＝52，沒有餘數。",
+   "id": "MATH-P4-L09-003",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L09",
+   "level": "理解",
+   "question": "哪個數可以被5整除？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 整除性",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "哪個數可以被4整除？",
+   "answer": "200",
+   "options": [
+    "698",
+    "738",
+    "200",
+    "570"
+   ],
+   "explain": "200÷4＝50，沒有餘數。",
+   "id": "MATH-P4-L09-004",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L09",
+   "level": "理解",
+   "question": "哪個數可以被4整除？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 整除性",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "哪個數可以被9整除？",
+   "answer": "252",
+   "options": [
+    "252",
+    "385",
+    "330",
+    "710"
+   ],
+   "explain": "252÷9＝28，沒有餘數。",
+   "id": "MATH-P4-L09-005",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L09",
+   "level": "理解",
+   "question": "哪個數可以被9整除？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 整除性",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "哪個數可以被10整除？",
+   "answer": "180",
+   "options": [
+    "180",
+    "587",
+    "642",
+    "107"
+   ],
+   "explain": "180÷10＝18，沒有餘數。",
+   "id": "MATH-P4-L09-006",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L09",
+   "level": "理解",
+   "question": "哪個數可以被10整除？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 整除性",
+   "verified": false
+  }
+ ]
+}

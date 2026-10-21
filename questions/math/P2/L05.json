@@ -1,0 +1,118 @@
+{
+ "levelId": "p2m5",
+ "grade": "P2",
+ "subject": "math",
+ "lesson": "L05",
+ "title": "L5 減法",
+ "verified": true,
+ "questions": [
+  {
+   "type": "fill",
+   "q": "877 － 764 ＝ ？",
+   "answer": [
+    "113"
+   ],
+   "explain": "877－764＝113",
+   "numeric": true,
+   "id": "MATH-P2-L05-001",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "877 － 764 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 減法",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "580 － 577 ＝ ？",
+   "answer": [
+    "3"
+   ],
+   "explain": "580－577＝3",
+   "numeric": true,
+   "id": "MATH-P2-L05-002",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "580 － 577 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 減法",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "983 － 706 ＝ ？",
+   "answer": [
+    "277"
+   ],
+   "explain": "983－706＝277",
+   "numeric": true,
+   "id": "MATH-P2-L05-003",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "983 － 706 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 減法",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "854 － 801 ＝ ？",
+   "answer": [
+    "53"
+   ],
+   "explain": "854－801＝53",
+   "numeric": true,
+   "id": "MATH-P2-L05-004",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "854 － 801 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 減法",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "538 － 190 ＝ ？",
+   "answer": [
+    "348"
+   ],
+   "explain": "538－190＝348",
+   "numeric": true,
+   "id": "MATH-P2-L05-005",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "538 － 190 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 減法",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "305 － 133 ＝ ？",
+   "answer": [
+    "172"
+   ],
+   "explain": "305－133＝172",
+   "numeric": true,
+   "id": "MATH-P2-L05-006",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "305 － 133 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 減法",
+   "verified": true,
+   "readAloud": true
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "levelId": "p4c5",
+ "grade": "P4",
+ "subject": "chi",
+ "lesson": "L05",
+ "title": "第5課 白蝴蝶之戀",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "蝴蝶屬於哪一類動物？",
+   "answer": "昆蟲",
+   "options": [
+    "鳥類",
+    "昆蟲",
+    "魚類",
+    "哺乳類"
+   ],
+   "explain": "蝴蝶有六隻腳，是昆蟲。",
+   "id": "CHI-P4-L05-001",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "蝴蝶屬於哪一類動物？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 白蝴蝶之戀",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「戀」字的意思是：",
+   "answer": "愛慕、不捨得",
+   "options": [
+    "生氣",
+    "愛慕、不捨得",
+    "害怕",
+    "忘記"
+   ],
+   "explain": "「戀」表示喜愛、不捨得。",
+   "id": "CHI-P4-L05-002",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "「戀」字的意思是：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 白蝴蝶之戀",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「白蝴蝶像一片小小的雪花。」用了甚麼修辭？",
+   "answer": "比喻",
+   "options": [
+    "設問",
+    "比喻",
+    "擬人",
+    "反問"
+   ],
+   "explain": "用「像」把蝴蝶比作雪花，是比喻。",
+   "id": "CHI-P4-L05-003",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "「白蝴蝶像一片小小的雪花。」用了甚麼修辭？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 白蝴蝶之戀",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「一（ ）蝴蝶」，括號應填：",
+   "answer": "隻",
+   "options": [
+    "隻",
+    "張",
+    "條",
+    "朵"
+   ],
+   "explain": "蝴蝶用「隻」。",
+   "id": "CHI-P4-L05-004",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "「一（ ）蝴蝶」，括號應填：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 白蝴蝶之戀",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "愛護小動物，我們應該：",
+   "answer": "輕輕觀察，不去傷害",
+   "options": [
+    "用石頭擲",
+    "輕輕觀察，不去傷害",
+    "捉回家玩",
+    "拔去翅膀"
+   ],
+   "explain": "要尊重和愛護生命。",
+   "id": "CHI-P4-L05-005",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "愛護小動物，我們應該：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 白蝴蝶之戀",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "「憐惜」有愛護、同情的意思。",
+   "answer": true,
+   "explain": "憐惜就是同情和愛護。",
+   "id": "CHI-P4-L05-006",
+   "grade": "P4",
+   "subject": "chi",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "「憐惜」有愛護、同情的意思。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 白蝴蝶之戀",
+   "verified": false
+  }
+ ]
+}

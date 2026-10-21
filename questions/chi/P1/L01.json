@@ -1,0 +1,118 @@
+{
+ "levelId": "p1c1",
+ "grade": "P1",
+ "subject": "chi",
+ "lesson": "L01",
+ "title": "單元一 我是小學生",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "上課時，老師說話，我們要怎樣做？",
+   "answer": "專心聽",
+   "options": [
+    "大聲說話",
+    "專心聽",
+    "跑來跑去",
+    "吃東西"
+   ],
+   "explain": "上課要專心聽老師說話。",
+   "id": "CHI-P1-L01-001",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "上課時，老師說話，我們要怎樣做？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜單元一 我是小學生",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「開學了」，我們升讀小學幾年級？",
+   "answer": "一年級",
+   "options": [
+    "六年級",
+    "五年級",
+    "一年級",
+    "三年級"
+   ],
+   "explain": "剛入小學讀一年級。",
+   "id": "CHI-P1-L01-002",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "「開學了」，我們升讀小學幾年級？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜單元一 我是小學生",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "哪一個是學校裏的地方？",
+   "answer": "課室",
+   "options": [
+    "街市",
+    "廚房",
+    "課室",
+    "睡房"
+   ],
+   "explain": "課室是學校裏上課的地方。",
+   "id": "CHI-P1-L01-003",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "哪一個是學校裏的地方？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜單元一 我是小學生",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "見到老師，我們應該說：",
+   "answer": "老師早！",
+   "options": [
+    "生日快樂！",
+    "再見！",
+    "對不起！",
+    "老師早！"
+   ],
+   "explain": "早上見到老師要有禮貌地說「老師早」。",
+   "id": "CHI-P1-L01-004",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "見到老師，我們應該說：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜單元一 我是小學生",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "上學時要帶書包。",
+   "answer": true,
+   "explain": "書包用來放課本和文具。",
+   "id": "CHI-P1-L01-005",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "上學時要帶書包。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜單元一 我是小學生",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "上課時可以隨便離開座位。",
+   "answer": false,
+   "explain": "上課要坐好，有需要先舉手問老師。",
+   "id": "CHI-P1-L01-006",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "上課時可以隨便離開座位。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜單元一 我是小學生",
+   "verified": false
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "levelId": "p5c1",
+ "grade": "P5",
+ "subject": "chi",
+ "lesson": "L01",
+ "title": "第1課 風箏",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "放風箏需要甚麼天氣？",
+   "answer": "有風",
+   "options": [
+    "沒有風",
+    "有風",
+    "打風球",
+    "下大雨"
+   ],
+   "explain": "風箏要靠風才能飛起。",
+   "id": "CHI-P5-L01-001",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "放風箏需要甚麼天氣？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 風箏",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「一（ ）風箏」，括號應填：",
+   "answer": "隻",
+   "options": [
+    "朵",
+    "隻",
+    "條",
+    "本"
+   ],
+   "explain": "風箏用「隻」。",
+   "id": "CHI-P5-L01-002",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "「一（ ）風箏」，括號應填：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 風箏",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「風箏越飛越高」中「越……越……」表示：",
+   "answer": "程度隨着變化",
+   "options": [
+    "轉折",
+    "程度隨着變化",
+    "選擇",
+    "因果"
+   ],
+   "explain": "越……越……表示程度加深。",
+   "id": "CHI-P5-L01-003",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "「風箏越飛越高」中「越……越……」表示：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 風箏",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「興高采烈」的意思是：",
+   "answer": "非常高興",
+   "options": [
+    "非常高興",
+    "非常傷心",
+    "非常疲倦",
+    "非常憤怒"
+   ],
+   "explain": "興高采烈形容十分高興。",
+   "id": "CHI-P5-L01-004",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "「興高采烈」的意思是：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 風箏",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "「風箏像一隻小鳥在天空飛翔。」是比喻句。",
+   "answer": true,
+   "explain": "用「像」把風箏比作小鳥。",
+   "id": "CHI-P5-L01-005",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "「風箏像一隻小鳥在天空飛翔。」是比喻句。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 風箏",
+   "verified": false
+  }
+ ]
+}

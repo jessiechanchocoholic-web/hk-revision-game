@@ -1,0 +1,118 @@
+{
+ "levelId": "p2m6",
+ "grade": "P2",
+ "subject": "math",
+ "lesson": "L06",
+ "title": "L6 加減應用題",
+ "verified": true,
+ "questions": [
+  {
+   "type": "fill",
+   "q": "圖書館有故事書216本，又買了53本，現在共有多少本？",
+   "answer": [
+    "269"
+   ],
+   "explain": "216＋53＝269",
+   "numeric": true,
+   "id": "MATH-P2-L06-001",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "圖書館有故事書216本，又買了53本，現在共有多少本？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 加減應用題",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "圖書館有故事書139本，又買了140本，現在共有多少本？",
+   "answer": [
+    "279"
+   ],
+   "explain": "139＋140＝279",
+   "numeric": true,
+   "id": "MATH-P2-L06-002",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "圖書館有故事書139本，又買了140本，現在共有多少本？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 加減應用題",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "圖書館有故事書264本，又買了247本，現在共有多少本？",
+   "answer": [
+    "511"
+   ],
+   "explain": "264＋247＝511",
+   "numeric": true,
+   "id": "MATH-P2-L06-003",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "圖書館有故事書264本，又買了247本，現在共有多少本？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 加減應用題",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "學校有576個學生，其中255個去旅行，留在學校的有多少個？",
+   "answer": [
+    "321"
+   ],
+   "explain": "576－255＝321",
+   "numeric": true,
+   "id": "MATH-P2-L06-004",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "學校有576個學生，其中255個去旅行，留在學校的有多少個？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 加減應用題",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "學校有780個學生，其中281個去旅行，留在學校的有多少個？",
+   "answer": [
+    "499"
+   ],
+   "explain": "780－281＝499",
+   "numeric": true,
+   "id": "MATH-P2-L06-005",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "學校有780個學生，其中281個去旅行，留在學校的有多少個？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 加減應用題",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "學校有576個學生，其中268個去旅行，留在學校的有多少個？",
+   "answer": [
+    "308"
+   ],
+   "explain": "576－268＝308",
+   "numeric": true,
+   "id": "MATH-P2-L06-006",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "學校有576個學生，其中268個去旅行，留在學校的有多少個？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 加減應用題",
+   "verified": true,
+   "readAloud": true
+  }
+ ]
+}

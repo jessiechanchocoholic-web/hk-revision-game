@@ -1,0 +1,130 @@
+{
+ "levelId": "p2s2",
+ "grade": "P2",
+ "subject": "sci",
+ "lesson": "L02",
+ "title": "2 認識動物",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "哪種動物身上有羽毛？",
+   "answer": "雞",
+   "options": [
+    "魚",
+    "貓",
+    "蛇",
+    "雞"
+   ],
+   "explain": "鳥類身上有羽毛。",
+   "id": "SCI-P2-L02-001",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "哪種動物身上有羽毛？",
+   "source": "research.md §5 科學《科學新領域》｜2 認識動物",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "哪種動物用鰓呼吸？",
+   "answer": "魚",
+   "options": [
+    "雞",
+    "魚",
+    "貓",
+    "狗"
+   ],
+   "explain": "魚用鰓呼吸。",
+   "id": "SCI-P2-L02-002",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "哪種動物用鰓呼吸？",
+   "source": "research.md §5 科學《科學新領域》｜2 認識動物",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "蛇怎樣移動？",
+   "answer": "爬行",
+   "options": [
+    "飛",
+    "游泳（只會游）",
+    "爬行",
+    "跳"
+   ],
+   "explain": "蛇在地上爬行。",
+   "id": "SCI-P2-L02-003",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "蛇怎樣移動？",
+   "source": "research.md §5 科學《科學新領域》｜2 認識動物",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "兔子吃甚麼？",
+   "answer": "植物（如紅蘿蔔、草）",
+   "options": [
+    "植物（如紅蘿蔔、草）",
+    "石頭",
+    "膠",
+    "肉"
+   ],
+   "explain": "兔子吃植物。",
+   "id": "SCI-P2-L02-004",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "兔子吃甚麼？",
+   "source": "research.md §5 科學《科學新領域》｜2 認識動物",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "有些動物生活在水中，有些生活在陸地上。",
+   "answer": true,
+   "explain": "動物生活在不同地方。",
+   "id": "SCI-P2-L02-005",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "有些動物生活在水中，有些生活在陸地上。",
+   "source": "research.md §5 科學《科學新領域》｜2 認識動物",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "哪種動物身上有鱗片？",
+   "answer": "魚",
+   "options": [
+    "兔",
+    "狗",
+    "鴨",
+    "魚"
+   ],
+   "explain": "魚身上有鱗片。",
+   "id": "SCI-P2-L02-006",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "哪種動物身上有鱗片？",
+   "source": "research.md §5 科學《科學新領域》｜2 認識動物",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}
