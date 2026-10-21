@@ -12,3 +12,5 @@
 
 ## 待 Jessie 決定
 見 `OPEN-QUESTIONS.md`。
+
+| 2026-10-21 | 另開專屬公開 repo hk-revision-game；全部 Bot 同時開工，今晚交付可玩版本；只放自寫題目同課題名；部署前須 Jessie 審批 | 專案經理 Bot | Jessie 已批准 | 趕及明日學生試玩 |
