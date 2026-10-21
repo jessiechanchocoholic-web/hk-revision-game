@@ -32,7 +32,7 @@ Repo：https://github.com/jessiechanchocoholic-web/hk-revision-game （預設分
 | B1-Q-04 | 題庫 P4 英文 | 開發 Bot（題庫） | 審查中 | 2026-10-21 | ✅ 4A Ch1 My favourite activities（simple present、adverbs of frequency）；Ch2 Shows we like（too/either、both…and、or、but）；Ch3 At the supermarket（comparatives/superlatives、phrases of quantity）。詞彙表 ❌；已入題庫 |
 | B1-Q-05 | 題庫 P4 科學 | 開發 Bot（題庫） | 審查中 | 2026-10-21 | ✅ 四上 L1 地球的結構（有完整樣本：地殼/地幔/地核、板塊、三類岩石、三類土壤）、L2 轉動的地球、L3 天氣和氣候、L4 動植物與環境、L5 大自然的平衡。L2–5 只有課名，內容 ⚠️推斷；已入題庫；L2–5 待核實 |
 | B1-QA-01 | 題庫內容審核：每題對照 research.md 課題、答案正確、⚠️ 題目標 verified:false | QA Bot | 進行中 | 2026-10-21 | 依賴 B1-Q-01~05；QA 報告見 PR #5，PR #2 最新 `b8e7e98`（26 關／154 題 verified，394 題未核實）待 QA 重審 |
-| B1-QA-02 | 功能測試：關卡、Boss、錯題簿、讀題、手機/平板顯示 | QA Bot | 待辦 | 2026-10-21 | 依賴 B1-DEV |
+| B1-QA-02 | 功能測試：關卡、Boss、錯題簿、讀題、手機/平板顯示 | QA Bot | 進行中 | 2026-10-21 | 依賴 B1-DEV；QA 重審中 |
 | B1-SEC-01 | 私隱審查：不收集學生姓名/個人資料、無登入、無追蹤分析、只用 localStorage | 安全 Bot | 待辦 | 2026-10-21 | |
 | B1-SEC-02 | 檢查 repo 無密鑰/token、無第三方腳本風險、版權（課本內容只作溫習用，不整段抄錄） | 安全 Bot | 待辦 | 2026-10-21 | 只用自擬題目（D-011） |
 | B1-DOC-01 | 老師／家長指南：如何增減題目（content.txt／build.js） | 文件 Bot | 審查中 | 2026-10-21 | 依賴 B1-DEV-01；README.md 已寫（PR docs/readme-ssot） |
