@@ -35,7 +35,7 @@ for(const l of B.levels)for(const q of l.questions){if(!q.calc)continue;nCalc++;
   if(String(got)!==String(st.r))e(w+' step'+i+' '+a+st.op+b+' got '+got+' vs '+st.r);
   if(i===0&&st.a!=='prev'&&!/^1$/.test(String(st.a))&&!q.q.includes(String(st.a)))e(w+' operand not in question '+st.a);prev=got});
  if(String(prev)!==q.answer[0])e(w+' final '+prev+' vs '+q.answer[0]);
- if(q.longMul){for(const st of q.calc.filter(s=>s.op==='*')){const bs=String(st.b).split('').reverse();bs.forEach((dg,k)=>{const pp=digMul(st.a,Number(dg)*10**k);if(!q.working.some(x=>x.trim().startsWith(String(pp))))e(w+' partial product missing '+pp)})}}
+ if(q.longMul){for(const st of q.calc.filter(s=>s.op==='*')){const bs=String(st.b).split('').reverse();bs.forEach((dg,k)=>{const pp=digMul(st.a,Number(dg)*10**k);if(pp>0&&!q.working.some(x=>x.trim().startsWith(String(pp))))e(w+' partial product missing '+pp)})}}
  if(!q.working.some(x=>x.includes(String(q.answer[0]))))e(w+' working lacks answer')}
 console.log('calc-checked',nCalc);
 console.table(count);console.log(err?err+' errors':'ALL OK',B.levels.length,'levels',B.levels.reduce((s,l)=>s+l.questions.length,0),'questions');process.exit(err?1:0);

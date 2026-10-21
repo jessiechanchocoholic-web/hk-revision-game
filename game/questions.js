@@ -11975,7 +11975,7 @@ window.QUESTION_BANK = {
    "verified": false
   },
   {
-   "id": "p4m98",
+   "id": "p4m96",
    "grade": "P4",
    "subject": "math",
    "title": "進階：乘除應用題（直式）",
@@ -11994,7 +11994,6 @@ window.QUESTION_BANK = {
       "   363",
       "×   20",
       "------",
-      "     0  (363×0)",
       "  7260  (363×20)",
       "------",
       "  7260",
@@ -12009,10 +12008,10 @@ window.QUESTION_BANK = {
       }
      ],
      "longMul": true,
-     "id": "MATH-P4-L98-001",
+     "id": "MATH-P4-L96-001",
      "grade": "P4",
      "subject": "math",
-     "lesson": "L98",
+     "lesson": "L96",
      "level": "應用",
      "question": "一部書有363頁，圖書館買了20部。這些書共有多少頁？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜進階：乘除應用題（直式）",
@@ -12047,10 +12046,10 @@ window.QUESTION_BANK = {
       }
      ],
      "longMul": true,
-     "id": "MATH-P4-L98-002",
+     "id": "MATH-P4-L96-002",
      "grade": "P4",
      "subject": "math",
-     "lesson": "L98",
+     "lesson": "L96",
      "level": "應用",
      "question": "一部書有296頁，圖書館買了34部。這些書共有多少頁？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜進階：乘除應用題（直式）",
@@ -12085,10 +12084,10 @@ window.QUESTION_BANK = {
       }
      ],
      "longMul": true,
-     "id": "MATH-P4-L98-003",
+     "id": "MATH-P4-L96-003",
      "grade": "P4",
      "subject": "math",
-     "lesson": "L98",
+     "lesson": "L96",
      "level": "應用",
      "question": "一部書有411頁，圖書館買了47部。這些書共有多少頁？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜進階：乘除應用題（直式）",
@@ -12123,10 +12122,10 @@ window.QUESTION_BANK = {
       }
      ],
      "longMul": true,
-     "id": "MATH-P4-L98-004",
+     "id": "MATH-P4-L96-004",
      "grade": "P4",
      "subject": "math",
-     "lesson": "L98",
+     "lesson": "L96",
      "level": "應用",
      "question": "每盒有233粒珠子，36盒共有多少粒？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜進階：乘除應用題（直式）",
@@ -12168,10 +12167,10 @@ window.QUESTION_BANK = {
       }
      ],
      "longMul": true,
-     "id": "MATH-P4-L98-005",
+     "id": "MATH-P4-L96-005",
      "grade": "P4",
      "subject": "math",
-     "lesson": "L98",
+     "lesson": "L96",
      "level": "應用",
      "question": "每箱有42個橙，19箱橙平均分給6間學校，每間學校得多少個？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜進階：乘除應用題（直式）",
@@ -12213,10 +12212,10 @@ window.QUESTION_BANK = {
       }
      ],
      "longMul": true,
-     "id": "MATH-P4-L98-006",
+     "id": "MATH-P4-L96-006",
      "grade": "P4",
      "subject": "math",
-     "lesson": "L98",
+     "lesson": "L96",
      "level": "應用",
      "question": "每箱有54個橙，22箱橙平均分給6間學校，每間學校得多少個？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜進階：乘除應用題（直式）",
@@ -12251,10 +12250,10 @@ window.QUESTION_BANK = {
        "r": 82
       }
      ],
-     "id": "MATH-P4-L98-007",
+     "id": "MATH-P4-L96-007",
      "grade": "P4",
      "subject": "math",
-     "lesson": "L98",
+     "lesson": "L96",
      "level": "應用",
      "question": "有570個學生坐車，每架車坐7人，最少要多少架車？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜進階：乘除應用題（直式）",
@@ -12289,17 +12288,17 @@ window.QUESTION_BANK = {
        "r": 59
       }
      ],
-     "id": "MATH-P4-L98-008",
+     "id": "MATH-P4-L96-008",
      "grade": "P4",
      "subject": "math",
-     "lesson": "L98",
+     "lesson": "L96",
      "level": "應用",
      "question": "有527個學生坐車，每架車坐9人，最少要多少架車？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜進階：乘除應用題（直式）",
      "verified": false
     }
    ],
-   "lesson": "L98",
+   "lesson": "L96",
    "verified": false
   },
   {

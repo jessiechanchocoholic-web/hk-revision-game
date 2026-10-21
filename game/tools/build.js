@@ -187,13 +187,13 @@ L('P5','p5m15','L15 代數符號(二)',[...rep(3,()=>{const x=ri(2,12),y=ri(1,9)
 
 // --- B2-DEV-03 進階應用題：答案由程式計，附算式及逐步運算（calc 俾 validate.js 獨立覆核）
 const pad=(x,w)=>String(x).padStart(w);
-const longMul=(a,b)=>{const bs=String(b).split('').reverse().map(Number);const parts=bs.map((d,i)=>a*d*10**i);const r=a*b;const w=String(r).length+2;
- return [pad(a,w),'×'+pad(b,w-1),'-'.repeat(w),...parts.map((p,i)=>pad(p,w)+`  (${a}×${bs[i]*10**i})`),'-'.repeat(w),pad(r,w)]};
+const longMul=(a,b)=>{const bs=String(b).split('').reverse().map(Number);const parts=bs.map((d,i)=>[a*d*10**i,d*10**i]).filter(x=>x[0]>0);const r=a*b;const w=String(r).length+2;
+ return [pad(a,w),'×'+pad(b,w-1),'-'.repeat(w),...parts.map(([p,m])=>pad(p,w)+`  (${a}×${m})`),'-'.repeat(w),pad(r,w)]};
 const wp=(q,ans,eq,steps,working,extra)=>Object.assign({type:'fill',q,answer:[String(ans)],numeric:!/\//.test(String(ans)),explain:'做得好！睇吓下面嘅算式同步驟。',equation:eq,working,calc:steps},extra||{});
 L('P2','p2m96','進階：兩步加減應用題',[
  ...rep(3,()=>{const a=ri(300,700),b=ri(60,250),c=ri(20,150);const r1=a-b,r=r1+c;return wp(`書架上有${a}本書，借出了${b}本，後來還回${c}本。書架上現在有多少本書？`,r,`${a}－${b}＋${c}＝${r}`,[{op:'-',a,b,r:r1},{op:'+',a:'prev',b:c,r}],[`第一步：借出後 ${a}－${b}＝${r1}（本）`,`第二步：還回後 ${r1}＋${c}＝${r}（本）`,`答：書架上現在有${r}本書。`])}),
  ...rep(3,()=>{const a=ri(120,400),b=ri(100,450),c=ri(50,300);const r1=a+b,r=r1-c;return wp(`學校收集了${a}個膠樽和${b}個鋁罐，送了${c}個去回收站。還剩下多少個？`,r,`${a}＋${b}－${c}＝${r}`,[{op:'+',a,b,r:r1},{op:'-',a:'prev',b:c,r}],[`第一步：合共 ${a}＋${b}＝${r1}（個）`,`第二步：送走後 ${r1}－${c}＝${r}（個）`,`答：還剩下${r}個。`])})]);
-L('P4','p4m98','進階：乘除應用題（直式）',[
+L('P4','p4m96','進階：乘除應用題（直式）',[
  ...rep(3,()=>{let a;do{a=ri(120,480)}while(a===233);const b=ri(12,48);const r=a*b;return wp(`一部書有${a}頁，圖書館買了${b}部。這些書共有多少頁？`,r,`${a}×${b}＝${r}`,[{op:'*',a,b,r}],['直式乘法：',...longMul(a,b),`答：共有${r}頁。`],{longMul:true})}),
  (()=>{const a=233,b=36,r=a*b;return wp(`每盒有${a}粒珠子，${b}盒共有多少粒？`,r,`${a}×${b}＝${r}`,[{op:'*',a,b,r}],['直式乘法：',...longMul(a,b),`答：共有${r}粒。`],{longMul:true})})(),
  ...rep(2,()=>{const k=ri(3,8),n=ri(12,30);let per;do{per=ri(24,60)}while((per*n)%k);const tot=per*n;const r=tot/k;return wp(`每箱有${per}個橙，${n}箱橙平均分給${k}間學校，每間學校得多少個？`,r,`${per}×${n}÷${k}＝${r}`,[{op:'*',a:per,b:n,r:tot},{op:'/',a:'prev',b:k,r}],[`第一步：總數 ${per}×${n}＝${tot}（個）`,...longMul(per,n),`第二步：平均分 ${tot}÷${k}＝${r}（個）`,`答：每間學校得${r}個。`],{longMul:true})}).filter(Boolean),
@@ -205,7 +205,7 @@ L('P5','p5m96','進階：分數應用題',[
 const SUBJ_CODE={chi:'CHI',eng:'ENG',math:'MATH',hum:'HUM',sci:'SCI'};
 const SRC={chi:'research.md §1 中文《我愛學語文》（第二版）',eng:'research.md §2 Primary Longman Elect (2nd ed)',math:'research.md §3 數學《小學數學新思維》（第二版）',hum:'research.md §4 人文《今日人文》',sci:'research.md §5 科學《科學新領域》'};
 // 只有「課題＋學習重點」都已 ✅ 的關卡先標 verified:true；其餘（只核實課名／題型推斷）一律 false
-const VERIFIED=new Set([ // 進階應用題 p2m96/p4m98/p5m96 屬推斷內容，唔加入
+const VERIFIED=new Set([ // 進階應用題 p2m96/p4m96/p5m96 屬推斷內容，唔加入
  'p2m1','p2m3','p2m4','p2m5','p2m6','p5m1','p5m2','p5m3','p5m4','p5m5','p5m6',
  'p1e0','p1e1','p1e2','p1e3','p1e4','p2e1','p2e2','p2e3','p4e1','p4e2','p4e3','p5e1','p5e3','p4s1','p2s1']);
 // 逐題覆寫：關卡已核實但該題內容（詞彙／句式）喺 research.md 冇明確出處 → verified:false
