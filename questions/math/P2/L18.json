@@ -1,0 +1,130 @@
+{
+ "levelId": "p2m18",
+ "grade": "P2",
+ "subject": "math",
+ "lesson": "L18",
+ "title": "L18 報時",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "時針在2和3之間，分針指着1。現在是幾時幾分？",
+   "answer": "2時5分",
+   "options": [
+    "2時5分",
+    "3時5分",
+    "2時20分",
+    "2時35分"
+   ],
+   "explain": "分針指1表示5分。",
+   "id": "MATH-P2-L18-001",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L18",
+   "level": "理解",
+   "question": "時針在2和3之間，分針指着1。現在是幾時幾分？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 報時",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "時針在6和7之間，分針指着7。現在是幾時幾分？",
+   "answer": "6時35分",
+   "options": [
+    "6時5分",
+    "7時35分",
+    "6時35分",
+    "6時50分"
+   ],
+   "explain": "分針指7表示35分。",
+   "id": "MATH-P2-L18-002",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L18",
+   "level": "理解",
+   "question": "時針在6和7之間，分針指着7。現在是幾時幾分？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 報時",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "時針在2和3之間，分針指着2。現在是幾時幾分？",
+   "answer": "2時10分",
+   "options": [
+    "3時10分",
+    "2時10分",
+    "2時40分",
+    "2時25分"
+   ],
+   "explain": "分針指2表示10分。",
+   "id": "MATH-P2-L18-003",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L18",
+   "level": "理解",
+   "question": "時針在2和3之間，分針指着2。現在是幾時幾分？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 報時",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "分針由12走到6，經過了多少分鐘？",
+   "answer": [
+    "30"
+   ],
+   "explain": "每個數字代表5分鐘，6×5＝30。",
+   "numeric": true,
+   "id": "MATH-P2-L18-004",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L18",
+   "level": "應用",
+   "question": "分針由12走到6，經過了多少分鐘？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 報時",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "1小時＝（ ）分鐘",
+   "answer": [
+    "60"
+   ],
+   "explain": "1小時有60分鐘。",
+   "numeric": true,
+   "id": "MATH-P2-L18-005",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L18",
+   "level": "記憶",
+   "question": "1小時＝（ ）分鐘",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 報時",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "「3時半」即是：",
+   "answer": "3時30分",
+   "options": [
+    "6時3分",
+    "3時45分",
+    "3時15分",
+    "3時30分"
+   ],
+   "explain": "半小時＝30分。",
+   "id": "MATH-P2-L18-006",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L18",
+   "level": "理解",
+   "question": "「3時半」即是：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 報時",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}

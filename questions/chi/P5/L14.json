@@ -1,0 +1,104 @@
+{
+ "levelId": "p5c14",
+ "grade": "P5",
+ "subject": "chi",
+ "lesson": "L14",
+ "title": "第14課 老藤椅",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "藤椅是用甚麼材料做的？",
+   "answer": "藤",
+   "options": [
+    "玻璃",
+    "膠",
+    "藤",
+    "鐵"
+   ],
+   "explain": "藤椅是用藤條編成的。",
+   "id": "CHI-P5-L14-001",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L14",
+   "level": "記憶",
+   "question": "藤椅是用甚麼材料做的？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第14課 老藤椅",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "一張舊椅子令人懷念，是因為它：",
+   "answer": "有家人的回憶",
+   "options": [
+    "很重",
+    "很新",
+    "很值錢",
+    "有家人的回憶"
+   ],
+   "explain": "舊物承載了回憶和感情。",
+   "id": "CHI-P5-L14-002",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L14",
+   "level": "記憶",
+   "question": "一張舊椅子令人懷念，是因為它：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第14課 老藤椅",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「懷念」的近義詞是：",
+   "answer": "思念",
+   "options": [
+    "忘記",
+    "討厭",
+    "思念",
+    "害怕"
+   ],
+   "explain": "懷念、思念意思相近。",
+   "id": "CHI-P5-L14-003",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L14",
+   "level": "記憶",
+   "question": "「懷念」的近義詞是：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第14課 老藤椅",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「一（ ）藤椅」，括號應填：",
+   "answer": "張",
+   "options": [
+    "隻",
+    "條",
+    "張",
+    "本"
+   ],
+   "explain": "椅子用「張」。",
+   "id": "CHI-P5-L14-004",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L14",
+   "level": "記憶",
+   "question": "「一（ ）藤椅」，括號應填：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第14課 老藤椅",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "借物抒情是借描寫物件來表達感情。",
+   "answer": true,
+   "explain": "老藤椅寫物，其實表達對親人的情感。",
+   "id": "CHI-P5-L14-005",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L14",
+   "level": "記憶",
+   "question": "借物抒情是借描寫物件來表達感情。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第14課 老藤椅",
+   "verified": false
+  }
+ ]
+}

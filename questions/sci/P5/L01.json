@@ -1,0 +1,131 @@
+{
+ "levelId": "p5s1",
+ "grade": "P5",
+ "subject": "sci",
+ "lesson": "L01",
+ "title": "1 呼吸和消化",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "人體吸入空氣中的：",
+   "answer": "氧氣",
+   "options": [
+    "氧氣",
+    "氮氣",
+    "二氧化碳",
+    "水蒸氣"
+   ],
+   "explain": "呼吸時吸入氧氣，呼出二氧化碳。",
+   "id": "SCI-P5-L01-001",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "人體吸入空氣中的：",
+   "source": "research.md §5 科學《科學新領域》｜1 呼吸和消化",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "呼吸時，氣體交換在哪個器官進行？",
+   "answer": "肺",
+   "options": [
+    "心臟",
+    "腎",
+    "肺",
+    "胃"
+   ],
+   "explain": "肺是呼吸器官。",
+   "id": "SCI-P5-L01-002",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "呼吸時，氣體交換在哪個器官進行？",
+   "source": "research.md §5 科學《科學新領域》｜1 呼吸和消化",
+   "verified": false
+  },
+  {
+   "type": "order",
+   "q": "排出食物經過消化系統的次序。",
+   "items": [
+    "口腔",
+    "食道",
+    "胃",
+    "小腸",
+    "大腸"
+   ],
+   "explain": "口腔→食道→胃→小腸→大腸。",
+   "answer": [
+    "口腔",
+    "食道",
+    "胃",
+    "小腸",
+    "大腸"
+   ],
+   "id": "SCI-P5-L01-003",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "排出食物經過消化系統的次序。",
+   "source": "research.md §5 科學《科學新領域》｜1 呼吸和消化",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "主要吸收養分的器官是：",
+   "answer": "小腸",
+   "options": [
+    "小腸",
+    "大腸",
+    "食道",
+    "口腔"
+   ],
+   "explain": "小腸吸收養分。",
+   "id": "SCI-P5-L01-004",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "主要吸收養分的器官是：",
+   "source": "research.md §5 科學《科學新領域》｜1 呼吸和消化",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "大腸主要吸收：",
+   "answer": "水分",
+   "options": [
+    "氧氣",
+    "水分",
+    "血液",
+    "骨骼"
+   ],
+   "explain": "大腸吸收水分。",
+   "id": "SCI-P5-L01-005",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "大腸主要吸收：",
+   "source": "research.md §5 科學《科學新領域》｜1 呼吸和消化",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "吸煙會損害肺部。",
+   "answer": true,
+   "explain": "吸煙有害呼吸系統。",
+   "id": "SCI-P5-L01-006",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "吸煙會損害肺部。",
+   "source": "research.md §5 科學《科學新領域》｜1 呼吸和消化",
+   "verified": false
+  }
+ ]
+}

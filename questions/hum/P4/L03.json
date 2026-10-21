@@ -1,0 +1,110 @@
+{
+ "levelId": "p4h3",
+ "grade": "P4",
+ "subject": "hum",
+ "lesson": "L03",
+ "title": "第3課 香港的氣候",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "香港屬於哪種氣候？",
+   "answer": "亞熱帶氣候",
+   "options": [
+    "沙漠氣候",
+    "極地氣候",
+    "亞熱帶氣候",
+    "寒帶氣候"
+   ],
+   "explain": "香港屬亞熱帶季風氣候。",
+   "id": "HUM-P4-L03-001",
+   "grade": "P4",
+   "subject": "hum",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "香港屬於哪種氣候？",
+   "source": "research.md §4 人文《今日人文》｜第3課 香港的氣候",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "香港夏季天氣：",
+   "answer": "炎熱潮濕、多雨",
+   "options": [
+    "經常下雪",
+    "炎熱潮濕、多雨",
+    "寒冷乾燥",
+    "非常乾旱"
+   ],
+   "explain": "夏季炎熱潮濕。",
+   "id": "HUM-P4-L03-002",
+   "grade": "P4",
+   "subject": "hum",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "香港夏季天氣：",
+   "source": "research.md §4 人文《今日人文》｜第3課 香港的氣候",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "香港冬季天氣：",
+   "answer": "清涼乾燥",
+   "options": [
+    "經常打颱風",
+    "炎熱多雨",
+    "清涼乾燥",
+    "有暴風雪"
+   ],
+   "explain": "冬季較涼及乾燥。",
+   "id": "HUM-P4-L03-003",
+   "grade": "P4",
+   "subject": "hum",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "香港冬季天氣：",
+   "source": "research.md §4 人文《今日人文》｜第3課 香港的氣候",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "颱風多在甚麼季節影響香港？",
+   "answer": "夏季和秋季",
+   "options": [
+    "全年都不會",
+    "冬季",
+    "夏季和秋季",
+    "只在春季"
+   ],
+   "explain": "颱風季主要在夏秋。",
+   "id": "HUM-P4-L03-004",
+   "grade": "P4",
+   "subject": "hum",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "颱風多在甚麼季節影響香港？",
+   "source": "research.md §4 人文《今日人文》｜第3課 香港的氣候",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "提供天氣資訊的政府部門是：",
+   "answer": "香港天文台",
+   "options": [
+    "消防處",
+    "郵政局",
+    "香港天文台",
+    "圖書館"
+   ],
+   "explain": "香港天文台發佈天氣報告。",
+   "id": "HUM-P4-L03-005",
+   "grade": "P4",
+   "subject": "hum",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "提供天氣資訊的政府部門是：",
+   "source": "research.md §4 人文《今日人文》｜第3課 香港的氣候",
+   "verified": false
+  }
+ ]
+}

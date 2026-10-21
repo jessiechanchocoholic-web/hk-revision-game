@@ -1,0 +1,110 @@
+{
+ "levelId": "p4h4",
+ "grade": "P4",
+ "subject": "hum",
+ "lesson": "L04",
+ "title": "第4課 發現地球",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "地球表面大部分被甚麼覆蓋？",
+   "answer": "海洋",
+   "options": [
+    "海洋",
+    "陸地",
+    "冰",
+    "沙漠"
+   ],
+   "explain": "約七成是海洋。",
+   "id": "HUM-P4-L04-001",
+   "grade": "P4",
+   "subject": "hum",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "地球表面大部分被甚麼覆蓋？",
+   "source": "research.md §4 人文《今日人文》｜第4課 發現地球",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "世界上有幾個大洲？",
+   "answer": "七個",
+   "options": [
+    "十個",
+    "五個",
+    "三個",
+    "七個"
+   ],
+   "explain": "亞洲、非洲、北美洲、南美洲、南極洲、歐洲、大洋洲。",
+   "id": "HUM-P4-L04-002",
+   "grade": "P4",
+   "subject": "hum",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "世界上有幾個大洲？",
+   "source": "research.md §4 人文《今日人文》｜第4課 發現地球",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "中國位於哪個大洲？",
+   "answer": "亞洲",
+   "options": [
+    "歐洲",
+    "大洋洲",
+    "非洲",
+    "亞洲"
+   ],
+   "explain": "中國在亞洲。",
+   "id": "HUM-P4-L04-003",
+   "grade": "P4",
+   "subject": "hum",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "中國位於哪個大洲？",
+   "source": "research.md §4 人文《今日人文》｜第4課 發現地球",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "世界上最大的海洋是：",
+   "answer": "太平洋",
+   "options": [
+    "太平洋",
+    "大西洋",
+    "北冰洋",
+    "印度洋"
+   ],
+   "explain": "太平洋最大。",
+   "id": "HUM-P4-L04-004",
+   "grade": "P4",
+   "subject": "hum",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "世界上最大的海洋是：",
+   "source": "research.md §4 人文《今日人文》｜第4課 發現地球",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "地球儀上，把地球分成南北半球的是：",
+   "answer": "赤道",
+   "options": [
+    "經線",
+    "國界",
+    "河流",
+    "赤道"
+   ],
+   "explain": "赤道把地球分為南北半球。",
+   "id": "HUM-P4-L04-005",
+   "grade": "P4",
+   "subject": "hum",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "地球儀上，把地球分成南北半球的是：",
+   "source": "research.md §4 人文《今日人文》｜第4課 發現地球",
+   "verified": false
+  }
+ ]
+}
