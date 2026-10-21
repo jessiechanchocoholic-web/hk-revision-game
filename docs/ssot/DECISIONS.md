@@ -27,6 +27,7 @@
 | D-022 | 2026-10-21 | 各 Bot 可在 repo 留 PR 意見及更新 docs/ssot，無需逐次請示；合併及發佈仍須 Jessie 批准（長期有效） | 由專案經理 Bot 轉達 Jessie 批准；狀態：已確認：Jessie 在專案經理 Bot 對話親自答「允許」（據專案經理 Bot 記錄） | Jessie |
 | D-023 | 2026-10-21 | 每個 worktree 用 worktree 專屬 `git config --worktree user.name "<Bot名>"`，勿用共用 config（CONVENTIONS 第 11 點；因 `2bcc01b`／`b8e7e98` 作者顯示錯誤） | 由專案經理 Bot 轉達 Jessie 批准 | Jessie |
 | D-024 | 2026-10-21 | 合併 PR #1–#5 並以 GitHub Pages（main 根目錄）公開發佈 v1.0.0：https://jessiechanchocoholic-web.github.io/hk-revision-game/game/ | Jessie 喺專案經理 Bot 對話親自批准（「批准合併同發佈」） | Jessie |
+| D-025 | 2026-10-21 | v1.1：遊戲顯示全部題目（`VERIFIED_ONLY_DEFAULT=false`）、所有關卡及 Boss 一開始解鎖（`UNLOCK_ALL=true`）；新增 P4 數學 L1–3 乘法、按作業重寫 P2/P4/P5 中文第1課（100 關／572 題，全部自擬，無課本原文） | Jessie 批准（經主 Grok Bot 轉達） | Jessie |
 
 ## 備註
 - D-004：人手編輯改為 content.txt＋build.js（D-014）；PR #2 仍會由 build.js 自動輸出逐課 JSON（`questions/<subject>/<grade>/<lesson>.json`），作產出檔，唔係人手編輯。

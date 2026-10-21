@@ -12,9 +12,9 @@
    "answer": "bigger",
    "options": [
     "biggest",
-    "bigger",
     "big",
-    "more big"
+    "more big",
+    "bigger"
    ],
    "explain": "Comparative: big → bigger.",
    "id": "ENG-P4-L03-001",
@@ -32,9 +32,9 @@
    "answer": "heaviest",
    "options": [
     "heavy",
-    "heavier",
+    "heaviest",
     "most heavy",
-    "heaviest"
+    "heavier"
    ],
    "explain": "Superlative: heavy → heaviest.",
    "id": "ENG-P4-L03-002",
@@ -51,10 +51,10 @@
    "q": "The cake is ___ than the bread.",
    "answer": "more expensive",
    "options": [
-    "more expensive",
-    "expensiver",
     "expensive",
-    "most expensive"
+    "most expensive",
+    "expensiver",
+    "more expensive"
    ],
    "explain": "Long words use \"more\".",
    "id": "ENG-P4-L03-003",
@@ -72,8 +72,8 @@
    "answer": "carton",
    "options": [
     "carton",
-    "bar",
     "bunch",
+    "bar",
     "loaf"
    ],
    "explain": "A carton of milk.",
@@ -91,10 +91,10 @@
    "q": "a ___ of bananas",
    "answer": "bunch",
    "options": [
-    "loaf",
-    "bunch",
     "bottle",
-    "carton"
+    "carton",
+    "bunch",
+    "loaf"
    ],
    "explain": "A bunch of bananas.",
    "id": "ENG-P4-L03-005",
@@ -127,8 +127,8 @@
    "q": "a ___ of bread",
    "answer": "loaf",
    "options": [
-    "bowl",
     "can",
+    "bowl",
     "loaf",
     "bunch"
    ],

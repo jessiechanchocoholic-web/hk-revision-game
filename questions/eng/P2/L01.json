@@ -11,8 +11,8 @@
    "q": "___ there a library in your school?",
    "answer": "Is",
    "options": [
-    "Is",
     "Do",
+    "Is",
     "Am",
     "Are"
    ],
@@ -34,8 +34,8 @@
    "options": [
     "it is",
     "there is",
-    "I am",
-    "there are"
+    "there are",
+    "I am"
    ],
    "explain": "Answer \"Is there…?\" with \"Yes, there is.\"",
    "id": "ENG-P2-L01-002",
@@ -53,10 +53,10 @@
    "q": "The library is on the ___ floor (1st).",
    "answer": "first",
    "options": [
-    "first",
-    "one",
+    "once",
     "firstly",
-    "once"
+    "first",
+    "one"
    ],
    "explain": "1st = first.",
    "id": "ENG-P2-L01-003",
@@ -74,10 +74,10 @@
    "q": "Where ___ the music room?",
    "answer": "is",
    "options": [
-    "do",
     "are",
     "is",
-    "am"
+    "am",
+    "do"
    ],
    "explain": "\"Where is …?\" for one place.",
    "id": "ENG-P2-L01-004",
@@ -96,9 +96,9 @@
    "answer": "on",
    "options": [
     "in",
-    "at",
+    "under",
     "on",
-    "under"
+    "at"
    ],
    "explain": "We say \"on the ground floor\".",
    "id": "ENG-P2-L01-005",

@@ -11,10 +11,10 @@
    "q": "I like magic shows. My brother likes them ___.",
    "answer": "too",
    "options": [
-    "or",
-    "both",
+    "too",
     "either",
-    "too"
+    "or",
+    "both"
    ],
    "explain": "Use \"too\" in positive sentences.",
    "id": "ENG-P4-L02-001",
@@ -31,10 +31,10 @@
    "q": "I don't like puppet shows. Amy doesn't like them ___.",
    "answer": "either",
    "options": [
-    "both",
-    "too",
     "either",
-    "and"
+    "both",
+    "and",
+    "too"
    ],
    "explain": "Use \"either\" in negative sentences.",
    "id": "ENG-P4-L02-002",
@@ -51,10 +51,10 @@
    "q": "___ Ken and Mary like dance shows.",
    "answer": "Both",
    "options": [
-    "Or",
     "Too",
-    "Either",
-    "Both"
+    "Both",
+    "Or",
+    "Either"
    ],
    "explain": "\"Both … and …\" = the two of them.",
    "id": "ENG-P4-L02-003",
@@ -72,8 +72,8 @@
    "answer": "or",
    "options": [
     "too",
-    "or",
     "but",
+    "or",
     "and"
    ],
    "explain": "Use \"or\" in negative sentences.",
@@ -92,9 +92,9 @@
    "answer": "but",
    "options": [
     "both",
-    "or",
     "but",
-    "either"
+    "either",
+    "or"
    ],
    "explain": "\"But\" shows a difference.",
    "id": "ENG-P4-L02-005",

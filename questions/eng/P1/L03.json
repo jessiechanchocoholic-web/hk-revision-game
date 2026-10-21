@@ -11,10 +11,10 @@
    "q": "___ talk in class.",
    "answer": "Don't",
    "options": [
+    "Don't",
     "Please do",
-    "Not",
     "Do",
-    "Don't"
+    "Not"
    ],
    "explain": "\"Don't\" tells us not to do something.",
    "id": "ENG-P1-L03-001",
@@ -31,9 +31,9 @@
    "q": "Please ___ your hand.",
    "answer": "put up",
    "options": [
+    "put up",
     "sleep",
     "run",
-    "put up",
     "eat"
    ],
    "explain": "Put up your hand before you talk.",
@@ -71,9 +71,9 @@
    "q": "Don't ___ in the classroom.",
    "answer": "run",
    "options": [
+    "run",
     "listen",
     "sit",
-    "run",
     "read"
    ],
    "explain": "Don't run in the classroom.",

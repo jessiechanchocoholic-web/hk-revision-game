@@ -11,10 +11,10 @@
    "q": "We ___ run in the corridor.",
    "answer": "mustn't",
    "options": [
-    "are",
-    "mustn't",
     "can",
-    "must"
+    "mustn't",
+    "must",
+    "are"
    ],
    "explain": "Running in the corridor is dangerous, so we mustn't.",
    "id": "ENG-P2-L02-001",
@@ -32,9 +32,9 @@
    "q": "We ___ line up quietly.",
    "answer": "must",
    "options": [
-    "must",
-    "don't",
     "mustn't",
+    "don't",
+    "must",
     "aren't"
    ],
    "explain": "Lining up quietly is a good rule.",
@@ -53,10 +53,10 @@
    "q": "You mustn't ___ in the library.",
    "answer": "shout",
    "options": [
-    "listen",
-    "shout",
     "sit",
-    "read"
+    "read",
+    "shout",
+    "listen"
    ],
    "explain": "Be quiet in the library.",
    "id": "ENG-P2-L02-003",
@@ -89,10 +89,10 @@
    "q": "The books are ___ the shelf.",
    "answer": "on",
    "options": [
-    "in",
     "on",
+    "under",
     "between",
-    "under"
+    "in"
    ],
    "explain": "The books are on (top of) the shelf.",
    "id": "ENG-P2-L02-005",

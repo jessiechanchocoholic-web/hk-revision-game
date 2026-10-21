@@ -12,9 +12,9 @@
    "answer": "have",
    "options": [
     "am",
-    "is",
     "has",
-    "have"
+    "have",
+    "is"
    ],
    "explain": "Use \"I have\".",
    "id": "ENG-P1-L04-001",
@@ -31,10 +31,10 @@
    "q": "Tom ___ a ruler.",
    "answer": "has",
    "options": [
+    "have",
     "are",
     "has",
-    "am",
-    "have"
+    "am"
    ],
    "explain": "Use \"has\" with he/she/one person.",
    "id": "ENG-P1-L04-002",
@@ -51,10 +51,10 @@
    "q": "one book, two ___",
    "answer": "books",
    "options": [
-    "books",
     "bookies",
-    "book",
-    "bookes"
+    "books",
+    "bookes",
+    "book"
    ],
    "explain": "Add -s for more than one.",
    "id": "ENG-P1-L04-003",

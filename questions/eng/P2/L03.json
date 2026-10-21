@@ -11,8 +11,8 @@
    "q": "Are you cold? Yes, I ___.",
    "answer": "am",
    "options": [
-    "are",
     "do",
+    "are",
     "am",
     "is"
    ],
@@ -32,10 +32,10 @@
    "q": "Are you hungry? No, I'm ___.",
    "answer": "not",
    "options": [
-    "no",
-    "not",
     "don't",
-    "isn't"
+    "not",
+    "isn't",
+    "no"
    ],
    "explain": "\"No, I'm not.\"",
    "id": "ENG-P2-L03-002",
@@ -54,8 +54,8 @@
    "answer": "too",
    "options": [
     "to",
-    "very good",
     "too",
+    "very good",
     "two"
    ],
    "explain": "\"too hot\" = more than we want.",
@@ -74,10 +74,10 @@
    "q": "I'm thirsty. ___ get some water.",
    "answer": "Let's",
    "options": [
+    "Let us to",
     "Let",
-    "Let's",
     "Lets",
-    "Let us to"
+    "Let's"
    ],
    "explain": "\"Let's …\" = let us.",
    "id": "ENG-P2-L03-004",
@@ -95,8 +95,8 @@
    "q": "Your friend is sad. You say:",
    "answer": "Are you OK?",
    "options": [
-    "Go away!",
     "I'm happy!",
+    "Go away!",
     "Are you OK?",
     "Good night!"
    ],

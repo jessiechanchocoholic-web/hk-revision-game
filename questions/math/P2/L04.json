@@ -8,108 +8,108 @@
  "questions": [
   {
    "type": "fill",
-   "q": "342 ＋ 302 ＝ ？",
+   "q": "153 ＋ 268 ＝ ？",
    "answer": [
-    "644"
+    "421"
    ],
-   "explain": "342＋302＝644",
+   "explain": "153＋268＝421",
    "numeric": true,
    "id": "MATH-P2-L04-001",
    "grade": "P2",
    "subject": "math",
    "lesson": "L04",
    "level": "應用",
-   "question": "342 ＋ 302 ＝ ？",
+   "question": "153 ＋ 268 ＝ ？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
    "verified": true,
    "readAloud": true
   },
   {
    "type": "fill",
-   "q": "387 ＋ 454 ＝ ？",
+   "q": "237 ＋ 105 ＝ ？",
    "answer": [
-    "841"
+    "342"
    ],
-   "explain": "387＋454＝841",
+   "explain": "237＋105＝342",
    "numeric": true,
    "id": "MATH-P2-L04-002",
    "grade": "P2",
    "subject": "math",
    "lesson": "L04",
    "level": "應用",
-   "question": "387 ＋ 454 ＝ ？",
+   "question": "237 ＋ 105 ＝ ？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
    "verified": true,
    "readAloud": true
   },
   {
    "type": "fill",
-   "q": "467 ＋ 250 ＝ ？",
+   "q": "128 ＋ 244 ＝ ？",
    "answer": [
-    "717"
+    "372"
    ],
-   "explain": "467＋250＝717",
+   "explain": "128＋244＝372",
    "numeric": true,
    "id": "MATH-P2-L04-003",
    "grade": "P2",
    "subject": "math",
    "lesson": "L04",
    "level": "應用",
-   "question": "467 ＋ 250 ＝ ？",
+   "question": "128 ＋ 244 ＝ ？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
    "verified": true,
    "readAloud": true
   },
   {
    "type": "fill",
-   "q": "482 ＋ 322 ＝ ？",
+   "q": "306 ＋ 415 ＝ ？",
    "answer": [
-    "804"
+    "721"
    ],
-   "explain": "482＋322＝804",
+   "explain": "306＋415＝721",
    "numeric": true,
    "id": "MATH-P2-L04-004",
    "grade": "P2",
    "subject": "math",
    "lesson": "L04",
    "level": "應用",
-   "question": "482 ＋ 322 ＝ ？",
+   "question": "306 ＋ 415 ＝ ？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
    "verified": true,
    "readAloud": true
   },
   {
    "type": "fill",
-   "q": "380 ＋ 444 ＝ ？",
+   "q": "321 ＋ 429 ＝ ？",
    "answer": [
-    "824"
+    "750"
    ],
-   "explain": "380＋444＝824",
+   "explain": "321＋429＝750",
    "numeric": true,
    "id": "MATH-P2-L04-005",
    "grade": "P2",
    "subject": "math",
    "lesson": "L04",
    "level": "應用",
-   "question": "380 ＋ 444 ＝ ？",
+   "question": "321 ＋ 429 ＝ ？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
    "verified": true,
    "readAloud": true
   },
   {
    "type": "fill",
-   "q": "284 ＋ 394 ＝ ？",
+   "q": "484 ＋ 471 ＝ ？",
    "answer": [
-    "678"
+    "955"
    ],
-   "explain": "284＋394＝678",
+   "explain": "484＋471＝955",
    "numeric": true,
    "id": "MATH-P2-L04-006",
    "grade": "P2",
    "subject": "math",
    "lesson": "L04",
    "level": "應用",
-   "question": "284 ＋ 394 ＝ ？",
+   "question": "484 ＋ 471 ＝ ？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
    "verified": true,
    "readAloud": true

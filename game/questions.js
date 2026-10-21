@@ -252,122 +252,147 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "mc",
-     "q": "選出正確的標點：我叫欣欣（ ）",
-     "answer": "。",
+     "q": "叔叔病了，我和家人一起去（ ）他。",
+     "answer": "探望",
      "options": [
-      "、",
-      "。",
-      "！",
-      "？"
+      "活潑",
+      "探望",
+      "開始",
+      "跑步"
      ],
-     "explain": "說明自己的句子，句末用句號「。」。",
+     "explain": "去看望生病的人叫「探望」。",
      "id": "CHI-P2-L01-001",
      "grade": "P2",
      "subject": "chi",
      "lesson": "L01",
      "level": "記憶",
-     "question": "選出正確的標點：我叫欣欣（ ）",
+     "question": "叔叔病了，我和家人一起去（ ）他。",
      "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 欣欣的故事",
      "verified": false,
      "readAloud": true
     },
     {
      "type": "mc",
-     "q": "你叫甚麼名字（ ）",
-     "answer": "？",
+     "q": "新學年（ ）了，同學都回到學校上課。",
+     "answer": "開始",
      "options": [
-      "。",
-      "？",
-      "，",
-      "、"
+      "探望",
+      "開始",
+      "幫忙",
+      "唱歌"
      ],
-     "explain": "問問題的句子用問號「？」。",
+     "explain": "新學年「開始」。",
      "id": "CHI-P2-L01-002",
      "grade": "P2",
      "subject": "chi",
      "lesson": "L01",
      "level": "記憶",
-     "question": "你叫甚麼名字（ ）",
+     "question": "新學年（ ）了，同學都回到學校上課。",
      "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 欣欣的故事",
      "verified": false,
      "readAloud": true
     },
     {
      "type": "mc",
-     "q": "「一（ ）書」，括號應填哪個量詞？",
-     "answer": "本",
+     "q": "小明很愛跑跑跳跳，是一個（ ）的孩子。",
+     "answer": "活潑",
      "options": [
-      "本",
-      "朵",
-      "隻",
-      "條"
+      "活潑",
+      "傷心",
+      "安靜",
+      "生病"
      ],
-     "explain": "書用「本」：一本書。",
+     "explain": "愛跑跳的孩子很「活潑」。",
      "id": "CHI-P2-L01-003",
      "grade": "P2",
      "subject": "chi",
      "lesson": "L01",
      "level": "記憶",
-     "question": "「一（ ）書」，括號應填哪個量詞？",
+     "question": "小明很愛跑跑跳跳，是一個（ ）的孩子。",
      "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 欣欣的故事",
      "verified": false,
      "readAloud": true
     },
     {
      "type": "mc",
-     "q": "「高興」的相反詞是：",
-     "answer": "傷心",
+     "q": "我長大了，我會自己穿（ ）。",
+     "answer": "衣服",
      "options": [
-      "興奮",
-      "開心",
-      "快樂",
-      "傷心"
+      "校歌",
+      "故事",
+      "足球",
+      "衣服"
      ],
-     "explain": "高興的相反是傷心。",
+     "explain": "「穿衣服」才搭配。",
      "id": "CHI-P2-L01-004",
      "grade": "P2",
      "subject": "chi",
      "lesson": "L01",
      "level": "記憶",
-     "question": "「高興」的相反詞是：",
+     "question": "我長大了，我會自己穿（ ）。",
      "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 欣欣的故事",
      "verified": false,
      "readAloud": true
     },
     {
      "type": "mc",
-     "q": "「我和同學一起玩。」句中誰在玩？",
-     "answer": "我和同學",
+     "q": "我會（ ）足球。",
+     "answer": "踢",
      "options": [
-      "小狗",
-      "我和同學",
-      "爸爸",
-      "老師"
+      "讀",
+      "踢",
+      "穿",
+      "唱"
      ],
-     "explain": "「我和同學」一起玩。",
+     "explain": "足球用腳「踢」。",
      "id": "CHI-P2-L01-005",
      "grade": "P2",
      "subject": "chi",
      "lesson": "L01",
      "level": "記憶",
-     "question": "「我和同學一起玩。」句中誰在玩？",
+     "question": "我會（ ）足球。",
      "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 欣欣的故事",
      "verified": false,
      "readAloud": true
     },
     {
-     "type": "fill",
-     "q": "「一（ ）小狗」，括號填量詞。",
-     "answer": [
-      "隻"
+     "type": "mc",
+     "q": "用「……，還……」完成：弟弟會掃地，（ ）。",
+     "answer": "還會抹桌子",
+     "options": [
+      "還沒有回家",
+      "還是很小",
+      "還要哭",
+      "還會抹桌子"
      ],
-     "explain": "小狗用「隻」：一隻小狗。",
+     "explain": "「還」表示再加上另一件事。",
      "id": "CHI-P2-L01-006",
      "grade": "P2",
      "subject": "chi",
      "lesson": "L01",
-     "level": "理解",
-     "question": "「一（ ）小狗」，括號填量詞。",
+     "level": "記憶",
+     "question": "用「……，還……」完成：弟弟會掃地，（ ）。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 欣欣的故事",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "「星期天，爸爸帶我到公園。」句中表示「時間」的是：",
+     "answer": "星期天",
+     "options": [
+      "公園",
+      "爸爸",
+      "星期天",
+      "帶我"
+     ],
+     "explain": "「星期天」是時間。",
+     "id": "CHI-P2-L01-007",
+     "grade": "P2",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「星期天，爸爸帶我到公園。」句中表示「時間」的是：",
      "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 欣欣的故事",
      "verified": false,
      "readAloud": true
@@ -387,9 +412,9 @@ window.QUESTION_BANK = {
      "q": "「旅店」是讓人做甚麼的地方？",
      "answer": "住宿",
      "options": [
+      "看病",
       "買菜",
       "上課",
-      "看病",
       "住宿"
      ],
      "explain": "旅店是給旅客住宿的地方。",
@@ -408,10 +433,10 @@ window.QUESTION_BANK = {
      "q": "「森林裏有很多（ ）樹。」括號應填：",
      "answer": "高高的",
      "options": [
-      "冷冷的",
+      "響響的",
       "甜甜的",
       "高高的",
-      "響響的"
+      "冷冷的"
      ],
      "explain": "樹可以用「高高的」形容。",
      "id": "CHI-P2-L05-002",
@@ -429,10 +454,10 @@ window.QUESTION_BANK = {
      "q": "「一（ ）樹」，括號應填：",
      "answer": "棵",
      "options": [
-      "張",
-      "隻",
+      "棵",
       "本",
-      "棵"
+      "張",
+      "隻"
      ],
      "explain": "樹用「棵」：一棵樹。",
      "id": "CHI-P2-L05-003",
@@ -450,9 +475,9 @@ window.QUESTION_BANK = {
      "q": "「歡迎」的意思最接近：",
      "answer": "高興地迎接",
      "options": [
-      "關上大門",
       "大聲罵人",
       "高興地迎接",
+      "關上大門",
       "慢慢走開"
      ],
      "explain": "歡迎就是高興地迎接客人。",
@@ -514,9 +539,9 @@ window.QUESTION_BANK = {
      "answer": "頸和手臂之間",
      "options": [
       "頸和手臂之間",
+      "頭頂",
       "腳底",
-      "肚子",
-      "頭頂"
+      "肚子"
      ],
      "explain": "肩膀在頸和手臂之間。",
      "id": "CHI-P2-L08-001",
@@ -534,10 +559,10 @@ window.QUESTION_BANK = {
      "q": "坐在爸爸的肩膀上，看得更：",
      "answer": "遠",
      "options": [
-      "小",
       "遠",
-      "短",
-      "黑"
+      "小",
+      "黑",
+      "短"
      ],
      "explain": "坐得高，可以看得更遠。",
      "id": "CHI-P2-L08-002",
@@ -555,10 +580,10 @@ window.QUESTION_BANK = {
      "q": "「爸爸很愛我。」可以改成：",
      "answer": "爸爸非常愛我。",
      "options": [
-      "爸爸非常愛我。",
-      "爸爸愛不愛我？",
       "爸爸不愛我。",
-      "爸爸很怕我。"
+      "爸爸很怕我。",
+      "爸爸愛不愛我？",
+      "爸爸非常愛我。"
      ],
      "explain": "「很」和「非常」意思相近。",
      "id": "CHI-P2-L08-003",
@@ -576,10 +601,10 @@ window.QUESTION_BANK = {
      "q": "「（ ）爸爸，你累嗎？」選出合適的詞：",
      "answer": "親愛的",
      "options": [
+      "骯髒的",
       "親愛的",
-      "生氣的",
       "吵鬧的",
-      "骯髒的"
+      "生氣的"
      ],
      "explain": "對家人用「親愛的」表達愛。",
      "id": "CHI-P2-L08-004",
@@ -597,10 +622,10 @@ window.QUESTION_BANK = {
      "q": "以下哪個是正確的句子？",
      "answer": "我和爸爸去公園。",
      "options": [
-      "公園去我和爸爸。",
       "去公園爸爸我和。",
       "爸爸公園我去。",
-      "我和爸爸去公園。"
+      "我和爸爸去公園。",
+      "公園去我和爸爸。"
      ],
      "explain": "句子要有正確的次序：誰＋做甚麼。",
      "id": "CHI-P2-L08-005",
@@ -644,9 +669,9 @@ window.QUESTION_BANK = {
      "answer": "操場",
      "options": [
       "睡房",
-      "操場",
+      "圖書館",
       "廚房",
-      "圖書館"
+      "操場"
      ],
      "explain": "體育課多數在操場或禮堂上。",
      "id": "CHI-P2-L11-001",
@@ -664,9 +689,9 @@ window.QUESTION_BANK = {
      "q": "「我們跑得很（ ）。」括號應填：",
      "answer": "快",
      "options": [
+      "快",
       "圓",
       "香",
-      "快",
       "甜"
      ],
      "explain": "跑步用「快」形容。",
@@ -685,10 +710,10 @@ window.QUESTION_BANK = {
      "q": "做運動前要先：",
      "answer": "熱身",
      "options": [
-      "洗澡",
-      "吃大餐",
       "睡覺",
-      "熱身"
+      "熱身",
+      "吃大餐",
+      "洗澡"
      ],
      "explain": "先熱身可以避免受傷。",
      "id": "CHI-P2-L11-003",
@@ -769,9 +794,9 @@ window.QUESTION_BANK = {
      "q": "賀卡最開頭要寫甚麼？",
      "answer": "上款（收卡人稱呼）",
      "options": [
+      "日期",
       "下款",
       "上款（收卡人稱呼）",
-      "日期",
       "地址"
      ],
      "explain": "賀卡先寫上款，例如「親愛的媽媽：」。",
@@ -790,9 +815,9 @@ window.QUESTION_BANK = {
      "q": "上款後面要加甚麼標點？",
      "answer": "：",
      "options": [
-      "：",
       "！",
       "？",
+      "：",
       "。"
      ],
      "explain": "上款後面用冒號「：」。",
@@ -812,9 +837,9 @@ window.QUESTION_BANK = {
      "answer": "下款（寫卡人）和日期",
      "options": [
       "上款",
-      "題目",
+      "地址",
       "下款（寫卡人）和日期",
-      "地址"
+      "題目"
      ],
      "explain": "最後寫下款和日期。",
      "id": "CHI-P2-L99-003",
@@ -832,10 +857,10 @@ window.QUESTION_BANK = {
      "q": "送給老師的賀卡，下款可以寫：",
      "answer": "學生 欣欣 上",
      "options": [
-      "生日快樂",
-      "親愛的老師：",
       "學生 欣欣 上",
-      "爸爸"
+      "親愛的老師：",
+      "爸爸",
+      "生日快樂"
      ],
      "explain": "寫給老師，下款可寫「學生某某上」。",
      "id": "CHI-P2-L99-004",
@@ -879,10 +904,10 @@ window.QUESTION_BANK = {
      "q": "母親節賀卡的祝福語可以寫：",
      "answer": "祝您母親節快樂！",
      "options": [
-      "祝您新年快樂！",
-      "祝您聖誕快樂！",
       "祝您母親節快樂！",
-      "祝你生日快樂！"
+      "祝你生日快樂！",
+      "祝您新年快樂！",
+      "祝您聖誕快樂！"
      ],
      "explain": "母親節要配合節日寫祝福語。",
      "id": "CHI-P2-L99-006",
@@ -907,115 +932,161 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "mc",
-     "q": "週記多久寫一次？",
-     "answer": "一星期一次",
+     "q": "表姐把好消息告訴我，讓我（ ）她的快樂。",
+     "answer": "分享",
      "options": [
-      "一星期一次",
-      "一個月一次",
-      "一天一次",
-      "一年一次"
+      "分享",
+      "害羞",
+      "吩咐",
+      "介意"
      ],
-     "explain": "「週」就是星期，週記每星期寫一次。",
+     "explain": "一起感受快樂叫「分享」。",
      "id": "CHI-P4-L01-001",
      "grade": "P4",
      "subject": "chi",
      "lesson": "L01",
      "level": "記憶",
-     "question": "週記多久寫一次？",
+     "question": "表姐把好消息告訴我，讓我（ ）她的快樂。",
      "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
      "verified": false
     },
     {
      "type": "mc",
-     "q": "週記一般要寫上：",
-     "answer": "日期和題目",
+     "q": "媽媽（ ）我把頭髮束起來。",
+     "answer": "吩咐",
      "options": [
-      "日期和題目",
-      "地址和郵票",
-      "上款和下款",
-      "收件人電郵"
+      "友善",
+      "分享",
+      "介意",
+      "吩咐"
      ],
-     "explain": "週記要寫日期（或星期）和題目。",
+     "explain": "長輩叫晚輩做事叫「吩咐」。",
      "id": "CHI-P4-L01-002",
      "grade": "P4",
      "subject": "chi",
      "lesson": "L01",
      "level": "記憶",
-     "question": "週記一般要寫上：",
+     "question": "媽媽（ ）我把頭髮束起來。",
      "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
      "verified": false
     },
     {
      "type": "mc",
-     "q": "「掌聲」是用甚麼發出的聲音？",
-     "answer": "雙手拍掌",
+     "q": "她性格（ ），不敢主動跟同學交談。",
+     "answer": "害羞",
      "options": [
-      "雙手拍掌",
-      "敲鼓",
-      "口唱歌",
-      "雙腳跳"
+      "友善",
+      "害羞",
+      "活潑",
+      "勇敢"
      ],
-     "explain": "拍手發出的聲音就是掌聲。",
+     "explain": "不敢主動說話是「害羞」。",
      "id": "CHI-P4-L01-003",
      "grade": "P4",
      "subject": "chi",
      "lesson": "L01",
      "level": "記憶",
-     "question": "「掌聲」是用甚麼發出的聲音？",
+     "question": "她性格（ ），不敢主動跟同學交談。",
      "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
      "verified": false
     },
     {
      "type": "mc",
-     "q": "同學在台上緊張時，大家給他掌聲，表示：",
-     "answer": "鼓勵和支持",
+     "q": "表演結束，觀眾熱烈地（ ）。",
+     "answer": "鼓掌",
      "options": [
-      "不理睬",
-      "責罵",
-      "嘲笑",
-      "鼓勵和支持"
+      "害羞",
+      "鼓掌",
+      "吩咐",
+      "介意"
      ],
-     "explain": "掌聲可以給人鼓勵。",
+     "explain": "欣賞表演後鼓掌。",
      "id": "CHI-P4-L01-004",
      "grade": "P4",
      "subject": "chi",
      "lesson": "L01",
      "level": "記憶",
-     "question": "同學在台上緊張時，大家給他掌聲，表示：",
-     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
-     "verified": false
-    },
-    {
-     "type": "tf",
-     "q": "週記可以記下一星期內印象最深刻的事和感受。",
-     "answer": true,
-     "explain": "週記要寫事情和自己的感受。",
-     "id": "CHI-P4-L01-005",
-     "grade": "P4",
-     "subject": "chi",
-     "lesson": "L01",
-     "level": "記憶",
-     "question": "週記可以記下一星期內印象最深刻的事和感受。",
+     "question": "表演結束，觀眾熱烈地（ ）。",
      "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
      "verified": false
     },
     {
      "type": "mc",
-     "q": "「鼓勵」的近義詞是：",
-     "answer": "激勵",
+     "q": "「上課鐘聲一響，同學（ ）有秩序地排隊。」",
+     "answer": "就",
      "options": [
-      "批評",
-      "激勵",
-      "放棄",
-      "責怪"
+      "還",
+      "就",
+      "才",
+      "也"
      ],
-     "explain": "鼓勵和激勵意思相近。",
+     "explain": "「一……，就……」表示兩件事緊接發生。",
+     "id": "CHI-P4-L01-005",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「上課鐘聲一響，同學（ ）有秩序地排隊。」",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "「火……火災呀！」句中省略號表示：",
+     "answer": "說話斷斷續續",
+     "options": [
+      "聲音很大",
+      "說話斷斷續續",
+      "省略列舉的內容",
+      "句子完結"
+     ],
+     "explain": "驚慌時說話斷斷續續。",
      "id": "CHI-P4-L01-006",
      "grade": "P4",
      "subject": "chi",
      "lesson": "L01",
      "level": "記憶",
-     "question": "「鼓勵」的近義詞是：",
+     "question": "「火……火災呀！」句中省略號表示：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "「我愛讀成語故事，例如：畫蛇添足、亡羊補牢……」省略號表示：",
+     "answer": "省略了列舉的內容",
+     "options": [
+      "省略了列舉的內容",
+      "表示感歎",
+      "說話斷斷續續",
+      "表示疑問"
+     ],
+     "explain": "例子未列完，用省略號。",
+     "id": "CHI-P4-L01-007",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「我愛讀成語故事，例如：畫蛇添足、亡羊補牢……」省略號表示：",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "先寫事情的結果，再寫起因和經過，叫：",
+     "answer": "倒敘法",
+     "options": [
+      "比喻",
+      "倒敘法",
+      "順敘法",
+      "擬人"
+     ],
+     "explain": "先寫結果再寫經過是倒敘。",
+     "id": "CHI-P4-L01-008",
+     "grade": "P4",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "先寫事情的結果，再寫起因和經過，叫：",
      "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 週記一則——掌聲",
      "verified": false
     }
@@ -1034,10 +1105,10 @@ window.QUESTION_BANK = {
      "q": "蝴蝶屬於哪一類動物？",
      "answer": "昆蟲",
      "options": [
-      "鳥類",
-      "昆蟲",
       "魚類",
-      "哺乳類"
+      "昆蟲",
+      "哺乳類",
+      "鳥類"
      ],
      "explain": "蝴蝶有六隻腳，是昆蟲。",
      "id": "CHI-P4-L05-001",
@@ -1054,10 +1125,10 @@ window.QUESTION_BANK = {
      "q": "「戀」字的意思是：",
      "answer": "愛慕、不捨得",
      "options": [
-      "生氣",
       "愛慕、不捨得",
-      "害怕",
-      "忘記"
+      "生氣",
+      "忘記",
+      "害怕"
      ],
      "explain": "「戀」表示喜愛、不捨得。",
      "id": "CHI-P4-L05-002",
@@ -1074,10 +1145,10 @@ window.QUESTION_BANK = {
      "q": "「白蝴蝶像一片小小的雪花。」用了甚麼修辭？",
      "answer": "比喻",
      "options": [
-      "設問",
       "比喻",
-      "擬人",
-      "反問"
+      "反問",
+      "設問",
+      "擬人"
      ],
      "explain": "用「像」把蝴蝶比作雪花，是比喻。",
      "id": "CHI-P4-L05-003",
@@ -1094,8 +1165,8 @@ window.QUESTION_BANK = {
      "q": "「一（ ）蝴蝶」，括號應填：",
      "answer": "隻",
      "options": [
-      "隻",
       "張",
+      "隻",
       "條",
       "朵"
      ],
@@ -1115,9 +1186,9 @@ window.QUESTION_BANK = {
      "answer": "輕輕觀察，不去傷害",
      "options": [
       "用石頭擲",
-      "輕輕觀察，不去傷害",
       "捉回家玩",
-      "拔去翅膀"
+      "拔去翅膀",
+      "輕輕觀察，不去傷害"
      ],
      "explain": "要尊重和愛護生命。",
      "id": "CHI-P4-L05-005",
@@ -1159,9 +1230,9 @@ window.QUESTION_BANK = {
      "answer": "神話故事",
      "options": [
       "新聞報道",
+      "說明文",
       "神話故事",
-      "書信",
-      "說明文"
+      "書信"
      ],
      "explain": "盤古開天是中國古代神話。",
      "id": "CHI-P4-L08-001",
@@ -1178,9 +1249,9 @@ window.QUESTION_BANK = {
      "q": "傳說盤古用甚麼劈開天地？",
      "answer": "斧頭",
      "options": [
-      "斧頭",
-      "毛筆",
       "繩子",
+      "毛筆",
+      "斧頭",
       "雨傘"
      ],
      "explain": "傳說盤古用大斧劈開天地。",
@@ -1199,9 +1270,9 @@ window.QUESTION_BANK = {
      "answer": "太陽和月亮",
      "options": [
       "太陽和月亮",
-      "樹木",
       "河流",
-      "高山"
+      "高山",
+      "樹木"
      ],
      "explain": "神話說他的雙眼變成日月。",
      "id": "CHI-P4-L08-003",
@@ -1218,9 +1289,9 @@ window.QUESTION_BANK = {
      "q": "「開天闢地」現在常用來比喻：",
      "answer": "前所未有、第一次",
      "options": [
+      "天氣很好",
       "搬屋",
       "前所未有、第一次",
-      "天氣很好",
       "打開窗戶"
      ],
      "explain": "開天闢地比喻有史以來第一次。",
@@ -1238,10 +1309,10 @@ window.QUESTION_BANK = {
      "q": "天和地分開後，輕而清的東西上升變成：",
      "answer": "天",
      "options": [
-      "海",
       "地",
       "山",
-      "天"
+      "天",
+      "海"
      ],
      "explain": "輕清的上升為天，重濁的下沉為地。",
      "id": "CHI-P4-L08-005",
@@ -1282,9 +1353,9 @@ window.QUESTION_BANK = {
      "q": "桂林在中國哪個省區？",
      "answer": "廣西",
      "options": [
-      "廣東",
-      "北京",
       "廣西",
+      "北京",
+      "廣東",
       "上海"
      ],
      "explain": "桂林位於廣西壯族自治區。",
@@ -1302,10 +1373,10 @@ window.QUESTION_BANK = {
      "q": "有一句話說「桂林山水甲天下」，「甲」的意思是：",
      "answer": "第一",
      "options": [
-      "最遠",
+      "最差",
       "最小",
       "第一",
-      "最差"
+      "最遠"
      ],
      "explain": "「甲天下」指天下第一。",
      "id": "CHI-P4-L13-002",
@@ -1322,10 +1393,10 @@ window.QUESTION_BANK = {
      "q": "漓江的水最大的特點是：",
      "answer": "清、靜、綠",
      "options": [
-      "清、靜、綠",
       "鹹、冷、黑",
-      "黃、急、濁",
-      "乾、熱、少"
+      "乾、熱、少",
+      "清、靜、綠",
+      "黃、急、濁"
      ],
      "explain": "桂林的水又靜又清又綠。",
      "id": "CHI-P4-L13-003",
@@ -1342,10 +1413,10 @@ window.QUESTION_BANK = {
      "q": "桂林的山的特點是：",
      "answer": "奇、秀、險",
      "options": [
-      "平、矮、圓",
-      "沒有樹木",
+      "全是雪山",
       "奇、秀、險",
-      "全是雪山"
+      "沒有樹木",
+      "平、矮、圓"
      ],
      "explain": "桂林的山奇、秀、險。",
      "id": "CHI-P4-L13-004",
@@ -1362,10 +1433,10 @@ window.QUESTION_BANK = {
      "q": "「山像老人，像巨象。」用了甚麼修辭？",
      "answer": "比喻",
      "options": [
-      "設問",
-      "誇張",
+      "反問",
       "比喻",
-      "反問"
+      "設問",
+      "誇張"
      ],
      "explain": "用「像」作比較，是比喻。",
      "id": "CHI-P4-L13-005",
@@ -1406,10 +1477,10 @@ window.QUESTION_BANK = {
      "q": "週記的題目應該：",
      "answer": "配合內容，簡短",
      "options": [
-      "配合內容，簡短",
-      "不用寫",
       "越長越好",
-      "寫上收件人"
+      "配合內容，簡短",
+      "寫上收件人",
+      "不用寫"
      ],
      "explain": "題目要切合內容。",
      "id": "CHI-P4-L99-001",
@@ -1426,9 +1497,9 @@ window.QUESTION_BANK = {
      "q": "週記寫事情，要包括：",
      "answer": "事情經過和感受",
      "options": [
+      "事情經過和感受",
       "只寫天氣",
       "只寫日期",
-      "事情經過和感受",
       "只寫名字"
      ],
      "explain": "經過加上感受，週記才完整。",
@@ -1485,10 +1556,10 @@ window.QUESTION_BANK = {
      "q": "以下哪一句最適合作週記的感受部分？",
      "answer": "這次經歷令我明白合作的重要。",
      "options": [
-      "我住在柴灣。",
-      "我的書包是藍色的。",
       "這次經歷令我明白合作的重要。",
-      "今天是星期一。"
+      "今天是星期一。",
+      "我的書包是藍色的。",
+      "我住在柴灣。"
      ],
      "explain": "感受要寫出自己的想法和得着。",
      "id": "CHI-P4-L99-005",
@@ -1512,95 +1583,149 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "mc",
-     "q": "放風箏需要甚麼天氣？",
-     "answer": "有風",
+     "q": "天空（ ）的，陽光被遮蔽了。",
+     "answer": "灰濛濛",
      "options": [
-      "沒有風",
-      "有風",
-      "打風球",
-      "下大雨"
+      "亮晶晶",
+      "灰濛濛",
+      "紅彤彤",
+      "綠油油"
      ],
-     "explain": "風箏要靠風才能飛起。",
+     "explain": "陰天天空「灰濛濛」。",
      "id": "CHI-P5-L01-001",
      "grade": "P5",
      "subject": "chi",
      "lesson": "L01",
      "level": "記憶",
-     "question": "放風箏需要甚麼天氣？",
+     "question": "天空（ ）的，陽光被遮蔽了。",
      "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 風箏",
      "verified": false
     },
     {
      "type": "mc",
-     "q": "「一（ ）風箏」，括號應填：",
-     "answer": "隻",
+     "q": "他不知道該怎麼辦，心裏很（ ）。",
+     "answer": "徬徨",
      "options": [
-      "朵",
-      "隻",
-      "條",
-      "本"
+      "徬徨",
+      "興奮",
+      "輕鬆",
+      "驕傲"
      ],
-     "explain": "風箏用「隻」。",
+     "explain": "不知所措叫「徬徨」。",
      "id": "CHI-P5-L01-002",
      "grade": "P5",
      "subject": "chi",
      "lesson": "L01",
      "level": "記憶",
-     "question": "「一（ ）風箏」，括號應填：",
+     "question": "他不知道該怎麼辦，心裏很（ ）。",
      "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 風箏",
      "verified": false
     },
     {
      "type": "mc",
-     "q": "「風箏越飛越高」中「越……越……」表示：",
-     "answer": "程度隨着變化",
+     "q": "我抬起頭（ ）天空，看見一線光芒。",
+     "answer": "仰望",
      "options": [
-      "轉折",
-      "程度隨着變化",
-      "選擇",
-      "因果"
+      "回頭",
+      "閉眼",
+      "俯視",
+      "仰望"
      ],
-     "explain": "越……越……表示程度加深。",
+     "explain": "抬頭向上看叫「仰望」。",
      "id": "CHI-P5-L01-003",
      "grade": "P5",
      "subject": "chi",
      "lesson": "L01",
      "level": "記憶",
-     "question": "「風箏越飛越高」中「越……越……」表示：",
+     "question": "我抬起頭（ ）天空，看見一線光芒。",
      "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 風箏",
      "verified": false
     },
     {
      "type": "mc",
-     "q": "「興高采烈」的意思是：",
-     "answer": "非常高興",
+     "q": "天空被濃霧遮蔽，令「我」聯想到怎樣的心情？",
+     "answer": "鬱悶",
      "options": [
-      "非常高興",
-      "非常傷心",
-      "非常疲倦",
-      "非常憤怒"
+      "開心",
+      "鬱悶",
+      "平靜",
+      "自豪"
      ],
-     "explain": "興高采烈形容十分高興。",
+     "explain": "陰暗的景物配合鬱悶的心情——借景抒情。",
      "id": "CHI-P5-L01-004",
      "grade": "P5",
      "subject": "chi",
      "lesson": "L01",
      "level": "記憶",
-     "question": "「興高采烈」的意思是：",
+     "question": "天空被濃霧遮蔽，令「我」聯想到怎樣的心情？",
      "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 風箏",
      "verified": false
     },
     {
-     "type": "tf",
-     "q": "「風箏像一隻小鳥在天空飛翔。」是比喻句。",
-     "answer": true,
-     "explain": "用「像」把風箏比作小鳥。",
+     "type": "mc",
+     "q": "「（ ）！我的鉛筆剛才還在桌上，怎麼不見了？」應填哪個歎詞？",
+     "answer": "咦",
+     "options": [
+      "哈哈",
+      "咦",
+      "唉",
+      "嗯"
+     ],
+     "explain": "「咦」表示驚訝。",
      "id": "CHI-P5-L01-005",
      "grade": "P5",
      "subject": "chi",
      "lesson": "L01",
      "level": "記憶",
-     "question": "「風箏像一隻小鳥在天空飛翔。」是比喻句。",
+     "question": "「（ ）！我的鉛筆剛才還在桌上，怎麼不見了？」應填哪個歎詞？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 風箏",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "「（ ），你說得對！」應填哪個歎詞？",
+     "answer": "嗯",
+     "options": [
+      "嗯",
+      "咦",
+      "哼",
+      "唉"
+     ],
+     "explain": "「嗯」表示同意。",
+     "id": "CHI-P5-L01-006",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「（ ），你說得對！」應填哪個歎詞？",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 風箏",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "「媽媽是我的避風港，給我溫暖。」運用了暗喻。",
+     "answer": true,
+     "explain": "用「是」把媽媽比作避風港，是暗喻。",
+     "id": "CHI-P5-L01-007",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「媽媽是我的避風港，給我溫暖。」運用了暗喻。",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 風箏",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "「她的笑聲像銀鈴一樣。」運用了暗喻。",
+     "answer": false,
+     "explain": "用「像」的是明喻，不是暗喻。",
+     "id": "CHI-P5-L01-008",
+     "grade": "P5",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「她的笑聲像銀鈴一樣。」運用了暗喻。",
      "source": "research.md §1 中文《我愛學語文》（第二版）｜第1課 風箏",
      "verified": false
     }
@@ -1619,10 +1744,10 @@ window.QUESTION_BANK = {
      "q": "小組作業最需要：",
      "answer": "分工合作",
      "options": [
-      "分工合作",
-      "各自做自己的",
       "吵架",
-      "一個人做完"
+      "一個人做完",
+      "分工合作",
+      "各自做自己的"
      ],
      "explain": "小組要分工合作。",
      "id": "CHI-P5-L02-001",
@@ -1640,9 +1765,9 @@ window.QUESTION_BANK = {
      "answer": "互相尊重，好好討論",
      "options": [
       "大聲吵架",
-      "互相尊重，好好討論",
+      "不理別人",
       "放棄",
-      "不理別人"
+      "互相尊重，好好討論"
      ],
      "explain": "要尊重別人的意見。",
      "id": "CHI-P5-L02-002",
@@ -1659,8 +1784,8 @@ window.QUESTION_BANK = {
      "q": "「合作」的近義詞是：",
      "answer": "協作",
      "options": [
-      "協作",
       "對抗",
+      "協作",
       "爭吵",
       "獨自"
      ],
@@ -1679,9 +1804,9 @@ window.QUESTION_BANK = {
      "q": "「雖然……但是……」是哪種關係？",
      "answer": "轉折",
      "options": [
-      "並列",
-      "選擇",
       "因果",
+      "選擇",
+      "並列",
       "轉折"
      ],
      "explain": "雖然……但是……表示轉折。",
@@ -1725,10 +1850,10 @@ window.QUESTION_BANK = {
      "q": "虎門銷煙由哪位清朝官員主持？",
      "answer": "林則徐",
      "options": [
-      "鄭和",
-      "林則徐",
       "李白",
-      "孫中山"
+      "孫中山",
+      "鄭和",
+      "林則徐"
      ],
      "explain": "1839年林則徐在虎門銷毀鴉片。",
      "id": "CHI-P5-L04-001",
@@ -1745,10 +1870,10 @@ window.QUESTION_BANK = {
      "q": "虎門銷煙銷毀的是：",
      "answer": "鴉片",
      "options": [
-      "茶葉",
+      "絲綢",
       "鴉片",
-      "瓷器",
-      "絲綢"
+      "茶葉",
+      "瓷器"
      ],
      "explain": "林則徐銷毀了大量鴉片。",
      "id": "CHI-P5-L04-002",
@@ -1765,10 +1890,10 @@ window.QUESTION_BANK = {
      "q": "鴉片對人有甚麼害處？",
      "answer": "損害健康，令人上癮",
      "options": [
-      "損害健康，令人上癮",
-      "可以治百病",
       "使人更強壯",
-      "沒有影響"
+      "損害健康，令人上癮",
+      "沒有影響",
+      "可以治百病"
      ],
      "explain": "鴉片是毒品，令人上癮。",
      "id": "CHI-P5-L04-003",
@@ -1785,10 +1910,10 @@ window.QUESTION_BANK = {
      "q": "虎門在今天中國哪個省？",
      "answer": "廣東",
      "options": [
+      "廣西",
       "福建",
       "浙江",
-      "廣東",
-      "廣西"
+      "廣東"
      ],
      "explain": "虎門位於廣東東莞。",
      "id": "CHI-P5-L04-004",
@@ -1830,9 +1955,9 @@ window.QUESTION_BANK = {
      "answer": "明朝",
      "options": [
       "唐朝",
-      "宋朝",
+      "明朝",
       "清朝",
-      "明朝"
+      "宋朝"
      ],
      "explain": "鄭和是明朝航海家。",
      "id": "CHI-P5-L05-001",
@@ -1850,8 +1975,8 @@ window.QUESTION_BANK = {
      "answer": "七次",
      "options": [
       "一次",
-      "七次",
       "十次",
+      "七次",
       "三次"
      ],
      "explain": "鄭和七次下西洋。",
@@ -1869,10 +1994,10 @@ window.QUESTION_BANK = {
      "q": "鄭和遠航主要乘坐甚麼交通工具？",
      "answer": "船",
      "options": [
-      "飛機",
-      "馬車",
       "火車",
-      "船"
+      "馬車",
+      "船",
+      "飛機"
      ],
      "explain": "鄭和率領龐大船隊出海。",
      "id": "CHI-P5-L05-003",
@@ -1926,16 +2051,16 @@ window.QUESTION_BANK = {
    "id": "p5c8",
    "grade": "P5",
    "subject": "chi",
-   "title": "第8課 金鏤衣",
+   "title": "第8課 金縷衣",
    "questions": [
     {
      "type": "mc",
      "q": "《金縷衣》是一首：",
      "answer": "古詩",
      "options": [
+      "新聞",
       "書信",
       "古詩",
-      "新聞",
       "日記"
      ],
      "explain": "《金縷衣》是唐代詩歌。",
@@ -1945,7 +2070,7 @@ window.QUESTION_BANK = {
      "lesson": "L08",
      "level": "記憶",
      "question": "《金縷衣》是一首：",
-     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 金鏤衣",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 金縷衣",
      "verified": false
     },
     {
@@ -1954,9 +2079,9 @@ window.QUESTION_BANK = {
      "answer": "珍惜時光",
      "options": [
       "多種花",
+      "不要摘花",
       "珍惜時光",
-      "買新衣服",
-      "不要摘花"
+      "買新衣服"
      ],
      "explain": "勸人把握時機，珍惜少年時光。",
      "id": "CHI-P5-L08-002",
@@ -1965,7 +2090,7 @@ window.QUESTION_BANK = {
      "lesson": "L08",
      "level": "記憶",
      "question": "「花開堪折直須折，莫待無花空折枝。」主要勸人：",
-     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 金鏤衣",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 金縷衣",
      "verified": false
     },
     {
@@ -1974,9 +2099,9 @@ window.QUESTION_BANK = {
      "answer": "用金線織成的華麗衣服",
      "options": [
       "金色的花",
+      "用金線織成的華麗衣服",
       "一種食物",
-      "一本書",
-      "用金線織成的華麗衣服"
+      "一本書"
      ],
      "explain": "金縷衣是用金線縫製的衣服，代表財富。",
      "id": "CHI-P5-L08-003",
@@ -1985,7 +2110,7 @@ window.QUESTION_BANK = {
      "lesson": "L08",
      "level": "記憶",
      "question": "「勸君莫惜金縷衣」，「金縷衣」是：",
-     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 金鏤衣",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 金縷衣",
      "verified": false
     },
     {
@@ -1993,10 +2118,10 @@ window.QUESTION_BANK = {
      "q": "「莫」字的意思是：",
      "answer": "不要",
      "options": [
+      "一定",
       "很多",
       "不要",
-      "已經",
-      "一定"
+      "已經"
      ],
      "explain": "「莫」解作不要。",
      "id": "CHI-P5-L08-004",
@@ -2005,7 +2130,7 @@ window.QUESTION_BANK = {
      "lesson": "L08",
      "level": "記憶",
      "question": "「莫」字的意思是：",
-     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 金鏤衣",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 金縷衣",
      "verified": false
     },
     {
@@ -2014,9 +2139,9 @@ window.QUESTION_BANK = {
      "answer": "年輕的時光",
      "options": [
       "老年",
+      "昨天",
       "晚上",
-      "年輕的時光",
-      "昨天"
+      "年輕的時光"
      ],
      "explain": "少年時就是年輕的時候。",
      "id": "CHI-P5-L08-005",
@@ -2025,7 +2150,7 @@ window.QUESTION_BANK = {
      "lesson": "L08",
      "level": "記憶",
      "question": "「勸君惜取少年時」，「少年時」指：",
-     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 金鏤衣",
+     "source": "research.md §1 中文《我愛學語文》（第二版）｜第8課 金縷衣",
      "verified": false
     }
    ],
@@ -2063,10 +2188,10 @@ window.QUESTION_BANK = {
      "q": "一張舊椅子令人懷念，是因為它：",
      "answer": "有家人的回憶",
      "options": [
-      "很重",
       "很新",
+      "有家人的回憶",
       "很值錢",
-      "有家人的回憶"
+      "很重"
      ],
      "explain": "舊物承載了回憶和感情。",
      "id": "CHI-P5-L14-002",
@@ -2083,10 +2208,10 @@ window.QUESTION_BANK = {
      "q": "「懷念」的近義詞是：",
      "answer": "思念",
      "options": [
-      "忘記",
-      "討厭",
       "思念",
-      "害怕"
+      "忘記",
+      "害怕",
+      "討厭"
      ],
      "explain": "懷念、思念意思相近。",
      "id": "CHI-P5-L14-003",
@@ -2103,10 +2228,10 @@ window.QUESTION_BANK = {
      "q": "「一（ ）藤椅」，括號應填：",
      "answer": "張",
      "options": [
+      "本",
       "隻",
-      "條",
       "張",
-      "本"
+      "條"
      ],
      "explain": "椅子用「張」。",
      "id": "CHI-P5-L14-004",
@@ -2147,10 +2272,10 @@ window.QUESTION_BANK = {
      "q": "桂花在甚麼季節開花？",
      "answer": "秋天",
      "options": [
-      "春天",
       "秋天",
       "冬天",
-      "夏天"
+      "夏天",
+      "春天"
      ],
      "explain": "桂花多在秋天盛開。",
      "id": "CHI-P5-L15-001",
@@ -2167,10 +2292,10 @@ window.QUESTION_BANK = {
      "q": "「桂花雨」是指：",
      "answer": "搖樹時桂花像雨一樣落下",
      "options": [
-      "桂花味的雨水",
+      "很多人哭",
       "下雨天",
       "搖樹時桂花像雨一樣落下",
-      "很多人哭"
+      "桂花味的雨水"
      ],
      "explain": "桂花紛紛落下，好像下雨。",
      "id": "CHI-P5-L15-002",
@@ -2187,10 +2312,10 @@ window.QUESTION_BANK = {
      "q": "桂花最大的特點是：",
      "answer": "很香",
      "options": [
+      "很香",
       "很大",
-      "很臭",
       "黑色",
-      "很香"
+      "很臭"
      ],
      "explain": "桂花香氣濃郁。",
      "id": "CHI-P5-L15-003",
@@ -2209,8 +2334,8 @@ window.QUESTION_BANK = {
      "options": [
       "沒有味道",
       "很臭",
-      "香味很濃，傳到鼻子",
-      "鼻子痛"
+      "鼻子痛",
+      "香味很濃，傳到鼻子"
      ],
      "explain": "形容香味濃。",
      "id": "CHI-P5-L15-004",
@@ -2251,9 +2376,9 @@ window.QUESTION_BANK = {
      "q": "週記最主要的作用是：",
      "answer": "記錄一星期的生活和感受",
      "options": [
+      "邀請朋友",
       "申請工作",
       "記錄一星期的生活和感受",
-      "邀請朋友",
       "通知家長"
      ],
      "explain": "週記記一星期的生活和感受。",
@@ -2312,8 +2437,8 @@ window.QUESTION_BANK = {
      "options": [
       "第一人稱「我」",
       "第三人稱「他」",
-      "不用人稱",
-      "第二人稱「你」"
+      "第二人稱「你」",
+      "不用人稱"
      ],
      "explain": "週記寫自己的經歷，用「我」。",
      "id": "CHI-P5-L99-004",
@@ -2330,10 +2455,10 @@ window.QUESTION_BANK = {
      "q": "「今天的事令我明白……」屬於週記的：",
      "answer": "感受和反思",
      "options": [
-      "經過的開頭",
+      "題目",
       "日期",
       "感受和反思",
-      "題目"
+      "經過的開頭"
      ],
      "explain": "寫明白了甚麼是反思。",
      "id": "CHI-P5-L99-005",
@@ -2361,9 +2486,9 @@ window.QUESTION_BANK = {
      "answer": "Good morning!",
      "options": [
       "Good morning!",
+      "Good night!",
       "Happy birthday!",
-      "Goodbye!",
-      "Good night!"
+      "Goodbye!"
      ],
      "explain": "We say \"Good morning\" in the morning.",
      "id": "ENG-P1-L00-001",
@@ -2380,10 +2505,10 @@ window.QUESTION_BANK = {
      "q": "Your friend says \"Hello!\" You say:",
      "answer": "Hello!",
      "options": [
-      "Good night!",
-      "Thank you!",
+      "Sorry!",
       "Hello!",
-      "Sorry!"
+      "Thank you!",
+      "Good night!"
      ],
      "explain": "Answer \"Hello!\" with \"Hello!\".",
      "id": "ENG-P1-L00-002",
@@ -2400,10 +2525,10 @@ window.QUESTION_BANK = {
      "q": "You go home after school. You say:",
      "answer": "Goodbye!",
      "options": [
-      "Goodbye!",
       "Good morning!",
+      "Hello!",
       "Sorry!",
-      "Hello!"
+      "Goodbye!"
      ],
      "explain": "We say \"Goodbye\" when we leave.",
      "id": "ENG-P1-L00-003",
@@ -2434,10 +2559,10 @@ window.QUESTION_BANK = {
      "q": "Someone gives you a present. You say:",
      "answer": "Thank you!",
      "options": [
+      "Thank you!",
       "Hello!",
-      "Good night!",
       "Goodbye!",
-      "Thank you!"
+      "Good night!"
      ],
      "explain": "Say \"Thank you\" to be polite.",
      "id": "ENG-P1-L00-005",
@@ -2464,9 +2589,9 @@ window.QUESTION_BANK = {
      "q": "What is your name?",
      "answer": "My name is Ben.",
      "options": [
-      "I am six.",
-      "I am fine.",
       "My name is Ben.",
+      "I am fine.",
+      "I am six.",
       "It is red."
      ],
      "explain": "Answer \"What is your name?\" with \"My name is …\".",
@@ -2484,10 +2609,10 @@ window.QUESTION_BANK = {
      "q": "How old are you?",
      "answer": "I am six.",
      "options": [
-      "I am six.",
-      "My name is Amy.",
       "Yes, I am.",
-      "It's a pen."
+      "It's a pen.",
+      "My name is Amy.",
+      "I am six."
      ],
      "explain": "Answer \"How old\" with your age.",
      "id": "ENG-P1-L01-002",
@@ -2504,10 +2629,10 @@ window.QUESTION_BANK = {
      "q": "This ___ my friend, Tom.",
      "answer": "is",
      "options": [
+      "be",
       "am",
-      "are",
       "is",
-      "be"
+      "are"
      ],
      "explain": "\"This is …\" for one person.",
      "id": "ENG-P1-L01-003",
@@ -2524,10 +2649,10 @@ window.QUESTION_BANK = {
      "q": "I ___ Amy.",
      "answer": "am",
      "options": [
-      "am",
       "is",
-      "be",
-      "are"
+      "am",
+      "are",
+      "be"
      ],
      "explain": "Use \"I am\".",
      "id": "ENG-P1-L01-004",
@@ -2570,10 +2695,10 @@ window.QUESTION_BANK = {
      "q": "Tom is a boy. ___ is my friend.",
      "answer": "He",
      "options": [
-      "We",
-      "He",
       "She",
-      "It"
+      "It",
+      "He",
+      "We"
      ],
      "explain": "Use \"he\" for a boy.",
      "id": "ENG-P1-L02-001",
@@ -2590,9 +2715,9 @@ window.QUESTION_BANK = {
      "q": "Amy is a girl. ___ is seven.",
      "answer": "She",
      "options": [
-      "He",
-      "We",
       "They",
+      "We",
+      "He",
       "She"
      ],
      "explain": "Use \"she\" for a girl.",
@@ -2610,10 +2735,10 @@ window.QUESTION_BANK = {
      "q": "Ben and I ___ classmates.",
      "answer": "are",
      "options": [
-      "are",
       "am",
-      "is",
-      "be"
+      "are",
+      "be",
+      "is"
      ],
      "explain": "\"We are\" / \"Ben and I are\".",
      "id": "ENG-P1-L02-003",
@@ -2631,9 +2756,9 @@ window.QUESTION_BANK = {
      "answer": "Nice to meet you too!",
      "options": [
       "Nice to meet you too!",
-      "I am six.",
+      "Goodbye!",
       "Good night!",
-      "Goodbye!"
+      "I am six."
      ],
      "explain": "Reply with \"Nice to meet you too!\".",
      "id": "ENG-P1-L02-004",
@@ -2674,10 +2799,10 @@ window.QUESTION_BANK = {
      "q": "___ talk in class.",
      "answer": "Don't",
      "options": [
+      "Don't",
       "Please do",
-      "Not",
       "Do",
-      "Don't"
+      "Not"
      ],
      "explain": "\"Don't\" tells us not to do something.",
      "id": "ENG-P1-L03-001",
@@ -2694,9 +2819,9 @@ window.QUESTION_BANK = {
      "q": "Please ___ your hand.",
      "answer": "put up",
      "options": [
+      "put up",
       "sleep",
       "run",
-      "put up",
       "eat"
      ],
      "explain": "Put up your hand before you talk.",
@@ -2734,9 +2859,9 @@ window.QUESTION_BANK = {
      "q": "Don't ___ in the classroom.",
      "answer": "run",
      "options": [
+      "run",
       "listen",
       "sit",
-      "run",
       "read"
      ],
      "explain": "Don't run in the classroom.",
@@ -2779,9 +2904,9 @@ window.QUESTION_BANK = {
      "answer": "have",
      "options": [
       "am",
-      "is",
       "has",
-      "have"
+      "have",
+      "is"
      ],
      "explain": "Use \"I have\".",
      "id": "ENG-P1-L04-001",
@@ -2798,10 +2923,10 @@ window.QUESTION_BANK = {
      "q": "Tom ___ a ruler.",
      "answer": "has",
      "options": [
+      "have",
       "are",
       "has",
-      "am",
-      "have"
+      "am"
      ],
      "explain": "Use \"has\" with he/she/one person.",
      "id": "ENG-P1-L04-002",
@@ -2818,10 +2943,10 @@ window.QUESTION_BANK = {
      "q": "one book, two ___",
      "answer": "books",
      "options": [
-      "books",
       "bookies",
-      "book",
-      "bookes"
+      "books",
+      "bookes",
+      "book"
      ],
      "explain": "Add -s for more than one.",
      "id": "ENG-P1-L04-003",
@@ -2884,8 +3009,8 @@ window.QUESTION_BANK = {
      "q": "___ there a library in your school?",
      "answer": "Is",
      "options": [
-      "Is",
       "Do",
+      "Is",
       "Am",
       "Are"
      ],
@@ -2907,8 +3032,8 @@ window.QUESTION_BANK = {
      "options": [
       "it is",
       "there is",
-      "I am",
-      "there are"
+      "there are",
+      "I am"
      ],
      "explain": "Answer \"Is there…?\" with \"Yes, there is.\"",
      "id": "ENG-P2-L01-002",
@@ -2926,10 +3051,10 @@ window.QUESTION_BANK = {
      "q": "The library is on the ___ floor (1st).",
      "answer": "first",
      "options": [
-      "first",
-      "one",
+      "once",
       "firstly",
-      "once"
+      "first",
+      "one"
      ],
      "explain": "1st = first.",
      "id": "ENG-P2-L01-003",
@@ -2947,10 +3072,10 @@ window.QUESTION_BANK = {
      "q": "Where ___ the music room?",
      "answer": "is",
      "options": [
-      "do",
       "are",
       "is",
-      "am"
+      "am",
+      "do"
      ],
      "explain": "\"Where is …?\" for one place.",
      "id": "ENG-P2-L01-004",
@@ -2969,9 +3094,9 @@ window.QUESTION_BANK = {
      "answer": "on",
      "options": [
       "in",
-      "at",
+      "under",
       "on",
-      "under"
+      "at"
      ],
      "explain": "We say \"on the ground floor\".",
      "id": "ENG-P2-L01-005",
@@ -3042,10 +3167,10 @@ window.QUESTION_BANK = {
      "q": "We ___ run in the corridor.",
      "answer": "mustn't",
      "options": [
-      "are",
-      "mustn't",
       "can",
-      "must"
+      "mustn't",
+      "must",
+      "are"
      ],
      "explain": "Running in the corridor is dangerous, so we mustn't.",
      "id": "ENG-P2-L02-001",
@@ -3063,9 +3188,9 @@ window.QUESTION_BANK = {
      "q": "We ___ line up quietly.",
      "answer": "must",
      "options": [
-      "must",
-      "don't",
       "mustn't",
+      "don't",
+      "must",
       "aren't"
      ],
      "explain": "Lining up quietly is a good rule.",
@@ -3084,10 +3209,10 @@ window.QUESTION_BANK = {
      "q": "You mustn't ___ in the library.",
      "answer": "shout",
      "options": [
-      "listen",
-      "shout",
       "sit",
-      "read"
+      "read",
+      "shout",
+      "listen"
      ],
      "explain": "Be quiet in the library.",
      "id": "ENG-P2-L02-003",
@@ -3120,10 +3245,10 @@ window.QUESTION_BANK = {
      "q": "The books are ___ the shelf.",
      "answer": "on",
      "options": [
-      "in",
       "on",
+      "under",
       "between",
-      "under"
+      "in"
      ],
      "explain": "The books are on (top of) the shelf.",
      "id": "ENG-P2-L02-005",
@@ -3166,8 +3291,8 @@ window.QUESTION_BANK = {
      "q": "Are you cold? Yes, I ___.",
      "answer": "am",
      "options": [
-      "are",
       "do",
+      "are",
       "am",
       "is"
      ],
@@ -3187,10 +3312,10 @@ window.QUESTION_BANK = {
      "q": "Are you hungry? No, I'm ___.",
      "answer": "not",
      "options": [
-      "no",
-      "not",
       "don't",
-      "isn't"
+      "not",
+      "isn't",
+      "no"
      ],
      "explain": "\"No, I'm not.\"",
      "id": "ENG-P2-L03-002",
@@ -3209,8 +3334,8 @@ window.QUESTION_BANK = {
      "answer": "too",
      "options": [
       "to",
-      "very good",
       "too",
+      "very good",
       "two"
      ],
      "explain": "\"too hot\" = more than we want.",
@@ -3229,10 +3354,10 @@ window.QUESTION_BANK = {
      "q": "I'm thirsty. ___ get some water.",
      "answer": "Let's",
      "options": [
+      "Let us to",
       "Let",
-      "Let's",
       "Lets",
-      "Let us to"
+      "Let's"
      ],
      "explain": "\"Let's …\" = let us.",
      "id": "ENG-P2-L03-004",
@@ -3250,8 +3375,8 @@ window.QUESTION_BANK = {
      "q": "Your friend is sad. You say:",
      "answer": "Are you OK?",
      "options": [
-      "Go away!",
       "I'm happy!",
+      "Go away!",
       "Are you OK?",
       "Good night!"
      ],
@@ -3298,10 +3423,10 @@ window.QUESTION_BANK = {
      "q": "What ___ you like doing after school?",
      "answer": "do",
      "options": [
+      "is",
       "are",
       "does",
-      "do",
-      "is"
+      "do"
      ],
      "explain": "\"What do you like doing…?\"",
      "id": "ENG-P4-L01-001",
@@ -3318,9 +3443,9 @@ window.QUESTION_BANK = {
      "q": "Peter ___ playing football.",
      "answer": "likes",
      "options": [
+      "is like",
       "likes",
       "liking",
-      "is like",
       "like"
      ],
      "explain": "He/She + likes.",
@@ -3339,9 +3464,9 @@ window.QUESTION_BANK = {
      "answer": "always",
      "options": [
       "sometimes",
-      "seldom",
+      "never",
       "always",
-      "never"
+      "seldom"
      ],
      "explain": "Always = every time.",
      "id": "ENG-P4-L01-003",
@@ -3360,8 +3485,8 @@ window.QUESTION_BANK = {
      "options": [
       "often",
       "never",
-      "usually",
-      "always"
+      "always",
+      "usually"
      ],
      "explain": "Never = 0%.",
      "id": "ENG-P4-L01-004",
@@ -3405,10 +3530,10 @@ window.QUESTION_BANK = {
      "q": "___ Tom like reading? Yes, he does.",
      "answer": "Does",
      "options": [
+      "Is",
       "Do",
-      "Does",
       "Are",
-      "Is"
+      "Does"
      ],
      "explain": "Use \"Does\" with he/she.",
      "id": "ENG-P4-L01-006",
@@ -3451,10 +3576,10 @@ window.QUESTION_BANK = {
      "q": "I like magic shows. My brother likes them ___.",
      "answer": "too",
      "options": [
-      "or",
-      "both",
+      "too",
       "either",
-      "too"
+      "or",
+      "both"
      ],
      "explain": "Use \"too\" in positive sentences.",
      "id": "ENG-P4-L02-001",
@@ -3471,10 +3596,10 @@ window.QUESTION_BANK = {
      "q": "I don't like puppet shows. Amy doesn't like them ___.",
      "answer": "either",
      "options": [
-      "both",
-      "too",
       "either",
-      "and"
+      "both",
+      "and",
+      "too"
      ],
      "explain": "Use \"either\" in negative sentences.",
      "id": "ENG-P4-L02-002",
@@ -3491,10 +3616,10 @@ window.QUESTION_BANK = {
      "q": "___ Ken and Mary like dance shows.",
      "answer": "Both",
      "options": [
-      "Or",
       "Too",
-      "Either",
-      "Both"
+      "Both",
+      "Or",
+      "Either"
      ],
      "explain": "\"Both … and …\" = the two of them.",
      "id": "ENG-P4-L02-003",
@@ -3512,8 +3637,8 @@ window.QUESTION_BANK = {
      "answer": "or",
      "options": [
       "too",
-      "or",
       "but",
+      "or",
       "and"
      ],
      "explain": "Use \"or\" in negative sentences.",
@@ -3532,9 +3657,9 @@ window.QUESTION_BANK = {
      "answer": "but",
      "options": [
       "both",
-      "or",
       "but",
-      "either"
+      "either",
+      "or"
      ],
      "explain": "\"But\" shows a difference.",
      "id": "ENG-P4-L02-005",
@@ -3576,9 +3701,9 @@ window.QUESTION_BANK = {
      "answer": "bigger",
      "options": [
       "biggest",
-      "bigger",
       "big",
-      "more big"
+      "more big",
+      "bigger"
      ],
      "explain": "Comparative: big → bigger.",
      "id": "ENG-P4-L03-001",
@@ -3596,9 +3721,9 @@ window.QUESTION_BANK = {
      "answer": "heaviest",
      "options": [
       "heavy",
-      "heavier",
+      "heaviest",
       "most heavy",
-      "heaviest"
+      "heavier"
      ],
      "explain": "Superlative: heavy → heaviest.",
      "id": "ENG-P4-L03-002",
@@ -3615,10 +3740,10 @@ window.QUESTION_BANK = {
      "q": "The cake is ___ than the bread.",
      "answer": "more expensive",
      "options": [
-      "more expensive",
-      "expensiver",
       "expensive",
-      "most expensive"
+      "most expensive",
+      "expensiver",
+      "more expensive"
      ],
      "explain": "Long words use \"more\".",
      "id": "ENG-P4-L03-003",
@@ -3636,8 +3761,8 @@ window.QUESTION_BANK = {
      "answer": "carton",
      "options": [
       "carton",
-      "bar",
       "bunch",
+      "bar",
       "loaf"
      ],
      "explain": "A carton of milk.",
@@ -3655,10 +3780,10 @@ window.QUESTION_BANK = {
      "q": "a ___ of bananas",
      "answer": "bunch",
      "options": [
-      "loaf",
-      "bunch",
       "bottle",
-      "carton"
+      "carton",
+      "bunch",
+      "loaf"
      ],
      "explain": "A bunch of bananas.",
      "id": "ENG-P4-L03-005",
@@ -3691,8 +3816,8 @@ window.QUESTION_BANK = {
      "q": "a ___ of bread",
      "answer": "loaf",
      "options": [
-      "bowl",
       "can",
+      "bowl",
       "loaf",
       "bunch"
      ],
@@ -3721,10 +3846,10 @@ window.QUESTION_BANK = {
      "q": "You ___ talk loudly in the library.",
      "answer": "shouldn't",
      "options": [
-      "can",
-      "shouldn't",
       "must",
-      "should"
+      "should",
+      "shouldn't",
+      "can"
      ],
      "explain": "Talking loudly in the library is bad manners.",
      "id": "ENG-P5-L01-001",
@@ -3742,9 +3867,9 @@ window.QUESTION_BANK = {
      "answer": "should",
      "options": [
       "mustn't",
-      "shouldn't",
       "don't",
-      "should"
+      "should",
+      "shouldn't"
      ],
      "explain": "Saying thank you is good manners.",
      "id": "ENG-P5-L01-002",
@@ -3793,10 +3918,10 @@ window.QUESTION_BANK = {
      "q": "good → ? (adverb)",
      "answer": "well",
      "options": [
-      "goodily",
-      "well",
+      "goodly",
       "good",
-      "goodly"
+      "goodily",
+      "well"
      ],
      "explain": "\"good\" → \"well\" (irregular).",
      "id": "ENG-P5-L01-005",
@@ -3815,8 +3940,8 @@ window.QUESTION_BANK = {
      "options": [
       "more polite",
       "politeness",
-      "polite",
-      "politely"
+      "politely",
+      "polite"
      ],
      "explain": "Use an adverb to describe how we speak.",
      "id": "ENG-P5-L01-006",
@@ -3833,10 +3958,10 @@ window.QUESTION_BANK = {
      "q": "We should eat ___.",
      "answer": "quietly",
      "options": [
+      "quiet",
       "quietly",
       "quietness",
-      "quieter",
-      "quiet"
+      "quieter"
      ],
      "explain": "Adverb of manner: eat quietly.",
      "id": "ENG-P5-L01-007",
@@ -3863,10 +3988,10 @@ window.QUESTION_BANK = {
      "q": "Don't quarrel ___ your friends.",
      "answer": "with",
      "options": [
-      "on",
       "of",
-      "with",
-      "at"
+      "at",
+      "on",
+      "with"
      ],
      "explain": "quarrel with someone.",
      "id": "ENG-P5-L02-001",
@@ -3883,10 +4008,10 @@ window.QUESTION_BANK = {
      "q": "Tom is jealous ___ his brother's new bike.",
      "answer": "of",
      "options": [
-      "at",
       "to",
-      "of",
-      "with"
+      "with",
+      "at",
+      "of"
      ],
      "explain": "be jealous of.",
      "id": "ENG-P5-L02-002",
@@ -3903,9 +4028,9 @@ window.QUESTION_BANK = {
      "q": "I am good ___ drawing.",
      "answer": "at",
      "options": [
-      "of",
       "in",
       "at",
+      "of",
       "with"
      ],
      "explain": "be good at.",
@@ -3924,9 +4049,9 @@ window.QUESTION_BANK = {
      "answer": "of",
      "options": [
       "with",
-      "in",
       "of",
-      "at"
+      "at",
+      "in"
      ],
      "explain": "be afraid of.",
      "id": "ENG-P5-L02-004",
@@ -3944,9 +4069,9 @@ window.QUESTION_BANK = {
      "answer": "really",
      "options": [
       "a bit",
-      "not",
       "a little",
-      "really"
+      "really",
+      "not"
      ],
      "explain": "\"really\" shows a high degree.",
      "id": "ENG-P5-L02-005",
@@ -3963,10 +4088,10 @@ window.QUESTION_BANK = {
      "q": "I'm ___ tired, but I can still play. (small degree)",
      "answer": "a bit",
      "options": [
-      "really",
       "very",
       "a bit",
-      "so"
+      "so",
+      "really"
      ],
      "explain": "\"a bit\" = a small degree.",
      "id": "ENG-P5-L02-006",
@@ -4009,9 +4134,9 @@ window.QUESTION_BANK = {
      "q": "The boy ___ the long hair is my cousin.",
      "answer": "with",
      "options": [
-      "in",
       "with",
       "at",
+      "in",
       "on"
      ],
      "explain": "Use \"with\" for things a person has.",
@@ -4049,10 +4174,10 @@ window.QUESTION_BANK = {
      "q": "I have a friend ___ likes music.",
      "answer": "who",
      "options": [
-      "where",
-      "which",
+      "who",
       "what",
-      "who"
+      "which",
+      "where"
      ],
      "explain": "Use \"who\" for people.",
      "id": "ENG-P5-L03-003",
@@ -4069,10 +4194,10 @@ window.QUESTION_BANK = {
      "q": "The man ___ is wearing glasses is my teacher.",
      "answer": "who",
      "options": [
-      "which",
-      "who",
       "whose",
-      "when"
+      "who",
+      "when",
+      "which"
      ],
      "explain": "\"who\" describes people.",
      "id": "ENG-P5-L03-004",
@@ -4130,9 +4255,9 @@ window.QUESTION_BANK = {
      "answer": "放大鏡",
      "options": [
       "枕頭",
+      "書包",
       "放大鏡",
-      "雨傘",
-      "書包"
+      "雨傘"
      ],
      "explain": "放大鏡可以把東西看得更清楚。",
      "id": "SCI-P1-L01-001",
@@ -4149,10 +4274,10 @@ window.QUESTION_BANK = {
      "q": "我們用甚麼感官看東西？",
      "answer": "眼睛",
      "options": [
-      "耳朵",
       "鼻子",
-      "眼睛",
-      "舌頭"
+      "舌頭",
+      "耳朵",
+      "眼睛"
      ],
      "explain": "眼睛用來看。",
      "id": "SCI-P1-L01-002",
@@ -4169,9 +4294,9 @@ window.QUESTION_BANK = {
      "q": "我們用甚麼感官嗅氣味？",
      "answer": "鼻子",
      "options": [
-      "手",
       "鼻子",
       "眼睛",
+      "手",
       "耳朵"
      ],
      "explain": "鼻子用來嗅。",
@@ -4227,9 +4352,9 @@ window.QUESTION_BANK = {
      "q": "哪種動物會飛？",
      "answer": "小鳥",
      "options": [
-      "小鳥",
-      "蛇",
       "魚",
+      "蛇",
+      "小鳥",
       "貓"
      ],
      "explain": "小鳥有翅膀，會飛。",
@@ -4247,10 +4372,10 @@ window.QUESTION_BANK = {
      "q": "魚用甚麼游泳？",
      "answer": "鰭",
      "options": [
+      "鰭",
       "腳",
       "翅膀",
-      "手",
-      "鰭"
+      "手"
      ],
      "explain": "魚用鰭游泳。",
      "id": "SCI-P1-L02-002",
@@ -4268,9 +4393,9 @@ window.QUESTION_BANK = {
      "answer": "狗",
      "options": [
       "狗",
-      "魚",
       "雞",
-      "蛇"
+      "蛇",
+      "魚"
      ],
      "explain": "狗有四條腿。",
      "id": "SCI-P1-L02-003",
@@ -4302,8 +4427,8 @@ window.QUESTION_BANK = {
      "answer": "魚",
      "options": [
       "貓",
-      "魚",
       "兔子",
+      "魚",
       "狗"
      ],
      "explain": "魚生活在水中。",
@@ -4331,10 +4456,10 @@ window.QUESTION_BANK = {
      "q": "植物用甚麼吸收水分？",
      "answer": "根",
      "options": [
-      "葉",
-      "果實",
+      "花",
       "根",
-      "花"
+      "果實",
+      "葉"
      ],
      "explain": "根從泥土吸收水分。",
      "id": "SCI-P1-L03-001",
@@ -4351,10 +4476,10 @@ window.QUESTION_BANK = {
      "q": "植物需要甚麼才能生長？",
      "answer": "陽光和水",
      "options": [
-      "玩具",
-      "電視",
       "糖果",
-      "陽光和水"
+      "陽光和水",
+      "電視",
+      "玩具"
      ],
      "explain": "植物需要陽光、空氣和水。",
      "id": "SCI-P1-L03-002",
@@ -4371,10 +4496,10 @@ window.QUESTION_BANK = {
      "q": "哪一個是植物？",
      "answer": "樹",
      "options": [
-      "樹",
       "石頭",
       "小貓",
-      "水"
+      "水",
+      "樹"
      ],
      "explain": "樹是植物。",
      "id": "SCI-P1-L03-003",
@@ -4405,10 +4530,10 @@ window.QUESTION_BANK = {
      "q": "植物通常是甚麼顏色的葉？",
      "answer": "綠色",
      "options": [
-      "藍色",
       "紫色",
       "綠色",
-      "黑色"
+      "黑色",
+      "藍色"
      ],
      "explain": "大部分葉子是綠色的。",
      "id": "SCI-P1-L03-005",
@@ -4435,10 +4560,10 @@ window.QUESTION_BANK = {
      "q": "我們用甚麼聽聲音？",
      "answer": "耳朵",
      "options": [
-      "耳朵",
       "眼睛",
-      "鼻子",
-      "嘴巴"
+      "耳朵",
+      "嘴巴",
+      "鼻子"
      ],
      "explain": "耳朵用來聽。",
      "id": "SCI-P1-L04-001",
@@ -4456,8 +4581,8 @@ window.QUESTION_BANK = {
      "answer": "舌頭",
      "options": [
       "舌頭",
-      "耳朵",
       "手肘",
+      "耳朵",
       "頭髮"
      ],
      "explain": "舌頭嚐味道。",
@@ -4475,10 +4600,10 @@ window.QUESTION_BANK = {
      "q": "飯前要先：",
      "answer": "洗手",
      "options": [
-      "跑步",
-      "看電視",
       "洗手",
-      "睡覺"
+      "跑步",
+      "睡覺",
+      "看電視"
      ],
      "explain": "飯前洗手，保持衞生。",
      "id": "SCI-P1-L04-003",
@@ -4533,9 +4658,9 @@ window.QUESTION_BANK = {
      "q": "我們長大後，身高會：",
      "answer": "變高",
      "options": [
-      "變矮",
-      "變高",
       "消失",
+      "變高",
+      "變矮",
       "不變"
      ],
      "explain": "長大會長高。",
@@ -4553,10 +4678,10 @@ window.QUESTION_BANK = {
      "q": "要健康成長，我們要：",
      "answer": "均衡飲食",
      "options": [
-      "只吃糖果",
+      "不睡覺",
       "均衡飲食",
       "不做運動",
-      "不睡覺"
+      "只吃糖果"
      ],
      "explain": "均衡飲食和多做運動。",
      "id": "SCI-P1-L05-002",
@@ -4573,10 +4698,10 @@ window.QUESTION_BANK = {
      "q": "嬰兒長大後會變成：",
      "answer": "兒童",
      "options": [
-      "小狗",
-      "植物",
+      "兒童",
       "石頭",
-      "兒童"
+      "小狗",
+      "植物"
      ],
      "explain": "人由嬰兒成長為兒童。",
      "id": "SCI-P1-L05-003",
@@ -4633,8 +4758,8 @@ window.QUESTION_BANK = {
      "options": [
       "汽車",
       "水",
-      "房屋",
-      "沙漠"
+      "沙漠",
+      "房屋"
      ],
      "explain": "地球表面大部分是海洋。",
      "id": "SCI-P1-L06-001",
@@ -4651,10 +4776,10 @@ window.QUESTION_BANK = {
      "q": "白天天空中最光的是：",
      "answer": "太陽",
      "options": [
-      "月亮",
       "太陽",
+      "星星",
       "雲",
-      "星星"
+      "月亮"
      ],
      "explain": "白天有太陽。",
      "id": "SCI-P1-L06-002",
@@ -4671,10 +4796,10 @@ window.QUESTION_BANK = {
      "q": "我們住在哪個星球？",
      "answer": "地球",
      "options": [
-      "地球",
-      "火星",
       "月亮",
-      "太陽"
+      "地球",
+      "太陽",
+      "火星"
      ],
      "explain": "我們住在地球。",
      "id": "SCI-P1-L06-003",
@@ -4705,10 +4830,10 @@ window.QUESTION_BANK = {
      "q": "晚上天空中常見到：",
      "answer": "月亮和星星",
      "options": [
-      "月亮和星星",
       "彩虹",
       "太陽",
-      "雨傘"
+      "雨傘",
+      "月亮和星星"
      ],
      "explain": "晚上可以看見月亮和星星。",
      "id": "SCI-P1-L06-005",
@@ -4735,10 +4860,10 @@ window.QUESTION_BANK = {
      "q": "人和動物需要甚麼來呼吸？",
      "answer": "空氣",
      "options": [
-      "紙",
+      "石頭",
       "空氣",
-      "沙",
-      "石頭"
+      "紙",
+      "沙"
      ],
      "explain": "呼吸需要空氣。",
      "id": "SCI-P1-L07-001",
@@ -4755,10 +4880,10 @@ window.QUESTION_BANK = {
      "q": "水放進冰格會變成：",
      "answer": "冰",
      "options": [
-      "沙",
-      "冰",
+      "水蒸氣",
       "油",
-      "水蒸氣"
+      "冰",
+      "沙"
      ],
      "explain": "水遇冷會結成冰。",
      "id": "SCI-P1-L07-002",
@@ -4790,9 +4915,9 @@ window.QUESTION_BANK = {
      "answer": "關水龍頭",
      "options": [
       "關水龍頭",
+      "用很多水",
       "不刷牙",
-      "一直開着水",
-      "用很多水"
+      "一直開着水"
      ],
      "explain": "刷牙時關水龍頭可以節約用水。",
      "id": "SCI-P1-L07-004",
@@ -4834,9 +4959,9 @@ window.QUESTION_BANK = {
      "answer": "小狗",
      "options": [
       "汽車",
-      "小狗",
       "石頭",
-      "水杯"
+      "水杯",
+      "小狗"
      ],
      "explain": "小狗有生命，是生物。",
      "id": "SCI-P2-L01-001",
@@ -4854,8 +4979,8 @@ window.QUESTION_BANK = {
      "q": "以下哪一個是非生物？",
      "answer": "椅子",
      "options": [
-      "椅子",
       "大樹",
+      "椅子",
       "金魚",
       "小鳥"
      ],
@@ -4921,8 +5046,8 @@ window.QUESTION_BANK = {
      "answer": "是，植物會生長和繁殖",
      "options": [
       "不是，植物不會動",
-      "是，植物會生長和繁殖",
       "不是，植物不吃東西",
+      "是，植物會生長和繁殖",
       "不知道"
      ],
      "explain": "植物會生長、繁殖，是生物。",
@@ -4951,9 +5076,9 @@ window.QUESTION_BANK = {
      "q": "哪種動物身上有羽毛？",
      "answer": "雞",
      "options": [
+      "蛇",
       "魚",
       "貓",
-      "蛇",
       "雞"
      ],
      "explain": "鳥類身上有羽毛。",
@@ -4972,9 +5097,9 @@ window.QUESTION_BANK = {
      "q": "哪種動物用鰓呼吸？",
      "answer": "魚",
      "options": [
-      "雞",
       "魚",
       "貓",
+      "雞",
       "狗"
      ],
      "explain": "魚用鰓呼吸。",
@@ -4993,10 +5118,10 @@ window.QUESTION_BANK = {
      "q": "蛇怎樣移動？",
      "answer": "爬行",
      "options": [
-      "飛",
-      "游泳（只會游）",
       "爬行",
-      "跳"
+      "跳",
+      "游泳（只會游）",
+      "飛"
      ],
      "explain": "蛇在地上爬行。",
      "id": "SCI-P2-L02-003",
@@ -5014,10 +5139,10 @@ window.QUESTION_BANK = {
      "q": "兔子吃甚麼？",
      "answer": "植物（如紅蘿蔔、草）",
      "options": [
-      "植物（如紅蘿蔔、草）",
+      "肉",
       "石頭",
-      "膠",
-      "肉"
+      "植物（如紅蘿蔔、草）",
+      "膠"
      ],
      "explain": "兔子吃植物。",
      "id": "SCI-P2-L02-004",
@@ -5051,8 +5176,8 @@ window.QUESTION_BANK = {
      "answer": "魚",
      "options": [
       "兔",
-      "狗",
       "鴨",
+      "狗",
       "魚"
      ],
      "explain": "魚身上有鱗片。",
@@ -5081,10 +5206,10 @@ window.QUESTION_BANK = {
      "q": "種子發芽需要：",
      "answer": "水和空氣",
      "options": [
-      "電",
-      "水和空氣",
       "鹽",
-      "糖"
+      "糖",
+      "電",
+      "水和空氣"
      ],
      "explain": "種子發芽需要水、空氣和適當溫度。",
      "id": "SCI-P2-L03-001",
@@ -5102,10 +5227,10 @@ window.QUESTION_BANK = {
      "q": "植物的哪部分吸收水分？",
      "answer": "根",
      "options": [
+      "種子",
       "花",
-      "果實",
       "根",
-      "種子"
+      "果實"
      ],
      "explain": "根吸收水分。",
      "id": "SCI-P2-L03-002",
@@ -5123,10 +5248,10 @@ window.QUESTION_BANK = {
      "q": "植物的葉需要甚麼來製造養料？",
      "answer": "陽光",
      "options": [
-      "沙",
+      "陽光",
       "冰",
-      "黑暗",
-      "陽光"
+      "沙",
+      "黑暗"
      ],
      "explain": "葉子需要陽光。",
      "id": "SCI-P2-L03-003",
@@ -5185,10 +5310,10 @@ window.QUESTION_BANK = {
      "q": "植物的莖有甚麼作用？",
      "answer": "支持植物和運送水分",
      "options": [
-      "支持植物和運送水分",
       "走路",
+      "吃蟲",
       "發出聲音",
-      "吃蟲"
+      "支持植物和運送水分"
      ],
      "explain": "莖支持植物並運送水分。",
      "id": "SCI-P2-L03-006",
@@ -5216,10 +5341,10 @@ window.QUESTION_BANK = {
      "q": "以下哪個是愛護環境的行為？",
      "answer": "循環再用膠樽",
      "options": [
-      "循環再用膠樽",
+      "亂拋垃圾",
       "長開水龍頭",
       "浪費紙張",
-      "亂拋垃圾"
+      "循環再用膠樽"
      ],
      "explain": "循環再用可減少垃圾。",
      "id": "SCI-P2-L04-001",
@@ -5237,9 +5362,9 @@ window.QUESTION_BANK = {
      "q": "鋁罐應放入哪個回收箱？",
      "answer": "黃色",
      "options": [
+      "黃色",
       "藍色",
       "啡色",
-      "黃色",
       "紅色"
      ],
      "explain": "香港：黃色回收鋁罐，藍色廢紙，啡色膠樽。",
@@ -5294,10 +5419,10 @@ window.QUESTION_BANK = {
      "q": "買東西時，可以帶甚麼減少用膠袋？",
      "answer": "環保袋",
      "options": [
-      "雨傘",
-      "更多膠袋",
+      "環保袋",
       "紙巾",
-      "環保袋"
+      "雨傘",
+      "更多膠袋"
      ],
      "explain": "自備環保袋。",
      "id": "SCI-P2-L04-005",
@@ -5364,9 +5489,9 @@ window.QUESTION_BANK = {
      "answer": "地殼",
      "options": [
       "太空",
-      "地幔",
+      "地核",
       "地殼",
-      "地核"
+      "地幔"
      ],
      "explain": "我們住在地殼上。",
      "id": "SCI-P4-L01-002",
@@ -5383,9 +5508,9 @@ window.QUESTION_BANK = {
      "q": "板塊碰撞可能引致：",
      "answer": "地震和火山爆發",
      "options": [
+      "月食",
       "地震和火山爆發",
       "彩虹",
-      "月食",
       "下雪"
      ],
      "explain": "板塊移動碰撞會引起地震、火山爆發。",
@@ -5403,10 +5528,10 @@ window.QUESTION_BANK = {
      "q": "以下哪一項不是岩石的種類？",
      "answer": "塑膠岩",
      "options": [
-      "變質岩",
-      "火成岩",
+      "塑膠岩",
       "沉積岩",
-      "塑膠岩"
+      "火成岩",
+      "變質岩"
      ],
      "explain": "岩石分火成岩、沉積岩、變質岩。",
      "id": "SCI-P4-L01-004",
@@ -5424,9 +5549,9 @@ window.QUESTION_BANK = {
      "answer": "沙土",
      "options": [
       "黏土",
+      "沙土",
       "壤土",
-      "三者一樣",
-      "沙土"
+      "三者一樣"
      ],
      "explain": "沙土顆粒大，排水最快；黏土最慢。",
      "id": "SCI-P4-L01-005",
@@ -5445,8 +5570,8 @@ window.QUESTION_BANK = {
      "options": [
       "建築材料",
       "食物",
-      "衣服",
-      "燃料"
+      "燃料",
+      "衣服"
      ],
      "explain": "花崗岩堅硬，用作建築材料。",
      "id": "SCI-P4-L01-006",
@@ -5473,10 +5598,10 @@ window.QUESTION_BANK = {
      "q": "地球自轉一周大約需要：",
      "answer": "一天（24小時）",
      "options": [
-      "一小時",
       "一個月",
-      "一年",
-      "一天（24小時）"
+      "一天（24小時）",
+      "一小時",
+      "一年"
      ],
      "explain": "地球自轉一周約24小時。",
      "id": "SCI-P4-L02-001",
@@ -5494,9 +5619,9 @@ window.QUESTION_BANK = {
      "answer": "地球自轉",
      "options": [
       "地球自轉",
+      "地球變大",
       "月亮擋住太陽",
-      "太陽熄滅",
-      "地球變大"
+      "太陽熄滅"
      ],
      "explain": "地球自轉，面向太陽是白天。",
      "id": "SCI-P4-L02-002",
@@ -5513,9 +5638,9 @@ window.QUESTION_BANK = {
      "q": "地球公轉（環繞太陽）一周大約需要：",
      "answer": "一年",
      "options": [
+      "一年",
       "十年",
       "一星期",
-      "一年",
       "一天"
      ],
      "explain": "公轉一周約365天。",
@@ -5533,10 +5658,10 @@ window.QUESTION_BANK = {
      "q": "太陽從哪個方向升起？",
      "answer": "東",
      "options": [
+      "西",
       "北",
       "東",
-      "南",
-      "西"
+      "南"
      ],
      "explain": "地球由西向東自轉，太陽看似從東方升起。",
      "id": "SCI-P4-L02-004",
@@ -5577,9 +5702,9 @@ window.QUESTION_BANK = {
      "q": "量度氣溫用：",
      "answer": "溫度計",
      "options": [
-      "溫度計",
       "風向標",
       "雨量計",
+      "溫度計",
       "尺"
      ],
      "explain": "溫度計量度氣溫。",
@@ -5598,8 +5723,8 @@ window.QUESTION_BANK = {
      "answer": "雨量計",
      "options": [
       "溫度計",
-      "雨量計",
       "秤",
+      "雨量計",
       "放大鏡"
      ],
      "explain": "雨量計量度雨量。",
@@ -5617,10 +5742,10 @@ window.QUESTION_BANK = {
      "q": "香港的夏季天氣通常：",
      "answer": "炎熱潮濕",
      "options": [
-      "炎熱潮濕",
-      "寒冷乾燥",
       "非常乾旱",
-      "下雪"
+      "下雪",
+      "炎熱潮濕",
+      "寒冷乾燥"
      ],
      "explain": "香港夏天炎熱潮濕多雨。",
      "id": "SCI-P4-L03-003",
@@ -5637,10 +5762,10 @@ window.QUESTION_BANK = {
      "q": "「天氣」和「氣候」的分別是：",
      "answer": "天氣是短時間，氣候是長時間的平均情況",
      "options": [
-      "氣候只指一天",
-      "天氣是短時間，氣候是長時間的平均情況",
       "天氣指很多年",
-      "兩者完全一樣"
+      "兩者完全一樣",
+      "天氣是短時間，氣候是長時間的平均情況",
+      "氣候只指一天"
      ],
      "explain": "天氣是短時間，氣候是長期平均。",
      "id": "SCI-P4-L03-004",
@@ -5682,8 +5807,8 @@ window.QUESTION_BANK = {
      "answer": "寒冷的環境",
      "options": [
       "寒冷的環境",
-      "炎熱的沙漠",
       "水中生活",
+      "炎熱的沙漠",
       "森林"
      ],
      "explain": "厚毛可保暖。",
@@ -5701,9 +5826,9 @@ window.QUESTION_BANK = {
      "q": "仙人掌的葉變成針刺，可以：",
      "answer": "減少水分流失",
      "options": [
-      "減少水分流失",
-      "游泳",
       "跑得快",
+      "游泳",
+      "減少水分流失",
       "吸引蜜蜂"
      ],
      "explain": "沙漠缺水，針狀葉減少水分散失。",
@@ -5721,10 +5846,10 @@ window.QUESTION_BANK = {
      "q": "駱駝適合生活在：",
      "answer": "沙漠",
      "options": [
-      "北極",
-      "雨林",
       "沙漠",
-      "海洋"
+      "北極",
+      "海洋",
+      "雨林"
      ],
      "explain": "駱駝能長時間不喝水。",
      "id": "SCI-P4-L04-003",
@@ -5741,10 +5866,10 @@ window.QUESTION_BANK = {
      "q": "魚用甚麼適應水中生活？",
      "answer": "鰓和鰭",
      "options": [
-      "毛和腳",
       "肺和翅膀",
       "鰓和鰭",
-      "殼和觸角"
+      "殼和觸角",
+      "毛和腳"
      ],
      "explain": "鰓呼吸，鰭游泳。",
      "id": "SCI-P4-L04-004",
@@ -5808,10 +5933,10 @@ window.QUESTION_BANK = {
      "q": "食物鏈的起點通常是：",
      "answer": "植物",
      "options": [
-      "老虎",
-      "人類",
       "植物",
-      "石頭"
+      "老虎",
+      "石頭",
+      "人類"
      ],
      "explain": "植物是生產者，製造養料。",
      "id": "SCI-P4-L05-002",
@@ -5828,10 +5953,10 @@ window.QUESTION_BANK = {
      "q": "如果一種動物被大量捕殺，會：",
      "answer": "破壞大自然的平衡",
      "options": [
-      "令植物消失得更慢",
-      "令天氣更好",
       "破壞大自然的平衡",
-      "沒有影響"
+      "沒有影響",
+      "令天氣更好",
+      "令植物消失得更慢"
      ],
      "explain": "生物互相依存。",
      "id": "SCI-P4-L05-003",
@@ -5848,10 +5973,10 @@ window.QUESTION_BANK = {
      "q": "植物在食物鏈中稱為：",
      "answer": "生產者",
      "options": [
-      "捕食者",
-      "消費者",
+      "分解者",
       "生產者",
-      "分解者"
+      "消費者",
+      "捕食者"
      ],
      "explain": "植物自己製造養料，是生產者。",
      "id": "SCI-P4-L05-004",
@@ -5893,9 +6018,9 @@ window.QUESTION_BANK = {
      "answer": "氧氣",
      "options": [
       "氧氣",
-      "氮氣",
       "二氧化碳",
-      "水蒸氣"
+      "水蒸氣",
+      "氮氣"
      ],
      "explain": "呼吸時吸入氧氣，呼出二氧化碳。",
      "id": "SCI-P5-L01-001",
@@ -5912,10 +6037,10 @@ window.QUESTION_BANK = {
      "q": "呼吸時，氣體交換在哪個器官進行？",
      "answer": "肺",
      "options": [
-      "心臟",
-      "腎",
       "肺",
-      "胃"
+      "腎",
+      "胃",
+      "心臟"
      ],
      "explain": "肺是呼吸器官。",
      "id": "SCI-P5-L01-002",
@@ -5959,10 +6084,10 @@ window.QUESTION_BANK = {
      "q": "主要吸收養分的器官是：",
      "answer": "小腸",
      "options": [
-      "小腸",
       "大腸",
-      "食道",
-      "口腔"
+      "小腸",
+      "口腔",
+      "食道"
      ],
      "explain": "小腸吸收養分。",
      "id": "SCI-P5-L01-004",
@@ -5979,10 +6104,10 @@ window.QUESTION_BANK = {
      "q": "大腸主要吸收：",
      "answer": "水分",
      "options": [
-      "氧氣",
-      "水分",
       "血液",
-      "骨骼"
+      "水分",
+      "骨骼",
+      "氧氣"
      ],
      "explain": "大腸吸收水分。",
      "id": "SCI-P5-L01-005",
@@ -6048,10 +6173,10 @@ window.QUESTION_BANK = {
      "q": "青春期時，身體會：",
      "answer": "出現明顯轉變",
      "options": [
-      "出現明顯轉變",
       "停止生長",
       "不再變化",
-      "變矮"
+      "變矮",
+      "出現明顯轉變"
      ],
      "explain": "青春期身體出現第二性徵。",
      "id": "SCI-P5-L02-002",
@@ -6068,10 +6193,10 @@ window.QUESTION_BANK = {
      "q": "人類胎兒在母親哪個器官內發育？",
      "answer": "子宮",
      "options": [
-      "子宮",
       "胃",
-      "肺",
-      "心臟"
+      "心臟",
+      "子宮",
+      "肺"
      ],
      "explain": "胎兒在子宮內發育。",
      "id": "SCI-P5-L02-003",
@@ -6132,10 +6257,10 @@ window.QUESTION_BANK = {
      "q": "空氣佔有空間嗎？",
      "answer": "佔有空間",
      "options": [
-      "佔有空間",
-      "不佔空間",
       "只在水中佔空間",
-      "只在晚上佔空間"
+      "佔有空間",
+      "只在晚上佔空間",
+      "不佔空間"
      ],
      "explain": "空氣佔有空間。",
      "id": "SCI-P5-L03-001",
@@ -6152,9 +6277,9 @@ window.QUESTION_BANK = {
      "q": "空氣有重量嗎？",
      "answer": "有",
      "options": [
+      "沒有",
       "有",
       "不知道",
-      "沒有",
       "只有熱空氣有"
      ],
      "explain": "空氣有重量。",
@@ -6172,10 +6297,10 @@ window.QUESTION_BANK = {
      "q": "空氣受熱後會：",
      "answer": "膨脹",
      "options": [
-      "收縮",
       "膨脹",
       "變成水",
-      "消失"
+      "消失",
+      "收縮"
      ],
      "explain": "熱空氣膨脹。",
      "id": "SCI-P5-L03-003",
@@ -6194,8 +6319,8 @@ window.QUESTION_BANK = {
      "options": [
       "氮氣",
       "氧氣",
-      "水蒸氣",
-      "二氧化碳"
+      "二氧化碳",
+      "水蒸氣"
      ],
      "explain": "燃燒需要氧氣。",
      "id": "SCI-P5-L03-004",
@@ -6226,10 +6351,10 @@ window.QUESTION_BANK = {
      "q": "空氣可以被壓縮嗎？",
      "answer": "可以",
      "options": [
+      "可以",
       "不可以",
       "只有在水裏可以",
-      "只有冷空氣可以",
-      "可以"
+      "只有冷空氣可以"
      ],
      "explain": "空氣可以被壓縮，例如打氣筒。",
      "id": "SCI-P5-L03-006",
@@ -6256,10 +6381,10 @@ window.QUESTION_BANK = {
      "q": "以下哪個是可逆轉的變化？",
      "answer": "冰融化成水",
      "options": [
-      "燒紙",
-      "生鏽",
       "冰融化成水",
-      "煎蛋"
+      "煎蛋",
+      "生鏽",
+      "燒紙"
      ],
      "explain": "水可以再結成冰。",
      "id": "SCI-P5-L04-001",
@@ -6276,9 +6401,9 @@ window.QUESTION_BANK = {
      "q": "以下哪個是不可逆轉的變化？",
      "answer": "燒木",
      "options": [
-      "朱古力融化",
-      "燒木",
       "水結冰",
+      "燒木",
+      "朱古力融化",
       "水蒸發"
      ],
      "explain": "木燒成灰不能變回木。",
@@ -6296,10 +6421,10 @@ window.QUESTION_BANK = {
      "q": "鐵生鏽是：",
      "answer": "不可逆轉的變化",
      "options": [
-      "可以還原",
       "不可逆轉的變化",
+      "可逆轉的變化",
       "沒有變化",
-      "可逆轉的變化"
+      "可以還原"
      ],
      "explain": "鐵鏽不能變回鐵。",
      "id": "SCI-P5-L04-003",
@@ -6354,10 +6479,10 @@ window.QUESTION_BANK = {
      "q": "觀察微生物要用：",
      "answer": "顯微鏡",
      "options": [
-      "望遠鏡",
+      "溫度計",
       "顯微鏡",
       "放大鏡就夠",
-      "溫度計"
+      "望遠鏡"
      ],
      "explain": "微生物太小，要用顯微鏡。",
      "id": "SCI-P5-L05-001",
@@ -6374,10 +6499,10 @@ window.QUESTION_BANK = {
      "q": "麵包放久了會生出：",
      "answer": "霉菌",
      "options": [
-      "霉菌",
+      "花",
       "昆蟲",
       "石頭",
-      "花"
+      "霉菌"
      ],
      "explain": "霉菌是微生物。",
      "id": "SCI-P5-L05-002",
@@ -6394,9 +6519,9 @@ window.QUESTION_BANK = {
      "q": "製作麵包用到哪種微生物？",
      "answer": "酵母菌",
      "options": [
+      "霉菌",
       "藻類",
       "酵母菌",
-      "霉菌",
       "病毒"
      ],
      "explain": "酵母菌令麵團發脹。",
@@ -6414,10 +6539,10 @@ window.QUESTION_BANK = {
      "q": "防止食物變壞，可以：",
      "answer": "放進雪櫃冷藏",
      "options": [
-      "放進雪櫃冷藏",
       "放在太陽下",
-      "不加蓋",
-      "放在濕的地方"
+      "放在濕的地方",
+      "放進雪櫃冷藏",
+      "不加蓋"
      ],
      "explain": "低溫減慢微生物生長。",
      "id": "SCI-P5-L05-004",
@@ -6472,10 +6597,10 @@ window.QUESTION_BANK = {
      "q": "實地考察前，我們應該：",
      "answer": "訂立考察目的和計劃",
      "options": [
-      "訂立考察目的和計劃",
-      "只帶零食",
       "不告訴家人",
-      "甚麼都不準備"
+      "只帶零食",
+      "甚麼都不準備",
+      "訂立考察目的和計劃"
      ],
      "explain": "考察前先定目的和計劃。",
      "id": "HUM-P4-L01-001",
@@ -6492,10 +6617,10 @@ window.QUESTION_BANK = {
      "q": "考察時用來記錄的方法不包括：",
      "answer": "亂拋垃圾",
      "options": [
-      "拍照",
-      "亂拋垃圾",
       "寫筆記",
-      "繪畫草圖"
+      "繪畫草圖",
+      "亂拋垃圾",
+      "拍照"
      ],
      "explain": "拍照、筆記、繪圖都是記錄方法。",
      "id": "HUM-P4-L01-002",
@@ -6512,9 +6637,9 @@ window.QUESTION_BANK = {
      "q": "考察時看地圖要先看：",
      "answer": "指向標和圖例",
      "options": [
+      "天氣",
       "指向標和圖例",
       "價錢",
-      "天氣",
       "廣告"
      ],
      "explain": "指向標和圖例幫助讀地圖。",
@@ -6571,9 +6696,9 @@ window.QUESTION_BANK = {
      "answer": "香港島、九龍、新界",
      "options": [
       "大嶼山、長洲、南丫島",
+      "東區、西區、南區",
       "香港島、九龍、新界",
-      "中環、旺角、沙田",
-      "東區、西區、南區"
+      "中環、旺角、沙田"
      ],
      "explain": "香港分為香港島、九龍和新界（包括離島）。",
      "id": "HUM-P4-L02-001",
@@ -6590,10 +6715,10 @@ window.QUESTION_BANK = {
      "q": "柴灣在哪一區？",
      "answer": "東區（香港島）",
      "options": [
-      "元朗",
       "油尖旺",
-      "沙田",
-      "東區（香港島）"
+      "元朗",
+      "東區（香港島）",
+      "沙田"
      ],
      "explain": "柴灣位於香港島東區。",
      "id": "HUM-P4-L02-002",
@@ -6610,10 +6735,10 @@ window.QUESTION_BANK = {
      "q": "香港面積最大的島嶼是：",
      "answer": "大嶼山",
      "options": [
+      "長洲",
       "香港島",
-      "南丫島",
       "大嶼山",
-      "長洲"
+      "南丫島"
      ],
      "explain": "大嶼山是香港最大的島。",
      "id": "HUM-P4-L02-003",
@@ -6630,9 +6755,9 @@ window.QUESTION_BANK = {
      "q": "香港最高的山是：",
      "answer": "大帽山",
      "options": [
+      "大帽山",
       "太平山",
       "獅子山",
-      "大帽山",
       "飛鵝山"
      ],
      "explain": "大帽山約957米，是香港最高的山。",
@@ -6651,8 +6776,8 @@ window.QUESTION_BANK = {
      "answer": "維多利亞港",
      "options": [
       "大潭",
-      "后海灣",
       "吐露港",
+      "后海灣",
       "維多利亞港"
      ],
      "explain": "維多利亞港在港島和九龍之間。",
@@ -6680,10 +6805,10 @@ window.QUESTION_BANK = {
      "q": "香港屬於哪種氣候？",
      "answer": "亞熱帶氣候",
      "options": [
-      "沙漠氣候",
+      "寒帶氣候",
       "極地氣候",
-      "亞熱帶氣候",
-      "寒帶氣候"
+      "沙漠氣候",
+      "亞熱帶氣候"
      ],
      "explain": "香港屬亞熱帶季風氣候。",
      "id": "HUM-P4-L03-001",
@@ -6700,10 +6825,10 @@ window.QUESTION_BANK = {
      "q": "香港夏季天氣：",
      "answer": "炎熱潮濕、多雨",
      "options": [
-      "經常下雪",
       "炎熱潮濕、多雨",
       "寒冷乾燥",
-      "非常乾旱"
+      "非常乾旱",
+      "經常下雪"
      ],
      "explain": "夏季炎熱潮濕。",
      "id": "HUM-P4-L03-002",
@@ -6720,10 +6845,10 @@ window.QUESTION_BANK = {
      "q": "香港冬季天氣：",
      "answer": "清涼乾燥",
      "options": [
-      "經常打颱風",
       "炎熱多雨",
-      "清涼乾燥",
-      "有暴風雪"
+      "經常打颱風",
+      "有暴風雪",
+      "清涼乾燥"
      ],
      "explain": "冬季較涼及乾燥。",
      "id": "HUM-P4-L03-003",
@@ -6742,8 +6867,8 @@ window.QUESTION_BANK = {
      "options": [
       "全年都不會",
       "冬季",
-      "夏季和秋季",
-      "只在春季"
+      "只在春季",
+      "夏季和秋季"
      ],
      "explain": "颱風季主要在夏秋。",
      "id": "HUM-P4-L03-004",
@@ -6760,9 +6885,9 @@ window.QUESTION_BANK = {
      "q": "提供天氣資訊的政府部門是：",
      "answer": "香港天文台",
      "options": [
-      "消防處",
       "郵政局",
       "香港天文台",
+      "消防處",
       "圖書館"
      ],
      "explain": "香港天文台發佈天氣報告。",
@@ -6790,9 +6915,9 @@ window.QUESTION_BANK = {
      "q": "地球表面大部分被甚麼覆蓋？",
      "answer": "海洋",
      "options": [
-      "海洋",
-      "陸地",
       "冰",
+      "陸地",
+      "海洋",
       "沙漠"
      ],
      "explain": "約七成是海洋。",
@@ -6810,10 +6935,10 @@ window.QUESTION_BANK = {
      "q": "世界上有幾個大洲？",
      "answer": "七個",
      "options": [
-      "十個",
-      "五個",
       "三個",
-      "七個"
+      "五個",
+      "七個",
+      "十個"
      ],
      "explain": "亞洲、非洲、北美洲、南美洲、南極洲、歐洲、大洋洲。",
      "id": "HUM-P4-L04-002",
@@ -6830,10 +6955,10 @@ window.QUESTION_BANK = {
      "q": "中國位於哪個大洲？",
      "answer": "亞洲",
      "options": [
-      "歐洲",
+      "亞洲",
       "大洋洲",
-      "非洲",
-      "亞洲"
+      "歐洲",
+      "非洲"
      ],
      "explain": "中國在亞洲。",
      "id": "HUM-P4-L04-003",
@@ -6850,8 +6975,8 @@ window.QUESTION_BANK = {
      "q": "世界上最大的海洋是：",
      "answer": "太平洋",
      "options": [
-      "太平洋",
       "大西洋",
+      "太平洋",
       "北冰洋",
       "印度洋"
      ],
@@ -6870,10 +6995,10 @@ window.QUESTION_BANK = {
      "q": "地球儀上，把地球分成南北半球的是：",
      "answer": "赤道",
      "options": [
+      "赤道",
       "經線",
-      "國界",
       "河流",
-      "赤道"
+      "國界"
      ],
      "explain": "赤道把地球分為南北半球。",
      "id": "HUM-P4-L04-005",
@@ -6897,94 +7022,95 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "fill",
-     "q": "1個百、7個十和7個一合起來是多少？",
+     "q": "4個百、5個十和3個一合起來是多少？",
      "answer": [
-      "177"
+      "453"
      ],
-     "explain": "1×100＋7×10＋7＝177",
+     "explain": "4×100＋5×10＋3＝453",
      "numeric": true,
      "id": "MATH-P2-L01-001",
      "grade": "P2",
      "subject": "math",
      "lesson": "L01",
      "level": "應用",
-     "question": "1個百、7個十和7個一合起來是多少？",
+     "question": "4個百、5個十和3個一合起來是多少？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 三位數",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "8個百、9個十和2個一合起來是多少？",
+     "q": "2個百、9個十和9個一合起來是多少？",
      "answer": [
-      "892"
+      "299"
      ],
-     "explain": "8×100＋9×10＋2＝892",
+     "explain": "2×100＋9×10＋9＝299",
      "numeric": true,
      "id": "MATH-P2-L01-002",
      "grade": "P2",
      "subject": "math",
      "lesson": "L01",
      "level": "應用",
-     "question": "8個百、9個十和2個一合起來是多少？",
+     "question": "2個百、9個十和9個一合起來是多少？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 三位數",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "mc",
-     "q": "988 和 271，哪個較大？",
-     "answer": "988",
+     "q": "181 和 185，哪個較大？",
+     "answer": "185",
      "options": [
-      "988",
-      "271"
+      "181",
+      "185"
      ],
-     "explain": "先比百位，再比十位、個位，988較大。",
+     "explain": "先比百位，再比十位、個位，185較大。",
      "id": "MATH-P2-L01-003",
      "grade": "P2",
      "subject": "math",
      "lesson": "L01",
      "level": "理解",
-     "question": "988 和 271，哪個較大？",
+     "question": "181 和 185，哪個較大？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 三位數",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "mc",
-     "q": "913 和 239，哪個較大？",
-     "answer": "913",
+     "q": "986 和 145，哪個較大？",
+     "answer": "986",
      "options": [
-      "913",
-      "239"
+      "145",
+      "986"
      ],
-     "explain": "先比百位，再比十位、個位，913較大。",
+     "explain": "先比百位，再比十位、個位，986較大。",
      "id": "MATH-P2-L01-004",
      "grade": "P2",
      "subject": "math",
      "lesson": "L01",
      "level": "理解",
-     "question": "913 和 239，哪個較大？",
+     "question": "986 和 145，哪個較大？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 三位數",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "mc",
-     "q": "585 的百位數字是多少？",
-     "answer": "5",
+     "q": "638 的百位數字是多少？",
+     "answer": "6",
      "options": [
-      "5",
       "6",
-      "8"
+      "8",
+      "7",
+      "3"
      ],
-     "explain": "585 的百位是 5。",
+     "explain": "638 的百位是 6。",
      "id": "MATH-P2-L01-005",
      "grade": "P2",
      "subject": "math",
      "lesson": "L01",
      "level": "理解",
-     "question": "585 的百位數字是多少？",
+     "question": "638 的百位數字是多少？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 三位數",
      "verified": true,
      "readAloud": true
@@ -7094,10 +7220,10 @@ window.QUESTION_BANK = {
      "q": "有6組，每組20粒糖，大約數數共有多少粒？",
      "answer": "120",
      "options": [
-      "100",
       "120",
-      "140",
-      "26"
+      "26",
+      "100",
+      "140"
      ],
      "explain": "20、40、60、80、100、120。",
      "id": "MATH-P2-L02-005",
@@ -7140,90 +7266,90 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "fill",
-     "q": "77 ＋ 84 ＝ ？",
+     "q": "60 ＋ 72 ＝ ？",
      "answer": [
-      "161"
+      "132"
      ],
-     "explain": "77＋84＝161",
+     "explain": "60＋72＝132",
      "numeric": true,
      "id": "MATH-P2-L03-001",
      "grade": "P2",
      "subject": "math",
      "lesson": "L03",
      "level": "應用",
-     "question": "77 ＋ 84 ＝ ？",
+     "question": "60 ＋ 72 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 加法(一)",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "57 ＋ 45 ＝ ？",
+     "q": "87 ＋ 51 ＝ ？",
      "answer": [
-      "102"
+      "138"
      ],
-     "explain": "57＋45＝102",
+     "explain": "87＋51＝138",
      "numeric": true,
      "id": "MATH-P2-L03-002",
      "grade": "P2",
      "subject": "math",
      "lesson": "L03",
      "level": "應用",
-     "question": "57 ＋ 45 ＝ ？",
+     "question": "87 ＋ 51 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 加法(一)",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "61 ＋ 45 ＝ ？",
+     "q": "76 ＋ 86 ＝ ？",
      "answer": [
-      "106"
+      "162"
      ],
-     "explain": "61＋45＝106",
+     "explain": "76＋86＝162",
      "numeric": true,
      "id": "MATH-P2-L03-003",
      "grade": "P2",
      "subject": "math",
      "lesson": "L03",
      "level": "應用",
-     "question": "61 ＋ 45 ＝ ？",
+     "question": "76 ＋ 86 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 加法(一)",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "28 ＋ 94 ＝ ？",
+     "q": "88 ＋ 52 ＝ ？",
      "answer": [
-      "122"
+      "140"
      ],
-     "explain": "28＋94＝122",
+     "explain": "88＋52＝140",
      "numeric": true,
      "id": "MATH-P2-L03-004",
      "grade": "P2",
      "subject": "math",
      "lesson": "L03",
      "level": "應用",
-     "question": "28 ＋ 94 ＝ ？",
+     "question": "88 ＋ 52 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 加法(一)",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "92 ＋ 18 ＝ ？",
+     "q": "99 ＋ 98 ＝ ？",
      "answer": [
-      "110"
+      "197"
      ],
-     "explain": "92＋18＝110",
+     "explain": "99＋98＝197",
      "numeric": true,
      "id": "MATH-P2-L03-005",
      "grade": "P2",
      "subject": "math",
      "lesson": "L03",
      "level": "應用",
-     "question": "92 ＋ 18 ＝ ？",
+     "question": "99 ＋ 98 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 加法(一)",
      "verified": true,
      "readAloud": true
@@ -7233,9 +7359,9 @@ window.QUESTION_BANK = {
      "q": "99＋45 用巧算：先算 100＋45 再…",
      "answer": "144",
      "options": [
-      "146",
       "145",
       "144",
+      "146",
       "154"
      ],
      "explain": "100＋45＝145，再減1＝144。",
@@ -7261,108 +7387,108 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "fill",
-     "q": "342 ＋ 302 ＝ ？",
+     "q": "153 ＋ 268 ＝ ？",
      "answer": [
-      "644"
+      "421"
      ],
-     "explain": "342＋302＝644",
+     "explain": "153＋268＝421",
      "numeric": true,
      "id": "MATH-P2-L04-001",
      "grade": "P2",
      "subject": "math",
      "lesson": "L04",
      "level": "應用",
-     "question": "342 ＋ 302 ＝ ？",
+     "question": "153 ＋ 268 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "387 ＋ 454 ＝ ？",
+     "q": "237 ＋ 105 ＝ ？",
      "answer": [
-      "841"
+      "342"
      ],
-     "explain": "387＋454＝841",
+     "explain": "237＋105＝342",
      "numeric": true,
      "id": "MATH-P2-L04-002",
      "grade": "P2",
      "subject": "math",
      "lesson": "L04",
      "level": "應用",
-     "question": "387 ＋ 454 ＝ ？",
+     "question": "237 ＋ 105 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "467 ＋ 250 ＝ ？",
+     "q": "128 ＋ 244 ＝ ？",
      "answer": [
-      "717"
+      "372"
      ],
-     "explain": "467＋250＝717",
+     "explain": "128＋244＝372",
      "numeric": true,
      "id": "MATH-P2-L04-003",
      "grade": "P2",
      "subject": "math",
      "lesson": "L04",
      "level": "應用",
-     "question": "467 ＋ 250 ＝ ？",
+     "question": "128 ＋ 244 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "482 ＋ 322 ＝ ？",
+     "q": "306 ＋ 415 ＝ ？",
      "answer": [
-      "804"
+      "721"
      ],
-     "explain": "482＋322＝804",
+     "explain": "306＋415＝721",
      "numeric": true,
      "id": "MATH-P2-L04-004",
      "grade": "P2",
      "subject": "math",
      "lesson": "L04",
      "level": "應用",
-     "question": "482 ＋ 322 ＝ ？",
+     "question": "306 ＋ 415 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "380 ＋ 444 ＝ ？",
+     "q": "321 ＋ 429 ＝ ？",
      "answer": [
-      "824"
+      "750"
      ],
-     "explain": "380＋444＝824",
+     "explain": "321＋429＝750",
      "numeric": true,
      "id": "MATH-P2-L04-005",
      "grade": "P2",
      "subject": "math",
      "lesson": "L04",
      "level": "應用",
-     "question": "380 ＋ 444 ＝ ？",
+     "question": "321 ＋ 429 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "284 ＋ 394 ＝ ？",
+     "q": "484 ＋ 471 ＝ ？",
      "answer": [
-      "678"
+      "955"
      ],
-     "explain": "284＋394＝678",
+     "explain": "484＋471＝955",
      "numeric": true,
      "id": "MATH-P2-L04-006",
      "grade": "P2",
      "subject": "math",
      "lesson": "L04",
      "level": "應用",
-     "question": "284 ＋ 394 ＝ ？",
+     "question": "484 ＋ 471 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
      "verified": true,
      "readAloud": true
@@ -7379,108 +7505,108 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "fill",
-     "q": "877 － 764 ＝ ？",
+     "q": "641 － 561 ＝ ？",
      "answer": [
-      "113"
+      "80"
      ],
-     "explain": "877－764＝113",
+     "explain": "641－561＝80",
      "numeric": true,
      "id": "MATH-P2-L05-001",
      "grade": "P2",
      "subject": "math",
      "lesson": "L05",
      "level": "應用",
-     "question": "877 － 764 ＝ ？",
+     "question": "641 － 561 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 減法",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "580 － 577 ＝ ？",
+     "q": "549 － 106 ＝ ？",
      "answer": [
-      "3"
+      "443"
      ],
-     "explain": "580－577＝3",
+     "explain": "549－106＝443",
      "numeric": true,
      "id": "MATH-P2-L05-002",
      "grade": "P2",
      "subject": "math",
      "lesson": "L05",
      "level": "應用",
-     "question": "580 － 577 ＝ ？",
+     "question": "549 － 106 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 減法",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "983 － 706 ＝ ？",
+     "q": "355 － 271 ＝ ？",
      "answer": [
-      "277"
+      "84"
      ],
-     "explain": "983－706＝277",
+     "explain": "355－271＝84",
      "numeric": true,
      "id": "MATH-P2-L05-003",
      "grade": "P2",
      "subject": "math",
      "lesson": "L05",
      "level": "應用",
-     "question": "983 － 706 ＝ ？",
+     "question": "355 － 271 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 減法",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "854 － 801 ＝ ？",
+     "q": "391 － 341 ＝ ？",
      "answer": [
-      "53"
+      "50"
      ],
-     "explain": "854－801＝53",
+     "explain": "391－341＝50",
      "numeric": true,
      "id": "MATH-P2-L05-004",
      "grade": "P2",
      "subject": "math",
      "lesson": "L05",
      "level": "應用",
-     "question": "854 － 801 ＝ ？",
+     "question": "391 － 341 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 減法",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "538 － 190 ＝ ？",
+     "q": "985 － 327 ＝ ？",
      "answer": [
-      "348"
+      "658"
      ],
-     "explain": "538－190＝348",
+     "explain": "985－327＝658",
      "numeric": true,
      "id": "MATH-P2-L05-005",
      "grade": "P2",
      "subject": "math",
      "lesson": "L05",
      "level": "應用",
-     "question": "538 － 190 ＝ ？",
+     "question": "985 － 327 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 減法",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "305 － 133 ＝ ？",
+     "q": "825 － 373 ＝ ？",
      "answer": [
-      "172"
+      "452"
      ],
-     "explain": "305－133＝172",
+     "explain": "825－373＝452",
      "numeric": true,
      "id": "MATH-P2-L05-006",
      "grade": "P2",
      "subject": "math",
      "lesson": "L05",
      "level": "應用",
-     "question": "305 － 133 ＝ ？",
+     "question": "825 － 373 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 減法",
      "verified": true,
      "readAloud": true
@@ -7497,108 +7623,108 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "fill",
-     "q": "圖書館有故事書216本，又買了53本，現在共有多少本？",
+     "q": "圖書館有故事書141本，又買了118本，現在共有多少本？",
      "answer": [
-      "269"
+      "259"
      ],
-     "explain": "216＋53＝269",
+     "explain": "141＋118＝259",
      "numeric": true,
      "id": "MATH-P2-L06-001",
      "grade": "P2",
      "subject": "math",
      "lesson": "L06",
      "level": "應用",
-     "question": "圖書館有故事書216本，又買了53本，現在共有多少本？",
+     "question": "圖書館有故事書141本，又買了118本，現在共有多少本？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 加減應用題",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "圖書館有故事書139本，又買了140本，現在共有多少本？",
+     "q": "圖書館有故事書368本，又買了187本，現在共有多少本？",
      "answer": [
-      "279"
+      "555"
      ],
-     "explain": "139＋140＝279",
+     "explain": "368＋187＝555",
      "numeric": true,
      "id": "MATH-P2-L06-002",
      "grade": "P2",
      "subject": "math",
      "lesson": "L06",
      "level": "應用",
-     "question": "圖書館有故事書139本，又買了140本，現在共有多少本？",
+     "question": "圖書館有故事書368本，又買了187本，現在共有多少本？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 加減應用題",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "圖書館有故事書264本，又買了247本，現在共有多少本？",
+     "q": "圖書館有故事書180本，又買了50本，現在共有多少本？",
      "answer": [
-      "511"
+      "230"
      ],
-     "explain": "264＋247＝511",
+     "explain": "180＋50＝230",
      "numeric": true,
      "id": "MATH-P2-L06-003",
      "grade": "P2",
      "subject": "math",
      "lesson": "L06",
      "level": "應用",
-     "question": "圖書館有故事書264本，又買了247本，現在共有多少本？",
+     "question": "圖書館有故事書180本，又買了50本，現在共有多少本？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 加減應用題",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "學校有576個學生，其中255個去旅行，留在學校的有多少個？",
+     "q": "學校有623個學生，其中67個去旅行，留在學校的有多少個？",
      "answer": [
-      "321"
+      "556"
      ],
-     "explain": "576－255＝321",
+     "explain": "623－67＝556",
      "numeric": true,
      "id": "MATH-P2-L06-004",
      "grade": "P2",
      "subject": "math",
      "lesson": "L06",
      "level": "應用",
-     "question": "學校有576個學生，其中255個去旅行，留在學校的有多少個？",
+     "question": "學校有623個學生，其中67個去旅行，留在學校的有多少個？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 加減應用題",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "學校有780個學生，其中281個去旅行，留在學校的有多少個？",
+     "q": "學校有428個學生，其中115個去旅行，留在學校的有多少個？",
      "answer": [
-      "499"
+      "313"
      ],
-     "explain": "780－281＝499",
+     "explain": "428－115＝313",
      "numeric": true,
      "id": "MATH-P2-L06-005",
      "grade": "P2",
      "subject": "math",
      "lesson": "L06",
      "level": "應用",
-     "question": "學校有780個學生，其中281個去旅行，留在學校的有多少個？",
+     "question": "學校有428個學生，其中115個去旅行，留在學校的有多少個？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 加減應用題",
      "verified": true,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "學校有576個學生，其中268個去旅行，留在學校的有多少個？",
+     "q": "學校有702個學生，其中127個去旅行，留在學校的有多少個？",
      "answer": [
-      "308"
+      "575"
      ],
-     "explain": "576－268＝308",
+     "explain": "702－127＝575",
      "numeric": true,
      "id": "MATH-P2-L06-006",
      "grade": "P2",
      "subject": "math",
      "lesson": "L06",
      "level": "應用",
-     "question": "學校有576個學生，其中268個去旅行，留在學校的有多少個？",
+     "question": "學校有702個學生，其中127個去旅行，留在學校的有多少個？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 加減應用題",
      "verified": true,
      "readAloud": true
@@ -7618,10 +7744,10 @@ window.QUESTION_BANK = {
      "q": "時鐘3時正，兩支針形成甚麼角？",
      "answer": "直角",
      "options": [
-      "沒有角",
+      "銳角",
       "鈍角",
-      "直角",
-      "銳角"
+      "沒有角",
+      "直角"
      ],
      "explain": "3時正兩針成直角。",
      "id": "MATH-P2-L07-001",
@@ -7654,10 +7780,10 @@ window.QUESTION_BANK = {
      "q": "一張長方形紙有多少個直角？",
      "answer": "4",
      "options": [
+      "0",
       "3",
       "2",
-      "4",
-      "0"
+      "4"
      ],
      "explain": "長方形4個角都是直角。",
      "id": "MATH-P2-L07-003",
@@ -7690,10 +7816,10 @@ window.QUESTION_BANK = {
      "q": "正方形有多少個直角？",
      "answer": "4",
      "options": [
+      "3",
       "2",
       "1",
-      "4",
-      "3"
+      "4"
      ],
      "explain": "正方形4個角都是直角。",
      "id": "MATH-P2-L07-005",
@@ -7711,9 +7837,9 @@ window.QUESTION_BANK = {
      "q": "三角尺上最大的角通常是：",
      "answer": "直角",
      "options": [
+      "直角",
       "平角",
       "鈍角",
-      "直角",
       "銳角"
      ],
      "explain": "三角尺有一個直角。",
@@ -7742,10 +7868,10 @@ window.QUESTION_BANK = {
      "q": "兩條直線相交成直角，叫做：",
      "answer": "互相垂直",
      "options": [
-      "重疊",
-      "互相垂直",
       "互相平行",
-      "彎曲"
+      "互相垂直",
+      "彎曲",
+      "重疊"
      ],
      "explain": "相交成直角就是垂直。",
      "id": "MATH-P2-L08-001",
@@ -7794,9 +7920,9 @@ window.QUESTION_BANK = {
      "answer": "T",
      "options": [
       "S",
+      "T",
       "C",
-      "O",
-      "T"
+      "O"
      ],
      "explain": "T 的一橫一豎互相垂直。",
      "id": "MATH-P2-L08-004",
@@ -7814,10 +7940,10 @@ window.QUESTION_BANK = {
      "q": "檢查兩條線是否垂直，可以用：",
      "answer": "三角尺的直角",
      "options": [
-      "秤",
       "時鐘",
+      "溫度計",
       "三角尺的直角",
-      "溫度計"
+      "秤"
      ],
      "explain": "用三角尺的直角比一比。",
      "id": "MATH-P2-L08-005",
@@ -7847,8 +7973,8 @@ window.QUESTION_BANK = {
      "options": [
       "直角",
       "平角",
-      "銳角",
-      "鈍角"
+      "鈍角",
+      "銳角"
      ],
      "explain": "小於直角是銳角。",
      "id": "MATH-P2-L09-001",
@@ -7867,9 +7993,9 @@ window.QUESTION_BANK = {
      "answer": "鈍角",
      "options": [
       "直角",
-      "圓角",
+      "銳角",
       "鈍角",
-      "銳角"
+      "圓角"
      ],
      "explain": "大於直角是鈍角。",
      "id": "MATH-P2-L09-002",
@@ -7887,10 +8013,10 @@ window.QUESTION_BANK = {
      "q": "時鐘1時正，兩支針形成甚麼角？",
      "answer": "銳角",
      "options": [
-      "鈍角",
-      "沒有角",
       "銳角",
-      "直角"
+      "直角",
+      "沒有角",
+      "鈍角"
      ],
      "explain": "1時兩針張開很小，是銳角。",
      "id": "MATH-P2-L09-003",
@@ -7909,8 +8035,8 @@ window.QUESTION_BANK = {
      "answer": "鈍角",
      "options": [
       "鈍角",
-      "直角",
       "銳角",
+      "直角",
       "沒有角"
      ],
      "explain": "5時兩針張開比直角大。",
@@ -7944,10 +8070,10 @@ window.QUESTION_BANK = {
      "q": "正方形的角是：",
      "answer": "直角",
      "options": [
-      "直角",
-      "鈍角",
       "銳角",
-      "都不是"
+      "鈍角",
+      "都不是",
+      "直角"
      ],
      "explain": "正方形4個直角。",
      "id": "MATH-P2-L09-006",
@@ -7975,10 +8101,10 @@ window.QUESTION_BANK = {
      "q": "量度課室的長度，用甚麼單位最適合？",
      "answer": "米(m)",
      "options": [
+      "米(m)",
       "公斤(kg)",
       "厘米(cm)",
-      "升(L)",
-      "米(m)"
+      "升(L)"
      ],
      "explain": "較長的距離用米。",
      "id": "MATH-P2-L10-001",
@@ -8051,9 +8177,9 @@ window.QUESTION_BANK = {
      "answer": "米",
      "options": [
       "厘米",
+      "克",
       "毫升",
-      "米",
-      "克"
+      "米"
      ],
      "explain": "長距離用米。",
      "id": "MATH-P2-L10-005",
@@ -8078,72 +8204,72 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "fill",
-     "q": "4米89厘米＝（ ）厘米",
+     "q": "2米29厘米＝（ ）厘米",
      "answer": [
-      "489"
+      "229"
      ],
-     "explain": "4米＝400厘米，再加89厘米。",
+     "explain": "2米＝200厘米，再加29厘米。",
      "numeric": true,
      "id": "MATH-P2-L11-001",
      "grade": "P2",
      "subject": "math",
      "lesson": "L11",
      "level": "記憶",
-     "question": "4米89厘米＝（ ）厘米",
+     "question": "2米29厘米＝（ ）厘米",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
      "verified": false,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "1米95厘米＝（ ）厘米",
+     "q": "2米36厘米＝（ ）厘米",
      "answer": [
-      "195"
+      "236"
      ],
-     "explain": "1米＝100厘米，再加95厘米。",
+     "explain": "2米＝200厘米，再加36厘米。",
      "numeric": true,
      "id": "MATH-P2-L11-002",
      "grade": "P2",
      "subject": "math",
      "lesson": "L11",
      "level": "記憶",
-     "question": "1米95厘米＝（ ）厘米",
+     "question": "2米36厘米＝（ ）厘米",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
      "verified": false,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "2米63厘米＝（ ）厘米",
+     "q": "1米60厘米＝（ ）厘米",
      "answer": [
-      "263"
+      "160"
      ],
-     "explain": "2米＝200厘米，再加63厘米。",
+     "explain": "1米＝100厘米，再加60厘米。",
      "numeric": true,
      "id": "MATH-P2-L11-003",
      "grade": "P2",
      "subject": "math",
      "lesson": "L11",
      "level": "記憶",
-     "question": "2米63厘米＝（ ）厘米",
+     "question": "1米60厘米＝（ ）厘米",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
      "verified": false,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "繩子長6米，剪去4米，剩下多少米？",
+     "q": "繩子長4米，剪去3米，剩下多少米？",
      "answer": [
-      "2"
+      "1"
      ],
-     "explain": "6－4＝2",
+     "explain": "4－3＝1",
      "numeric": true,
      "id": "MATH-P2-L11-004",
      "grade": "P2",
      "subject": "math",
      "lesson": "L11",
      "level": "應用",
-     "question": "繩子長6米，剪去4米，剩下多少米？",
+     "question": "繩子長4米，剪去3米，剩下多少米？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
      "verified": false,
      "readAloud": true
@@ -8171,10 +8297,10 @@ window.QUESTION_BANK = {
      "q": "哪個最長？",
      "answer": "2米",
      "options": [
-      "150厘米",
-      "2米",
       "1米",
-      "99厘米"
+      "150厘米",
+      "99厘米",
+      "2米"
      ],
      "explain": "2米＝200厘米，最長。",
      "id": "MATH-P2-L11-006",
@@ -8199,63 +8325,63 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "mc",
-     "q": "時針在2和3之間，分針指着1。現在是幾時幾分？",
-     "answer": "2時5分",
+     "q": "時針在9和10之間，分針指着11。現在是幾時幾分？",
+     "answer": "9時55分",
      "options": [
-      "2時5分",
-      "3時5分",
-      "2時20分",
-      "2時35分"
+      "9時10分",
+      "10時55分",
+      "9時25分",
+      "9時55分"
      ],
-     "explain": "分針指1表示5分。",
+     "explain": "分針指11表示55分。",
      "id": "MATH-P2-L18-001",
      "grade": "P2",
      "subject": "math",
      "lesson": "L18",
      "level": "理解",
-     "question": "時針在2和3之間，分針指着1。現在是幾時幾分？",
+     "question": "時針在9和10之間，分針指着11。現在是幾時幾分？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 報時",
      "verified": false,
      "readAloud": true
     },
     {
      "type": "mc",
-     "q": "時針在6和7之間，分針指着7。現在是幾時幾分？",
-     "answer": "6時35分",
+     "q": "時針在4和5之間，分針指着6。現在是幾時幾分？",
+     "answer": "4時30分",
      "options": [
-      "6時5分",
-      "7時35分",
-      "6時35分",
-      "6時50分"
+      "4時正",
+      "4時45分",
+      "5時30分",
+      "4時30分"
      ],
-     "explain": "分針指7表示35分。",
+     "explain": "分針指6表示30分。",
      "id": "MATH-P2-L18-002",
      "grade": "P2",
      "subject": "math",
      "lesson": "L18",
      "level": "理解",
-     "question": "時針在6和7之間，分針指着7。現在是幾時幾分？",
+     "question": "時針在4和5之間，分針指着6。現在是幾時幾分？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 報時",
      "verified": false,
      "readAloud": true
     },
     {
      "type": "mc",
-     "q": "時針在2和3之間，分針指着2。現在是幾時幾分？",
-     "answer": "2時10分",
+     "q": "時針在7和8之間，分針指着6。現在是幾時幾分？",
+     "answer": "7時30分",
      "options": [
-      "3時10分",
-      "2時10分",
-      "2時40分",
-      "2時25分"
+      "7時30分",
+      "7時45分",
+      "8時30分",
+      "7時正"
      ],
-     "explain": "分針指2表示10分。",
+     "explain": "分針指6表示30分。",
      "id": "MATH-P2-L18-003",
      "grade": "P2",
      "subject": "math",
      "lesson": "L18",
      "level": "理解",
-     "question": "時針在2和3之間，分針指着2。現在是幾時幾分？",
+     "question": "時針在7和8之間，分針指着6。現在是幾時幾分？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 報時",
      "verified": false,
      "readAloud": true
@@ -8301,10 +8427,10 @@ window.QUESTION_BANK = {
      "q": "「3時半」即是：",
      "answer": "3時30分",
      "options": [
-      "6時3分",
       "3時45分",
       "3時15分",
-      "3時30分"
+      "3時30分",
+      "6時3分"
      ],
      "explain": "半小時＝30分。",
      "id": "MATH-P2-L18-006",
@@ -8329,72 +8455,72 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "fill",
-     "q": "活動由15時正開始，15時40分結束，共用了多少分鐘？",
+     "q": "活動由14時正開始，14時20分結束，共用了多少分鐘？",
      "answer": [
-      "40"
+      "20"
      ],
-     "explain": "由開始到結束共40分鐘。",
+     "explain": "由開始到結束共20分鐘。",
      "numeric": true,
      "id": "MATH-P2-L19-001",
      "grade": "P2",
      "subject": "math",
      "lesson": "L19",
      "level": "應用",
-     "question": "活動由15時正開始，15時40分結束，共用了多少分鐘？",
+     "question": "活動由14時正開始，14時20分結束，共用了多少分鐘？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 活動時間",
      "verified": false,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "活動由14時20分開始，15時5分結束，共用了多少分鐘？",
+     "q": "活動由11時10分開始，11時40分結束，共用了多少分鐘？",
      "answer": [
-      "45"
+      "30"
      ],
-     "explain": "由開始到結束共45分鐘。",
+     "explain": "由開始到結束共30分鐘。",
      "numeric": true,
      "id": "MATH-P2-L19-002",
      "grade": "P2",
      "subject": "math",
      "lesson": "L19",
      "level": "應用",
-     "question": "活動由14時20分開始，15時5分結束，共用了多少分鐘？",
+     "question": "活動由11時10分開始，11時40分結束，共用了多少分鐘？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 活動時間",
      "verified": false,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "活動由8時正開始，8時10分結束，共用了多少分鐘？",
+     "q": "活動由11時5分開始，11時50分結束，共用了多少分鐘？",
      "answer": [
-      "10"
+      "45"
      ],
-     "explain": "由開始到結束共10分鐘。",
+     "explain": "由開始到結束共45分鐘。",
      "numeric": true,
      "id": "MATH-P2-L19-003",
      "grade": "P2",
      "subject": "math",
      "lesson": "L19",
      "level": "應用",
-     "question": "活動由8時正開始，8時10分結束，共用了多少分鐘？",
+     "question": "活動由11時5分開始，11時50分結束，共用了多少分鐘？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 活動時間",
      "verified": false,
      "readAloud": true
     },
     {
      "type": "fill",
-     "q": "活動由10時15分開始，10時30分結束，共用了多少分鐘？",
+     "q": "活動由13時25分開始，13時45分結束，共用了多少分鐘？",
      "answer": [
-      "15"
+      "20"
      ],
-     "explain": "由開始到結束共15分鐘。",
+     "explain": "由開始到結束共20分鐘。",
      "numeric": true,
      "id": "MATH-P2-L19-004",
      "grade": "P2",
      "subject": "math",
      "lesson": "L19",
      "level": "應用",
-     "question": "活動由10時15分開始，10時30分結束，共用了多少分鐘？",
+     "question": "活動由13時25分開始，13時45分結束，共用了多少分鐘？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L19 活動時間",
      "verified": false,
      "readAloud": true
@@ -8404,10 +8530,10 @@ window.QUESTION_BANK = {
      "q": "早上上學，大約是：",
      "answer": "上午8時",
      "options": [
-      "上午8時",
-      "晚上11時",
+      "凌晨3時",
       "下午8時",
-      "凌晨3時"
+      "上午8時",
+      "晚上11時"
      ],
      "explain": "上學在上午。",
      "id": "MATH-P2-L19-005",
@@ -8468,10 +8594,10 @@ window.QUESTION_BANK = {
      "q": "哪個月有31日？",
      "answer": "1月",
      "options": [
-      "1月",
-      "4月",
       "9月",
-      "6月"
+      "6月",
+      "4月",
+      "1月"
      ],
      "explain": "1、3、5、7、8、10、12月有31日。",
      "id": "MATH-P2-L20-002",
@@ -8490,9 +8616,9 @@ window.QUESTION_BANK = {
      "answer": "11月",
      "options": [
       "10月",
-      "11月",
+      "12月",
       "8月",
-      "12月"
+      "11月"
      ],
      "explain": "4、6、9、11月有30日。",
      "id": "MATH-P2-L20-003",
@@ -8528,10 +8654,10 @@ window.QUESTION_BANK = {
      "q": "3月的下一個月是：",
      "answer": "4月",
      "options": [
-      "2月",
-      "4月",
       "12月",
-      "5月"
+      "2月",
+      "5月",
+      "4月"
      ],
      "explain": "3月之後是4月。",
      "id": "MATH-P2-L20-005",
@@ -8567,6 +8693,342 @@ window.QUESTION_BANK = {
    "verified": false
   },
   {
+   "id": "p4m1",
+   "grade": "P4",
+   "subject": "math",
+   "title": "L1 乘法(一)",
+   "questions": [
+    {
+     "type": "fill",
+     "q": "233 × 36 ＝ ？",
+     "answer": [
+      "8388"
+     ],
+     "explain": "233×36＝8388",
+     "numeric": true,
+     "id": "MATH-P4-L01-001",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "233 × 36 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 乘法(一)",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "487 × 17 ＝ ？",
+     "answer": [
+      "8279"
+     ],
+     "explain": "487×17＝8279",
+     "numeric": true,
+     "id": "MATH-P4-L01-002",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "487 × 17 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 乘法(一)",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "291 × 33 ＝ ？",
+     "answer": [
+      "9603"
+     ],
+     "explain": "291×33＝9603",
+     "numeric": true,
+     "id": "MATH-P4-L01-003",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "291 × 33 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 乘法(一)",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "173 × 27 ＝ ？",
+     "answer": [
+      "4671"
+     ],
+     "explain": "173×27＝4671",
+     "numeric": true,
+     "id": "MATH-P4-L01-004",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "173 × 27 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 乘法(一)",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "97 × 10 ＝ ？",
+     "answer": [
+      "970"
+     ],
+     "explain": "乘10，在後面加一個0：970",
+     "numeric": true,
+     "id": "MATH-P4-L01-005",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "97 × 10 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 乘法(一)",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "72 × 100 ＝ ？",
+     "answer": [
+      "7200"
+     ],
+     "explain": "乘100，在後面加兩個0：7200",
+     "numeric": true,
+     "id": "MATH-P4-L01-006",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "72 × 100 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 乘法(一)",
+     "verified": false
+    }
+   ],
+   "lesson": "L01",
+   "verified": false
+  },
+  {
+   "id": "p4m2",
+   "grade": "P4",
+   "subject": "math",
+   "title": "L2 乘法(二)",
+   "questions": [
+    {
+     "type": "fill",
+     "q": "25 × 13 × 4 ＝ ？（巧算：先算 25×4）",
+     "answer": [
+      "1300"
+     ],
+     "explain": "25×4＝100，100×13＝1300",
+     "numeric": true,
+     "id": "MATH-P4-L02-001",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "25 × 13 × 4 ＝ ？（巧算：先算 25×4）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 乘法(二)",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "25 × 33 × 4 ＝ ？（巧算：先算 25×4）",
+     "answer": [
+      "3300"
+     ],
+     "explain": "25×4＝100，100×33＝3300",
+     "numeric": true,
+     "id": "MATH-P4-L02-002",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "25 × 33 × 4 ＝ ？（巧算：先算 25×4）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 乘法(二)",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "125 × 8 × 4 ＝ ？",
+     "answer": [
+      "4000"
+     ],
+     "explain": "125×8＝1000，1000×4＝4000",
+     "numeric": true,
+     "id": "MATH-P4-L02-003",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "125 × 8 × 4 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 乘法(二)",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "41 × 99 ＝ ？（巧算：41×100－41）",
+     "answer": [
+      "4059"
+     ],
+     "explain": "4100－41＝4059",
+     "numeric": true,
+     "id": "MATH-P4-L02-004",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "41 × 99 ＝ ？（巧算：41×100－41）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 乘法(二)",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "36 × 101 ＝ ？（巧算：36×100＋36）",
+     "answer": [
+      "3636"
+     ],
+     "explain": "3600＋36＝3636",
+     "numeric": true,
+     "id": "MATH-P4-L02-005",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "36 × 101 ＝ ？（巧算：36×100＋36）",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 乘法(二)",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "31 × 36 ＋ 31 × 64 ＝ ？",
+     "answer": [
+      "3100"
+     ],
+     "explain": "31×(36＋64)＝31×100＝3100",
+     "numeric": true,
+     "id": "MATH-P4-L02-006",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "31 × 36 ＋ 31 × 64 ＝ ？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 乘法(二)",
+     "verified": false
+    }
+   ],
+   "lesson": "L02",
+   "verified": false
+  },
+  {
+   "id": "p4m3",
+   "grade": "P4",
+   "subject": "math",
+   "title": "L3 乘法(三)",
+   "questions": [
+    {
+     "type": "fill",
+     "q": "每箱有36個橙，48箱共有多少個？",
+     "answer": [
+      "1728"
+     ],
+     "explain": "36×48＝1728",
+     "numeric": true,
+     "id": "MATH-P4-L03-001",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "每箱有36個橙，48箱共有多少個？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 乘法(三)",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "每箱有17個橙，47箱共有多少個？",
+     "answer": [
+      "799"
+     ],
+     "explain": "17×47＝799",
+     "numeric": true,
+     "id": "MATH-P4-L03-002",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "每箱有17個橙，47箱共有多少個？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 乘法(三)",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "每箱有21個橙，25箱共有多少個？",
+     "answer": [
+      "525"
+     ],
+     "explain": "21×25＝525",
+     "numeric": true,
+     "id": "MATH-P4-L03-003",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "每箱有21個橙，25箱共有多少個？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 乘法(三)",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "每張門票27元，買12張共要多少元？",
+     "answer": [
+      "324"
+     ],
+     "explain": "27×12＝324",
+     "numeric": true,
+     "id": "MATH-P4-L03-004",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "每張門票27元，買12張共要多少元？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 乘法(三)",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "禮堂有19行椅子，每行22張，共有多少張？",
+     "answer": [
+      "418"
+     ],
+     "explain": "19×22＝418",
+     "numeric": true,
+     "id": "MATH-P4-L03-005",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "禮堂有19行椅子，每行22張，共有多少張？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 乘法(三)",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "小明每天儲10元，16天共儲多少元？",
+     "answer": [
+      "160"
+     ],
+     "explain": "10×16＝160",
+     "numeric": true,
+     "id": "MATH-P4-L03-006",
+     "grade": "P4",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "小明每天儲10元，16天共儲多少元？",
+     "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 乘法(三)",
+     "verified": false
+    }
+   ],
+   "lesson": "L03",
+   "verified": false
+  },
+  {
    "id": "p4m4",
    "grade": "P4",
    "subject": "math",
@@ -8577,9 +9039,9 @@ window.QUESTION_BANK = {
      "q": "菱形的四條邊：",
      "answer": "都一樣長",
      "options": [
+      "一定有直角",
       "只有兩條一樣長",
       "都一樣長",
-      "一定有直角",
       "都不一樣長"
      ],
      "explain": "菱形四邊相等。",
@@ -8622,18 +9084,18 @@ window.QUESTION_BANK = {
     },
     {
      "type": "fill",
-     "q": "菱形一條邊長8cm，周界是多少cm？",
+     "q": "菱形一條邊長10cm，周界是多少cm？",
      "answer": [
-      "32"
+      "40"
      ],
-     "explain": "4×8＝32",
+     "explain": "4×10＝40",
      "numeric": true,
      "id": "MATH-P4-L04-004",
      "grade": "P4",
      "subject": "math",
      "lesson": "L04",
      "level": "應用",
-     "question": "菱形一條邊長8cm，周界是多少cm？",
+     "question": "菱形一條邊長10cm，周界是多少cm？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 菱形",
      "verified": false
     },
@@ -8642,10 +9104,10 @@ window.QUESTION_BANK = {
      "q": "菱形的對邊：",
      "answer": "互相平行",
      "options": [
-      "長短不同",
+      "互相垂直",
       "不相交也不平行",
-      "互相平行",
-      "互相垂直"
+      "長短不同",
+      "互相平行"
      ],
      "explain": "菱形兩組對邊互相平行。",
      "id": "MATH-P4-L04-005",
@@ -8715,8 +9177,8 @@ window.QUESTION_BANK = {
      "answer": "梯形",
      "options": [
       "菱形",
-      "梯形",
       "正方形",
+      "梯形",
       "長方形"
      ],
      "explain": "梯形只有一組對邊平行。",
@@ -8734,10 +9196,10 @@ window.QUESTION_BANK = {
      "q": "四邊相等並有4個直角的是：",
      "answer": "正方形",
      "options": [
-      "菱形（非正方形）",
       "梯形",
       "正方形",
-      "平行四邊形"
+      "平行四邊形",
+      "菱形（非正方形）"
      ],
      "explain": "正方形。",
      "id": "MATH-P4-L05-005",
@@ -8761,103 +9223,103 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "fill",
-     "q": "201 ÷ 3 ＝ ？",
+     "q": "630 ÷ 7 ＝ ？",
      "answer": [
-      "67"
+      "90"
      ],
-     "explain": "3×67＝201",
+     "explain": "7×90＝630",
      "numeric": true,
      "id": "MATH-P4-L06-001",
      "grade": "P4",
      "subject": "math",
      "lesson": "L06",
      "level": "應用",
-     "question": "201 ÷ 3 ＝ ？",
+     "question": "630 ÷ 7 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 除法(一)",
      "verified": false
     },
     {
      "type": "fill",
-     "q": "261 ÷ 9 ＝ ？",
+     "q": "784 ÷ 8 ＝ ？",
      "answer": [
-      "29"
+      "98"
      ],
-     "explain": "9×29＝261",
+     "explain": "8×98＝784",
      "numeric": true,
      "id": "MATH-P4-L06-002",
      "grade": "P4",
      "subject": "math",
      "lesson": "L06",
      "level": "應用",
-     "question": "261 ÷ 9 ＝ ？",
+     "question": "784 ÷ 8 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 除法(一)",
      "verified": false
     },
     {
      "type": "fill",
-     "q": "36 ÷ 2 ＝ ？",
+     "q": "252 ÷ 3 ＝ ？",
      "answer": [
-      "18"
+      "84"
      ],
-     "explain": "2×18＝36",
+     "explain": "3×84＝252",
      "numeric": true,
      "id": "MATH-P4-L06-003",
      "grade": "P4",
      "subject": "math",
      "lesson": "L06",
      "level": "應用",
-     "question": "36 ÷ 2 ＝ ？",
+     "question": "252 ÷ 3 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 除法(一)",
      "verified": false
     },
     {
      "type": "fill",
-     "q": "176 ÷ 2 ＝ ？",
+     "q": "276 ÷ 6 ＝ ？",
      "answer": [
-      "88"
+      "46"
      ],
-     "explain": "2×88＝176",
+     "explain": "6×46＝276",
      "numeric": true,
      "id": "MATH-P4-L06-004",
      "grade": "P4",
      "subject": "math",
      "lesson": "L06",
      "level": "應用",
-     "question": "176 ÷ 2 ＝ ？",
+     "question": "276 ÷ 6 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 除法(一)",
      "verified": false
     },
     {
      "type": "fill",
-     "q": "287 ÷ 7 ＝ ？",
+     "q": "306 ÷ 9 ＝ ？",
      "answer": [
-      "41"
+      "34"
      ],
-     "explain": "7×41＝287",
+     "explain": "9×34＝306",
      "numeric": true,
      "id": "MATH-P4-L06-005",
      "grade": "P4",
      "subject": "math",
      "lesson": "L06",
      "level": "應用",
-     "question": "287 ÷ 7 ＝ ？",
+     "question": "306 ÷ 9 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 除法(一)",
      "verified": false
     },
     {
      "type": "fill",
-     "q": "792 ÷ 8 ＝ ？",
+     "q": "66 ÷ 2 ＝ ？",
      "answer": [
-      "99"
+      "33"
      ],
-     "explain": "8×99＝792",
+     "explain": "2×33＝66",
      "numeric": true,
      "id": "MATH-P4-L06-006",
      "grade": "P4",
      "subject": "math",
      "lesson": "L06",
      "level": "應用",
-     "question": "792 ÷ 8 ＝ ？",
+     "question": "66 ÷ 2 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 除法(一)",
      "verified": false
     }
@@ -8873,103 +9335,103 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "fill",
-     "q": "456 ÷ 3 ＝ ？",
+     "q": "792 ÷ 4 ＝ ？",
      "answer": [
-      "152"
+      "198"
      ],
-     "explain": "3×152＝456",
+     "explain": "4×198＝792",
      "numeric": true,
      "id": "MATH-P4-L07-001",
      "grade": "P4",
      "subject": "math",
      "lesson": "L07",
      "level": "應用",
-     "question": "456 ÷ 3 ＝ ？",
+     "question": "792 ÷ 4 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 除法(二)",
      "verified": false
     },
     {
      "type": "fill",
-     "q": "512 ÷ 8 ＝ ？",
+     "q": "225 ÷ 3 ＝ ？",
      "answer": [
-      "64"
+      "75"
      ],
-     "explain": "8×64＝512",
+     "explain": "3×75＝225",
      "numeric": true,
      "id": "MATH-P4-L07-002",
      "grade": "P4",
      "subject": "math",
      "lesson": "L07",
      "level": "應用",
-     "question": "512 ÷ 8 ＝ ？",
+     "question": "225 ÷ 3 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 除法(二)",
      "verified": false
     },
     {
      "type": "fill",
-     "q": "1746 ÷ 6 ＝ ？",
+     "q": "64 ÷ 4 ＝ ？",
      "answer": [
-      "291"
+      "16"
      ],
-     "explain": "6×291＝1746",
+     "explain": "4×16＝64",
      "numeric": true,
      "id": "MATH-P4-L07-003",
      "grade": "P4",
      "subject": "math",
      "lesson": "L07",
      "level": "應用",
-     "question": "1746 ÷ 6 ＝ ？",
+     "question": "64 ÷ 4 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 除法(二)",
      "verified": false
     },
     {
      "type": "fill",
-     "q": "494 ÷ 7 的餘數是多少？",
+     "q": "394 ÷ 9 的餘數是多少？",
      "answer": [
-      "4"
+      "7"
      ],
-     "explain": "7×70＝490，494－490＝4",
+     "explain": "9×43＝387，394－387＝7",
      "numeric": true,
      "id": "MATH-P4-L07-004",
      "grade": "P4",
      "subject": "math",
      "lesson": "L07",
      "level": "應用",
-     "question": "494 ÷ 7 的餘數是多少？",
+     "question": "394 ÷ 9 的餘數是多少？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 除法(二)",
      "verified": false
     },
     {
      "type": "fill",
-     "q": "326 ÷ 4 的餘數是多少？",
+     "q": "115 ÷ 6 的餘數是多少？",
      "answer": [
-      "2"
+      "1"
      ],
-     "explain": "4×81＝324，326－324＝2",
+     "explain": "6×19＝114，115－114＝1",
      "numeric": true,
      "id": "MATH-P4-L07-005",
      "grade": "P4",
      "subject": "math",
      "lesson": "L07",
      "level": "應用",
-     "question": "326 ÷ 4 的餘數是多少？",
+     "question": "115 ÷ 6 的餘數是多少？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 除法(二)",
      "verified": false
     },
     {
      "type": "fill",
-     "q": "394 ÷ 7 的餘數是多少？",
+     "q": "423 ÷ 6 的餘數是多少？",
      "answer": [
-      "2"
+      "3"
      ],
-     "explain": "7×56＝392，394－392＝2",
+     "explain": "6×70＝420，423－420＝3",
      "numeric": true,
      "id": "MATH-P4-L07-006",
      "grade": "P4",
      "subject": "math",
      "lesson": "L07",
      "level": "應用",
-     "question": "394 ÷ 7 的餘數是多少？",
+     "question": "423 ÷ 6 的餘數是多少？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 除法(二)",
      "verified": false
     }
@@ -8985,103 +9447,103 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "fill",
-     "q": "每盒有48枝筆，3盒共有多少枝？",
+     "q": "每盒有38枝筆，5盒共有多少枝？",
      "answer": [
-      "144"
+      "190"
      ],
-     "explain": "48×3＝144",
+     "explain": "38×5＝190",
      "numeric": true,
      "id": "MATH-P4-L08-001",
      "grade": "P4",
      "subject": "math",
      "lesson": "L08",
      "level": "應用",
-     "question": "每盒有48枝筆，3盒共有多少枝？",
+     "question": "每盒有38枝筆，5盒共有多少枝？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
      "verified": false
     },
     {
      "type": "fill",
-     "q": "每盒有47枝筆，3盒共有多少枝？",
+     "q": "每盒有13枝筆，9盒共有多少枝？",
      "answer": [
-      "141"
+      "117"
      ],
-     "explain": "47×3＝141",
+     "explain": "13×9＝117",
      "numeric": true,
      "id": "MATH-P4-L08-002",
      "grade": "P4",
      "subject": "math",
      "lesson": "L08",
      "level": "應用",
-     "question": "每盒有47枝筆，3盒共有多少枝？",
+     "question": "每盒有13枝筆，9盒共有多少枝？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
      "verified": false
     },
     {
      "type": "fill",
-     "q": "每盒有25枝筆，3盒共有多少枝？",
+     "q": "每盒有21枝筆，6盒共有多少枝？",
      "answer": [
-      "75"
+      "126"
      ],
-     "explain": "25×3＝75",
+     "explain": "21×6＝126",
      "numeric": true,
      "id": "MATH-P4-L08-003",
      "grade": "P4",
      "subject": "math",
      "lesson": "L08",
      "level": "應用",
-     "question": "每盒有25枝筆，3盒共有多少枝？",
+     "question": "每盒有21枝筆，6盒共有多少枝？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
      "verified": false
     },
     {
      "type": "fill",
-     "q": "117個蘋果平均分給3個班，每班得多少個？",
+     "q": "66個蘋果平均分給3個班，每班得多少個？",
      "answer": [
-      "39"
+      "22"
      ],
-     "explain": "117÷3＝39",
+     "explain": "66÷3＝22",
      "numeric": true,
      "id": "MATH-P4-L08-004",
      "grade": "P4",
      "subject": "math",
      "lesson": "L08",
      "level": "應用",
-     "question": "117個蘋果平均分給3個班，每班得多少個？",
+     "question": "66個蘋果平均分給3個班，每班得多少個？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
      "verified": false
     },
     {
      "type": "fill",
-     "q": "51個蘋果平均分給3個班，每班得多少個？",
+     "q": "160個蘋果平均分給8個班，每班得多少個？",
      "answer": [
-      "17"
+      "20"
      ],
-     "explain": "51÷3＝17",
+     "explain": "160÷8＝20",
      "numeric": true,
      "id": "MATH-P4-L08-005",
      "grade": "P4",
      "subject": "math",
      "lesson": "L08",
      "level": "應用",
-     "question": "51個蘋果平均分給3個班，每班得多少個？",
+     "question": "160個蘋果平均分給8個班，每班得多少個？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
      "verified": false
     },
     {
      "type": "fill",
-     "q": "100個蘋果平均分給5個班，每班得多少個？",
+     "q": "350個蘋果平均分給7個班，每班得多少個？",
      "answer": [
-      "20"
+      "50"
      ],
-     "explain": "100÷5＝20",
+     "explain": "350÷7＝50",
      "numeric": true,
      "id": "MATH-P4-L08-006",
      "grade": "P4",
      "subject": "math",
      "lesson": "L08",
      "level": "應用",
-     "question": "100個蘋果平均分給5個班，每班得多少個？",
+     "question": "350個蘋果平均分給7個班，每班得多少個？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 乘除應用題",
      "verified": false
     }
@@ -9098,14 +9560,14 @@ window.QUESTION_BANK = {
     {
      "type": "mc",
      "q": "哪個數可以被2整除？",
-     "answer": "788",
+     "answer": "140",
      "options": [
-      "788",
-      "201",
-      "693",
-      "455"
+      "645",
+      "140",
+      "385",
+      "441"
      ],
-     "explain": "788÷2＝394，沒有餘數。",
+     "explain": "140÷2＝70，沒有餘數。",
      "id": "MATH-P4-L09-001",
      "grade": "P4",
      "subject": "math",
@@ -9118,14 +9580,14 @@ window.QUESTION_BANK = {
     {
      "type": "mc",
      "q": "哪個數可以被3整除？",
-     "answer": "816",
+     "answer": "408",
      "options": [
-      "983",
-      "319",
-      "816",
-      "455"
+      "415",
+      "151",
+      "694",
+      "408"
      ],
-     "explain": "816÷3＝272，沒有餘數。",
+     "explain": "408÷3＝136，沒有餘數。",
      "id": "MATH-P4-L09-002",
      "grade": "P4",
      "subject": "math",
@@ -9138,14 +9600,14 @@ window.QUESTION_BANK = {
     {
      "type": "mc",
      "q": "哪個數可以被5整除？",
-     "answer": "260",
+     "answer": "855",
      "options": [
-      "927",
-      "260",
-      "351",
-      "423"
+      "731",
+      "801",
+      "957",
+      "855"
      ],
-     "explain": "260÷5＝52，沒有餘數。",
+     "explain": "855÷5＝171，沒有餘數。",
      "id": "MATH-P4-L09-003",
      "grade": "P4",
      "subject": "math",
@@ -9158,14 +9620,14 @@ window.QUESTION_BANK = {
     {
      "type": "mc",
      "q": "哪個數可以被4整除？",
-     "answer": "200",
+     "answer": "956",
      "options": [
-      "698",
-      "738",
-      "200",
-      "570"
+      "851",
+      "266",
+      "956",
+      "162"
      ],
-     "explain": "200÷4＝50，沒有餘數。",
+     "explain": "956÷4＝239，沒有餘數。",
      "id": "MATH-P4-L09-004",
      "grade": "P4",
      "subject": "math",
@@ -9178,14 +9640,14 @@ window.QUESTION_BANK = {
     {
      "type": "mc",
      "q": "哪個數可以被9整除？",
-     "answer": "252",
+     "answer": "837",
      "options": [
-      "252",
-      "385",
-      "330",
-      "710"
+      "837",
+      "519",
+      "975",
+      "607"
      ],
-     "explain": "252÷9＝28，沒有餘數。",
+     "explain": "837÷9＝93，沒有餘數。",
      "id": "MATH-P4-L09-005",
      "grade": "P4",
      "subject": "math",

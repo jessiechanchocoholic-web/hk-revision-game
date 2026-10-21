@@ -11,10 +11,10 @@
    "q": "Don't quarrel ___ your friends.",
    "answer": "with",
    "options": [
-    "on",
     "of",
-    "with",
-    "at"
+    "at",
+    "on",
+    "with"
    ],
    "explain": "quarrel with someone.",
    "id": "ENG-P5-L02-001",
@@ -31,10 +31,10 @@
    "q": "Tom is jealous ___ his brother's new bike.",
    "answer": "of",
    "options": [
-    "at",
     "to",
-    "of",
-    "with"
+    "with",
+    "at",
+    "of"
    ],
    "explain": "be jealous of.",
    "id": "ENG-P5-L02-002",
@@ -51,9 +51,9 @@
    "q": "I am good ___ drawing.",
    "answer": "at",
    "options": [
-    "of",
     "in",
     "at",
+    "of",
     "with"
    ],
    "explain": "be good at.",
@@ -72,9 +72,9 @@
    "answer": "of",
    "options": [
     "with",
-    "in",
     "of",
-    "at"
+    "at",
+    "in"
    ],
    "explain": "be afraid of.",
    "id": "ENG-P5-L02-004",
@@ -92,9 +92,9 @@
    "answer": "really",
    "options": [
     "a bit",
-    "not",
     "a little",
-    "really"
+    "really",
+    "not"
    ],
    "explain": "\"really\" shows a high degree.",
    "id": "ENG-P5-L02-005",
@@ -111,10 +111,10 @@
    "q": "I'm ___ tired, but I can still play. (small degree)",
    "answer": "a bit",
    "options": [
-    "really",
     "very",
     "a bit",
-    "so"
+    "so",
+    "really"
    ],
    "explain": "\"a bit\" = a small degree.",
    "id": "ENG-P5-L02-006",
