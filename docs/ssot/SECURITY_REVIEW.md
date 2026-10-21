@@ -80,3 +80,30 @@
 - 提示：RELEASE.md 記錄方案 A 公開 GitHub Pages；遊戲為純靜態網頁、不收集資料，公開無額外私隱風險。
 
 **v1.0.0 結論：無高風險。**
+
+## B2 審核：PR #10、#11、#12（2026-10-21，基準 main `4c56038`）
+
+| PR | head | 學生資料 | 密鑰 | 第三方／外部資源 | 版權 | 結論 |
+|---|---|---|---|---|---|---|
+| #10 移除校名 | `8676fb5` | 通過 | 通過 | 通過 | 通過 | 無高風險；有低風險殘留（見下） |
+| #11 卡通角色＋動畫 | `bab4afa` | 通過 | 通過 | 通過 | 通過（自繪 SVG） | 無高風險 |
+| #12 進階數學應用題 | `59decf3` | 通過 | 通過 | 通過 | 通過（程式生成題） | 無高風險 |
+
+四項共通：三個 PR 新增內容均無 fetch／XHR／sendBeacon／form／cookie／analytics、無外部網址、無新 `<script>`、無 `.env`／密鑰（關鍵字搜尋 0 個真實值）、無 PDF／掃描檔。
+
+### PR #10 補充
+- 遊戲程式、HTML、題庫、使用說明、README 已無校名；`game/screenshots/home.png` 已重拍（已目視確認無校名）；人文題改為「柴灣」。
+- **殘留（低）**，PR #10 樹中仍有：
+  - `docs/ssot/STATUS.md` 第 1 行標題含完整校名；第 70 行狀態紀錄引用「柴灣」地名。
+  - 舊 key 縮寫 `hk-revision-quest-v1` 仍見於 `docs/ssot/RELEASE.md` 第 26 行、`docs/ssot/SECURITY_REVIEW.md`（舊審核紀錄）；`game/game.js` 以 `'hk-revision-quest-v1'` 拆字保留作遷移（縮寫可被推斷校名，屬低風險、可接受）。
+- **舊 git 歷史**（161bd51 起各 commit）仍含校名；公開 repo 任何人可查。如要完全移除需改寫歷史（force push），屬破壞性操作，須 Jessie 另行決定；現階段建議接受。
+- **遷移邏輯**：`game/game.js` 第 11 行先讀新 key，無則讀舊 key；`JSON.parse` 包在 try/catch 內，失敗時回退 `{}` 而不寫入；**不會刪除舊 key**，下次 `save()` 只寫新 key，故不會清走進度。注意：若舊資料損壞會由空白開始（舊 key 原封保留）。
+
+### PR #11 補充
+- 波波角色為 `game.js` 內固定字串 inline SVG，經 `h()` 的 `html` 屬性寫入；字串只由 `mood` 決定的常數組成，不含使用者／題庫輸入。
+- SVG 無 `<script>`、`on*=` 事件、`href`／`xlink:href`、`<image>`、`<foreignObject>`；CSS 無 `@import`、無 `url(`；有 `prefers-reduced-motion` 處理。
+
+### PR #12 補充
+- 新增題目由 `build.js` 以程式生成；`validate.js` 新增獨立算術覆核（無新 `eval`、無網絡）。舊有 `validate.js` 第 2 行 `eval` 建議仍適用（低）。
+- 新顯示 `equation`／`working` 以文字節點加入，無 `innerHTML` 寫入題目內容。
+- 三個新關卡標為推斷內容，不加入 VERIFIED，符合內容規則。
