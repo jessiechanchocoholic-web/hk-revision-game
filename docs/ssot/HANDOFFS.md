@@ -6,3 +6,4 @@
 |---|---|---|---|---|---|
 | 2026-10-21 | Jj | 統籌 | — | 方案已批准，research.md 已完成 | 分派第一批 |
 | 2026-10-21 | 統籌 | 全隊（待通知） | B1-* | 第一批任務已寫入 STATUS.md | 開發 Bot 先做 B1-DEV-01 schema |
+| 2026-10-21 | 部署 Bot | 專案經理 Bot／Jessie | B1-DEP-01 | 發佈準備文件 RELEASE.md 已完成（未開 Pages、未部署） | QA Bot、安全 Bot 完成審核後，Jessie 審批是否開啟 Pages（方案 A/B） |
