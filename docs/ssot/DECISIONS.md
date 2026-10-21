@@ -23,6 +23,7 @@
 | D-019 | 2026-10-21 | 批准 CONVENTIONS 第 4、5、12、13 點：第 4 點自擬題目（D-011，Q6）；第 5 點題庫欄位按 PR #2 實施（D-014，Q9）；第 12 點 research.md 不入 repo（D-015，Q10）；第 13 點技術及發佈（D-008～D-010、D-013，Q1–Q3、Q8） | 由專案經理 Bot 轉達 Jessie 批准 | Jessie |
 | D-020 | 2026-10-21 | 批准 CONVENTIONS 第 6 點（題目檔案位置：content.txt／build.js → questions.js；關卡 ID 格式 `p4s3`） | 由專案經理 Bot 轉達 Jessie 批准 | Jessie |
 | D-021 | 2026-10-21 | 批准 CONVENTIONS 第 10 點（未核實或有疑問題目列入 UNVERIFIED_QUESTIONS.md，只標記唔自行改答案） | 由專案經理 Bot 轉達 Jessie 批准 | Jessie |
+| D-022 | 2026-10-21 | 各 Bot 可在 repo 留 PR 意見及更新 docs/ssot，無需逐次請示；合併及發佈仍須 Jessie 批准（長期有效） | 由專案經理 Bot 轉達 Jessie 批准 | Jessie |
 
 ## 備註
 - D-004：人手編輯改為 content.txt＋build.js（D-014）；PR #2 仍會由 build.js 自動輸出逐課 JSON（`questions/<subject>/<grade>/<lesson>.json`），作產出檔，唔係人手編輯。
