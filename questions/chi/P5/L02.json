@@ -1,0 +1,106 @@
+{
+ "levelId": "p5c2",
+ "grade": "P5",
+ "subject": "chi",
+ "lesson": "L02",
+ "title": "第2課 小組作業",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "小組作業最需要：",
+   "answer": "分工合作",
+   "options": [
+    "分工合作",
+    "各自做自己的",
+    "吵架",
+    "一個人做完"
+   ],
+   "explain": "小組要分工合作。",
+   "id": "CHI-P5-L02-001",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "小組作業最需要：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第2課 小組作業",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「意見不同時，我們應該」：",
+   "answer": "互相尊重，好好討論",
+   "options": [
+    "大聲吵架",
+    "互相尊重，好好討論",
+    "放棄",
+    "不理別人"
+   ],
+   "explain": "要尊重別人的意見。",
+   "id": "CHI-P5-L02-002",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "「意見不同時，我們應該」：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第2課 小組作業",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「合作」的近義詞是：",
+   "answer": "協作",
+   "options": [
+    "協作",
+    "對抗",
+    "爭吵",
+    "獨自"
+   ],
+   "explain": "合作即一同做事，近義詞是協作。",
+   "id": "CHI-P5-L02-003",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "「合作」的近義詞是：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第2課 小組作業",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「雖然……但是……」是哪種關係？",
+   "answer": "轉折",
+   "options": [
+    "並列",
+    "選擇",
+    "因果",
+    "轉折"
+   ],
+   "explain": "雖然……但是……表示轉折。",
+   "id": "CHI-P5-L02-004",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "「雖然……但是……」是哪種關係？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第2課 小組作業",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "用關聯詞完成：（ ）大家同心合力，所以作業做得很好。",
+   "answer": [
+    "因為"
+   ],
+   "explain": "因為……所以……表示因果。",
+   "id": "CHI-P5-L02-005",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L02",
+   "level": "理解",
+   "question": "用關聯詞完成：（ ）大家同心合力，所以作業做得很好。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第2課 小組作業",
+   "verified": false
+  }
+ ]
+}

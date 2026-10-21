@@ -1,0 +1,112 @@
+{
+ "levelId": "p5m2",
+ "grade": "P5",
+ "subject": "math",
+ "lesson": "L02",
+ "title": "L2 近似值和大數量的估計",
+ "verified": true,
+ "questions": [
+  {
+   "type": "fill",
+   "q": "把 8219957 四捨五入至千位（不用逗號）。",
+   "answer": [
+    "8220000"
+   ],
+   "explain": "看千位右邊一位，8220000。",
+   "numeric": true,
+   "id": "MATH-P5-L02-001",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "把 8219957 四捨五入至千位（不用逗號）。",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 近似值和大數量的估計",
+   "verified": true
+  },
+  {
+   "type": "fill",
+   "q": "把 4739464 四捨五入至萬位（不用逗號）。",
+   "answer": [
+    "4740000"
+   ],
+   "explain": "看萬位右邊一位，4740000。",
+   "numeric": true,
+   "id": "MATH-P5-L02-002",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "把 4739464 四捨五入至萬位（不用逗號）。",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 近似值和大數量的估計",
+   "verified": true
+  },
+  {
+   "type": "fill",
+   "q": "把 1713234 四捨五入至十萬位（不用逗號）。",
+   "answer": [
+    "1700000"
+   ],
+   "explain": "看十萬位右邊一位，1700000。",
+   "numeric": true,
+   "id": "MATH-P5-L02-003",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "把 1713234 四捨五入至十萬位（不用逗號）。",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 近似值和大數量的估計",
+   "verified": true
+  },
+  {
+   "type": "fill",
+   "q": "把 8437246 四捨五入至千位（不用逗號）。",
+   "answer": [
+    "8437000"
+   ],
+   "explain": "看千位右邊一位，8437000。",
+   "numeric": true,
+   "id": "MATH-P5-L02-004",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "把 8437246 四捨五入至千位（不用逗號）。",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 近似值和大數量的估計",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "一包米約有20000粒，5包大約有多少粒？",
+   "answer": "100000",
+   "options": [
+    "10000",
+    "1000000",
+    "100000",
+    "25000"
+   ],
+   "explain": "20000×5＝100000。",
+   "id": "MATH-P5-L02-005",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "理解",
+   "question": "一包米約有20000粒，5包大約有多少粒？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 近似值和大數量的估計",
+   "verified": true
+  },
+  {
+   "type": "tf",
+   "q": "把 45 四捨五入至十位，得 50。",
+   "answer": true,
+   "explain": "個位是5，要進位。",
+   "id": "MATH-P5-L02-006",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "理解",
+   "question": "把 45 四捨五入至十位，得 50。",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 近似值和大數量的估計",
+   "verified": true
+  }
+ ]
+}

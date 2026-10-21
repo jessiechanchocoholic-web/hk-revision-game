@@ -1,0 +1,126 @@
+{
+ "levelId": "p2c11",
+ "grade": "P2",
+ "subject": "chi",
+ "lesson": "L11",
+ "title": "第11課 我愛體育課",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "體育課時，我們常常在哪裏上課？",
+   "answer": "操場",
+   "options": [
+    "睡房",
+    "操場",
+    "廚房",
+    "圖書館"
+   ],
+   "explain": "體育課多數在操場或禮堂上。",
+   "id": "CHI-P2-L11-001",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L11",
+   "level": "記憶",
+   "question": "體育課時，我們常常在哪裏上課？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第11課 我愛體育課",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "「我們跑得很（ ）。」括號應填：",
+   "answer": "快",
+   "options": [
+    "圓",
+    "香",
+    "快",
+    "甜"
+   ],
+   "explain": "跑步用「快」形容。",
+   "id": "CHI-P2-L11-002",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L11",
+   "level": "記憶",
+   "question": "「我們跑得很（ ）。」括號應填：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第11課 我愛體育課",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "做運動前要先：",
+   "answer": "熱身",
+   "options": [
+    "洗澡",
+    "吃大餐",
+    "睡覺",
+    "熱身"
+   ],
+   "explain": "先熱身可以避免受傷。",
+   "id": "CHI-P2-L11-003",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L11",
+   "level": "記憶",
+   "question": "做運動前要先：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第11課 我愛體育課",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "「拍（ ）」，括號應填：",
+   "answer": "皮球",
+   "options": [
+    "皮球",
+    "水",
+    "書",
+    "飯"
+   ],
+   "explain": "我們拍皮球。",
+   "id": "CHI-P2-L11-004",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L11",
+   "level": "記憶",
+   "question": "「拍（ ）」，括號應填：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第11課 我愛體育課",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "做運動可以使身體強壯。",
+   "answer": true,
+   "explain": "多做運動，身體更健康。",
+   "id": "CHI-P2-L11-005",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L11",
+   "level": "記憶",
+   "question": "做運動可以使身體強壯。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第11課 我愛體育課",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "「跳（ ）」：體育課跳一條長長的繩子。",
+   "answer": [
+    "繩"
+   ],
+   "explain": "跳繩是常見的運動。",
+   "id": "CHI-P2-L11-006",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L11",
+   "level": "理解",
+   "question": "「跳（ ）」：體育課跳一條長長的繩子。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第11課 我愛體育課",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}

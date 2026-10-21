@@ -1,0 +1,126 @@
+{
+ "levelId": "p2c5",
+ "grade": "P2",
+ "subject": "chi",
+ "lesson": "L05",
+ "title": "第5課 森林旅店（上）",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "「旅店」是讓人做甚麼的地方？",
+   "answer": "住宿",
+   "options": [
+    "買菜",
+    "上課",
+    "看病",
+    "住宿"
+   ],
+   "explain": "旅店是給旅客住宿的地方。",
+   "id": "CHI-P2-L05-001",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "「旅店」是讓人做甚麼的地方？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 森林旅店（上）",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "「森林裏有很多（ ）樹。」括號應填：",
+   "answer": "高高的",
+   "options": [
+    "冷冷的",
+    "甜甜的",
+    "高高的",
+    "響響的"
+   ],
+   "explain": "樹可以用「高高的」形容。",
+   "id": "CHI-P2-L05-002",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "「森林裏有很多（ ）樹。」括號應填：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 森林旅店（上）",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "「一（ ）樹」，括號應填：",
+   "answer": "棵",
+   "options": [
+    "張",
+    "隻",
+    "本",
+    "棵"
+   ],
+   "explain": "樹用「棵」：一棵樹。",
+   "id": "CHI-P2-L05-003",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "「一（ ）樹」，括號應填：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 森林旅店（上）",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "「歡迎」的意思最接近：",
+   "answer": "高興地迎接",
+   "options": [
+    "關上大門",
+    "大聲罵人",
+    "高興地迎接",
+    "慢慢走開"
+   ],
+   "explain": "歡迎就是高興地迎接客人。",
+   "id": "CHI-P2-L05-004",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "「歡迎」的意思最接近：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 森林旅店（上）",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "「小鳥在樹上唱歌。」這句子用了擬人法。",
+   "answer": true,
+   "explain": "小鳥像人一樣「唱歌」，是擬人法。",
+   "id": "CHI-P2-L05-005",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "「小鳥在樹上唱歌。」這句子用了擬人法。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 森林旅店（上）",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "「一（ ）床」，括號填量詞。",
+   "answer": [
+    "張"
+   ],
+   "explain": "床用「張」：一張床。",
+   "id": "CHI-P2-L05-006",
+   "grade": "P2",
+   "subject": "chi",
+   "lesson": "L05",
+   "level": "理解",
+   "question": "「一（ ）床」，括號填量詞。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 森林旅店（上）",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "levelId": "p4s5",
+ "grade": "P4",
+ "subject": "sci",
+ "lesson": "L05",
+ "title": "5 大自然的平衡",
+ "verified": false,
+ "questions": [
+  {
+   "type": "order",
+   "q": "排出食物鏈（被吃的在前）。",
+   "items": [
+    "草",
+    "兔",
+    "狐狸"
+   ],
+   "explain": "草被兔吃，兔被狐狸吃。",
+   "answer": [
+    "草",
+    "兔",
+    "狐狸"
+   ],
+   "id": "SCI-P4-L05-001",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L05",
+   "level": "理解",
+   "question": "排出食物鏈（被吃的在前）。",
+   "source": "research.md §5 科學《科學新領域》｜5 大自然的平衡",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "食物鏈的起點通常是：",
+   "answer": "植物",
+   "options": [
+    "老虎",
+    "人類",
+    "植物",
+    "石頭"
+   ],
+   "explain": "植物是生產者，製造養料。",
+   "id": "SCI-P4-L05-002",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "食物鏈的起點通常是：",
+   "source": "research.md §5 科學《科學新領域》｜5 大自然的平衡",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "如果一種動物被大量捕殺，會：",
+   "answer": "破壞大自然的平衡",
+   "options": [
+    "令植物消失得更慢",
+    "令天氣更好",
+    "破壞大自然的平衡",
+    "沒有影響"
+   ],
+   "explain": "生物互相依存。",
+   "id": "SCI-P4-L05-003",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L05",
+   "level": "分析",
+   "question": "如果一種動物被大量捕殺，會：",
+   "source": "research.md §5 科學《科學新領域》｜5 大自然的平衡",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "植物在食物鏈中稱為：",
+   "answer": "生產者",
+   "options": [
+    "捕食者",
+    "消費者",
+    "生產者",
+    "分解者"
+   ],
+   "explain": "植物自己製造養料，是生產者。",
+   "id": "SCI-P4-L05-004",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "植物在食物鏈中稱為：",
+   "source": "research.md §5 科學《科學新領域》｜5 大自然的平衡",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "保護環境可以維持大自然的平衡。",
+   "answer": true,
+   "explain": "人類要保護自然。",
+   "id": "SCI-P4-L05-005",
+   "grade": "P4",
+   "subject": "sci",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "保護環境可以維持大自然的平衡。",
+   "source": "research.md §5 科學《科學新領域》｜5 大自然的平衡",
+   "verified": false
+  }
+ ]
+}

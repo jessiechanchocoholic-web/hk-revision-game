@@ -1,0 +1,104 @@
+{
+ "levelId": "p5c5",
+ "grade": "P5",
+ "subject": "chi",
+ "lesson": "L05",
+ "title": "第5課 鄭和遠航",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "鄭和是哪個朝代的人？",
+   "answer": "明朝",
+   "options": [
+    "唐朝",
+    "宋朝",
+    "清朝",
+    "明朝"
+   ],
+   "explain": "鄭和是明朝航海家。",
+   "id": "CHI-P5-L05-001",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "鄭和是哪個朝代的人？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 鄭和遠航",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "鄭和一共下西洋多少次？",
+   "answer": "七次",
+   "options": [
+    "一次",
+    "七次",
+    "十次",
+    "三次"
+   ],
+   "explain": "鄭和七次下西洋。",
+   "id": "CHI-P5-L05-002",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "鄭和一共下西洋多少次？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 鄭和遠航",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "鄭和遠航主要乘坐甚麼交通工具？",
+   "answer": "船",
+   "options": [
+    "飛機",
+    "馬車",
+    "火車",
+    "船"
+   ],
+   "explain": "鄭和率領龐大船隊出海。",
+   "id": "CHI-P5-L05-003",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "鄭和遠航主要乘坐甚麼交通工具？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 鄭和遠航",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "鄭和遠航的意義是：",
+   "answer": "促進中國與各國的交往",
+   "options": [
+    "逃避戰爭",
+    "尋找金礦",
+    "侵略別國",
+    "促進中國與各國的交往"
+   ],
+   "explain": "鄭和促進了友好交流和貿易。",
+   "id": "CHI-P5-L05-004",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "鄭和遠航的意義是：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 鄭和遠航",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "鄭和只到過香港附近。",
+   "answer": false,
+   "explain": "鄭和遠至東南亞、印度、阿拉伯和非洲東岸。",
+   "id": "CHI-P5-L05-005",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L05",
+   "level": "記憶",
+   "question": "鄭和只到過香港附近。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜第5課 鄭和遠航",
+   "verified": false
+  }
+ ]
+}

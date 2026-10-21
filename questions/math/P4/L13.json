@@ -1,0 +1,127 @@
+{
+ "levelId": "p4m13",
+ "grade": "P4",
+ "subject": "math",
+ "lesson": "L13",
+ "title": "L13 倍數",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "哪個是3的倍數？",
+   "answer": "36",
+   "options": [
+    "23",
+    "26",
+    "36",
+    "86"
+   ],
+   "explain": "36＝3×12。",
+   "id": "MATH-P4-L13-001",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L13",
+   "level": "理解",
+   "question": "哪個是3的倍數？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L13 倍數",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "哪個是4的倍數？",
+   "answer": "24",
+   "options": [
+    "24",
+    "78",
+    "34",
+    "10"
+   ],
+   "explain": "24＝4×6。",
+   "id": "MATH-P4-L13-002",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L13",
+   "level": "理解",
+   "question": "哪個是4的倍數？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L13 倍數",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "哪個是6的倍數？",
+   "answer": "18",
+   "options": [
+    "18",
+    "28",
+    "73",
+    "19"
+   ],
+   "explain": "18＝6×3。",
+   "id": "MATH-P4-L13-003",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L13",
+   "level": "理解",
+   "question": "哪個是6的倍數？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L13 倍數",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "哪個是7的倍數？",
+   "answer": "21",
+   "options": [
+    "21",
+    "92",
+    "15",
+    "99"
+   ],
+   "explain": "21＝7×3。",
+   "id": "MATH-P4-L13-004",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L13",
+   "level": "理解",
+   "question": "哪個是7的倍數？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L13 倍數",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "哪個是8的倍數？",
+   "answer": "88",
+   "options": [
+    "88",
+    "83",
+    "14",
+    "75"
+   ],
+   "explain": "88＝8×11。",
+   "id": "MATH-P4-L13-005",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L13",
+   "level": "理解",
+   "question": "哪個是8的倍數？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L13 倍數",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "6的第4個倍數是多少？",
+   "answer": [
+    "24"
+   ],
+   "explain": "6、12、18、24。",
+   "numeric": true,
+   "id": "MATH-P4-L13-006",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L13",
+   "level": "應用",
+   "question": "6的第4個倍數是多少？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L13 倍數",
+   "verified": false
+  }
+ ]
+}
