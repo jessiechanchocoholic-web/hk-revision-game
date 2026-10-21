@@ -1,0 +1,13 @@
+*{box-sizing:border-box}body{margin:0;font-family:"Microsoft JhengHei","PingFang HK","Noto Sans CJK TC","Heiti TC",sans-serif;background:linear-gradient(#e0f2ff,#fff7e0);min-height:100vh;color:#223}
+header{display:flex;align-items:center;gap:10px;padding:10px 14px;background:#2b6cb0;color:#fff;position:sticky;top:0}header h1{flex:1;font-size:1.2rem;margin:0}
+main{max-width:860px;margin:auto;padding:16px}button{font:inherit;cursor:pointer;border:0;border-radius:14px;padding:14px 18px;font-size:1.15rem;background:#fff;box-shadow:0 3px 0 #0002;margin:6px;color:#223}
+button:active{transform:translateY(2px)}.ghost{background:transparent;box-shadow:none;color:#fff;padding:6px;font-size:1.4rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px}.grid button{margin:0;min-height:90px}
+.big{font-size:1.6rem;font-weight:bold}.card{background:#fff;border-radius:18px;padding:18px;box-shadow:0 4px 12px #0001;margin-bottom:14px}
+.lvl{text-align:left}.lvl small{display:block;color:#666;font-size:.9rem}.locked{opacity:.45}.boss{background:#ffe1e1}.review{background:#fff3c4}
+.q{font-size:1.35rem;line-height:1.6;margin:8px 0 14px}.opts button{display:block;width:100%;text-align:left;margin:8px 0}
+.correct{background:#c6f6d5!important}.wrong{background:#fed7d7!important}.fb{font-size:1.15rem;padding:12px;border-radius:12px;margin-top:10px}
+.fb.ok{background:#e6ffed}.fb.no{background:#fff0f0}input{font:inherit;font-size:1.3rem;padding:12px;border-radius:12px;border:2px solid #9ab;width:100%}
+.prog{height:12px;background:#ddd;border-radius:8px;overflow:hidden}.prog div{height:100%;background:#48bb78}.primary{background:#2b6cb0;color:#fff}
+.tag{display:inline-block;background:#fde68a;border-radius:8px;padding:2px 8px;font-size:.9rem;margin-left:6px}.order-picked{min-height:50px;border:2px dashed #9ab;border-radius:12px;padding:6px;margin:8px 0}
+.note{color:#666;font-size:.9rem}
