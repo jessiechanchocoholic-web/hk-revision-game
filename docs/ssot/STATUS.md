@@ -20,8 +20,8 @@
 | B1-Q-03 | 題庫 P5 英文 | 開發 Bot（題庫） | 待辦 | 2026-10-21 | ✅ 5A Ch1 Good manners（should/shouldn't、adverbs of manner）；Ch2 Be a good friend（verbs/adjectives + prepositions、adverbs of degree）；Ch3 Describing people（prepositional phrases in/with、relative pronoun who）。課文詞彙表 ❌；只用 2nd ed，舊版附件只參考題型 |
 | B1-Q-04 | 題庫 P4 英文 | 開發 Bot（題庫） | 待辦 | 2026-10-21 | ✅ 4A Ch1 My favourite activities（simple present、adverbs of frequency）；Ch2 Shows we like（too/either、both…and、or、but）；Ch3 At the supermarket（comparatives/superlatives、phrases of quantity）。詞彙表 ❌ |
 | B1-Q-05 | 題庫 P4 科學 | 開發 Bot（題庫） | 待辦 | 2026-10-21 | ✅ 四上 L1 地球的結構（有完整樣本：地殼/地幔/地核、板塊、三類岩石、三類土壤）、L2 轉動的地球、L3 天氣和氣候、L4 動植物與環境、L5 大自然的平衡。L2–5 只有課名，內容 ⚠️推斷 |
-| B1-QA-01 | 題庫內容審核：每題對照 research.md 課題、答案正確、⚠️ 題目標 verified:false | QA Bot | 完成 | 2026-10-21 | PR #2 b8e7e98 覆審通過（已核實模式 26 關／154 題）；非阻擋建議見 QA_REPORT.md |
-| B1-QA-02 | 功能測試：關卡、Boss、錯題簿、讀題、手機/平板顯示 | QA Bot | 進行中 | 2026-10-21 | b8e7e98：手機／平板兩模式通過、解鎖及 Boss 正常、讀題修正已驗證；Boss、錯題簿移除、真機粵語語音未測 |
+| B1-QA-01 | 題庫內容審核：每題對照 research.md 課題、答案正確、⚠️ 題目標 verified:false | QA Bot | 完成 | 2026-10-21 | PR #2 88bf137 覆審通過（已核實模式 26 關／154 題）；非阻擋建議見 QA_REPORT.md |
+| B1-QA-02 | 功能測試：關卡、Boss、錯題簿、讀題、手機/平板顯示 | QA Bot | 進行中 | 2026-10-21 | 88bf137：手機／平板兩模式通過、P1 無 Boss、提示及讀題掣修正已驗證、讀題修正已驗證；Boss、錯題簿移除、真機粵語語音未測 |
 | B1-SEC-01 | 私隱審查：不收集學生姓名/個人資料、無登入、無追蹤分析、只用 localStorage | 安全 Bot | 待辦 | 2026-10-21 | |
 | B1-SEC-02 | 檢查 repo 無密鑰/token、無第三方腳本風險、版權（課本內容只作溫習用，不整段抄錄） | 安全 Bot | 待辦 | 2026-10-21 | 版權取向待 Jessie 確認（Q6） |
 | B1-DOC-01 | 老師／家長指南：如何用 JSON 增減題目 | 文件 Bot | 待辦 | 2026-10-21 | 依賴 B1-DEV-01 |
