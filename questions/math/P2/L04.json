@@ -1,0 +1,118 @@
+{
+ "levelId": "p2m4",
+ "grade": "P2",
+ "subject": "math",
+ "lesson": "L04",
+ "title": "L4 加法(二)",
+ "verified": true,
+ "questions": [
+  {
+   "type": "fill",
+   "q": "342 ＋ 302 ＝ ？",
+   "answer": [
+    "644"
+   ],
+   "explain": "342＋302＝644",
+   "numeric": true,
+   "id": "MATH-P2-L04-001",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "342 ＋ 302 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "387 ＋ 454 ＝ ？",
+   "answer": [
+    "841"
+   ],
+   "explain": "387＋454＝841",
+   "numeric": true,
+   "id": "MATH-P2-L04-002",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "387 ＋ 454 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "467 ＋ 250 ＝ ？",
+   "answer": [
+    "717"
+   ],
+   "explain": "467＋250＝717",
+   "numeric": true,
+   "id": "MATH-P2-L04-003",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "467 ＋ 250 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "482 ＋ 322 ＝ ？",
+   "answer": [
+    "804"
+   ],
+   "explain": "482＋322＝804",
+   "numeric": true,
+   "id": "MATH-P2-L04-004",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "482 ＋ 322 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "380 ＋ 444 ＝ ？",
+   "answer": [
+    "824"
+   ],
+   "explain": "380＋444＝824",
+   "numeric": true,
+   "id": "MATH-P2-L04-005",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "380 ＋ 444 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "284 ＋ 394 ＝ ？",
+   "answer": [
+    "678"
+   ],
+   "explain": "284＋394＝678",
+   "numeric": true,
+   "id": "MATH-P2-L04-006",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "284 ＋ 394 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 加法(二)",
+   "verified": true,
+   "readAloud": true
+  }
+ ]
+}

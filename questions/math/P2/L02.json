@@ -1,0 +1,121 @@
+{
+ "levelId": "p2m2",
+ "grade": "P2",
+ "subject": "math",
+ "lesson": "L02",
+ "title": "L2 數數活動",
+ "verified": false,
+ "questions": [
+  {
+   "type": "fill",
+   "q": "25、50、75、（ ），括號應填？",
+   "answer": [
+    "100"
+   ],
+   "explain": "每次加25。",
+   "numeric": true,
+   "id": "MATH-P2-L02-001",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "25、50、75、（ ），括號應填？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "100、200、300、（ ），括號應填？",
+   "answer": [
+    "400"
+   ],
+   "explain": "每次加100。",
+   "numeric": true,
+   "id": "MATH-P2-L02-002",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "100、200、300、（ ），括號應填？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "20、40、60、80、（ ），括號應填？",
+   "answer": [
+    "100"
+   ],
+   "explain": "每次加20。",
+   "numeric": true,
+   "id": "MATH-P2-L02-003",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "20、40、60、80、（ ），括號應填？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "50、100、150、（ ），括號應填？",
+   "answer": [
+    "200"
+   ],
+   "explain": "每次加50。",
+   "numeric": true,
+   "id": "MATH-P2-L02-004",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "50、100、150、（ ），括號應填？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "有6組，每組20粒糖，大約數數共有多少粒？",
+   "answer": "120",
+   "options": [
+    "100",
+    "120",
+    "140",
+    "26"
+   ],
+   "explain": "20、40、60、80、100、120。",
+   "id": "MATH-P2-L02-005",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "有6組，每組20粒糖，大約數數共有多少粒？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "300、275、250、（ ），括號應填？",
+   "answer": [
+    "225"
+   ],
+   "explain": "每次減25。",
+   "numeric": true,
+   "id": "MATH-P2-L02-006",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "300、275、250、（ ），括號應填？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}

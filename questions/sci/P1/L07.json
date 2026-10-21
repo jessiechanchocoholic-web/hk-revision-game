@@ -1,0 +1,98 @@
+{
+ "levelId": "p1s7",
+ "grade": "P1",
+ "subject": "sci",
+ "lesson": "L07",
+ "title": "7 水和空氣",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "人和動物需要甚麼來呼吸？",
+   "answer": "空氣",
+   "options": [
+    "紙",
+    "空氣",
+    "沙",
+    "石頭"
+   ],
+   "explain": "呼吸需要空氣。",
+   "id": "SCI-P1-L07-001",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L07",
+   "level": "記憶",
+   "question": "人和動物需要甚麼來呼吸？",
+   "source": "research.md §5 科學《科學新領域》｜7 水和空氣",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "水放進冰格會變成：",
+   "answer": "冰",
+   "options": [
+    "沙",
+    "冰",
+    "油",
+    "水蒸氣"
+   ],
+   "explain": "水遇冷會結成冰。",
+   "id": "SCI-P1-L07-002",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L07",
+   "level": "記憶",
+   "question": "水放進冰格會變成：",
+   "source": "research.md §5 科學《科學新領域》｜7 水和空氣",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "我們看不見空氣，但空氣是存在的。",
+   "answer": true,
+   "explain": "風就是流動的空氣。",
+   "id": "SCI-P1-L07-003",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L07",
+   "level": "記憶",
+   "question": "我們看不見空氣，但空氣是存在的。",
+   "source": "research.md §5 科學《科學新領域》｜7 水和空氣",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "節約用水，刷牙時應該：",
+   "answer": "關水龍頭",
+   "options": [
+    "關水龍頭",
+    "不刷牙",
+    "一直開着水",
+    "用很多水"
+   ],
+   "explain": "刷牙時關水龍頭可以節約用水。",
+   "id": "SCI-P1-L07-004",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L07",
+   "level": "記憶",
+   "question": "節約用水，刷牙時應該：",
+   "source": "research.md §5 科學《科學新領域》｜7 水和空氣",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "水是不需要節約的。",
+   "answer": false,
+   "explain": "水很珍貴，要節約。",
+   "id": "SCI-P1-L07-005",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L07",
+   "level": "記憶",
+   "question": "水是不需要節約的。",
+   "source": "research.md §5 科學《科學新領域》｜7 水和空氣",
+   "verified": false
+  }
+ ]
+}

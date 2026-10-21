@@ -1,0 +1,112 @@
+{
+ "levelId": "p5m9",
+ "grade": "P5",
+ "subject": "math",
+ "lesson": "L09",
+ "title": "L9 梯形",
+ "verified": false,
+ "questions": [
+  {
+   "type": "fill",
+   "q": "梯形上底6cm，下底15cm，高8cm，面積是多少cm²？",
+   "answer": [
+    "84"
+   ],
+   "explain": "(6＋15)×8÷2＝84",
+   "numeric": true,
+   "id": "MATH-P5-L09-001",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L09",
+   "level": "應用",
+   "question": "梯形上底6cm，下底15cm，高8cm，面積是多少cm²？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 梯形",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "梯形上底10cm，下底14cm，高2cm，面積是多少cm²？",
+   "answer": [
+    "24"
+   ],
+   "explain": "(10＋14)×2÷2＝24",
+   "numeric": true,
+   "id": "MATH-P5-L09-002",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L09",
+   "level": "應用",
+   "question": "梯形上底10cm，下底14cm，高2cm，面積是多少cm²？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 梯形",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "梯形上底3cm，下底5cm，高12cm，面積是多少cm²？",
+   "answer": [
+    "48"
+   ],
+   "explain": "(3＋5)×12÷2＝48",
+   "numeric": true,
+   "id": "MATH-P5-L09-003",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L09",
+   "level": "應用",
+   "question": "梯形上底3cm，下底5cm，高12cm，面積是多少cm²？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 梯形",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "梯形上底9cm，下底12cm，高12cm，面積是多少cm²？",
+   "answer": [
+    "126"
+   ],
+   "explain": "(9＋12)×12÷2＝126",
+   "numeric": true,
+   "id": "MATH-P5-L09-004",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L09",
+   "level": "應用",
+   "question": "梯形上底9cm，下底12cm，高12cm，面積是多少cm²？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 梯形",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "梯形面積公式是：",
+   "answer": "(上底＋下底)×高÷2",
+   "options": [
+    "底×高",
+    "上底×下底",
+    "(上底＋下底)×高÷2",
+    "(上底＋下底)×2"
+   ],
+   "explain": "梯形面積＝(上底＋下底)×高÷2。",
+   "id": "MATH-P5-L09-005",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L09",
+   "level": "記憶",
+   "question": "梯形面積公式是：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 梯形",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "梯形的高是上底和下底之間的垂直距離。",
+   "answer": true,
+   "explain": "高要與底垂直。",
+   "id": "MATH-P5-L09-006",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L09",
+   "level": "理解",
+   "question": "梯形的高是上底和下底之間的垂直距離。",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 梯形",
+   "verified": false
+  }
+ ]
+}

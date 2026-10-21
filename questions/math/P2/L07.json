@@ -1,0 +1,124 @@
+{
+ "levelId": "p2m7",
+ "grade": "P2",
+ "subject": "math",
+ "lesson": "L07",
+ "title": "L7 角和直角",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "時鐘3時正，兩支針形成甚麼角？",
+   "answer": "直角",
+   "options": [
+    "沒有角",
+    "鈍角",
+    "直角",
+    "銳角"
+   ],
+   "explain": "3時正兩針成直角。",
+   "id": "MATH-P2-L07-001",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L07",
+   "level": "理解",
+   "question": "時鐘3時正，兩支針形成甚麼角？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 角和直角",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "一個角有一個頂點和兩條邊。",
+   "answer": true,
+   "explain": "角由頂點和兩條邊組成。",
+   "id": "MATH-P2-L07-002",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L07",
+   "level": "理解",
+   "question": "一個角有一個頂點和兩條邊。",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 角和直角",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "一張長方形紙有多少個直角？",
+   "answer": "4",
+   "options": [
+    "3",
+    "2",
+    "4",
+    "0"
+   ],
+   "explain": "長方形4個角都是直角。",
+   "id": "MATH-P2-L07-003",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L07",
+   "level": "理解",
+   "question": "一張長方形紙有多少個直角？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 角和直角",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "角的大小和邊的長短有關。",
+   "answer": false,
+   "explain": "角的大小只看兩條邊張開的程度。",
+   "id": "MATH-P2-L07-004",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L07",
+   "level": "理解",
+   "question": "角的大小和邊的長短有關。",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 角和直角",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "正方形有多少個直角？",
+   "answer": "4",
+   "options": [
+    "2",
+    "1",
+    "4",
+    "3"
+   ],
+   "explain": "正方形4個角都是直角。",
+   "id": "MATH-P2-L07-005",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L07",
+   "level": "理解",
+   "question": "正方形有多少個直角？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 角和直角",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "三角尺上最大的角通常是：",
+   "answer": "直角",
+   "options": [
+    "平角",
+    "鈍角",
+    "直角",
+    "銳角"
+   ],
+   "explain": "三角尺有一個直角。",
+   "id": "MATH-P2-L07-006",
+   "grade": "P2",
+   "subject": "math",
+   "lesson": "L07",
+   "level": "理解",
+   "question": "三角尺上最大的角通常是：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 角和直角",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}
