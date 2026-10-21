@@ -1,0 +1,110 @@
+{
+ "levelId": "p4m11",
+ "grade": "P4",
+ "subject": "math",
+ "lesson": "L11",
+ "title": "L11 方向(一)",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "面向北，向後轉，面向：",
+   "answer": "南",
+   "options": [
+    "東",
+    "南",
+    "西",
+    "北"
+   ],
+   "explain": "北的相反是南。",
+   "id": "MATH-P4-L11-001",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L11",
+   "level": "理解",
+   "question": "面向北，向後轉，面向：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 方向(一)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "面向北，右手指向：",
+   "answer": "東",
+   "options": [
+    "南",
+    "北",
+    "東",
+    "西"
+   ],
+   "explain": "面北時右手是東。",
+   "id": "MATH-P4-L11-002",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L11",
+   "level": "理解",
+   "question": "面向北，右手指向：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 方向(一)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "面向東，左手指向：",
+   "answer": "北",
+   "options": [
+    "東",
+    "西",
+    "南",
+    "北"
+   ],
+   "explain": "面東時左手是北。",
+   "id": "MATH-P4-L11-003",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L11",
+   "level": "理解",
+   "question": "面向東，左手指向：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 方向(一)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "太陽在早上從哪方升起？",
+   "answer": "東",
+   "options": [
+    "北",
+    "東",
+    "西",
+    "南"
+   ],
+   "explain": "日出東方。",
+   "id": "MATH-P4-L11-004",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L11",
+   "level": "理解",
+   "question": "太陽在早上從哪方升起？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 方向(一)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "東的相反方向是：",
+   "answer": "西",
+   "options": [
+    "北",
+    "南",
+    "東",
+    "西"
+   ],
+   "explain": "東與西相反。",
+   "id": "MATH-P4-L11-005",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L11",
+   "level": "理解",
+   "question": "東的相反方向是：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 方向(一)",
+   "verified": false
+  }
+ ]
+}

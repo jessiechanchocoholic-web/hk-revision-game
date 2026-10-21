@@ -1,0 +1,146 @@
+{
+ "levelId": "p5e2",
+ "grade": "P5",
+ "subject": "eng",
+ "lesson": "L02",
+ "title": "Ch2 Be a good friend",
+ "verified": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Don't quarrel ___ your friends.",
+   "answer": "with",
+   "options": [
+    "on",
+    "of",
+    "with",
+    "at"
+   ],
+   "explain": "quarrel with someone.",
+   "id": "ENG-P5-L02-001",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "Don't quarrel ___ your friends.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "Tom is jealous ___ his brother's new bike.",
+   "answer": "of",
+   "options": [
+    "at",
+    "to",
+    "of",
+    "with"
+   ],
+   "explain": "be jealous of.",
+   "id": "ENG-P5-L02-002",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "Tom is jealous ___ his brother's new bike.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "I am good ___ drawing.",
+   "answer": "at",
+   "options": [
+    "of",
+    "in",
+    "at",
+    "with"
+   ],
+   "explain": "be good at.",
+   "id": "ENG-P5-L02-003",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "I am good ___ drawing.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "Mary is afraid ___ dogs.",
+   "answer": "of",
+   "options": [
+    "with",
+    "in",
+    "of",
+    "at"
+   ],
+   "explain": "be afraid of.",
+   "id": "ENG-P5-L02-004",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "Mary is afraid ___ dogs.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "She is ___ kind. She always helps others. (very strong)",
+   "answer": "really",
+   "options": [
+    "a bit",
+    "not",
+    "a little",
+    "really"
+   ],
+   "explain": "\"really\" shows a high degree.",
+   "id": "ENG-P5-L02-005",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "She is ___ kind. She always helps others. (very strong)",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "I'm ___ tired, but I can still play. (small degree)",
+   "answer": "a bit",
+   "options": [
+    "really",
+    "very",
+    "a bit",
+    "so"
+   ],
+   "explain": "\"a bit\" = a small degree.",
+   "id": "ENG-P5-L02-006",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "I'm ___ tired, but I can still play. (small degree)",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
+   "verified": true
+  },
+  {
+   "type": "fill",
+   "q": "Please share your toys ___ your friends.",
+   "answer": [
+    "with"
+   ],
+   "explain": "share with someone.",
+   "id": "ENG-P5-L02-007",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "理解",
+   "question": "Please share your toys ___ your friends.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
+   "verified": true
+  }
+ ]
+}

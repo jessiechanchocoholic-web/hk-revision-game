@@ -76,5 +76,5 @@ function play(qs,meta){var s=meta.subject;var list=meta.review||meta.boss?qs:shu
    h('p',{},[T(s,'第一次就答對：','First-try correct: ')+score+' / '+list.length]),meta.boss&&stars>=2?h('p',{},['🏅 '+T(s,'獲得 Boss 徽章！','Boss badge earned!')]):h('span'),
    h('button',{onclick:function(){play(qs,meta)}},['🔁 '+T(s,'再玩','Play again')]),h('button',{class:'primary',onclick:function(){world(meta.grade,s)}},[T(s,'返回地圖','Back to map')])]);app.appendChild(c)}
  show()}
-document.getElementById('homeBtn').onclick=home;window.__game={home:home,grade:grade,world:world,play:play};home();
+document.getElementById('homeBtn').onclick=home;window.__game={home:home,grade:grade,world:world,play:play};var m=location.hash.match(/^#level=(.+)$/);var L=m&&BANK.levels.filter(function(l){return l.id===m[1]})[0];if(L)play(L.questions,{id:L.id,title:L.title,grade:L.grade,subject:L.subject});else home();
 })();

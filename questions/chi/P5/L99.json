@@ -1,0 +1,109 @@
+{
+ "levelId": "p5c99",
+ "grade": "P5",
+ "subject": "chi",
+ "lesson": "L99",
+ "title": "實用文：週記",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "週記最主要的作用是：",
+   "answer": "記錄一星期的生活和感受",
+   "options": [
+    "申請工作",
+    "記錄一星期的生活和感受",
+    "邀請朋友",
+    "通知家長"
+   ],
+   "explain": "週記記一星期的生活和感受。",
+   "id": "CHI-P5-L99-001",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L99",
+   "level": "記憶",
+   "question": "週記最主要的作用是：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "週記需要寫上下款。",
+   "answer": false,
+   "explain": "週記寫日期和題目，不用上下款。",
+   "id": "CHI-P5-L99-002",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L99",
+   "level": "記憶",
+   "question": "週記需要寫上下款。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
+   "verified": false
+  },
+  {
+   "type": "order",
+   "q": "排好週記內容。",
+   "items": [
+    "日期",
+    "題目",
+    "事情經過",
+    "感受和反思"
+   ],
+   "explain": "週記：日期、題目、經過、感受。",
+   "answer": [
+    "日期",
+    "題目",
+    "事情經過",
+    "感受和反思"
+   ],
+   "id": "CHI-P5-L99-003",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L99",
+   "level": "理解",
+   "question": "排好週記內容。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "週記用哪種人稱來寫最常見？",
+   "answer": "第一人稱「我」",
+   "options": [
+    "第一人稱「我」",
+    "第三人稱「他」",
+    "不用人稱",
+    "第二人稱「你」"
+   ],
+   "explain": "週記寫自己的經歷，用「我」。",
+   "id": "CHI-P5-L99-004",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L99",
+   "level": "記憶",
+   "question": "週記用哪種人稱來寫最常見？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「今天的事令我明白……」屬於週記的：",
+   "answer": "感受和反思",
+   "options": [
+    "經過的開頭",
+    "日期",
+    "感受和反思",
+    "題目"
+   ],
+   "explain": "寫明白了甚麼是反思。",
+   "id": "CHI-P5-L99-005",
+   "grade": "P5",
+   "subject": "chi",
+   "lesson": "L99",
+   "level": "記憶",
+   "question": "「今天的事令我明白……」屬於週記的：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
+   "verified": false
+  }
+ ]
+}

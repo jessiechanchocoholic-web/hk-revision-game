@@ -1,0 +1,119 @@
+{
+ "levelId": "p5m1",
+ "grade": "P5",
+ "subject": "math",
+ "lesson": "L01",
+ "title": "L1 多位數",
+ "verified": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "在 33,361,030 中，數字 3 在哪個數位？（由左數起第7個數字）",
+   "answer": "十位",
+   "options": [
+    "百位",
+    "個位",
+    "十位",
+    "千位"
+   ],
+   "explain": "由右數起第2位是十位。",
+   "id": "MATH-P5-L01-001",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "在 33,361,030 中，數字 3 在哪個數位？（由左數起第7個數字）",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 多位數",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "在 17,642,902 中，數字 6 在哪個數位？（由左數起第3個數字）",
+   "answer": "十萬位",
+   "options": [
+    "個位",
+    "十萬位",
+    "十位",
+    "百位"
+   ],
+   "explain": "由右數起第6位是十萬位。",
+   "id": "MATH-P5-L01-002",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "在 17,642,902 中，數字 6 在哪個數位？（由左數起第3個數字）",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 多位數",
+   "verified": true
+  },
+  {
+   "type": "fill",
+   "q": "一百萬寫成數字是多少？（不用逗號）",
+   "answer": [
+    "1000000"
+   ],
+   "explain": "一百萬＝1000000。",
+   "numeric": true,
+   "id": "MATH-P5-L01-003",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "一百萬寫成數字是多少？（不用逗號）",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 多位數",
+   "verified": true
+  },
+  {
+   "type": "fill",
+   "q": "3個百萬、5個萬合起來是多少？（不用逗號）",
+   "answer": [
+    "3050000"
+   ],
+   "explain": "3000000＋50000＝3050000。",
+   "numeric": true,
+   "id": "MATH-P5-L01-004",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "3個百萬、5個萬合起來是多少？（不用逗號）",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 多位數",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "7,112,846 和 7,126,192，哪個較大？",
+   "answer": "7,126,192",
+   "options": [
+    "7,112,846",
+    "7,126,192"
+   ],
+   "explain": "由最高位起逐位比較。",
+   "id": "MATH-P5-L01-005",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "7,112,846 和 7,126,192，哪個較大？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 多位數",
+   "verified": true
+  },
+  {
+   "type": "fill",
+   "q": "一千萬有多少個百萬？",
+   "answer": [
+    "10"
+   ],
+   "explain": "10×1000000＝10000000。",
+   "numeric": true,
+   "id": "MATH-P5-L01-006",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "一千萬有多少個百萬？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 多位數",
+   "verified": true
+  }
+ ]
+}

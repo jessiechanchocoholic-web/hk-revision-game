@@ -1,0 +1,104 @@
+{
+ "levelId": "p1e3",
+ "grade": "P1",
+ "subject": "eng",
+ "lesson": "L03",
+ "title": "Ch3 Be good in class",
+ "verified": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "___ talk in class.",
+   "answer": "Don't",
+   "options": [
+    "Please do",
+    "Not",
+    "Do",
+    "Don't"
+   ],
+   "explain": "\"Don't\" tells us not to do something.",
+   "id": "ENG-P1-L03-001",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "___ talk in class.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "Please ___ your hand.",
+   "answer": "put up",
+   "options": [
+    "sleep",
+    "run",
+    "put up",
+    "eat"
+   ],
+   "explain": "Put up your hand before you talk.",
+   "id": "ENG-P1-L03-002",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "Please ___ your hand.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "Please sit ___.",
+   "answer": "down",
+   "options": [
+    "up",
+    "down",
+    "in",
+    "on"
+   ],
+   "explain": "\"Sit down.\"",
+   "id": "ENG-P1-L03-003",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "Please sit ___.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "Don't ___ in the classroom.",
+   "answer": "run",
+   "options": [
+    "listen",
+    "sit",
+    "run",
+    "read"
+   ],
+   "explain": "Don't run in the classroom.",
+   "id": "ENG-P1-L03-004",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "Don't ___ in the classroom.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
+   "verified": true
+  },
+  {
+   "type": "tf",
+   "q": "\"Please listen to the teacher\" is a good class rule.",
+   "answer": true,
+   "explain": "We listen to the teacher in class.",
+   "id": "ENG-P1-L03-005",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "\"Please listen to the teacher\" is a good class rule.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
+   "verified": true
+  }
+ ]
+}

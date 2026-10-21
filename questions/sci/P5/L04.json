@@ -1,0 +1,98 @@
+{
+ "levelId": "p5s4",
+ "grade": "P5",
+ "subject": "sci",
+ "lesson": "L04",
+ "title": "4 可逆轉和不可逆轉的變化",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "以下哪個是可逆轉的變化？",
+   "answer": "冰融化成水",
+   "options": [
+    "燒紙",
+    "生鏽",
+    "冰融化成水",
+    "煎蛋"
+   ],
+   "explain": "水可以再結成冰。",
+   "id": "SCI-P5-L04-001",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "以下哪個是可逆轉的變化？",
+   "source": "research.md §5 科學《科學新領域》｜4 可逆轉和不可逆轉的變化",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "以下哪個是不可逆轉的變化？",
+   "answer": "燒木",
+   "options": [
+    "朱古力融化",
+    "燒木",
+    "水結冰",
+    "水蒸發"
+   ],
+   "explain": "木燒成灰不能變回木。",
+   "id": "SCI-P5-L04-002",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "以下哪個是不可逆轉的變化？",
+   "source": "research.md §5 科學《科學新領域》｜4 可逆轉和不可逆轉的變化",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "鐵生鏽是：",
+   "answer": "不可逆轉的變化",
+   "options": [
+    "可以還原",
+    "不可逆轉的變化",
+    "沒有變化",
+    "可逆轉的變化"
+   ],
+   "explain": "鐵鏽不能變回鐵。",
+   "id": "SCI-P5-L04-003",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "鐵生鏽是：",
+   "source": "research.md §5 科學《科學新領域》｜4 可逆轉和不可逆轉的變化",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "水蒸發成水蒸氣是可逆轉的變化。",
+   "answer": true,
+   "explain": "水蒸氣遇冷凝結成水。",
+   "id": "SCI-P5-L04-004",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "水蒸發成水蒸氣是可逆轉的變化。",
+   "source": "research.md §5 科學《科學新領域》｜4 可逆轉和不可逆轉的變化",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "煮熟的雞蛋可以變回生雞蛋。",
+   "answer": false,
+   "explain": "煮蛋是不可逆轉的變化。",
+   "id": "SCI-P5-L04-005",
+   "grade": "P5",
+   "subject": "sci",
+   "lesson": "L04",
+   "level": "記憶",
+   "question": "煮熟的雞蛋可以變回生雞蛋。",
+   "source": "research.md §5 科學《科學新領域》｜4 可逆轉和不可逆轉的變化",
+   "verified": false
+  }
+ ]
+}
