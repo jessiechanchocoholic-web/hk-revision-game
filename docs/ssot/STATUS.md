@@ -50,3 +50,4 @@ P1 中文一上單元一二、英文 1A Ch1–4、科學一上。
 - 2026-10-21 更新：VERIFIED_ONLY_DEFAULT 改為 true（預設只顯示 28 關／167 題）；P2 加讀題掣（粵語 zh-HK／英文 en）。
 - 2026-10-21 QA 修正：讀題掣重複、排序題讀出答案、P2 數學 L2 及 P5 英文 L2 改 verified:false、level 對應、p4m18、p5c2。已核實模式 26 關／154 題。
 - 2026-10-21 Docs Bot 意見：P1/P2 英文逐題對照 research.md，7 題改 verified:false（build.js UNVERIFIED_Q）。已核實模式 26 關／147 題。
+- 2026-10-21 Jessie 決定：P1/P2 英文 7 題改返 verified:true。已核實模式 26 關／154 題。
