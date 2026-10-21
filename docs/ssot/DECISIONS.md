@@ -20,7 +20,7 @@
 | D-016 | 2026-10-21 | 試玩（公開版）只顯示已核實題目（`verified` 為真） | 由專案經理 Bot 轉達 Jessie 批准（對應 —） | Jessie |
 
 ## 備註
-- D-004 逐課 JSON 規劃已由 D-014 取代。
+- D-004：人手編輯改為 content.txt＋build.js（D-014）；PR #2 仍會由 build.js 自動輸出逐課 JSON（`questions/<subject>/<grade>/<lesson>.json`），作產出檔，唔係人手編輯。
 - D-009 只係決定平台；實際啟用 GitHub Pages 前仍按 D-007 問 Jessie。
 
 ## 待 Jessie 決定

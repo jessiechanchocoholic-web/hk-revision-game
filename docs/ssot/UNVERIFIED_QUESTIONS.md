@@ -3,7 +3,8 @@
 更新：2026-10-21（文件 Bot）｜只標記，**冇改任何題目或答案**。核對後請喺「狀態」欄更新，並通知 QA Bot。
 
 ## 總體說明
-- 現行題庫（`game/questions.js`，97 關、548 題）**所有題目都冇 `source`／`verified` 欄位**，所以全部題目嚴格嚟講都未有逐題來源記錄（見 OPEN-QUESTIONS Q9）。
+- `main` 現行題庫（97 關、548 題）未有 `verified`／`source` 欄位。PR #2 會以**關卡**為單位加 `verified`：28 關／167 題 `true`，其餘 381 題 `false`；`source` 只係科目層級（例「research.md §3 …｜關卡名」），唔係逐題來源。
+- ⚠️ 差異：PR #2 將 P1／P2 英文（p1e0–p1e4、p2e1–p2e3，44 題）標 `verified: true`，但 research.md 只有 language focus、冇詞彙表，本清單仍列為 A11 待核，請 QA／Jessie 決定。
 - 核對依據 `research.md`（未放入 repo，box 路徑 `/workspace/hk-revision-game/research.md`）：✅＝已核實、⚠️＝推斷。
 - 檔案欄：`content.txt`＝`game/tools/content.txt`；`build.js`＝`game/tools/build.js`（數學）。
 - 數學題目大多由程式隨機產生，計算答案由程式計出，主要風險係「課題學習重點係推斷」而唔係計錯。
@@ -44,10 +45,10 @@
 | B12 | content.txt | p1s6 | 「地球上最多的是：水」 | 題意含糊（解說講「地球表面大部分是海洋」），題目字眼可能要改 | 待核 |
 | B13 | content.txt | p2s4 | 回收箱顏色：黃色鋁罐、藍色廢紙、啡色膠樽 | 符合現行香港三色回收桶，但要對課本版本（課本可能用其他講法） | 待核 |
 | B14 | content.txt | p4h2 | 「大帽山約957米」（解說） | 數字要對課本（常見寫 957 米） | 待核 |
-| B15 | build.js | p2m18 | 報時題「時針指着 h 和 h+1 之間（或剛好 h）」 | 題目字眼同時包含兩種情況，對 P2 可能混淆；分針「指着12」表示正點 | 待核 |
+| B15 | build.js | p2m18 | 報時題「時針指着 h 和 h+1 之間（或剛好 h）」 | 題目字眼同時包含兩種情況，對 P2 可能混淆；分針「指着12」表示正點 | PR #2 已改字眼（正點寫「時針指着 h」，否則「在 h 和 h+1 之間」），待 QA 確認 |
 | B16 | build.js | p2m20 | 「平年的2月有多少日？」「平年一年有多少日？」 | 「平年／閏年」可能超出 P2 L20 範圍 | 待核 |
 
 ## 統計
 - A 類（整關待核實）：11 組，389 題
 - B 類（個別題目疑問）：16 項
-- 整個題庫無 `verified`／`source` 欄位：548 題
+- PR #2 合併後 `verified: false`：381 題（`main` 現時全部 548 題無此欄位）
