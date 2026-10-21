@@ -55,7 +55,7 @@
    "grade": "P4",
    "subject": "math",
    "lesson": "L18",
-   "level": "理解",
+   "level": "應用",
    "question": "把一個圖形分割，各部分面積加起來等於原來的面積。",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 圖形分割",
    "verified": false
@@ -79,21 +79,21 @@
   },
   {
    "type": "mc",
-   "q": "一個梯形可以分割成：",
-   "answer": "一個長方形和三角形",
+   "q": "沿一條對角線剪開一個梯形，可以得到：",
+   "answer": "兩個三角形",
    "options": [
-    "只能是梯形",
+    "兩個梯形",
     "兩個圓形",
-    "一個長方形和三角形",
+    "兩個三角形",
     "一個圓形和正方形"
    ],
-   "explain": "梯形可分成長方形和三角形。",
+   "explain": "對角線把梯形分成兩個三角形。",
    "id": "MATH-P4-L18-005",
    "grade": "P4",
    "subject": "math",
    "lesson": "L18",
    "level": "理解",
-   "question": "一個梯形可以分割成：",
+   "question": "沿一條對角線剪開一個梯形，可以得到：",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 圖形分割",
    "verified": false
   }

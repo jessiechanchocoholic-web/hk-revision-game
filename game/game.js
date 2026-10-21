@@ -61,12 +61,11 @@ function play(qs,meta){var s=meta.subject;var list=meta.review||meta.boss?qs:shu
   var c=h('div',{class:'card'});c.appendChild(h('div',{},[h('button',{onclick:function(){world(meta.grade,s)}},['⬅ '+T(s,'離開','Quit')]),h('b',{},[meta.title]),h('span',{class:'tag'},[(i+1)+' / '+list.length])]));
   var pr=h('div',{class:'prog'},[h('div',{style:'width:'+(i/list.length*100)+'%'})]);c.appendChild(pr);
   var qtext=q.type==='order'?q.q:q.q;c.appendChild(h('div',{class:'q'},[qtext]));
-  if(readAloud){var say=qtext+(q.options?'。'+q.options.join('，'):'')+(q.items?'。'+q.items.join('，'):'');
+  var shown=q.items?shuffle(q.items):null;
+  if(readAloud){var say=qtext.replace(/[。：:]$/,'')+(q.options?'。'+q.options.join('，'):'')+(shown?'。'+shown.join('，'):'');
    if('speechSynthesis' in window){c.appendChild(h('button',{class:'speak','aria-label':'read aloud',onclick:function(){loadV();speak(say,lang)}},['🔊 '+T(s,'讀題','Read aloud')]))}
    else c.appendChild(h('small',{class:'note'},[T(s,'此瀏覽器不支援讀題','Read-aloud not supported in this browser')]))}
   if(q._from)c.appendChild(h('div',{class:'note'},[q._from]));
-  if(meta.grade==='P2'){var spLang=(s==='eng')?'en-GB':'zh-HK';if(canSpeak(spLang)){c.appendChild(h('button',{onclick:function(){var t=q.q;if(q.options)t+='。 '+q.options.join('， ');speak(t,spLang)}},['🔊 '+T(s,'讀題','Read aloud')]))}
-   else c.appendChild(h('div',{class:'note'},[T(s,'（呢部電腦未安裝廣東話語音，請老師讀題）','(No English voice installed on this computer – teacher please read the question.)')]))}
   var area=h('div',{class:'opts'});c.appendChild(area);var fb=h('div');c.appendChild(fb);app.appendChild(c);
   function result(ok,btn){if(ok){if(firstTry)score++;if(meta.review)rightInReview(meta,q);fb.className='fb ok';fb.innerHTML='';fb.appendChild(document.createTextNode('✅ '+T(s,'答對了！','Correct! ')+(q.explain||'')));
     fb.appendChild(h('div',{},[h('button',{class:'primary',onclick:function(){i++;i<list.length?show():finish()}},[T(s,'下一題 ➜','Next ➜')])]));Array.prototype.forEach.call(area.querySelectorAll('button,input'),function(b){b.disabled=true})}
@@ -77,7 +76,7 @@ function play(qs,meta){var s=meta.subject;var list=meta.review||meta.boss?qs:shu
    var go=function(){var v=norm(inp.value);if(!v)return;var ok=q.answer.some(function(a){return norm(a)===v});if(ok)inp.classList.add('correct');else{inp.classList.add('wrong');setTimeout(function(){inp.classList.remove('wrong')},600)}result(ok)};
    inp.onkeydown=function(e){if(e.key==='Enter')go()};area.appendChild(inp);area.appendChild(h('button',{class:'primary',onclick:go},[T(s,'確定','Check')]));setTimeout(function(){inp.focus()},50)}
   else if(q.type==='order'){var picked=[];var box=h('div',{class:'order-picked'});area.appendChild(h('div',{class:'note'},[T(s,'依次序按下：','Tap in order:')]));area.appendChild(box);
-   var pool=h('div');shuffle(q.items).forEach(function(it){var b=h('button',{onclick:function(){picked.push(it);b.disabled=true;box.appendChild(h('span',{class:'tag'},[it]));if(picked.length===q.items.length){var ok=picked.join('|')===q.items.join('|');result(ok);if(!ok){picked=[];box.innerHTML='';Array.prototype.forEach.call(pool.children,function(x){x.disabled=false})}}}},[it]);pool.appendChild(b)});area.appendChild(pool)}
+   var pool=h('div');shown.forEach(function(it){var b=h('button',{onclick:function(){picked.push(it);b.disabled=true;box.appendChild(h('span',{class:'tag'},[it]));if(picked.length===q.items.length){var ok=picked.join('|')===q.items.join('|');result(ok);if(!ok){picked=[];box.innerHTML='';Array.prototype.forEach.call(pool.children,function(x){x.disabled=false})}}}},[it]);pool.appendChild(b)});area.appendChild(pool)}
  }
  function finish(){var r=score/list.length;var stars=r>=.9?3:r>=.7?2:r>=.5?1:0;if(!meta.review)st.stars[meta.id]=Math.max(st.stars[meta.id]||0,stars);
   if(meta.boss&&stars>=2)st.badges[meta.id]=1;var all=levelsOf(meta.grade,s);if(all.length&&all.every(function(l){return st.stars[l.id]===3}))st.badges['perfect-'+meta.grade+'-'+s]=1;save();upd();

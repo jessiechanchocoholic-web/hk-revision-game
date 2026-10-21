@@ -133,7 +133,7 @@ L('P4','p4m18','L18 圖形分割',[
  mcN('一個長方形沿中間直線剪成兩半，可能得到兩個：','長方形',['三角形（一定）','圓形','五邊形'],'沿中線剪成兩個長方形。'),
  {type:'tf',q:'把一個圖形分割，各部分面積加起來等於原來的面積。',answer:true,explain:'分割不改變總面積。'},
  fillN('一個正方形畫兩條對角線，可分成多少個三角形？',4,'兩條對角線分成4個三角形。'),
- mcN('一個梯形可以分割成：','一個長方形和三角形',['兩個圓形','一個圓形和正方形','只能是梯形'],'梯形可分成長方形和三角形。')]);
+ mcN('沿一條對角線剪開一個梯形，可以得到：','兩個三角形',['兩個圓形','一個圓形和正方形','兩個梯形'],'對角線把梯形分成兩個三角形。')]);
 L('P4','p4m19','L19 圖形拼砌',[
  mcN('兩個相同的直角三角形可以拼成：','長方形',['圓形','五邊形','圓柱'],'兩個直角三角形可拼成長方形。'),
  fillN('用多少個相同的小正方形可拼成一個邊長2格的正方形？',4,'2×2＝4。'),
@@ -173,10 +173,19 @@ L('P5','p5m15','L15 代數符號(二)',[...rep(3,()=>{const x=ri(2,12),y=ri(1,9)
 const SUBJ_CODE={chi:'CHI',eng:'ENG',math:'MATH',hum:'HUM',sci:'SCI'};
 const SRC={chi:'research.md §1 中文《我愛學語文》（第二版）',eng:'research.md §2 Primary Longman Elect (2nd ed)',math:'research.md §3 數學《小學數學新思維》（第二版）',hum:'research.md §4 人文《今日人文》',sci:'research.md §5 科學《科學新領域》'};
 // 只有「課題＋學習重點」都已 ✅ 的關卡先標 verified:true；其餘（只核實課名／題型推斷）一律 false
-const VERIFIED=new Set(['p2m1','p2m2','p2m3','p2m4','p2m5','p2m6','p5m1','p5m2','p5m3','p5m4','p5m5','p5m6',
- 'p1e0','p1e1','p1e2','p1e3','p1e4','p2e1','p2e2','p2e3','p4e1','p4e2','p4e3','p5e1','p5e2','p5e3','p4s1','p2s1']);
+const VERIFIED=new Set(['p2m1','p2m3','p2m4','p2m5','p2m6','p5m1','p5m2','p5m3','p5m4','p5m5','p5m6',
+ 'p1e0','p1e1','p1e2','p1e3','p1e4','p2e1','p2e2','p2e3','p4e1','p4e2','p4e3','p5e1','p5e3','p4s1','p2s1']);
 const lessonNo=l=>{const m=l.id.match(/(\d+)$/);return 'L'+String(+m[1]).padStart(2,'0')};
-const levelOf=(l,q)=>/應用題/.test(l.title)?'應用':l.subject==='math'?(q.type==='fill'?'應用':'理解'):(q.type==='mc'||q.type==='tf')?'記憶':'理解';
+// 能力層次：可喺題目加 level 覆寫；否則按內容推定
+const RECALL=/叫做|叫：|公式|寫成數字|是多少個|有多少個月|有多少日|一年有|＝（ ）|1小時|1米|相反方向是|數位|位是多少|有多少個主要方向/;
+const ANALYSE=/為甚麼|原因|推斷|如果|最可能|最適合|哪個最|判斷/;
+const levelOf=(l,q)=>{if(q.level)return q.level;const t=q.q||'';
+ if(/應用題/.test(l.title))return '應用';
+ if(ANALYSE.test(t))return '分析';
+ if(l.subject==='math'){if(RECALL.test(t))return '記憶';return q.type==='fill'||/[＋－×÷]|面積|周界|餘數|分給|共有|剩下/.test(t)?'應用':'理解'}
+ if(l.subject==='eng')return q.type==='tf'?'理解':'應用';
+ if(q.type==='order')return '理解';
+ return q.type==='fill'?'理解':'記憶'};
 for(const l of levels){l.lesson=lessonNo(l);l.verified=VERIFIED.has(l.id);
  l.questions.forEach((q,i)=>{if(q.type==='order'&&q.answer===undefined)q.answer=q.items.slice();Object.assign(q,{id:`${SUBJ_CODE[l.subject]}-${l.grade}-${l.lesson}-${String(i+1).padStart(3,'0')}`,grade:l.grade,subject:l.subject,lesson:l.lesson,level:levelOf(l,q),question:q.q,source:SRC[l.subject]+'｜'+l.title,verified:l.verified});if(l.grade==='P2')q.readAloud=true;});
  const dir=path.join(__dirname,'..','..','questions',l.subject,l.grade);fs.mkdirSync(dir,{recursive:true});

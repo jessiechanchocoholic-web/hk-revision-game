@@ -48,3 +48,4 @@ P1 中文一上單元一二、英文 1A Ch1–4、科學一上。
 - 「能力層次」(level) 由題型自動推定，待 QA 抽查
 - 2026-10-21 更新：加「只顯示 verified:true」開關（`VERIFIED_ONLY_DEFAULT`／`?verifiedOnly=1`），預設顯示全部；開啟時 28 關／167 題。上線前用邊個模式待 Jessie 決定。
 - 2026-10-21 更新：VERIFIED_ONLY_DEFAULT 改為 true（預設只顯示 28 關／167 題）；P2 加讀題掣（粵語 zh-HK／英文 en）。
+- 2026-10-21 QA 修正：讀題掣重複、排序題讀出答案、P2 數學 L2 及 P5 英文 L2 改 verified:false、level 對應、p4m18、p5c2。已核實模式 26 關／154 題。

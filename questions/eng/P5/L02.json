@@ -4,7 +4,7 @@
  "subject": "eng",
  "lesson": "L02",
  "title": "Ch2 Be a good friend",
- "verified": true,
+ "verified": false,
  "questions": [
   {
    "type": "mc",
@@ -21,10 +21,10 @@
    "grade": "P5",
    "subject": "eng",
    "lesson": "L02",
-   "level": "記憶",
+   "level": "應用",
    "question": "Don't quarrel ___ your friends.",
    "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
-   "verified": true
+   "verified": false
   },
   {
    "type": "mc",
@@ -41,10 +41,10 @@
    "grade": "P5",
    "subject": "eng",
    "lesson": "L02",
-   "level": "記憶",
+   "level": "應用",
    "question": "Tom is jealous ___ his brother's new bike.",
    "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
-   "verified": true
+   "verified": false
   },
   {
    "type": "mc",
@@ -61,10 +61,10 @@
    "grade": "P5",
    "subject": "eng",
    "lesson": "L02",
-   "level": "記憶",
+   "level": "應用",
    "question": "I am good ___ drawing.",
    "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
-   "verified": true
+   "verified": false
   },
   {
    "type": "mc",
@@ -81,10 +81,10 @@
    "grade": "P5",
    "subject": "eng",
    "lesson": "L02",
-   "level": "記憶",
+   "level": "應用",
    "question": "Mary is afraid ___ dogs.",
    "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
-   "verified": true
+   "verified": false
   },
   {
    "type": "mc",
@@ -101,10 +101,10 @@
    "grade": "P5",
    "subject": "eng",
    "lesson": "L02",
-   "level": "記憶",
+   "level": "應用",
    "question": "She is ___ kind. She always helps others. (very strong)",
    "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
-   "verified": true
+   "verified": false
   },
   {
    "type": "mc",
@@ -121,10 +121,10 @@
    "grade": "P5",
    "subject": "eng",
    "lesson": "L02",
-   "level": "記憶",
+   "level": "應用",
    "question": "I'm ___ tired, but I can still play. (small degree)",
    "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
-   "verified": true
+   "verified": false
   },
   {
    "type": "fill",
@@ -137,10 +137,10 @@
    "grade": "P5",
    "subject": "eng",
    "lesson": "L02",
-   "level": "理解",
+   "level": "應用",
    "question": "Please share your toys ___ your friends.",
    "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
-   "verified": true
+   "verified": false
   }
  ]
 }

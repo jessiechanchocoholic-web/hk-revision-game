@@ -9,3 +9,4 @@
 | 2026-10-21 | 開發 Bot（題庫） | QA Bot | B1-Q-01~05 → B1-QA-01 | PR feat/question-bank：548 題，加齊 CONVENTIONS 必填欄位、JSON 檔、validate 檢查（ALL OK）、headless 載入測試通過 | QA 對照 research.md 審核答案；重點抽查 verified:false 關卡；通過後改「完成」 |
 | 2026-10-21 | 開發 Bot（題庫） | QA Bot | B1-Q-01~05 → B1-QA-01 | PR #2 加 verified-only 開關；兩個模式 headless 測試通過 | QA 測 `?verifiedOnly=1`（28 關／167 題）同預設模式 |
 | 2026-10-21 | 開發 Bot（題庫） | QA Bot | B1-Q-01~05、B1-DEV-06 → B1-QA-01/02 | PR #2：預設只顯示已核實；P2 讀題掣 | QA 喺真機（iPad/Android/Chrome）試粵語聲；`?verifiedOnly=0` 測全部題目 |
+| 2026-10-21 | 開發 Bot（題庫） | QA Bot | B1-QA-01/02 覆審 | 已修 QA 7 項（見 PR #2 留言） | QA 覆審；真機試粵語聲 |

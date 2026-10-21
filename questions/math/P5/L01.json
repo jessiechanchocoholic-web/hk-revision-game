@@ -21,7 +21,7 @@
    "grade": "P5",
    "subject": "math",
    "lesson": "L01",
-   "level": "理解",
+   "level": "記憶",
    "question": "在 33,361,030 中，數字 3 在哪個數位？（由左數起第7個數字）",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 多位數",
    "verified": true
@@ -41,7 +41,7 @@
    "grade": "P5",
    "subject": "math",
    "lesson": "L01",
-   "level": "理解",
+   "level": "記憶",
    "question": "在 17,642,902 中，數字 6 在哪個數位？（由左數起第3個數字）",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 多位數",
    "verified": true
@@ -58,7 +58,7 @@
    "grade": "P5",
    "subject": "math",
    "lesson": "L01",
-   "level": "應用",
+   "level": "記憶",
    "question": "一百萬寫成數字是多少？（不用逗號）",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 多位數",
    "verified": true

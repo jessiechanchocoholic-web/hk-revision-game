@@ -4,7 +4,7 @@
  "subject": "math",
  "lesson": "L02",
  "title": "L2 數數活動",
- "verified": true,
+ "verified": false,
  "questions": [
   {
    "type": "fill",
@@ -21,7 +21,7 @@
    "level": "應用",
    "question": "25、50、75、（ ），括號應填？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
-   "verified": true,
+   "verified": false,
    "readAloud": true
   },
   {
@@ -39,7 +39,7 @@
    "level": "應用",
    "question": "100、200、300、（ ），括號應填？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
-   "verified": true,
+   "verified": false,
    "readAloud": true
   },
   {
@@ -57,7 +57,7 @@
    "level": "應用",
    "question": "20、40、60、80、（ ），括號應填？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
-   "verified": true,
+   "verified": false,
    "readAloud": true
   },
   {
@@ -75,7 +75,7 @@
    "level": "應用",
    "question": "50、100、150、（ ），括號應填？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
-   "verified": true,
+   "verified": false,
    "readAloud": true
   },
   {
@@ -93,10 +93,10 @@
    "grade": "P2",
    "subject": "math",
    "lesson": "L02",
-   "level": "理解",
+   "level": "應用",
    "question": "有6組，每組20粒糖，大約數數共有多少粒？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
-   "verified": true,
+   "verified": false,
    "readAloud": true
   },
   {
@@ -114,7 +114,7 @@
    "level": "應用",
    "question": "300、275、250、（ ），括號應填？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
-   "verified": true,
+   "verified": false,
    "readAloud": true
   }
  ]
