@@ -46,3 +46,4 @@ P1 中文一上單元一二、英文 1A Ch1–4、科學一上。
 - 題庫：97 關、548 題；`questions/<subject>/<grade>/<lesson>.json`（由 `game/tools/build.js` 生成，與 `game/questions.js` 同步）
 - verified:true 關卡：數學 P2 L1–L6、P5 L1–L6；英文 P1/P2/P4/P5 全部；科學 P4 L1、P2 L1。其餘全部 verified:false（只核實課名或題型推斷）
 - 「能力層次」(level) 由題型自動推定，待 QA 抽查
+- 2026-10-21 更新：加「只顯示 verified:true」開關（`VERIFIED_ONLY_DEFAULT`／`?verifiedOnly=1`），預設顯示全部；開啟時 28 關／167 題。上線前用邊個模式待 Jessie 決定。

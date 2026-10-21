@@ -1,6 +1,11 @@
 (function(){
 'use strict';
 var BANK=window.QUESTION_BANK||{levels:[]};
+// 只顯示已核實題目開關：改 VERIFIED_ONLY_DEFAULT 為 true 即全面只顯示 verified:true；或用網址 ?verifiedOnly=1（=0 強制顯示全部）
+var VERIFIED_ONLY_DEFAULT=false;
+var VO=(function(){var m=location.search.match(/[?&]verifiedOnly=([01])/);return m?m[1]==='1':VERIFIED_ONLY_DEFAULT})();
+if(VO)BANK={version:BANK.version,levels:BANK.levels.map(function(l){var o={};for(var k in l)o[k]=l[k];o.questions=l.questions.filter(function(q){return q.verified===true});return o}).filter(function(l){return l.questions.length>0})};
+window.__verifiedOnly=VO;
 var GRADES=[{id:'P1',name:'一年級',note:'練習關'},{id:'P2',name:'二年級'},{id:'P4',name:'四年級'},{id:'P5',name:'五年級'}];
 var SUBJ={chi:{name:'中文城',icon:'📜'},eng:{name:'English Island',icon:'🏝️'},math:{name:'數學山',icon:'⛰️'},hum:{name:'人文村',icon:'🏘️'},sci:{name:'科學實驗室',icon:'🔬'}};
 var KEY='hk-revision-quest-v1';var st;try{st=JSON.parse(localStorage.getItem(KEY))||{}}catch(e){st={}}

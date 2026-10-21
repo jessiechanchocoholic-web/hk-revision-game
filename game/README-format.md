@@ -22,3 +22,4 @@ window.QUESTION_BANK = { version: "2026-10-21", levels: [
   - 新關卡：`## 年級|科目|關卡id|標題`
 - 進度存喺瀏覽器 localStorage（key `hk-revision-quest-v1`）：星星、徽章、錯題簿（答錯入簿，複習時答對2次先移除）。
 - 測試關卡：`index.html#level=p5m4` 直接開某一關。
+- **只顯示已核實題目**：`game.js` 頂部 `VERIFIED_ONLY_DEFAULT`（預設 `false`＝顯示全部；改 `true` 即只顯示 `verified:true`）。網址參數 `?verifiedOnly=1` 開／`?verifiedOnly=0` 關，優先於預設。開啟時冇已核實題目嘅關卡同世界會隱藏（現時 28 關／167 題）。
