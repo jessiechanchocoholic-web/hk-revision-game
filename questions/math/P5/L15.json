@@ -1,0 +1,118 @@
+{
+ "levelId": "p5m15",
+ "grade": "P5",
+ "subject": "math",
+ "lesson": "L15",
+ "title": "L15 代數符號(二)",
+ "verified": false,
+ "questions": [
+  {
+   "type": "fill",
+   "q": "若 a ＝ 5、b ＝ 1，2a ＋ b ＝ ？",
+   "answer": [
+    "11"
+   ],
+   "explain": "2×5＋1＝11",
+   "numeric": true,
+   "id": "MATH-P5-L15-001",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L15",
+   "level": "應用",
+   "question": "若 a ＝ 5、b ＝ 1，2a ＋ b ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L15 代數符號(二)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "若 a ＝ 4、b ＝ 1，2a ＋ b ＝ ？",
+   "answer": [
+    "9"
+   ],
+   "explain": "2×4＋1＝9",
+   "numeric": true,
+   "id": "MATH-P5-L15-002",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L15",
+   "level": "應用",
+   "question": "若 a ＝ 4、b ＝ 1，2a ＋ b ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L15 代數符號(二)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "若 a ＝ 4、b ＝ 2，2a ＋ b ＝ ？",
+   "answer": [
+    "10"
+   ],
+   "explain": "2×4＋2＝10",
+   "numeric": true,
+   "id": "MATH-P5-L15-003",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L15",
+   "level": "應用",
+   "question": "若 a ＝ 4、b ＝ 2，2a ＋ b ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L15 代數符號(二)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "每枝筆 p 元，買 6 枝要付：",
+   "answer": "6p 元",
+   "options": [
+    "p－6 元",
+    "6p 元",
+    "p＋6 元",
+    "p÷6 元"
+   ],
+   "explain": "6×p＝6p。",
+   "id": "MATH-P5-L15-004",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L15",
+   "level": "理解",
+   "question": "每枝筆 p 元，買 6 枝要付：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L15 代數符號(二)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "小明有 m 張貼紙，送出 4 張，剩下：",
+   "answer": "m－4 張",
+   "options": [
+    "4－m 張",
+    "4m 張",
+    "m＋4 張",
+    "m－4 張"
+   ],
+   "explain": "m－4。",
+   "id": "MATH-P5-L15-005",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L15",
+   "level": "應用",
+   "question": "小明有 m 張貼紙，送出 4 張，剩下：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L15 代數符號(二)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "若 n ＝ 9，8n － 9 ＝ ？",
+   "answer": [
+    "63"
+   ],
+   "explain": "8×9－9＝63",
+   "numeric": true,
+   "id": "MATH-P5-L15-006",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L15",
+   "level": "應用",
+   "question": "若 n ＝ 9，8n － 9 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L15 代數符號(二)",
+   "verified": false
+  }
+ ]
+}

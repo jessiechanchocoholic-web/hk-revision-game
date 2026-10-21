@@ -1,0 +1,104 @@
+{
+ "levelId": "p1e2",
+ "grade": "P1",
+ "subject": "eng",
+ "lesson": "L02",
+ "title": "Ch2 Nice to meet you",
+ "verified": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Tom is a boy. ___ is my friend.",
+   "answer": "He",
+   "options": [
+    "We",
+    "He",
+    "She",
+    "It"
+   ],
+   "explain": "Use \"he\" for a boy.",
+   "id": "ENG-P1-L02-001",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "Tom is a boy. ___ is my friend.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Nice to meet you",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "Amy is a girl. ___ is seven.",
+   "answer": "She",
+   "options": [
+    "He",
+    "We",
+    "They",
+    "She"
+   ],
+   "explain": "Use \"she\" for a girl.",
+   "id": "ENG-P1-L02-002",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "Amy is a girl. ___ is seven.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Nice to meet you",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "Ben and I ___ classmates.",
+   "answer": "are",
+   "options": [
+    "are",
+    "am",
+    "is",
+    "be"
+   ],
+   "explain": "\"We are\" / \"Ben and I are\".",
+   "id": "ENG-P1-L02-003",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "Ben and I ___ classmates.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Nice to meet you",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "Nice to meet you!",
+   "answer": "Nice to meet you too!",
+   "options": [
+    "Nice to meet you too!",
+    "I am six.",
+    "Good night!",
+    "Goodbye!"
+   ],
+   "explain": "Reply with \"Nice to meet you too!\".",
+   "id": "ENG-P1-L02-004",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "Nice to meet you!",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Nice to meet you",
+   "verified": true
+  },
+  {
+   "type": "tf",
+   "q": "We say \"She is\" for a boy.",
+   "answer": false,
+   "explain": "For a boy we say \"He is\".",
+   "id": "ENG-P1-L02-005",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "理解",
+   "question": "We say \"She is\" for a boy.",
+   "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Nice to meet you",
+   "verified": true
+  }
+ ]
+}

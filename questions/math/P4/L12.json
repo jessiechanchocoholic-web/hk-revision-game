@@ -1,0 +1,130 @@
+{
+ "levelId": "p4m12",
+ "grade": "P4",
+ "subject": "math",
+ "lesson": "L12",
+ "title": "L12 方向(二)",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "東和北之間的方向是：",
+   "answer": "東北",
+   "options": [
+    "東北",
+    "西南",
+    "東南",
+    "西北"
+   ],
+   "explain": "東、北之間是東北。",
+   "id": "MATH-P4-L12-001",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L12",
+   "level": "理解",
+   "question": "東和北之間的方向是：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L12 方向(二)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "西北的相反方向是：",
+   "answer": "東南",
+   "options": [
+    "南",
+    "西南",
+    "東南",
+    "東北"
+   ],
+   "explain": "西北對東南。",
+   "id": "MATH-P4-L12-002",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L12",
+   "level": "記憶",
+   "question": "西北的相反方向是：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L12 方向(二)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "西和南之間的方向是：",
+   "answer": "西南",
+   "options": [
+    "東南",
+    "西南",
+    "東北",
+    "西北"
+   ],
+   "explain": "西南。",
+   "id": "MATH-P4-L12-003",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L12",
+   "level": "理解",
+   "question": "西和南之間的方向是：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L12 方向(二)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "東北的相反方向是：",
+   "answer": "西南",
+   "options": [
+    "西北",
+    "南",
+    "東南",
+    "西南"
+   ],
+   "explain": "東北對西南。",
+   "id": "MATH-P4-L12-004",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L12",
+   "level": "記憶",
+   "question": "東北的相反方向是：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L12 方向(二)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "面向北，向右轉半個直角，面向：",
+   "answer": "東北",
+   "options": [
+    "北",
+    "東",
+    "西北",
+    "東北"
+   ],
+   "explain": "北和東之間是東北。",
+   "id": "MATH-P4-L12-005",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L12",
+   "level": "理解",
+   "question": "面向北，向右轉半個直角，面向：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L12 方向(二)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "一共有多少個主要方向（包括東南西北和四個斜方向）？",
+   "answer": "8",
+   "options": [
+    "4",
+    "6",
+    "8",
+    "10"
+   ],
+   "explain": "東、南、西、北及東北、東南、西北、西南。",
+   "id": "MATH-P4-L12-006",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L12",
+   "level": "記憶",
+   "question": "一共有多少個主要方向（包括東南西北和四個斜方向）？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L12 方向(二)",
+   "verified": false
+  }
+ ]
+}

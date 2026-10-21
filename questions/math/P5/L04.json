@@ -1,0 +1,115 @@
+{
+ "levelId": "p5m4",
+ "grade": "P5",
+ "subject": "math",
+ "lesson": "L04",
+ "title": "L4 異分母分數加法",
+ "verified": true,
+ "questions": [
+  {
+   "type": "fill",
+   "q": "5/9 ＋ 1/3 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+   "answer": [
+    "8/9"
+   ],
+   "explain": "通分：15/27 ＋ 9/27 ＝ 24/27 ＝ 8/9",
+   "fraction": true,
+   "id": "MATH-P5-L04-001",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "5/9 ＋ 1/3 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 異分母分數加法",
+   "verified": true
+  },
+  {
+   "type": "fill",
+   "q": "3/4 ＋ 1/3 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+   "answer": [
+    "13/12"
+   ],
+   "explain": "通分：9/12 ＋ 4/12 ＝ 13/12 ＝ 13/12",
+   "fraction": true,
+   "id": "MATH-P5-L04-002",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "3/4 ＋ 1/3 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 異分母分數加法",
+   "verified": true
+  },
+  {
+   "type": "fill",
+   "q": "3/4 ＋ 9/10 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+   "answer": [
+    "33/20"
+   ],
+   "explain": "通分：30/40 ＋ 36/40 ＝ 66/40 ＝ 33/20",
+   "fraction": true,
+   "id": "MATH-P5-L04-003",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "3/4 ＋ 9/10 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 異分母分數加法",
+   "verified": true
+  },
+  {
+   "type": "fill",
+   "q": "11/12 ＋ 5/7 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+   "answer": [
+    "137/84"
+   ],
+   "explain": "通分：77/84 ＋ 60/84 ＝ 137/84 ＝ 137/84",
+   "fraction": true,
+   "id": "MATH-P5-L04-004",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "11/12 ＋ 5/7 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 異分母分數加法",
+   "verified": true
+  },
+  {
+   "type": "fill",
+   "q": "3/10 ＋ 4/7 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+   "answer": [
+    "61/70"
+   ],
+   "explain": "通分：21/70 ＋ 40/70 ＝ 61/70 ＝ 61/70",
+   "fraction": true,
+   "id": "MATH-P5-L04-005",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "3/10 ＋ 4/7 ＝ ？（用最簡分數，例如 5/6 或 1 1/2 寫成 3/2）",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 異分母分數加法",
+   "verified": true
+  },
+  {
+   "type": "mc",
+   "q": "1/2 ＋ 1/3 ＝ ？",
+   "answer": "5/6",
+   "options": [
+    "1/6",
+    "2/5",
+    "5/6",
+    "2/6"
+   ],
+   "explain": "3/6＋2/6＝5/6。不可以分子加分子、分母加分母。",
+   "id": "MATH-P5-L04-006",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "1/2 ＋ 1/3 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 異分母分數加法",
+   "verified": true
+  }
+ ]
+}
