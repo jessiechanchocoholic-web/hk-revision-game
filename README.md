@@ -25,6 +25,11 @@ python3 -m http.server 8000
 ### 網上版
 已決定用 GitHub Pages 發佈（D-009），預計網址 `https://jessiechanchocoholic-web.github.io/hk-revision-game/game/`，**目前未啟用**（啟用前要問 Jessie）。公開版任何人可玩、無登入（D-013），並只顯示已核實題目（D-016）。
 
+### 只顯示已核實題目（`?verifiedOnly`，PR #2）
+- `game/game.js` 頂部 `VERIFIED_ONLY_DEFAULT = true`：預設只顯示 `verified: true` 嘅關卡（現時 28 關／167 題）。
+- 網址加 `?verifiedOnly=1` 強制只顯示已核實；`?verifiedOnly=0` 顯示全部題目（老師核對用），例：`game/index.html?verifiedOnly=0`。
+- 可用 `#level=<關卡ID>` 直接開某關，例：`game/index.html#level=p5m4`。
+
 ### 遊戲功能
 - **關卡**：每關隨機抽最多 8 題；第一次就答啱先計分，≥90% 三星、≥70% 兩星、≥50% 一星。
 - **Boss 模擬考**：該科所有關卡完成後解鎖，每關抽 2 題、合共最多 12 題；兩星或以上得 Boss 徽章。
@@ -46,7 +51,12 @@ docs/ssot/                      任務狀態、決策、交接、規範、待核
 
 ## 老師：點樣加／減／改題目
 
-> 題庫格式：`content.txt`（文字格式）＋ `build.js`（數學）→ 自動產生 `questions.js`（D-014，取代原本逐課 JSON 規劃）。每題將會加 `verified`／`source` 欄位，具體寫法由開發 Bot 實施後補充（STATUS B1-DEV-08）。
+> 題庫格式（D-014，PR #2 實施）：`content.txt`（文字格式）＋ `build.js`（數學）係**唯一要人手改**嘅來源；跑 `node tools/build.js` 會自動產生：
+> - `game/questions.js`（遊戲讀取）
+> - `questions/<科目>/<年級>/<課>.json`（例：`questions/math/P5/L04.json`，逐課 JSON，**唔好直接改**，下次 build 會覆蓋）
+>
+> build 時每題自動加上 `id`（如 `MATH-P5-L04-001`）、`grade`、`subject`、`lesson`、`level`、`question`、`source`、`verified`，P2 再加 `readAloud: true`。`verified` 以**關卡**為單位，由 `build.js` 入面嘅 `VERIFIED` 清單決定（關卡 ID 喺清單入面＝`true`）；`source` 由科目自動填。
+> 註：以上欄位要 PR #2 合併後先喺 `main` 生效。
 
 ### 1. 中文／英文／科學／人文／P1：改 `game/tools/content.txt`
 
@@ -129,12 +139,13 @@ node tools/build.js
 ```
 
 ### 檢查小貼士
-1. 跑 `node tools/build.js` 無錯誤，並睇吓題目總數有冇按預期增減。
+1. 跑 `node tools/build.js` 無錯誤，並睇吓題目總數有冇按預期增減；再跑 `node tools/validate.js`（PR #2：檢查必填欄位、ID 唔重複、JSON 對得上），要見到 ALL OK。
 2. 檢查語法：`node -e 'global.window={};require("./questions.js");console.log(window.QUESTION_BANK.levels.length)'`
 3. 選擇題正確答案要寫喺第一個選項位置（`M:題目|正確答案|...`），錯誤選項唔可以同正確答案一樣。
 4. 每題最好有解說（答錯時會顯示做提示）。
 5. 開遊戲玩一次該關，確認顯示正常。
-6. 新題目如未對過課本，請加入 `docs/ssot/UNVERIFIED_QUESTIONS.md`。
+6. 新題目如未對過課本，請加入 `docs/ssot/UNVERIFIED_QUESTIONS.md`，並唔好將該關卡 ID 加入 `build.js` 嘅 `VERIFIED` 清單。
+8. 老師核對完一關後，將關卡 ID 加入 `VERIFIED` 清單再 build，該關就會喺公開試玩出現。
 7. 唔好寫入學生姓名或任何個人資料；只用自擬題目，唔好抄課本例題或圖片（D-011）。
 
 ## 協作文件

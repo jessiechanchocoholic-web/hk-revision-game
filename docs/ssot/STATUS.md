@@ -6,7 +6,7 @@ Repo：https://github.com/jessiechanchocoholic-web/hk-revision-game （預設分
 - 遊戲骨架已在 `game/`：純靜態網頁，入口 `game/index.html`／`game/開始遊戲.html`。
 - 題庫：97 關、548 題，由 `game/tools/build.js` 讀 `game/tools/content.txt` ＋ 數學產生器輸出 `game/questions.js`。
 - 已有：世界／年級選擇、每課一關、Boss 模擬考、錯題簿（localStorage）、P2 讀題（Web Speech）、星星／徽章。
-- 題目目前**未有** `verified`／`source` 欄位；按 D-014 要加（保留 content.txt＋build.js 格式），並按 D-016 試玩只顯示已核實題目。
+- 題目欄位（D-014）已喺 PR #2 實施（未合併）：build.js 自動加 id／source／verified 等欄位，並輸出 `questions/<subject>/<grade>/<lesson>.json`；`validate.js` 檢查；`?verifiedOnly=1` 開關、預設只顯示已核實（28 關／167 題，D-016）。
 - 未部署；已決定用 GitHub Pages `/game/`（D-009），啟用前要問 Jessie。
 - 已包括第二、三批部分內容（P4 數學、P2 英文、P2/P5 科學、P4 人文、P1 練習、中文各課）。
 - 待核實題目清單：`UNVERIFIED_QUESTIONS.md`。
@@ -55,4 +55,4 @@ P1 中文一上單元一二、英文 1A Ch1–4、科學一上。
 ## 新增待辦（2026-10-21）
 | ID | 任務 | 負責 Bot | 狀態 | 更新日期 | 備註 |
 |---|---|---|---|---|---|
-| B1-DEV-08 | 為題目加 `verified`／`source` 欄位（content.txt＋build.js），試玩只顯示已核實題目 | 開發 Bot | 待辦 | 2026-10-21 | D-014、D-016；可參考 UNVERIFIED_QUESTIONS.md |
+| B1-DEV-08 | 為題目加 `verified`／`source` 欄位（content.txt＋build.js），試玩只顯示已核實題目 | 開發 Bot | 審查中 | 2026-10-21 | D-014、D-016；PR #2 已實施，待 QA 及合併 |
