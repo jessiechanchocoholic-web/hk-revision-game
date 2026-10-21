@@ -21,7 +21,7 @@
    "grade": "P1",
    "subject": "eng",
    "lesson": "L01",
-   "level": "記憶",
+   "level": "應用",
    "question": "What is your name?",
    "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
    "verified": true
@@ -41,7 +41,7 @@
    "grade": "P1",
    "subject": "eng",
    "lesson": "L01",
-   "level": "記憶",
+   "level": "應用",
    "question": "How old are you?",
    "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
    "verified": true
@@ -61,7 +61,7 @@
    "grade": "P1",
    "subject": "eng",
    "lesson": "L01",
-   "level": "記憶",
+   "level": "應用",
    "question": "This ___ my friend, Tom.",
    "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
    "verified": true
@@ -81,7 +81,7 @@
    "grade": "P1",
    "subject": "eng",
    "lesson": "L01",
-   "level": "記憶",
+   "level": "應用",
    "question": "I ___ Amy.",
    "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
    "verified": true
@@ -97,7 +97,7 @@
    "grade": "P1",
    "subject": "eng",
    "lesson": "L01",
-   "level": "理解",
+   "level": "應用",
    "question": "How old are you? I am ___ (7 in words).",
    "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
    "verified": true

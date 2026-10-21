@@ -1495,7 +1495,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "chi",
      "lesson": "L99",
-     "level": "記憶",
+     "level": "分析",
      "question": "以下哪一句最適合作週記的感受部分？",
      "source": "research.md §1 中文《我愛學語文》（第二版）｜實用文：週記",
      "verified": false
@@ -1656,21 +1656,21 @@ window.QUESTION_BANK = {
     },
     {
      "type": "mc",
-     "q": "「合作」的反義詞是：",
-     "answer": "分裂",
+     "q": "「合作」的近義詞是：",
+     "answer": "協作",
      "options": [
-      "分裂",
-      "團結",
-      "幫助",
-      "協作"
+      "協作",
+      "對抗",
+      "爭吵",
+      "獨自"
      ],
-     "explain": "合作的反義詞是分裂。",
+     "explain": "合作即一同做事，近義詞是協作。",
      "id": "CHI-P5-L02-003",
      "grade": "P5",
      "subject": "chi",
      "lesson": "L02",
      "level": "記憶",
-     "question": "「合作」的反義詞是：",
+     "question": "「合作」的近義詞是：",
      "source": "research.md §1 中文《我愛學語文》（第二版）｜第2課 小組作業",
      "verified": false
     },
@@ -2370,7 +2370,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L00",
-     "level": "記憶",
+     "level": "應用",
      "question": "It is 8 o'clock in the morning. You meet your teacher. You say:",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Getting started",
      "verified": true
@@ -2390,7 +2390,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L00",
-     "level": "記憶",
+     "level": "應用",
      "question": "Your friend says \"Hello!\" You say:",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Getting started",
      "verified": true
@@ -2410,7 +2410,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L00",
-     "level": "記憶",
+     "level": "應用",
      "question": "You go home after school. You say:",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Getting started",
      "verified": true
@@ -2424,7 +2424,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L00",
-     "level": "記憶",
+     "level": "理解",
      "question": "\"Hi\" means the same as \"Hello\".",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Getting started",
      "verified": true
@@ -2444,7 +2444,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L00",
-     "level": "記憶",
+     "level": "應用",
      "question": "Someone gives you a present. You say:",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Getting started",
      "verified": true
@@ -2474,7 +2474,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L01",
-     "level": "記憶",
+     "level": "應用",
      "question": "What is your name?",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
      "verified": true
@@ -2494,7 +2494,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L01",
-     "level": "記憶",
+     "level": "應用",
      "question": "How old are you?",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
      "verified": true
@@ -2514,7 +2514,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L01",
-     "level": "記憶",
+     "level": "應用",
      "question": "This ___ my friend, Tom.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
      "verified": true
@@ -2534,7 +2534,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L01",
-     "level": "記憶",
+     "level": "應用",
      "question": "I ___ Amy.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
      "verified": true
@@ -2550,7 +2550,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L01",
-     "level": "理解",
+     "level": "應用",
      "question": "How old are you? I am ___ (7 in words).",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
      "verified": true
@@ -2580,7 +2580,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "應用",
      "question": "Tom is a boy. ___ is my friend.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Nice to meet you",
      "verified": true
@@ -2600,7 +2600,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "應用",
      "question": "Amy is a girl. ___ is seven.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Nice to meet you",
      "verified": true
@@ -2620,7 +2620,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "應用",
      "question": "Ben and I ___ classmates.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Nice to meet you",
      "verified": true
@@ -2640,7 +2640,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "應用",
      "question": "Nice to meet you!",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Nice to meet you",
      "verified": true
@@ -2654,7 +2654,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "理解",
      "question": "We say \"She is\" for a boy.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Nice to meet you",
      "verified": true
@@ -2684,7 +2684,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "應用",
      "question": "___ talk in class.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
      "verified": true
@@ -2704,7 +2704,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "應用",
      "question": "Please ___ your hand.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
      "verified": true
@@ -2724,7 +2724,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "應用",
      "question": "Please sit ___.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
      "verified": true
@@ -2744,7 +2744,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "應用",
      "question": "Don't ___ in the classroom.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
      "verified": true
@@ -2758,7 +2758,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "理解",
      "question": "\"Please listen to the teacher\" is a good class rule.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
      "verified": true
@@ -2788,7 +2788,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L04",
-     "level": "記憶",
+     "level": "應用",
      "question": "I ___ a pencil.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch4 Things I bring to school",
      "verified": true
@@ -2808,7 +2808,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L04",
-     "level": "記憶",
+     "level": "應用",
      "question": "Tom ___ a ruler.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch4 Things I bring to school",
      "verified": true
@@ -2828,7 +2828,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L04",
-     "level": "記憶",
+     "level": "應用",
      "question": "one book, two ___",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch4 Things I bring to school",
      "verified": true
@@ -2848,7 +2848,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L04",
-     "level": "記憶",
+     "level": "應用",
      "question": "one box, two ___",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch4 Things I bring to school",
      "verified": true
@@ -2864,7 +2864,7 @@ window.QUESTION_BANK = {
      "grade": "P1",
      "subject": "eng",
      "lesson": "L04",
-     "level": "理解",
+     "level": "應用",
      "question": "one pen, three ___",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch4 Things I bring to school",
      "verified": true
@@ -2894,7 +2894,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "eng",
      "lesson": "L01",
-     "level": "記憶",
+     "level": "應用",
      "question": "___ there a library in your school?",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
      "verified": true,
@@ -2915,7 +2915,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "eng",
      "lesson": "L01",
-     "level": "記憶",
+     "level": "應用",
      "question": "Is there a hall? Yes, ___.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
      "verified": true,
@@ -2936,7 +2936,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "eng",
      "lesson": "L01",
-     "level": "記憶",
+     "level": "應用",
      "question": "The library is on the ___ floor (1st).",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
      "verified": true,
@@ -2957,7 +2957,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "eng",
      "lesson": "L01",
-     "level": "記憶",
+     "level": "應用",
      "question": "Where ___ the music room?",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
      "verified": true,
@@ -2978,7 +2978,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "eng",
      "lesson": "L01",
-     "level": "記憶",
+     "level": "應用",
      "question": "The tuck shop is ___ the ground floor.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
      "verified": true,
@@ -2995,7 +2995,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "eng",
      "lesson": "L01",
-     "level": "理解",
+     "level": "應用",
      "question": "2nd floor = the ___ floor",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
      "verified": true,
@@ -3021,7 +3021,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "eng",
      "lesson": "L01",
-     "level": "理解",
+     "level": "應用",
      "question": "Put in order (smallest first).",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 At my school",
      "verified": true,
@@ -3052,7 +3052,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "應用",
      "question": "We ___ run in the corridor.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Please be good",
      "verified": true,
@@ -3073,7 +3073,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "應用",
      "question": "We ___ line up quietly.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Please be good",
      "verified": true,
@@ -3094,7 +3094,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "應用",
      "question": "You mustn't ___ in the library.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Please be good",
      "verified": true,
@@ -3109,7 +3109,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "理解",
      "question": "\"We must be kind to others\" is a good rule.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Please be good",
      "verified": true,
@@ -3130,7 +3130,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "應用",
      "question": "The books are ___ the shelf.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Please be good",
      "verified": true,
@@ -3145,7 +3145,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "理解",
      "question": "We must throw rubbish on the floor.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Please be good",
      "verified": true,
@@ -3176,7 +3176,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "應用",
      "question": "Are you cold? Yes, I ___.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Caring for others",
      "verified": true,
@@ -3197,7 +3197,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "應用",
      "question": "Are you hungry? No, I'm ___.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Caring for others",
      "verified": true,
@@ -3218,7 +3218,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "應用",
      "question": "The soup is ___ hot. I can't drink it.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Caring for others",
      "verified": true,
@@ -3239,7 +3239,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "應用",
      "question": "I'm thirsty. ___ get some water.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Caring for others",
      "verified": true,
@@ -3260,7 +3260,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "應用",
      "question": "Your friend is sad. You say:",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Caring for others",
      "verified": true,
@@ -3277,7 +3277,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "eng",
      "lesson": "L03",
-     "level": "理解",
+     "level": "應用",
      "question": "Are you tired? No, I'm ___.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Caring for others",
      "verified": true,
@@ -3308,7 +3308,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "eng",
      "lesson": "L01",
-     "level": "記憶",
+     "level": "應用",
      "question": "What ___ you like doing after school?",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 My favourite activities",
      "verified": true
@@ -3328,7 +3328,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "eng",
      "lesson": "L01",
-     "level": "記憶",
+     "level": "應用",
      "question": "Peter ___ playing football.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 My favourite activities",
      "verified": true
@@ -3348,7 +3348,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "eng",
      "lesson": "L01",
-     "level": "記憶",
+     "level": "應用",
      "question": "I ___ go swimming. (100% of the time)",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 My favourite activities",
      "verified": true
@@ -3368,7 +3368,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "eng",
      "lesson": "L01",
-     "level": "記憶",
+     "level": "應用",
      "question": "She ___ eats vegetables. She hates them. (0%)",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 My favourite activities",
      "verified": true
@@ -3395,7 +3395,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "eng",
      "lesson": "L01",
-     "level": "理解",
+     "level": "應用",
      "question": "Order from most to least often.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 My favourite activities",
      "verified": true
@@ -3415,7 +3415,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "eng",
      "lesson": "L01",
-     "level": "記憶",
+     "level": "應用",
      "question": "___ Tom like reading? Yes, he does.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 My favourite activities",
      "verified": true
@@ -3431,7 +3431,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "eng",
      "lesson": "L01",
-     "level": "理解",
+     "level": "應用",
      "question": "My sister ___ (watch) TV every day.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 My favourite activities",
      "verified": true
@@ -3461,7 +3461,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "應用",
      "question": "I like magic shows. My brother likes them ___.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Shows we like",
      "verified": true
@@ -3481,7 +3481,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "應用",
      "question": "I don't like puppet shows. Amy doesn't like them ___.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Shows we like",
      "verified": true
@@ -3501,7 +3501,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "應用",
      "question": "___ Ken and Mary like dance shows.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Shows we like",
      "verified": true
@@ -3521,7 +3521,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "應用",
      "question": "I don't like singing ___ dancing.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Shows we like",
      "verified": true
@@ -3541,7 +3541,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "應用",
      "question": "I like cartoons, ___ I don't like horror films.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Shows we like",
      "verified": true
@@ -3555,7 +3555,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "理解",
      "question": "\"I don't like it too.\" is correct.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Shows we like",
      "verified": true
@@ -3585,7 +3585,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "應用",
      "question": "An apple is ___ than a grape.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
      "verified": true
@@ -3605,7 +3605,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "應用",
      "question": "This is the ___ watermelon in the shop.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
      "verified": true
@@ -3625,7 +3625,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "應用",
      "question": "The cake is ___ than the bread.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
      "verified": true
@@ -3645,7 +3645,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "應用",
      "question": "I want a ___ of milk.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
      "verified": true
@@ -3665,7 +3665,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "應用",
      "question": "a ___ of bananas",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
      "verified": true
@@ -3681,7 +3681,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "eng",
      "lesson": "L03",
-     "level": "理解",
+     "level": "應用",
      "question": "good → better → ___",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
      "verified": true
@@ -3701,7 +3701,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "應用",
      "question": "a ___ of bread",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 At the supermarket",
      "verified": true
@@ -3731,7 +3731,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "eng",
      "lesson": "L01",
-     "level": "記憶",
+     "level": "應用",
      "question": "You ___ talk loudly in the library.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
      "verified": true
@@ -3751,7 +3751,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "eng",
      "lesson": "L01",
-     "level": "記憶",
+     "level": "應用",
      "question": "You ___ say \"thank you\" when you get help.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
      "verified": true
@@ -3767,7 +3767,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "eng",
      "lesson": "L01",
-     "level": "理解",
+     "level": "應用",
      "question": "quiet → ___ (adverb)",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
      "verified": true
@@ -3783,7 +3783,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "eng",
      "lesson": "L01",
-     "level": "理解",
+     "level": "應用",
      "question": "happy → ___ (adverb)",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
      "verified": true
@@ -3803,7 +3803,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "eng",
      "lesson": "L01",
-     "level": "記憶",
+     "level": "應用",
      "question": "good → ? (adverb)",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
      "verified": true
@@ -3823,7 +3823,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "eng",
      "lesson": "L01",
-     "level": "記憶",
+     "level": "應用",
      "question": "Please speak ___ to the old lady.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
      "verified": true
@@ -3843,7 +3843,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "eng",
      "lesson": "L01",
-     "level": "記憶",
+     "level": "應用",
      "question": "We should eat ___.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Good manners",
      "verified": true
@@ -3873,10 +3873,10 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "應用",
      "question": "Don't quarrel ___ your friends.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
-     "verified": true
+     "verified": false
     },
     {
      "type": "mc",
@@ -3893,10 +3893,10 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "應用",
      "question": "Tom is jealous ___ his brother's new bike.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
-     "verified": true
+     "verified": false
     },
     {
      "type": "mc",
@@ -3913,10 +3913,10 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "應用",
      "question": "I am good ___ drawing.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
-     "verified": true
+     "verified": false
     },
     {
      "type": "mc",
@@ -3933,10 +3933,10 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "應用",
      "question": "Mary is afraid ___ dogs.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
-     "verified": true
+     "verified": false
     },
     {
      "type": "mc",
@@ -3953,10 +3953,10 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "應用",
      "question": "She is ___ kind. She always helps others. (very strong)",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
-     "verified": true
+     "verified": false
     },
     {
      "type": "mc",
@@ -3973,10 +3973,10 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "eng",
      "lesson": "L02",
-     "level": "記憶",
+     "level": "應用",
      "question": "I'm ___ tired, but I can still play. (small degree)",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
-     "verified": true
+     "verified": false
     },
     {
      "type": "fill",
@@ -3989,14 +3989,14 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "eng",
      "lesson": "L02",
-     "level": "理解",
+     "level": "應用",
      "question": "Please share your toys ___ your friends.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch2 Be a good friend",
-     "verified": true
+     "verified": false
     }
    ],
    "lesson": "L02",
-   "verified": true
+   "verified": false
   },
   {
    "id": "p5e3",
@@ -4019,7 +4019,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "應用",
      "question": "The boy ___ the long hair is my cousin.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Describing people",
      "verified": true
@@ -4039,7 +4039,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "應用",
      "question": "The girl ___ the red dress is Amy.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Describing people",
      "verified": true
@@ -4059,7 +4059,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "應用",
      "question": "I have a friend ___ likes music.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Describing people",
      "verified": true
@@ -4079,7 +4079,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "應用",
      "question": "The man ___ is wearing glasses is my teacher.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Describing people",
      "verified": true
@@ -4093,7 +4093,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "eng",
      "lesson": "L03",
-     "level": "記憶",
+     "level": "理解",
      "question": "\"The boy in the vest\" describes what the boy is wearing.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Describing people",
      "verified": true
@@ -4109,7 +4109,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "eng",
      "lesson": "L03",
-     "level": "理解",
+     "level": "應用",
      "question": "The woman ___ a big smile is my aunt. (preposition)",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Describing people",
      "verified": true
@@ -5838,7 +5838,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "sci",
      "lesson": "L05",
-     "level": "記憶",
+     "level": "分析",
      "question": "如果一種動物被大量捕殺，會：",
      "source": "research.md §5 科學《科學新領域》｜5 大自然的平衡",
      "verified": false
@@ -7001,7 +7001,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "math",
      "lesson": "L01",
-     "level": "應用",
+     "level": "記憶",
      "question": "一千是多少個百？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 三位數",
      "verified": true,
@@ -7032,7 +7032,7 @@ window.QUESTION_BANK = {
      "level": "應用",
      "question": "25、50、75、（ ），括號應填？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
-     "verified": true,
+     "verified": false,
      "readAloud": true
     },
     {
@@ -7050,7 +7050,7 @@ window.QUESTION_BANK = {
      "level": "應用",
      "question": "100、200、300、（ ），括號應填？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
-     "verified": true,
+     "verified": false,
      "readAloud": true
     },
     {
@@ -7068,7 +7068,7 @@ window.QUESTION_BANK = {
      "level": "應用",
      "question": "20、40、60、80、（ ），括號應填？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
-     "verified": true,
+     "verified": false,
      "readAloud": true
     },
     {
@@ -7086,7 +7086,7 @@ window.QUESTION_BANK = {
      "level": "應用",
      "question": "50、100、150、（ ），括號應填？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
-     "verified": true,
+     "verified": false,
      "readAloud": true
     },
     {
@@ -7104,10 +7104,10 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "math",
      "lesson": "L02",
-     "level": "理解",
+     "level": "應用",
      "question": "有6組，每組20粒糖，大約數數共有多少粒？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
-     "verified": true,
+     "verified": false,
      "readAloud": true
     },
     {
@@ -7125,12 +7125,12 @@ window.QUESTION_BANK = {
      "level": "應用",
      "question": "300、275、250、（ ），括號應填？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 數數活動",
-     "verified": true,
+     "verified": false,
      "readAloud": true
     }
    ],
    "lesson": "L02",
-   "verified": true
+   "verified": false
   },
   {
    "id": "p2m3",
@@ -7243,7 +7243,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "math",
      "lesson": "L03",
-     "level": "理解",
+     "level": "應用",
      "question": "99＋45 用巧算：先算 100＋45 再…",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L3 加法(一)",
      "verified": true,
@@ -7752,7 +7752,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "math",
      "lesson": "L08",
-     "level": "理解",
+     "level": "記憶",
      "question": "兩條直線相交成直角，叫做：",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 垂直線",
      "verified": false,
@@ -7855,7 +7855,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "math",
      "lesson": "L09",
-     "level": "理解",
+     "level": "記憶",
      "question": "比直角小的角叫：",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 銳角和鈍角",
      "verified": false,
@@ -7876,7 +7876,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "math",
      "lesson": "L09",
-     "level": "理解",
+     "level": "記憶",
      "question": "比直角大（但小於一直線）的角叫：",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 銳角和鈍角",
      "verified": false,
@@ -7985,7 +7985,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "math",
      "lesson": "L10",
-     "level": "理解",
+     "level": "分析",
      "question": "量度課室的長度，用甚麼單位最適合？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 米的認識(一)",
      "verified": false,
@@ -8003,7 +8003,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "math",
      "lesson": "L10",
-     "level": "應用",
+     "level": "記憶",
      "question": "1米＝（ ）厘米",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 米的認識(一)",
      "verified": false,
@@ -8018,7 +8018,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "math",
      "lesson": "L10",
-     "level": "理解",
+     "level": "記憶",
      "question": "1米比1厘米長。",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 米的認識(一)",
      "verified": false,
@@ -8088,7 +8088,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "math",
      "lesson": "L11",
-     "level": "應用",
+     "level": "記憶",
      "question": "4米89厘米＝（ ）厘米",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
      "verified": false,
@@ -8106,7 +8106,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "math",
      "lesson": "L11",
-     "level": "應用",
+     "level": "記憶",
      "question": "1米95厘米＝（ ）厘米",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
      "verified": false,
@@ -8124,7 +8124,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "math",
      "lesson": "L11",
-     "level": "應用",
+     "level": "記憶",
      "question": "2米63厘米＝（ ）厘米",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
      "verified": false,
@@ -8160,7 +8160,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "math",
      "lesson": "L11",
-     "level": "應用",
+     "level": "記憶",
      "question": "300厘米＝（ ）米",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
      "verified": false,
@@ -8181,7 +8181,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "math",
      "lesson": "L11",
-     "level": "理解",
+     "level": "分析",
      "question": "哪個最長？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 米的認識(二)",
      "verified": false,
@@ -8290,7 +8290,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "math",
      "lesson": "L18",
-     "level": "應用",
+     "level": "記憶",
      "question": "1小時＝（ ）分鐘",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 報時",
      "verified": false,
@@ -8457,7 +8457,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "math",
      "lesson": "L20",
-     "level": "應用",
+     "level": "記憶",
      "question": "一年有多少個月？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L20 年和月",
      "verified": false,
@@ -8517,7 +8517,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "math",
      "lesson": "L20",
-     "level": "應用",
+     "level": "記憶",
      "question": "平年的2月有多少日？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L20 年和月",
      "verified": false,
@@ -8556,7 +8556,7 @@ window.QUESTION_BANK = {
      "grade": "P2",
      "subject": "math",
      "lesson": "L20",
-     "level": "應用",
+     "level": "記憶",
      "question": "平年一年有多少日？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L20 年和月",
      "verified": false,
@@ -9320,7 +9320,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "math",
      "lesson": "L11",
-     "level": "理解",
+     "level": "記憶",
      "question": "東的相反方向是：",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L11 方向(一)",
      "verified": false
@@ -9370,7 +9370,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "math",
      "lesson": "L12",
-     "level": "理解",
+     "level": "記憶",
      "question": "西北的相反方向是：",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L12 方向(二)",
      "verified": false
@@ -9410,7 +9410,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "math",
      "lesson": "L12",
-     "level": "理解",
+     "level": "記憶",
      "question": "東北的相反方向是：",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L12 方向(二)",
      "verified": false
@@ -9450,7 +9450,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "math",
      "lesson": "L12",
-     "level": "理解",
+     "level": "記憶",
      "question": "一共有多少個主要方向（包括東南西北和四個斜方向）？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L12 方向(二)",
      "verified": false
@@ -9768,7 +9768,7 @@ window.QUESTION_BANK = {
      "grade": "P4",
      "subject": "math",
      "lesson": "L18",
-     "level": "理解",
+     "level": "應用",
      "question": "把一個圖形分割，各部分面積加起來等於原來的面積。",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 圖形分割",
      "verified": false
@@ -9792,21 +9792,21 @@ window.QUESTION_BANK = {
     },
     {
      "type": "mc",
-     "q": "一個梯形可以分割成：",
-     "answer": "一個長方形和三角形",
+     "q": "沿一條對角線剪開一個梯形，可以得到：",
+     "answer": "兩個三角形",
      "options": [
-      "只能是梯形",
+      "兩個梯形",
       "兩個圓形",
-      "一個長方形和三角形",
+      "兩個三角形",
       "一個圓形和正方形"
      ],
-     "explain": "梯形可分成長方形和三角形。",
+     "explain": "對角線把梯形分成兩個三角形。",
      "id": "MATH-P4-L18-005",
      "grade": "P4",
      "subject": "math",
      "lesson": "L18",
      "level": "理解",
-     "question": "一個梯形可以分割成：",
+     "question": "沿一條對角線剪開一個梯形，可以得到：",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 圖形分割",
      "verified": false
     }
@@ -9933,7 +9933,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "math",
      "lesson": "L01",
-     "level": "理解",
+     "level": "記憶",
      "question": "在 33,361,030 中，數字 3 在哪個數位？（由左數起第7個數字）",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 多位數",
      "verified": true
@@ -9953,7 +9953,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "math",
      "lesson": "L01",
-     "level": "理解",
+     "level": "記憶",
      "question": "在 17,642,902 中，數字 6 在哪個數位？（由左數起第3個數字）",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 多位數",
      "verified": true
@@ -9970,7 +9970,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "math",
      "lesson": "L01",
-     "level": "應用",
+     "level": "記憶",
      "question": "一百萬寫成數字是多少？（不用逗號）",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 多位數",
      "verified": true
@@ -10368,7 +10368,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "math",
      "lesson": "L04",
-     "level": "理解",
+     "level": "應用",
      "question": "1/2 ＋ 1/3 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L4 異分母分數加法",
      "verified": true
@@ -10483,7 +10483,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "math",
      "lesson": "L05",
-     "level": "理解",
+     "level": "應用",
      "question": "3/4 － 1/2 ＝ ？",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L5 異分母分數減法",
      "verified": true
@@ -10670,7 +10670,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "math",
      "lesson": "L07",
-     "level": "理解",
+     "level": "應用",
      "question": "平行四邊形的面積＝底×高。",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L7 平行四邊形",
      "verified": false
@@ -10785,7 +10785,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "math",
      "lesson": "L08",
-     "level": "理解",
+     "level": "記憶",
      "question": "三角形面積公式是：",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L8 三角形",
      "verified": false
@@ -10900,7 +10900,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "math",
      "lesson": "L09",
-     "level": "理解",
+     "level": "記憶",
      "question": "梯形面積公式是：",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L9 梯形",
      "verified": false
@@ -11012,7 +11012,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "math",
      "lesson": "L10",
-     "level": "理解",
+     "level": "應用",
      "question": "計算多邊形面積，常用方法是：",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L10 多邊形的面積",
      "verified": false
@@ -11248,7 +11248,7 @@ window.QUESTION_BANK = {
      "grade": "P5",
      "subject": "math",
      "lesson": "L15",
-     "level": "理解",
+     "level": "應用",
      "question": "小明有 m 張貼紙，送出 4 張，剩下：",
      "source": "research.md §3 數學《小學數學新思維》（第二版）｜L15 代數符號(二)",
      "verified": false
