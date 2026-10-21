@@ -9,7 +9,7 @@ if(VO)BANK={version:BANK.version,levels:BANK.levels.map(function(l){var o={};for
 window.__verifiedOnly=VO;
 var GRADES=[{id:'P1',name:'一年級',note:'練習關'},{id:'P2',name:'二年級'},{id:'P4',name:'四年級'},{id:'P5',name:'五年級'}];
 var SUBJ={chi:{name:'中文城',icon:'📜'},eng:{name:'English Island',icon:'🏝️'},math:{name:'數學山',icon:'⛰️'},hum:{name:'人文村',icon:'🏘️'},sci:{name:'科學實驗室',icon:'🔬'}};
-var KEY='hk-revision-quest-v1';var st;try{st=JSON.parse(localStorage.getItem(KEY))||{}}catch(e){st={}}
+var KEY='hk-revision-quest-v1';var st;try{st=JSON.parse(localStorage.getItem(KEY)||localStorage.getItem('hk-revision-quest-v1'))||{}}catch(e){st={}}
 st.stars=st.stars||{};st.wrong=st.wrong||{};st.badges=st.badges||{};
 function save(){try{localStorage.setItem(KEY,JSON.stringify(st))}catch(e){}}
 var app=document.getElementById('app');
@@ -31,7 +31,7 @@ function speak(text,lang){try{speechSynthesis.cancel();var u=new SpeechSynthesis
 function canSpeak(lang){return ('speechSynthesis' in window)&&!!voiceFor(lang)}
 
 function home(){upd();app.innerHTML='';document.getElementById('title').textContent='溫習闖關大冒險';
- app.appendChild(h('div',{class:'card'},[h('div',{class:'big'},['揀你嘅年級 👇']),h('p',{class:'note'},['小學 · 上學期第一次考試範圍溫習'])]));
+ app.appendChild(h('div',{class:'card'},[h('div',{class:'big'},['揀你嘅年級 👇']),h('p',{class:'note'},['小學上學期第一次考試範圍溫習'])]));
  var g=h('div',{class:'grid'});GRADES.forEach(function(G){g.appendChild(h('button',{class:'big',onclick:function(){grade(G.id)}},[G.name+(G.note?' ('+G.note+')':'')]))});app.appendChild(g)}
 function grade(gid){upd();app.innerHTML='';var G=GRADES.filter(function(x){return x.id===gid})[0];document.getElementById('title').textContent=G.name+(G.note?' · '+G.note:'');
  app.appendChild(h('div',{class:'card'},[h('div',{class:'big'},['揀科目世界']),h('button',{onclick:home},['⬅ 返回'])]));
