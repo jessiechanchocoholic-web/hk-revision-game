@@ -1,0 +1,389 @@
+# Format: ## grade|subject|levelId|title   then lines:
+# M:prompt|answer|wrong|wrong|wrong|explain   T:/F:prompt|explain   S:prompt|ans1/ans2|explain   O:a>b>c|prompt|explain
+## P1|chi|p1c1|單元一 我是小學生
+M:上課時，老師說話，我們要怎樣做？|專心聽|大聲說話|跑來跑去|吃東西|上課要專心聽老師說話。
+M:「開學了」，我們升讀小學幾年級？|一年級|三年級|五年級|六年級|剛入小學讀一年級。
+M:哪一個是學校裏的地方？|課室|廚房|睡房|街市|課室是學校裏上課的地方。
+M:見到老師，我們應該說：|老師早！|再見！|對不起！|生日快樂！|早上見到老師要有禮貌地說「老師早」。
+T:上學時要帶書包。|書包用來放課本和文具。
+F:上課時可以隨便離開座位。|上課要坐好，有需要先舉手問老師。
+## P1|chi|p1c2|單元二 來學常用字
+M:「一、二、三」之後是：|四|十|六|八|數數：一、二、三、四。
+M:郊外常常可以見到：|大樹|電視|書桌|電梯|郊外有很多大樹和花草。
+M:「天空」的「天」，在哪裏？|上面|下面|水裏|地底|天空在我們上面。
+M:早上，草上亮晶晶的小水珠叫：|露珠|雪花|石頭|星星|早上草葉上的小水珠叫露珠。
+M:「專心聽」的「聽」，要用身體哪部分？|耳朵|鼻子|手|腳|我們用耳朵聽。
+T:「小羊數數」會用到數字。|數數就是數一、二、三……
+## P2|chi|p2c1|第1課 欣欣的故事
+M:選出正確的標點：我叫欣欣（ ）|。|？|！|、|說明自己的句子，句末用句號「。」。
+M:你叫甚麼名字（ ）|？|。|，|、|問問題的句子用問號「？」。
+M:「一（ ）書」，括號應填哪個量詞？|本|隻|條|朵|書用「本」：一本書。
+M:「高興」的相反詞是：|傷心|開心|快樂|興奮|高興的相反是傷心。
+M:「我和同學一起玩。」句中誰在玩？|我和同學|老師|爸爸|小狗|「我和同學」一起玩。
+S:「一（ ）小狗」，括號填量詞。|隻|小狗用「隻」：一隻小狗。
+## P2|chi|p2c5|第5課 森林旅店（上）
+M:「旅店」是讓人做甚麼的地方？|住宿|上課|買菜|看病|旅店是給旅客住宿的地方。
+M:「森林裏有很多（ ）樹。」括號應填：|高高的|甜甜的|冷冷的|響響的|樹可以用「高高的」形容。
+M:「一（ ）樹」，括號應填：|棵|本|隻|張|樹用「棵」：一棵樹。
+M:「歡迎」的意思最接近：|高興地迎接|大聲罵人|慢慢走開|關上大門|歡迎就是高興地迎接客人。
+T:「小鳥在樹上唱歌。」這句子用了擬人法。|小鳥像人一樣「唱歌」，是擬人法。
+S:「一（ ）床」，括號填量詞。|張|床用「張」：一張床。
+## P2|chi|p2c8|第8課 在爸爸的肩膀上
+M:「肩膀」是身體哪個部分？|頸和手臂之間|腳底|頭頂|肚子|肩膀在頸和手臂之間。
+M:坐在爸爸的肩膀上，看得更：|遠|小|黑|短|坐得高，可以看得更遠。
+M:「爸爸很愛我。」可以改成：|爸爸非常愛我。|爸爸不愛我。|爸爸愛不愛我？|爸爸很怕我。|「很」和「非常」意思相近。
+M:「（ ）爸爸，你累嗎？」選出合適的詞：|親愛的|生氣的|吵鬧的|骯髒的|對家人用「親愛的」表達愛。
+M:以下哪個是正確的句子？|我和爸爸去公園。|公園去我和爸爸。|爸爸公園我去。|去公園爸爸我和。|句子要有正確的次序：誰＋做甚麼。
+T:「肩膀」兩個字的部首都是「月」。|「肩」和「膀」的部首都是「月」（肉月旁），與身體有關。
+## P2|chi|p2c11|第11課 我愛體育課
+M:體育課時，我們常常在哪裏上課？|操場|圖書館|廚房|睡房|體育課多數在操場或禮堂上。
+M:「我們跑得很（ ）。」括號應填：|快|甜|香|圓|跑步用「快」形容。
+M:做運動前要先：|熱身|吃大餐|睡覺|洗澡|先熱身可以避免受傷。
+M:「拍（ ）」，括號應填：|皮球|飯|書|水|我們拍皮球。
+T:做運動可以使身體強壯。|多做運動，身體更健康。
+S:「跳（ ）」：體育課跳一條長長的繩子。|繩|跳繩是常見的運動。
+## P2|chi|p2c99|實用文：賀卡
+M:賀卡最開頭要寫甚麼？|上款（收卡人稱呼）|日期|下款|地址|賀卡先寫上款，例如「親愛的媽媽：」。
+M:上款後面要加甚麼標點？|：|。|？|！|上款後面用冒號「：」。
+M:賀卡最後要寫：|下款（寫卡人）和日期|上款|題目|地址|最後寫下款和日期。
+M:送給老師的賀卡，下款可以寫：|學生 欣欣 上|爸爸|親愛的老師：|生日快樂|寫給老師，下款可寫「學生某某上」。
+O:上款>祝福語>下款>日期|把賀卡內容排好次序。|賀卡次序：上款、祝福語、下款、日期。
+M:母親節賀卡的祝福語可以寫：|祝您母親節快樂！|祝您新年快樂！|祝你生日快樂！|祝您聖誕快樂！|母親節要配合節日寫祝福語。
+## P4|chi|p4c1|第1課 週記一則——掌聲
+M:週記多久寫一次？|一星期一次|一天一次|一個月一次|一年一次|「週」就是星期，週記每星期寫一次。
+M:週記一般要寫上：|日期和題目|上款和下款|地址和郵票|收件人電郵|週記要寫日期（或星期）和題目。
+M:「掌聲」是用甚麼發出的聲音？|雙手拍掌|雙腳跳|口唱歌|敲鼓|拍手發出的聲音就是掌聲。
+M:同學在台上緊張時，大家給他掌聲，表示：|鼓勵和支持|責罵|嘲笑|不理睬|掌聲可以給人鼓勵。
+T:週記可以記下一星期內印象最深刻的事和感受。|週記要寫事情和自己的感受。
+M:「鼓勵」的近義詞是：|激勵|批評|放棄|責怪|鼓勵和激勵意思相近。
+## P4|chi|p4c5|第5課 白蝴蝶之戀
+M:蝴蝶屬於哪一類動物？|昆蟲|魚類|鳥類|哺乳類|蝴蝶有六隻腳，是昆蟲。
+M:「戀」字的意思是：|愛慕、不捨得|害怕|生氣|忘記|「戀」表示喜愛、不捨得。
+M:「白蝴蝶像一片小小的雪花。」用了甚麼修辭？|比喻|擬人|設問|反問|用「像」把蝴蝶比作雪花，是比喻。
+M:「一（ ）蝴蝶」，括號應填：|隻|條|朵|張|蝴蝶用「隻」。
+M:愛護小動物，我們應該：|輕輕觀察，不去傷害|捉回家玩|用石頭擲|拔去翅膀|要尊重和愛護生命。
+T:「憐惜」有愛護、同情的意思。|憐惜就是同情和愛護。
+## P4|chi|p4c8|第8課 盤古開天闢地
+M:《盤古開天闢地》是一個：|神話故事|新聞報道|說明文|書信|盤古開天是中國古代神話。
+M:傳說盤古用甚麼劈開天地？|斧頭|雨傘|毛筆|繩子|傳說盤古用大斧劈開天地。
+M:傳說中，盤古死後他的眼睛變成了：|太陽和月亮|高山|河流|樹木|神話說他的雙眼變成日月。
+M:「開天闢地」現在常用來比喻：|前所未有、第一次|天氣很好|打開窗戶|搬屋|開天闢地比喻有史以來第一次。
+M:天和地分開後，輕而清的東西上升變成：|天|地|海|山|輕清的上升為天，重濁的下沉為地。
+F:神話故事所寫的都是真實發生的事。|神話是古人想像出來的故事。
+## P4|chi|p4c13|第13課 桂林山水
+M:桂林在中國哪個省區？|廣西|廣東|北京|上海|桂林位於廣西壯族自治區。
+M:有一句話說「桂林山水甲天下」，「甲」的意思是：|第一|最差|最小|最遠|「甲天下」指天下第一。
+M:漓江的水最大的特點是：|清、靜、綠|黃、急、濁|鹹、冷、黑|乾、熱、少|桂林的水又靜又清又綠。
+M:桂林的山的特點是：|奇、秀、險|平、矮、圓|全是雪山|沒有樹木|桂林的山奇、秀、險。
+M:「山像老人，像巨象。」用了甚麼修辭？|比喻|設問|反問|誇張|用「像」作比較，是比喻。
+T:遊記會描寫遊覽時看到的景物和感受。|《桂林山水》是寫景的文章。
+## P4|chi|p4c99|實用文：週記
+M:週記的題目應該：|配合內容，簡短|越長越好|不用寫|寫上收件人|題目要切合內容。
+M:週記寫事情，要包括：|事情經過和感受|只寫天氣|只寫日期|只寫名字|經過加上感受，週記才完整。
+O:寫上日期>寫題目>記述事情經過>寫出感受|排好寫週記的步驟。|先寫日期題目，再寫經過，最後寫感受。
+F:週記要寫上款和下款。|上款下款是書信、賀卡的格式，週記不用。
+M:以下哪一句最適合作週記的感受部分？|這次經歷令我明白合作的重要。|今天是星期一。|我住在柴灣。|我的書包是藍色的。|感受要寫出自己的想法和得着。
+## P5|chi|p5c1|第1課 風箏
+M:放風箏需要甚麼天氣？|有風|下大雨|沒有風|打風球|風箏要靠風才能飛起。
+M:「一（ ）風箏」，括號應填：|隻|條|朵|本|風箏用「隻」。
+M:「風箏越飛越高」中「越……越……」表示：|程度隨着變化|轉折|因果|選擇|越……越……表示程度加深。
+M:「興高采烈」的意思是：|非常高興|非常傷心|非常疲倦|非常憤怒|興高采烈形容十分高興。
+T:「風箏像一隻小鳥在天空飛翔。」是比喻句。|用「像」把風箏比作小鳥。
+## P5|chi|p5c2|第2課 小組作業
+M:小組作業最需要：|分工合作|各自做自己的|一個人做完|吵架|小組要分工合作。
+M:「意見不同時，我們應該」：|互相尊重，好好討論|大聲吵架|不理別人|放棄|要尊重別人的意見。
+M:「合作」的反義詞是：|分裂|團結|協作|幫助|合作的反義詞是分裂。
+M:「雖然……但是……」是哪種關係？|轉折|因果|並列|選擇|雖然……但是……表示轉折。
+S:用關聯詞完成：（ ）大家同心合力，所以作業做得很好。|因為|因為……所以……表示因果。
+## P5|chi|p5c4|第4課 虎門銷煙
+M:虎門銷煙由哪位清朝官員主持？|林則徐|鄭和|孫中山|李白|1839年林則徐在虎門銷毀鴉片。
+M:虎門銷煙銷毀的是：|鴉片|茶葉|絲綢|瓷器|林則徐銷毀了大量鴉片。
+M:鴉片對人有甚麼害處？|損害健康，令人上癮|使人更強壯|可以治百病|沒有影響|鴉片是毒品，令人上癮。
+M:虎門在今天中國哪個省？|廣東|廣西|浙江|福建|虎門位於廣東東莞。
+T:虎門銷煙後不久，爆發了鴉片戰爭。|1840年爆發鴉片戰爭。
+## P5|chi|p5c5|第5課 鄭和遠航
+M:鄭和是哪個朝代的人？|明朝|唐朝|宋朝|清朝|鄭和是明朝航海家。
+M:鄭和一共下西洋多少次？|七次|一次|三次|十次|鄭和七次下西洋。
+M:鄭和遠航主要乘坐甚麼交通工具？|船|飛機|火車|馬車|鄭和率領龐大船隊出海。
+M:鄭和遠航的意義是：|促進中國與各國的交往|侵略別國|尋找金礦|逃避戰爭|鄭和促進了友好交流和貿易。
+F:鄭和只到過香港附近。|鄭和遠至東南亞、印度、阿拉伯和非洲東岸。
+## P5|chi|p5c8|第8課 金鏤衣
+M:《金縷衣》是一首：|古詩|新聞|書信|日記|《金縷衣》是唐代詩歌。
+M:「花開堪折直須折，莫待無花空折枝。」主要勸人：|珍惜時光|多種花|不要摘花|買新衣服|勸人把握時機，珍惜少年時光。
+M:「勸君莫惜金縷衣」，「金縷衣」是：|用金線織成的華麗衣服|金色的花|一本書|一種食物|金縷衣是用金線縫製的衣服，代表財富。
+M:「莫」字的意思是：|不要|很多|一定|已經|「莫」解作不要。
+M:「勸君惜取少年時」，「少年時」指：|年輕的時光|老年|昨天|晚上|少年時就是年輕的時候。
+## P5|chi|p5c14|第14課 老藤椅
+M:藤椅是用甚麼材料做的？|藤|鐵|玻璃|膠|藤椅是用藤條編成的。
+M:一張舊椅子令人懷念，是因為它：|有家人的回憶|很值錢|很新|很重|舊物承載了回憶和感情。
+M:「懷念」的近義詞是：|思念|忘記|討厭|害怕|懷念、思念意思相近。
+M:「一（ ）藤椅」，括號應填：|張|隻|條|本|椅子用「張」。
+T:借物抒情是借描寫物件來表達感情。|老藤椅寫物，其實表達對親人的情感。
+## P5|chi|p5c15|第15課 桂花雨
+M:桂花在甚麼季節開花？|秋天|春天|夏天|冬天|桂花多在秋天盛開。
+M:「桂花雨」是指：|搖樹時桂花像雨一樣落下|下雨天|桂花味的雨水|很多人哭|桂花紛紛落下，好像下雨。
+M:桂花最大的特點是：|很香|很大|很臭|黑色|桂花香氣濃郁。
+M:「香氣撲鼻」的意思是：|香味很濃，傳到鼻子|鼻子痛|沒有味道|很臭|形容香味濃。
+T:作者寫桂花雨，也表達了對家鄉的懷念。|寫童年搖桂花，表達思鄉之情。
+## P5|chi|p5c99|實用文：週記
+M:週記最主要的作用是：|記錄一星期的生活和感受|邀請朋友|申請工作|通知家長|週記記一星期的生活和感受。
+F:週記需要寫上下款。|週記寫日期和題目，不用上下款。
+O:日期>題目>事情經過>感受和反思|排好週記內容。|週記：日期、題目、經過、感受。
+M:週記用哪種人稱來寫最常見？|第一人稱「我」|第三人稱「他」|第二人稱「你」|不用人稱|週記寫自己的經歷，用「我」。
+M:「今天的事令我明白……」屬於週記的：|感受和反思|日期|題目|經過的開頭|寫明白了甚麼是反思。
+## P1|eng|p1e0|Getting started
+M:It is 8 o'clock in the morning. You meet your teacher. You say:|Good morning!|Good night!|Goodbye!|Happy birthday!|We say "Good morning" in the morning.
+M:Your friend says "Hello!" You say:|Hello!|Thank you!|Sorry!|Good night!|Answer "Hello!" with "Hello!".
+M:You go home after school. You say:|Goodbye!|Good morning!|Hello!|Sorry!|We say "Goodbye" when we leave.
+T:"Hi" means the same as "Hello".|Both are greetings.
+M:Someone gives you a present. You say:|Thank you!|Goodbye!|Hello!|Good night!|Say "Thank you" to be polite.
+## P1|eng|p1e1|Ch1 Starting school
+M:What is your name?|My name is Ben.|I am six.|I am fine.|It is red.|Answer "What is your name?" with "My name is …".
+M:How old are you?|I am six.|My name is Amy.|Yes, I am.|It's a pen.|Answer "How old" with your age.
+M:This ___ my friend, Tom.|is|are|am|be|"This is …" for one person.
+M:I ___ Amy.|am|is|are|be|Use "I am".
+S:How old are you? I am ___ (7 in words).|seven|7 = seven.
+## P1|eng|p1e2|Ch2 Nice to meet you
+M:Tom is a boy. ___ is my friend.|He|She|We|It|Use "he" for a boy.
+M:Amy is a girl. ___ is seven.|She|He|We|They|Use "she" for a girl.
+M:Ben and I ___ classmates.|are|is|am|be|"We are" / "Ben and I are".
+M:Nice to meet you!|Nice to meet you too!|Good night!|I am six.|Goodbye!|Reply with "Nice to meet you too!".
+F:We say "She is" for a boy.|For a boy we say "He is".
+## P1|eng|p1e3|Ch3 Be good in class
+M:___ talk in class.|Don't|Do|Please do|Not|"Don't" tells us not to do something.
+M:Please ___ your hand.|put up|eat|run|sleep|Put up your hand before you talk.
+M:Please sit ___.|down|up|in|on|"Sit down."
+M:Don't ___ in the classroom.|run|listen|read|sit|Don't run in the classroom.
+T:"Please listen to the teacher" is a good class rule.|We listen to the teacher in class.
+## P1|eng|p1e4|Ch4 Things I bring to school
+M:I ___ a pencil.|have|has|is|am|Use "I have".
+M:Tom ___ a ruler.|has|have|are|am|Use "has" with he/she/one person.
+M:one book, two ___|books|book|bookes|bookies|Add -s for more than one.
+M:one box, two ___|boxes|boxs|box|boxies|Words ending in -x add -es.
+S:one pen, three ___|pens|Add -s: pens.
+## P2|eng|p2e1|Ch1 At my school
+M:___ there a library in your school?|Is|Are|Am|Do|"Is there …?" for one thing.
+M:Is there a hall? Yes, ___.|there is|it is|I am|there are|Answer "Is there…?" with "Yes, there is."
+M:The library is on the ___ floor (1st).|first|one|once|firstly|1st = first.
+M:Where ___ the music room?|is|are|am|do|"Where is …?" for one place.
+M:The tuck shop is ___ the ground floor.|on|in|at|under|We say "on the ground floor".
+S:2nd floor = the ___ floor|second|2nd = second.
+O:first>second>third>fourth|Put in order (smallest first).|1st, 2nd, 3rd, 4th.
+## P2|eng|p2e2|Ch2 Please be good
+M:We ___ run in the corridor.|mustn't|must|can|are|Running in the corridor is dangerous, so we mustn't.
+M:We ___ line up quietly.|must|mustn't|don't|aren't|Lining up quietly is a good rule.
+M:You mustn't ___ in the library.|shout|read|sit|listen|Be quiet in the library.
+T:"We must be kind to others" is a good rule.|Being kind is good.
+M:The books are ___ the shelf.|on|in|under|between|The books are on (top of) the shelf.
+F:We must throw rubbish on the floor.|We mustn't litter. Put rubbish in the bin.
+## P2|eng|p2e3|Ch3 Caring for others
+M:Are you cold? Yes, I ___.|am|is|are|do|Answer "Are you…?" with "Yes, I am."
+M:Are you hungry? No, I'm ___.|not|no|don't|isn't|"No, I'm not."
+M:The soup is ___ hot. I can't drink it.|too|to|two|very good|"too hot" = more than we want.
+M:I'm thirsty. ___ get some water.|Let's|Lets|Let|Let us to|"Let's …" = let us.
+M:Your friend is sad. You say:|Are you OK?|Go away!|I'm happy!|Good night!|Ask kindly: Are you OK?
+S:Are you tired? No, I'm ___.|not|Short answer: No, I'm not.
+## P4|eng|p4e1|Ch1 My favourite activities
+M:What ___ you like doing after school?|do|does|are|is|"What do you like doing…?"
+M:Peter ___ playing football.|likes|like|liking|is like|He/She + likes.
+M:I ___ go swimming. (100% of the time)|always|never|seldom|sometimes|Always = every time.
+M:She ___ eats vegetables. She hates them. (0%)|never|always|often|usually|Never = 0%.
+O:always>often>sometimes>seldom>never|Order from most to least often.|always > often > sometimes > seldom > never
+M:___ Tom like reading? Yes, he does.|Does|Do|Is|Are|Use "Does" with he/she.
+S:My sister ___ (watch) TV every day.|watches|He/She + verb + -es after "ch".
+## P4|eng|p4e2|Ch2 Shows we like
+M:I like magic shows. My brother likes them ___.|too|either|both|or|Use "too" in positive sentences.
+M:I don't like puppet shows. Amy doesn't like them ___.|either|too|both|and|Use "either" in negative sentences.
+M:___ Ken and Mary like dance shows.|Both|Either|Too|Or|"Both … and …" = the two of them.
+M:I don't like singing ___ dancing.|or|and|but|too|Use "or" in negative sentences.
+M:I like cartoons, ___ I don't like horror films.|but|or|either|both|"But" shows a difference.
+F:"I don't like it too." is correct.|In negative sentences use "either": I don't like it either.
+## P4|eng|p4e3|Ch3 At the supermarket
+M:An apple is ___ than a grape.|bigger|big|biggest|more big|Comparative: big → bigger.
+M:This is the ___ watermelon in the shop.|heaviest|heavier|heavy|most heavy|Superlative: heavy → heaviest.
+M:The cake is ___ than the bread.|more expensive|expensiver|most expensive|expensive|Long words use "more".
+M:I want a ___ of milk.|carton|loaf|bar|bunch|A carton of milk.
+M:a ___ of bananas|bunch|carton|loaf|bottle|A bunch of bananas.
+S:good → better → ___|best|good, better, best.
+M:a ___ of bread|loaf|bunch|can|bowl|A loaf of bread.
+## P5|eng|p5e1|Ch1 Good manners
+M:You ___ talk loudly in the library.|shouldn't|should|must|can|Talking loudly in the library is bad manners.
+M:You ___ say "thank you" when you get help.|should|shouldn't|mustn't|don't|Saying thank you is good manners.
+S:quiet → ___ (adverb)|quietly|Add -ly: quietly.
+S:happy → ___ (adverb)|happily|y → i + ly: happily.
+M:good → ? (adverb)|well|goodly|goodily|good|"good" → "well" (irregular).
+M:Please speak ___ to the old lady.|politely|polite|politeness|more polite|Use an adverb to describe how we speak.
+M:We should eat ___.|quietly|quiet|quieter|quietness|Adverb of manner: eat quietly.
+## P5|eng|p5e2|Ch2 Be a good friend
+M:Don't quarrel ___ your friends.|with|of|at|on|quarrel with someone.
+M:Tom is jealous ___ his brother's new bike.|of|with|at|to|be jealous of.
+M:I am good ___ drawing.|at|in|of|with|be good at.
+M:Mary is afraid ___ dogs.|of|at|with|in|be afraid of.
+M:She is ___ kind. She always helps others. (very strong)|really|a bit|a little|not|"really" shows a high degree.
+M:I'm ___ tired, but I can still play. (small degree)|a bit|so|very|really|"a bit" = a small degree.
+S:Please share your toys ___ your friends.|with|share with someone.
+## P5|eng|p5e3|Ch3 Describing people
+M:The boy ___ the long hair is my cousin.|with|in|on|at|Use "with" for things a person has.
+M:The girl ___ the red dress is Amy.|in|with|on|at|Use "in" for clothes.
+M:I have a friend ___ likes music.|who|which|what|where|Use "who" for people.
+M:The man ___ is wearing glasses is my teacher.|who|which|whose|when|"who" describes people.
+T:"The boy in the vest" describes what the boy is wearing.|"in" + clothes.
+S:The woman ___ a big smile is my aunt. (preposition)|with|"with" + feature.
+## P1|sci|p1s1|1 動手動腦學科學
+M:科學家觀察東西時會用：|放大鏡|雨傘|枕頭|書包|放大鏡可以把東西看得更清楚。
+M:我們用甚麼感官看東西？|眼睛|耳朵|鼻子|舌頭|眼睛用來看。
+M:我們用甚麼感官嗅氣味？|鼻子|眼睛|手|耳朵|鼻子用來嗅。
+T:做實驗時要注意安全。|實驗要聽老師指示，注意安全。
+F:不知道的東西可以隨便放入口嚐。|不認識的東西不可以放入口。
+## P1|sci|p1s2|2 動物知多少
+M:哪種動物會飛？|小鳥|魚|貓|蛇|小鳥有翅膀，會飛。
+M:魚用甚麼游泳？|鰭|腳|翅膀|手|魚用鰭游泳。
+M:哪種動物有四條腿？|狗|雞|魚|蛇|狗有四條腿。
+T:動物要吃東西才能生存。|動物需要食物。
+M:哪種動物住在水裏？|魚|狗|貓|兔子|魚生活在水中。
+## P1|sci|p1s3|3 植物知多少
+M:植物用甚麼吸收水分？|根|花|葉|果實|根從泥土吸收水分。
+M:植物需要甚麼才能生長？|陽光和水|糖果|玩具|電視|植物需要陽光、空氣和水。
+M:哪一個是植物？|樹|石頭|小貓|水|樹是植物。
+T:植物也是生物。|植物會生長，是生物。
+M:植物通常是甚麼顏色的葉？|綠色|藍色|黑色|紫色|大部分葉子是綠色的。
+## P1|sci|p1s4|4 奇妙的身體
+M:我們用甚麼聽聲音？|耳朵|眼睛|鼻子|嘴巴|耳朵用來聽。
+M:我們用甚麼嚐味道？|舌頭|耳朵|頭髮|手肘|舌頭嚐味道。
+M:飯前要先：|洗手|睡覺|跑步|看電視|飯前洗手，保持衞生。
+T:每天刷牙可以保護牙齒。|早晚刷牙，牙齒健康。
+F:眼睛可以用來嗅氣味。|嗅氣味要用鼻子。
+## P1|sci|p1s5|5 成長與身體轉變
+M:我們長大後，身高會：|變高|變矮|不變|消失|長大會長高。
+M:要健康成長，我們要：|均衡飲食|只吃糖果|不睡覺|不做運動|均衡飲食和多做運動。
+M:嬰兒長大後會變成：|兒童|小狗|植物|石頭|人由嬰兒成長為兒童。
+T:充足的睡眠幫助我們成長。|小朋友要睡得足夠。
+F:每天只吃薯片最健康。|要均衡飲食。
+## P1|sci|p1s6|6 我們的地球
+M:地球上最多的是：|水|沙漠|房屋|汽車|地球表面大部分是海洋。
+M:白天天空中最光的是：|太陽|月亮|星星|雲|白天有太陽。
+M:我們住在哪個星球？|地球|月亮|太陽|火星|我們住在地球。
+T:我們要愛護地球。|減少浪費，保護地球。
+M:晚上天空中常見到：|月亮和星星|太陽|彩虹|雨傘|晚上可以看見月亮和星星。
+## P1|sci|p1s7|7 水和空氣
+M:人和動物需要甚麼來呼吸？|空氣|沙|石頭|紙|呼吸需要空氣。
+M:水放進冰格會變成：|冰|水蒸氣|沙|油|水遇冷會結成冰。
+T:我們看不見空氣，但空氣是存在的。|風就是流動的空氣。
+M:節約用水，刷牙時應該：|關水龍頭|一直開着水|用很多水|不刷牙|刷牙時關水龍頭可以節約用水。
+F:水是不需要節約的。|水很珍貴，要節約。
+## P2|sci|p2s1|1 生物和非生物
+M:以下哪一個是生物？|小狗|石頭|水杯|汽車|小狗有生命，是生物。
+M:以下哪一個是非生物？|椅子|小鳥|大樹|金魚|椅子沒有生命。
+T:生物會生長。|生物會長大。
+T:生物可以繁殖。|生物可以繁殖下一代。
+F:玩具機械人會動，所以它是生物。|玩具不會生長和繁殖，是非生物。
+M:植物是不是生物？|是，植物會生長和繁殖|不是，植物不會動|不是，植物不吃東西|不知道|植物會生長、繁殖，是生物。
+## P2|sci|p2s2|2 認識動物
+M:哪種動物身上有羽毛？|雞|貓|魚|蛇|鳥類身上有羽毛。
+M:哪種動物用鰓呼吸？|魚|狗|雞|貓|魚用鰓呼吸。
+M:蛇怎樣移動？|爬行|飛|跳|游泳（只會游）|蛇在地上爬行。
+M:兔子吃甚麼？|植物（如紅蘿蔔、草）|肉|石頭|膠|兔子吃植物。
+T:有些動物生活在水中，有些生活在陸地上。|動物生活在不同地方。
+M:哪種動物身上有鱗片？|魚|狗|鴨|兔|魚身上有鱗片。
+## P2|sci|p2s3|3 動手種植物
+M:種子發芽需要：|水和空氣|糖|電|鹽|種子發芽需要水、空氣和適當溫度。
+M:植物的哪部分吸收水分？|根|花|果實|種子|根吸收水分。
+M:植物的葉需要甚麼來製造養料？|陽光|黑暗|冰|沙|葉子需要陽光。
+O:種子>發芽>幼苗>長大的植物|排出植物的生長次序。|種子發芽，長成幼苗，再長大。
+F:植物不用淋水也能生長得很好。|植物需要水。
+M:植物的莖有甚麼作用？|支持植物和運送水分|吃蟲|發出聲音|走路|莖支持植物並運送水分。
+## P2|sci|p2s4|4 愛護環境
+M:以下哪個是愛護環境的行為？|循環再用膠樽|亂拋垃圾|長開水龍頭|浪費紙張|循環再用可減少垃圾。
+M:鋁罐應放入哪個回收箱？|黃色|藍色|啡色|紅色|香港：黃色回收鋁罐，藍色廢紙，啡色膠樽。
+M:廢紙應放入哪個回收箱？|藍色|黃色|啡色|綠色|藍色回收箱收集廢紙。
+T:離開房間時關燈可以節約能源。|隨手關燈。
+M:買東西時，可以帶甚麼減少用膠袋？|環保袋|更多膠袋|紙巾|雨傘|自備環保袋。
+F:把垃圾丟進海裏不會影響海洋動物。|垃圾會傷害海洋動物。
+## P4|sci|p4s1|1 地球的結構
+O:地殼>地幔>地核|由外到內排出地球的結構。|最外是地殼，中間是地幔，最內是地核。
+M:我們住在地球的哪一層？|地殼|地幔|地核|太空|我們住在地殼上。
+M:板塊碰撞可能引致：|地震和火山爆發|下雪|彩虹|月食|板塊移動碰撞會引起地震、火山爆發。
+M:以下哪一項不是岩石的種類？|塑膠岩|火成岩|沉積岩|變質岩|岩石分火成岩、沉積岩、變質岩。
+M:哪一種土壤排水能力最好？|沙土|黏土|壤土|三者一樣|沙土顆粒大，排水最快；黏土最慢。
+M:花崗岩常用作：|建築材料|食物|衣服|燃料|花崗岩堅硬，用作建築材料。
+## P4|sci|p4s2|2 轉動的地球
+M:地球自轉一周大約需要：|一天（24小時）|一年|一個月|一小時|地球自轉一周約24小時。
+M:日夜交替是因為：|地球自轉|地球變大|月亮擋住太陽|太陽熄滅|地球自轉，面向太陽是白天。
+M:地球公轉（環繞太陽）一周大約需要：|一年|一天|一星期|十年|公轉一周約365天。
+M:太陽從哪個方向升起？|東|西|南|北|地球由西向東自轉，太陽看似從東方升起。
+T:面向太陽的一面是白天。|背向太陽的一面是黑夜。
+## P4|sci|p4s3|3 天氣和氣候
+M:量度氣溫用：|溫度計|雨量計|風向標|尺|溫度計量度氣溫。
+M:量度雨量用：|雨量計|溫度計|秤|放大鏡|雨量計量度雨量。
+M:香港的夏季天氣通常：|炎熱潮濕|寒冷乾燥|下雪|非常乾旱|香港夏天炎熱潮濕多雨。
+M:「天氣」和「氣候」的分別是：|天氣是短時間，氣候是長時間的平均情況|兩者完全一樣|氣候只指一天|天氣指很多年|天氣是短時間，氣候是長期平均。
+T:八號風球時應留在室內。|颱風時留在安全的室內。
+## P4|sci|p4s4|4 動植物與環境
+M:北極熊有厚厚的毛，是為了適應：|寒冷的環境|炎熱的沙漠|水中生活|森林|厚毛可保暖。
+M:仙人掌的葉變成針刺，可以：|減少水分流失|吸引蜜蜂|跑得快|游泳|沙漠缺水，針狀葉減少水分散失。
+M:駱駝適合生活在：|沙漠|北極|海洋|雨林|駱駝能長時間不喝水。
+M:魚用甚麼適應水中生活？|鰓和鰭|肺和翅膀|毛和腳|殼和觸角|鰓呼吸，鰭游泳。
+F:所有動植物都可以在任何環境生存。|動植物有不同的適應特徵。
+## P4|sci|p4s5|5 大自然的平衡
+O:草>兔>狐狸|排出食物鏈（被吃的在前）。|草被兔吃，兔被狐狸吃。
+M:食物鏈的起點通常是：|植物|老虎|人類|石頭|植物是生產者，製造養料。
+M:如果一種動物被大量捕殺，會：|破壞大自然的平衡|沒有影響|令天氣更好|令植物消失得更慢|生物互相依存。
+M:植物在食物鏈中稱為：|生產者|消費者|分解者|捕食者|植物自己製造養料，是生產者。
+T:保護環境可以維持大自然的平衡。|人類要保護自然。
+## P5|sci|p5s1|1 呼吸和消化
+M:人體吸入空氣中的：|氧氣|二氧化碳|氮氣|水蒸氣|呼吸時吸入氧氣，呼出二氧化碳。
+M:呼吸時，氣體交換在哪個器官進行？|肺|胃|心臟|腎|肺是呼吸器官。
+O:口腔>食道>胃>小腸>大腸|排出食物經過消化系統的次序。|口腔→食道→胃→小腸→大腸。
+M:主要吸收養分的器官是：|小腸|大腸|食道|口腔|小腸吸收養分。
+M:大腸主要吸收：|水分|氧氣|骨骼|血液|大腸吸收水分。
+T:吸煙會損害肺部。|吸煙有害呼吸系統。
+## P5|sci|p5s2|2 生殖與發育
+O:卵>幼蟲>蛹>成蟲|排出蝴蝶的生命周期。|蝴蝶：卵、幼蟲、蛹、成蟲。
+M:青春期時，身體會：|出現明顯轉變|停止生長|變矮|不再變化|青春期身體出現第二性徵。
+M:人類胎兒在母親哪個器官內發育？|子宮|胃|肺|心臟|胎兒在子宮內發育。
+M:雞是用甚麼方式繁殖？|生蛋（卵生）|直接生出小雞（胎生）|分裂|種子|雞是卵生動物。
+T:青蛙的生命周期包括蝌蚪階段。|卵→蝌蚪→幼蛙→成蛙。
+## P5|sci|p5s3|3 空氣的特性
+M:空氣佔有空間嗎？|佔有空間|不佔空間|只在晚上佔空間|只在水中佔空間|空氣佔有空間。
+M:空氣有重量嗎？|有|沒有|只有熱空氣有|不知道|空氣有重量。
+M:空氣受熱後會：|膨脹|收縮|消失|變成水|熱空氣膨脹。
+M:燃燒需要空氣中的：|氧氣|二氧化碳|水蒸氣|氮氣|燃燒需要氧氣。
+F:空氣可以被看見。|空氣無色、看不見。
+M:空氣可以被壓縮嗎？|可以|不可以|只有冷空氣可以|只有在水裏可以|空氣可以被壓縮，例如打氣筒。
+## P5|sci|p5s4|4 可逆轉和不可逆轉的變化
+M:以下哪個是可逆轉的變化？|冰融化成水|燒紙|煎蛋|生鏽|水可以再結成冰。
+M:以下哪個是不可逆轉的變化？|燒木|水結冰|朱古力融化|水蒸發|木燒成灰不能變回木。
+M:鐵生鏽是：|不可逆轉的變化|可逆轉的變化|沒有變化|可以還原|鐵鏽不能變回鐵。
+T:水蒸發成水蒸氣是可逆轉的變化。|水蒸氣遇冷凝結成水。
+F:煮熟的雞蛋可以變回生雞蛋。|煮蛋是不可逆轉的變化。
+## P5|sci|p5s5|5 顯微鏡下的微生物
+M:觀察微生物要用：|顯微鏡|望遠鏡|溫度計|放大鏡就夠|微生物太小，要用顯微鏡。
+M:麵包放久了會生出：|霉菌|花|石頭|昆蟲|霉菌是微生物。
+M:製作麵包用到哪種微生物？|酵母菌|霉菌|病毒|藻類|酵母菌令麵團發脹。
+M:防止食物變壞，可以：|放進雪櫃冷藏|放在太陽下|放在濕的地方|不加蓋|低溫減慢微生物生長。
+T:有些微生物對人有益。|例如酵母菌、乳酸菌。
+F:所有微生物都會令人生病。|有些有益，有些有害。
+## P4|hum|p4h1|第1課 小小考察隊
+M:實地考察前，我們應該：|訂立考察目的和計劃|甚麼都不準備|只帶零食|不告訴家人|考察前先定目的和計劃。
+M:考察時用來記錄的方法不包括：|亂拋垃圾|拍照|寫筆記|繪畫草圖|拍照、筆記、繪圖都是記錄方法。
+M:考察時看地圖要先看：|指向標和圖例|價錢|天氣|廣告|指向標和圖例幫助讀地圖。
+T:考察時要注意安全，遵守規則。|安全第一。
+F:考察後不用整理資料。|考察後要整理資料，作出結論。
+## P4|hum|p4h2|第2課 漫遊香港
+M:香港主要由哪三部分組成？|香港島、九龍、新界|東區、西區、南區|大嶼山、長洲、南丫島|中環、旺角、沙田|香港分為香港島、九龍和新界（包括離島）。
+M:柴灣在哪一區？|東區（香港島）|元朗|沙田|油尖旺|柴灣位於香港島東區。
+M:香港面積最大的島嶼是：|大嶼山|香港島|長洲|南丫島|大嶼山是香港最大的島。
+M:香港最高的山是：|大帽山|太平山|獅子山|飛鵝山|大帽山約957米，是香港最高的山。
+M:分隔香港島和九龍的是：|維多利亞港|吐露港|后海灣|大潭|維多利亞港在港島和九龍之間。
+## P4|hum|p4h3|第3課 香港的氣候
+M:香港屬於哪種氣候？|亞熱帶氣候|寒帶氣候|沙漠氣候|極地氣候|香港屬亞熱帶季風氣候。
+M:香港夏季天氣：|炎熱潮濕、多雨|寒冷乾燥|經常下雪|非常乾旱|夏季炎熱潮濕。
+M:香港冬季天氣：|清涼乾燥|炎熱多雨|經常打颱風|有暴風雪|冬季較涼及乾燥。
+M:颱風多在甚麼季節影響香港？|夏季和秋季|冬季|只在春季|全年都不會|颱風季主要在夏秋。
+M:提供天氣資訊的政府部門是：|香港天文台|郵政局|消防處|圖書館|香港天文台發佈天氣報告。
+## P4|hum|p4h4|第4課 發現地球
+M:地球表面大部分被甚麼覆蓋？|海洋|陸地|冰|沙漠|約七成是海洋。
+M:世界上有幾個大洲？|七個|五個|三個|十個|亞洲、非洲、北美洲、南美洲、南極洲、歐洲、大洋洲。
+M:中國位於哪個大洲？|亞洲|歐洲|非洲|大洋洲|中國在亞洲。
+M:世界上最大的海洋是：|太平洋|大西洋|印度洋|北冰洋|太平洋最大。
+M:地球儀上，把地球分成南北半球的是：|赤道|經線|國界|河流|赤道把地球分為南北半球。
