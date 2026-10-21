@@ -26,3 +26,4 @@
 | 2026-10-21 | 開發 Bot | QA Bot、安全 Bot | B2-DEV-01 | 校名移除；rg（docs/ssot 以外）0 結果 | QA 試玩；安全 Bot 覆核私隱 |
 | 2026-10-21 | QA Bot | 開發 Bot／專案經理 Bot | B2-QA-01 | PR #10／#11／#12 審查通過；#10 要清 docs/ssot 校名及舊 key；合併次序 #10→#11→#12 | 開發 Bot 處理 #10 跟進；Jessie 批准合併 |
 | 2026-10-21 | QA Bot | 專案經理 Bot／Jessie | B2-QA-01 | B2 覆審：#10／#11／#12 通過；#10 刪除舊 key 搬遷 → Pages 現有玩家進度會重置 | Jessie 決定：接受重置／保留搬遷／保留舊 key |
+| 2026-10-21 | QA Bot | 開發 Bot／專案經理 Bot | B2-QA-01 | Jessie 決定 PR #10 接受現有玩家進度重置（唔讀舊 key、冇搬遷代碼） | 可按次序 #10→#11→#12 待 Jessie 批准合併 |

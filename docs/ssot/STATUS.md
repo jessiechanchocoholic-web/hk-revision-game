@@ -77,3 +77,4 @@ P1 中文一上單元一二、英文 1A Ch1–4、科學一上。
 - 2026-10-21 文件 Bot 核對 main `8c49220`：`validate.js` → ALL OK 103 levels 591 questions；154 題 `verified:true`（26 關）、437 題 `false`；B2 新增 p2m96（6）、p4m96（8）、p5m96（5）共 19 題，全部 `verified:false`。
 - 2026-10-21 B2-QA-01 審查中：QA Bot 審查 PR #10／#11／#12 全部通過（#10 有 docs/ssot 跟進），見 QA_REPORT.md「B2 審查」。
 - 2026-10-21 B2-QA-01 審查中：QA Bot 審查 PR #10／#11／#12 覆審全部通過（#10 5d4cfc6 待 Jessie 決定舊進度 key 處理），見 QA_REPORT.md「B2 審查」。
+- 2026-10-21 B2-QA-01 審查中：QA Bot 審查 PR #10／#11／#12 覆審全部通過（#10 5d4cfc6：Jessie 決定接受進度重置），見 QA_REPORT.md「B2 審查」。
