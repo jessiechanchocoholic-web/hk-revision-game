@@ -1,0 +1,124 @@
+{
+ "levelId": "p1c2",
+ "grade": "P1",
+ "subject": "chi",
+ "lesson": "L02",
+ "title": "單元二 來學常用字",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "「一、二、三」之後是：",
+   "answer": "四",
+   "options": [
+    "十",
+    "六",
+    "四",
+    "八"
+   ],
+   "explain": "數數：一、二、三、四。",
+   "id": "CHI-P1-L02-001",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "「一、二、三」之後是：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜單元二 來學常用字",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "郊外常常可以見到：",
+   "answer": "大樹",
+   "options": [
+    "書桌",
+    "電視",
+    "電梯",
+    "大樹"
+   ],
+   "explain": "郊外有很多大樹和花草。",
+   "id": "CHI-P1-L02-002",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "郊外常常可以見到：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜單元二 來學常用字",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「天空」的「天」，在哪裏？",
+   "answer": "上面",
+   "options": [
+    "水裏",
+    "上面",
+    "地底",
+    "下面"
+   ],
+   "explain": "天空在我們上面。",
+   "id": "CHI-P1-L02-003",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "「天空」的「天」，在哪裏？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜單元二 來學常用字",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "早上，草上亮晶晶的小水珠叫：",
+   "answer": "露珠",
+   "options": [
+    "星星",
+    "雪花",
+    "露珠",
+    "石頭"
+   ],
+   "explain": "早上草葉上的小水珠叫露珠。",
+   "id": "CHI-P1-L02-004",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "早上，草上亮晶晶的小水珠叫：",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜單元二 來學常用字",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「專心聽」的「聽」，要用身體哪部分？",
+   "answer": "耳朵",
+   "options": [
+    "耳朵",
+    "手",
+    "腳",
+    "鼻子"
+   ],
+   "explain": "我們用耳朵聽。",
+   "id": "CHI-P1-L02-005",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "「專心聽」的「聽」，要用身體哪部分？",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜單元二 來學常用字",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "「小羊數數」會用到數字。",
+   "answer": true,
+   "explain": "數數就是數一、二、三……",
+   "id": "CHI-P1-L02-006",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "「小羊數數」會用到數字。",
+   "source": "research.md §1 中文《我愛學語文》（第二版）｜單元二 來學常用字",
+   "verified": false
+  }
+ ]
+}

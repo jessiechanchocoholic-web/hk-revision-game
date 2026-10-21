@@ -1,0 +1,101 @@
+{
+ "levelId": "p4m18",
+ "grade": "P4",
+ "subject": "math",
+ "lesson": "L18",
+ "title": "L18 圖形分割",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "一個正方形沿對角線剪開，得到兩個：",
+   "answer": "三角形",
+   "options": [
+    "梯形",
+    "三角形",
+    "圓形",
+    "正方形"
+   ],
+   "explain": "對角線把正方形分成兩個三角形。",
+   "id": "MATH-P4-L18-001",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L18",
+   "level": "理解",
+   "question": "一個正方形沿對角線剪開，得到兩個：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 圖形分割",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "一個長方形沿中間直線剪成兩半，可能得到兩個：",
+   "answer": "長方形",
+   "options": [
+    "圓形",
+    "三角形（一定）",
+    "長方形",
+    "五邊形"
+   ],
+   "explain": "沿中線剪成兩個長方形。",
+   "id": "MATH-P4-L18-002",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L18",
+   "level": "理解",
+   "question": "一個長方形沿中間直線剪成兩半，可能得到兩個：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 圖形分割",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "把一個圖形分割，各部分面積加起來等於原來的面積。",
+   "answer": true,
+   "explain": "分割不改變總面積。",
+   "id": "MATH-P4-L18-003",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L18",
+   "level": "應用",
+   "question": "把一個圖形分割，各部分面積加起來等於原來的面積。",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 圖形分割",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "一個正方形畫兩條對角線，可分成多少個三角形？",
+   "answer": [
+    "4"
+   ],
+   "explain": "兩條對角線分成4個三角形。",
+   "numeric": true,
+   "id": "MATH-P4-L18-004",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L18",
+   "level": "應用",
+   "question": "一個正方形畫兩條對角線，可分成多少個三角形？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 圖形分割",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "沿一條對角線剪開一個梯形，可以得到：",
+   "answer": "兩個三角形",
+   "options": [
+    "兩個梯形",
+    "兩個圓形",
+    "兩個三角形",
+    "一個圓形和正方形"
+   ],
+   "explain": "對角線把梯形分成兩個三角形。",
+   "id": "MATH-P4-L18-005",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L18",
+   "level": "理解",
+   "question": "沿一條對角線剪開一個梯形，可以得到：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L18 圖形分割",
+   "verified": false
+  }
+ ]
+}

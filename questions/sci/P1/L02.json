@@ -1,0 +1,104 @@
+{
+ "levelId": "p1s2",
+ "grade": "P1",
+ "subject": "sci",
+ "lesson": "L02",
+ "title": "2 動物知多少",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "哪種動物會飛？",
+   "answer": "小鳥",
+   "options": [
+    "小鳥",
+    "蛇",
+    "魚",
+    "貓"
+   ],
+   "explain": "小鳥有翅膀，會飛。",
+   "id": "SCI-P1-L02-001",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "哪種動物會飛？",
+   "source": "research.md §5 科學《科學新領域》｜2 動物知多少",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "魚用甚麼游泳？",
+   "answer": "鰭",
+   "options": [
+    "腳",
+    "翅膀",
+    "手",
+    "鰭"
+   ],
+   "explain": "魚用鰭游泳。",
+   "id": "SCI-P1-L02-002",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "魚用甚麼游泳？",
+   "source": "research.md §5 科學《科學新領域》｜2 動物知多少",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "哪種動物有四條腿？",
+   "answer": "狗",
+   "options": [
+    "狗",
+    "魚",
+    "雞",
+    "蛇"
+   ],
+   "explain": "狗有四條腿。",
+   "id": "SCI-P1-L02-003",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "哪種動物有四條腿？",
+   "source": "research.md §5 科學《科學新領域》｜2 動物知多少",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "動物要吃東西才能生存。",
+   "answer": true,
+   "explain": "動物需要食物。",
+   "id": "SCI-P1-L02-004",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "動物要吃東西才能生存。",
+   "source": "research.md §5 科學《科學新領域》｜2 動物知多少",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "哪種動物住在水裏？",
+   "answer": "魚",
+   "options": [
+    "貓",
+    "魚",
+    "兔子",
+    "狗"
+   ],
+   "explain": "魚生活在水中。",
+   "id": "SCI-P1-L02-005",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "哪種動物住在水裏？",
+   "source": "research.md §5 科學《科學新領域》｜2 動物知多少",
+   "verified": false
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "levelId": "p4h2",
+ "grade": "P4",
+ "subject": "hum",
+ "lesson": "L02",
+ "title": "第2課 漫遊香港",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "香港主要由哪三部分組成？",
+   "answer": "香港島、九龍、新界",
+   "options": [
+    "大嶼山、長洲、南丫島",
+    "香港島、九龍、新界",
+    "中環、旺角、沙田",
+    "東區、西區、南區"
+   ],
+   "explain": "香港分為香港島、九龍和新界（包括離島）。",
+   "id": "HUM-P4-L02-001",
+   "grade": "P4",
+   "subject": "hum",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "香港主要由哪三部分組成？",
+   "source": "research.md §4 人文《今日人文》｜第2課 漫遊香港",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "柴灣在哪一區？",
+   "answer": "東區（香港島）",
+   "options": [
+    "元朗",
+    "油尖旺",
+    "沙田",
+    "東區（香港島）"
+   ],
+   "explain": "柴灣位於香港島東區。",
+   "id": "HUM-P4-L02-002",
+   "grade": "P4",
+   "subject": "hum",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "柴灣在哪一區？",
+   "source": "research.md §4 人文《今日人文》｜第2課 漫遊香港",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "香港面積最大的島嶼是：",
+   "answer": "大嶼山",
+   "options": [
+    "香港島",
+    "南丫島",
+    "大嶼山",
+    "長洲"
+   ],
+   "explain": "大嶼山是香港最大的島。",
+   "id": "HUM-P4-L02-003",
+   "grade": "P4",
+   "subject": "hum",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "香港面積最大的島嶼是：",
+   "source": "research.md §4 人文《今日人文》｜第2課 漫遊香港",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "香港最高的山是：",
+   "answer": "大帽山",
+   "options": [
+    "太平山",
+    "獅子山",
+    "大帽山",
+    "飛鵝山"
+   ],
+   "explain": "大帽山約957米，是香港最高的山。",
+   "id": "HUM-P4-L02-004",
+   "grade": "P4",
+   "subject": "hum",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "香港最高的山是：",
+   "source": "research.md §4 人文《今日人文》｜第2課 漫遊香港",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "分隔香港島和九龍的是：",
+   "answer": "維多利亞港",
+   "options": [
+    "大潭",
+    "后海灣",
+    "吐露港",
+    "維多利亞港"
+   ],
+   "explain": "維多利亞港在港島和九龍之間。",
+   "id": "HUM-P4-L02-005",
+   "grade": "P4",
+   "subject": "hum",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "分隔香港島和九龍的是：",
+   "source": "research.md §4 人文《今日人文》｜第2課 漫遊香港",
+   "verified": false
+  }
+ ]
+}

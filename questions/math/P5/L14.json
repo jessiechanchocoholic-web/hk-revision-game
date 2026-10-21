@@ -1,0 +1,118 @@
+{
+ "levelId": "p5m14",
+ "grade": "P5",
+ "subject": "math",
+ "lesson": "L14",
+ "title": "L14 代數符號(一)",
+ "verified": false,
+ "questions": [
+  {
+   "type": "fill",
+   "q": "若 y ＝ 7，y ＋ 7 ＝ ？",
+   "answer": [
+    "14"
+   ],
+   "explain": "7＋7＝14",
+   "numeric": true,
+   "id": "MATH-P5-L14-001",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L14",
+   "level": "應用",
+   "question": "若 y ＝ 7，y ＋ 7 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L14 代數符號(一)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "若 y ＝ 19，y ＋ 7 ＝ ？",
+   "answer": [
+    "26"
+   ],
+   "explain": "19＋7＝26",
+   "numeric": true,
+   "id": "MATH-P5-L14-002",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L14",
+   "level": "應用",
+   "question": "若 y ＝ 19，y ＋ 7 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L14 代數符號(一)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "若 y ＝ 3，y ＋ 7 ＝ ？",
+   "answer": [
+    "10"
+   ],
+   "explain": "3＋7＝10",
+   "numeric": true,
+   "id": "MATH-P5-L14-003",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L14",
+   "level": "應用",
+   "question": "若 y ＝ 3，y ＋ 7 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L14 代數符號(一)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「a 的 3 倍」用代數表示是：",
+   "answer": "3a",
+   "options": [
+    "a÷3",
+    "a＋3",
+    "3a",
+    "a－3"
+   ],
+   "explain": "3×a 寫作 3a。",
+   "id": "MATH-P5-L14-004",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L14",
+   "level": "理解",
+   "question": "「a 的 3 倍」用代數表示是：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L14 代數符號(一)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「比 n 少 5」用代數表示是：",
+   "answer": "n－5",
+   "options": [
+    "5－n",
+    "n＋5",
+    "n－5",
+    "5n"
+   ],
+   "explain": "比 n 少 5 即 n－5。",
+   "id": "MATH-P5-L14-005",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L14",
+   "level": "理解",
+   "question": "「比 n 少 5」用代數表示是：",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L14 代數符號(一)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "若 x ＝ 3，4x ＝ ？",
+   "answer": [
+    "12"
+   ],
+   "explain": "4×3＝12",
+   "numeric": true,
+   "id": "MATH-P5-L14-006",
+   "grade": "P5",
+   "subject": "math",
+   "lesson": "L14",
+   "level": "應用",
+   "question": "若 x ＝ 3，4x ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L14 代數符號(一)",
+   "verified": false
+  }
+ ]
+}

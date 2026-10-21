@@ -1,0 +1,118 @@
+{
+ "levelId": "p2s1",
+ "grade": "P2",
+ "subject": "sci",
+ "lesson": "L01",
+ "title": "1 生物和非生物",
+ "verified": true,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "以下哪一個是生物？",
+   "answer": "小狗",
+   "options": [
+    "汽車",
+    "小狗",
+    "石頭",
+    "水杯"
+   ],
+   "explain": "小狗有生命，是生物。",
+   "id": "SCI-P2-L01-001",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "以下哪一個是生物？",
+   "source": "research.md §5 科學《科學新領域》｜1 生物和非生物",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "以下哪一個是非生物？",
+   "answer": "椅子",
+   "options": [
+    "椅子",
+    "大樹",
+    "金魚",
+    "小鳥"
+   ],
+   "explain": "椅子沒有生命。",
+   "id": "SCI-P2-L01-002",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "以下哪一個是非生物？",
+   "source": "research.md §5 科學《科學新領域》｜1 生物和非生物",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "生物會生長。",
+   "answer": true,
+   "explain": "生物會長大。",
+   "id": "SCI-P2-L01-003",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "生物會生長。",
+   "source": "research.md §5 科學《科學新領域》｜1 生物和非生物",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "生物可以繁殖。",
+   "answer": true,
+   "explain": "生物可以繁殖下一代。",
+   "id": "SCI-P2-L01-004",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "生物可以繁殖。",
+   "source": "research.md §5 科學《科學新領域》｜1 生物和非生物",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "玩具機械人會動，所以它是生物。",
+   "answer": false,
+   "explain": "玩具不會生長和繁殖，是非生物。",
+   "id": "SCI-P2-L01-005",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "玩具機械人會動，所以它是生物。",
+   "source": "research.md §5 科學《科學新領域》｜1 生物和非生物",
+   "verified": true,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "植物是不是生物？",
+   "answer": "是，植物會生長和繁殖",
+   "options": [
+    "不是，植物不會動",
+    "是，植物會生長和繁殖",
+    "不是，植物不吃東西",
+    "不知道"
+   ],
+   "explain": "植物會生長、繁殖，是生物。",
+   "id": "SCI-P2-L01-006",
+   "grade": "P2",
+   "subject": "sci",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "植物是不是生物？",
+   "source": "research.md §5 科學《科學新領域》｜1 生物和非生物",
+   "verified": true,
+   "readAloud": true
+  }
+ ]
+}

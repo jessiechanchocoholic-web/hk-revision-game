@@ -15,11 +15,11 @@
 | B1-DEV-05 | 錯題簿：自動收集錯題→生成「復仇關」，答啱 2 次先移除；只存本機 localStorage | 開發 Bot | 待辦 | 2026-10-21 | 不收集學生個人資料 |
 | B1-DEV-06 | P2 讀題功能（瀏覽器 Web Speech API，粵語／英語） | 開發 Bot | 待辦 | 2026-10-21 | 對應 P2 老師讀卷；粵語語音支援待測 |
 | B1-DEV-07 | 獎勵：三星、徽章、combo；P1 只開練習關（無 Boss） | 開發 Bot | 待辦 | 2026-10-21 | |
-| B1-Q-01 | 題庫 P5 數學 | 開發 Bot（題庫） | 待辦 | 2026-10-21 | ✅ 5上A L1 多位數、L2 近似值和大數量的估計、L3 分數的比較、L4 異分母分數加法、L5 異分母分數減法、L6 異分母分數加減混合運算、L7 平行四邊形、L8 三角形、L9 梯形、L10 多邊形的面積；5上B L14、L15 代數符號(一)(二)。L7–10、L14–15 只核實課名，學習重點 ⚠️推斷 |
-| B1-Q-02 | 題庫 P2 數學 | 開發 Bot（題庫） | 待辦 | 2026-10-21 | ✅ L1 三位數、L2 數數活動、L3 加法(一)、L4 加法(二)、L5 減法、L6 加減應用題、L7 角和直角、L8 垂直線、L9 銳角和鈍角、L10–11 米的認識(一)(二)、L18 報時、L19 活動時間、L20 年和月。L7–11、L18–20 只核實課名 ⚠️；L12–17 乘法不在範圍；溫習工作紙(1) ❌；題目需 readAloud |
-| B1-Q-03 | 題庫 P5 英文 | 開發 Bot（題庫） | 待辦 | 2026-10-21 | ✅ 5A Ch1 Good manners（should/shouldn't、adverbs of manner）；Ch2 Be a good friend（verbs/adjectives + prepositions、adverbs of degree）；Ch3 Describing people（prepositional phrases in/with、relative pronoun who）。課文詞彙表 ❌；只用 2nd ed，舊版附件只參考題型 |
-| B1-Q-04 | 題庫 P4 英文 | 開發 Bot（題庫） | 待辦 | 2026-10-21 | ✅ 4A Ch1 My favourite activities（simple present、adverbs of frequency）；Ch2 Shows we like（too/either、both…and、or、but）；Ch3 At the supermarket（comparatives/superlatives、phrases of quantity）。詞彙表 ❌ |
-| B1-Q-05 | 題庫 P4 科學 | 開發 Bot（題庫） | 待辦 | 2026-10-21 | ✅ 四上 L1 地球的結構（有完整樣本：地殼/地幔/地核、板塊、三類岩石、三類土壤）、L2 轉動的地球、L3 天氣和氣候、L4 動植物與環境、L5 大自然的平衡。L2–5 只有課名，內容 ⚠️推斷 |
+| B1-Q-01 | 題庫 P5 數學 | 開發 Bot（題庫） | 審查中 | 2026-10-21 | ✅ 5上A L1 多位數、L2 近似值和大數量的估計、L3 分數的比較、L4 異分母分數加法、L5 異分母分數減法、L6 異分母分數加減混合運算、L7 平行四邊形、L8 三角形、L9 梯形、L10 多邊形的面積；5上B L14、L15 代數符號(一)(二)。L7–10、L14–15 只核實課名，學習重點 ⚠️推斷 |
+| B1-Q-02 | 題庫 P2 數學 | 開發 Bot（題庫） | 審查中 | 2026-10-21 | ✅ L1 三位數、L2 數數活動、L3 加法(一)、L4 加法(二)、L5 減法、L6 加減應用題、L7 角和直角、L8 垂直線、L9 銳角和鈍角、L10–11 米的認識(一)(二)、L18 報時、L19 活動時間、L20 年和月。L7–11、L18–20 只核實課名 ⚠️；L12–17 乘法不在範圍；溫習工作紙(1) ❌；題目需 readAloud |
+| B1-Q-03 | 題庫 P5 英文 | 開發 Bot（題庫） | 審查中 | 2026-10-21 | ✅ 5A Ch1 Good manners（should/shouldn't、adverbs of manner）；Ch2 Be a good friend（verbs/adjectives + prepositions、adverbs of degree）；Ch3 Describing people（prepositional phrases in/with、relative pronoun who）。課文詞彙表 ❌；只用 2nd ed，舊版附件只參考題型 |
+| B1-Q-04 | 題庫 P4 英文 | 開發 Bot（題庫） | 審查中 | 2026-10-21 | ✅ 4A Ch1 My favourite activities（simple present、adverbs of frequency）；Ch2 Shows we like（too/either、both…and、or、but）；Ch3 At the supermarket（comparatives/superlatives、phrases of quantity）。詞彙表 ❌ |
+| B1-Q-05 | 題庫 P4 科學 | 開發 Bot（題庫） | 審查中 | 2026-10-21 | ✅ 四上 L1 地球的結構（有完整樣本：地殼/地幔/地核、板塊、三類岩石、三類土壤）、L2 轉動的地球、L3 天氣和氣候、L4 動植物與環境、L5 大自然的平衡。L2–5 只有課名，內容 ⚠️推斷 |
 | B1-QA-01 | 題庫內容審核：每題對照 research.md 課題、答案正確、⚠️ 題目標 verified:false | QA Bot | 待辦 | 2026-10-21 | 依賴 B1-Q-01~05 |
 | B1-QA-02 | 功能測試：關卡、Boss、錯題簿、讀題、手機/平板顯示 | QA Bot | 待辦 | 2026-10-21 | 依賴 B1-DEV |
 | B1-SEC-01 | 私隱審查：不收集學生姓名/個人資料、無登入、無追蹤分析、只用 localStorage | 安全 Bot | 審查中 | 2026-10-21 | 通過，見 SECURITY_REVIEW.md |
@@ -40,3 +40,15 @@ P1 中文一上單元一二、英文 1A Ch1–4、科學一上。
 
 ## 暫停
 人文 P2/P5、數學 P1（無目錄）。
+
+## 題庫 PR（feat/question-bank）— 2026-10-21
+- 狀態：審查中（交 QA Bot：B1-QA-01）
+- 題庫：97 關、548 題；`questions/<subject>/<grade>/<lesson>.json`（由 `game/tools/build.js` 生成，與 `game/questions.js` 同步）
+- verified:true 關卡：數學 P2 L1–L6、P5 L1–L6；英文 P1/P2/P4/P5 全部；科學 P4 L1、P2 L1。其餘全部 verified:false（只核實課名或題型推斷）
+- 「能力層次」(level) 由題型自動推定，待 QA 抽查
+- 2026-10-21 更新：加「只顯示 verified:true」開關（`VERIFIED_ONLY_DEFAULT`／`?verifiedOnly=1`），預設顯示全部；開啟時 28 關／167 題。上線前用邊個模式待 Jessie 決定。
+- 2026-10-21 更新：VERIFIED_ONLY_DEFAULT 改為 true（預設只顯示 28 關／167 題）；P2 加讀題掣（粵語 zh-HK／英文 en）。
+- 2026-10-21 QA 修正：讀題掣重複、排序題讀出答案、P2 數學 L2 及 P5 英文 L2 改 verified:false、level 對應、p4m18、p5c2。已核實模式 26 關／154 題。
+- 2026-10-21 Docs Bot 意見：P1/P2 英文逐題對照 research.md，7 題改 verified:false（build.js UNVERIFIED_Q）。已核實模式 26 關／147 題。
+- 2026-10-21 Jessie 決定：P1/P2 英文 7 題改返 verified:true。已核實模式 26 關／154 題。
+- 2026-10-21 小修：答錯唔再顯示答案／解釋（答啱先顯示）；冇粵語（zh-HK/yue）或英文聲就隱藏讀題掣（voiceschanged 會更新）；P1 冇 Boss 關。已核實模式 26 關／154 題。
