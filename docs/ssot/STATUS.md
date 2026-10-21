@@ -2,12 +2,12 @@
 
 Repo：https://github.com/jessiechanchocoholic-web/hk-revision-game （預設分支 `main`）
 
-## 現況摘要（2026-10-21，文件 Bot 核對 repo）
+## 現況摘要（2026-10-21，專案經理 Bot 發佈後更新）
 - 遊戲骨架已在 `game/`：純靜態網頁，入口 `game/index.html`／`game/開始遊戲.html`。
 - 題庫：97 關、548 題，由 `game/tools/build.js` 讀 `game/tools/content.txt` ＋ 數學產生器輸出 `game/questions.js`。
 - 已有：世界／年級選擇、每課一關、Boss 模擬考、錯題簿（localStorage）、P2 讀題（Web Speech）、星星／徽章。
-- 題目欄位（D-014）已喺 PR #2 實施（未合併）：build.js 自動加 id／source／verified 等欄位，並輸出 `questions/<subject>/<grade>/<lesson>.json`；`validate.js` 檢查；`?verifiedOnly=1` 開關、預設只顯示已核實（26 關／154 題已核實、394 題未核實（`b8e7e98`），D-016）。
-- 未部署；已決定用 GitHub Pages `/game/`（D-009），啟用前要問 Jessie。
+- 題目欄位（D-014）已實施（PR #2 已合併）：build.js 自動加 id／source／verified 等欄位，並輸出 `questions/<subject>/<grade>/<lesson>.json`；`validate.js` 檢查；`?verifiedOnly=1` 開關、預設只顯示已核實（26 關／154 題已核實、394 題未核實（`b8e7e98`），D-016）。
+- 已發佈 v1.0.0（D-024）：https://jessiechanchocoholic-web.github.io/hk-revision-game/game/ （GitHub Pages，main 根目錄）；PR #1–#5 已合併。
 - 已包括第二、三批部分內容（P4 數學、P2 英文、P2/P5 科學、P4 人文、P1 練習、中文各課）。
 - 待核實題目清單：`UNVERIFIED_QUESTIONS.md`。
 
@@ -56,7 +56,7 @@ Repo：https://github.com/jessiechanchocoholic-web/hk-revision-game （預設分
 | B1-SEC-02 | 檢查 repo 無密鑰/token、無第三方腳本風險、版權（課本內容只作溫習用，不整段抄錄） | 安全 Bot | 審查中 | 2026-10-21 | 無高風險；版權取向待 Jessie 確認（Q6），見 SECURITY_REVIEW.md |
 | B1-DOC-01 | 老師／家長指南：如何用 JSON 增減題目 | 文件 Bot | 待辦 | 2026-10-21 | 依賴 B1-DEV-01 |
 | B1-DOC-02 | 維護 SSOT 文件及「待核實內容清單」（⚠️ 項目） | 文件 Bot | 待辦 | 2026-10-21 | |
-| B1-DEP-01 | 部署準備（只準備，不上線）：比較 GitHub Pages / Netlify 等方案，寫部署步驟 | 部署 Bot | 審查中 | 2026-10-21 | 已寫 docs/ssot/RELEASE.md；已定方案 A＋公開使用（D-008）；等 QA／安全通過及 Jessie 最後拍板開 Pages，未部署 |
+| B1-DEP-01 | 部署準備（只準備，不上線）：比較 GitHub Pages / Netlify 等方案，寫部署步驟 | 部署 Bot | 完成 | 2026-10-21 | GitHub Pages 已啟用，v1.0.0 已上線（D-024）；待部署 Bot 做上線後檢查 |
 
 ## 第二批（待第一批完成，根據 research.md「題庫優先次序」）
 6. 數學 P4：4上A L4–9、4上B L11–14、18–19（L1–3 課名待抄錄 ⚠️）
