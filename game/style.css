@@ -11,3 +11,5 @@ button:active{transform:translateY(2px)}.ghost{background:transparent;box-shadow
 .prog{height:12px;background:#ddd;border-radius:8px;overflow:hidden}.prog div{height:100%;background:#48bb78}.primary{background:#2b6cb0;color:#fff}
 .tag{display:inline-block;background:#fde68a;border-radius:8px;padding:2px 8px;font-size:.9rem;margin-left:6px}.order-picked{min-height:50px;border:2px dashed #9ab;border-radius:12px;padding:6px;margin:8px 0}
 .note{color:#666;font-size:.9rem}
+
+.eq{font-weight:bold;margin-top:8px}.working{font-family:ui-monospace,Menlo,Consolas,'Courier New',monospace;background:#f7fafc;border:1px solid #cbd5e0;border-radius:10px;padding:10px;white-space:pre;overflow-x:auto;font-size:1rem;line-height:1.4;margin:6px 0 0}
