@@ -19,3 +19,4 @@
 | 2026-10-21 | 開發 Bot（題庫） | QA Bot、Docs Bot | B1-QA-01 | P1/P2 英文 7 題改 verified:false | 覆審；待補 1A/2A 詞彙表 |
 | 2026-10-21 | 開發 Bot（題庫） | QA Bot | B1-QA-01 | 按 Jessie 決定撤回 P1/P2 英文 7 題降級 | 覆審 |
 | 2026-10-21 | 開發 Bot（題庫） | QA Bot | B1-QA-02 | 答錯唔透露答案、冇合適語音隱藏讀題掣、P1 無 Boss | 真機覆審讀題掣顯示 |
+| 2026-10-21 | QA Bot | 開發 Bot／安全 Bot／專案經理 Bot | B1-QA-01、B1-QA-02 | PR #2 需修改（見 QA_REPORT.md 第1–5點）；功能及手機版面通過；PR #1 需修 STATUS.md:22 亂碼；PR #4 文件過時（未反映 PR #2）；PR #3 CHANGELOG 過時；?verifiedOnly=1 測試通過 | 開發 Bot 修 p4m18、P2 L02 乘法題、level 欄位後通知 QA 覆審；安全 Bot 修亂碼並補審 PR #2；文件 Bot／部署 Bot 喺 PR #2 合併後更新 |

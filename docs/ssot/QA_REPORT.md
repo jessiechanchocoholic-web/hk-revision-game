@@ -1,0 +1,133 @@
+# QA 報告（B1-QA-01 / B1-QA-02）
+
+- 日期：2026-10-21｜審查者：QA Bot
+- 範圍（審查次序）：PR #2 `feat/question-bank`（head e37e647）→ PR #1 安全報告 → PR #4 文件 → PR #3 發佈準備
+- 結論：四個 PR 全部 **需要修改**（遊戲本身可玩、0 console 錯誤；問題集中喺題目內容標記及文件同步）
+
+## PR #2 題庫
+`node game/tools/validate.js` → `ALL OK 97 levels 548 questions`（0 錯誤）。548 題逐題人手核對答案，課題全部對應 research.md。
+
+### 必須修改
+1. `questions/math/P2/L02.json:83`（build.js:34）「有6組，每組20粒糖…」用乘法，research.md §3 列明 P2 L12–17 乘法**不在範圍**；而且此關 `verified:true`。→ 改為以20為一組逐組數數，或刪除。
+2. **p4m18 梯形題答案錯**：`questions/math/P4/L18.json:83`（build.js:136）「一個梯形可以分割成：一個長方形和三角形」。數學核對：由短底兩端各作一條高，一般梯形（非直角）會分成 1 個長方形＋2 個三角形；只有直角梯形先係 1 個長方形＋1 個三角形。另外兩條對角線之一亦可把任何梯形分成 2 個三角形。→ 題幹改「直角梯形」，或答案改「一個長方形和兩個三角形」。
+3. `questions/chi/P5/L02.json:51`「合作」反義詞答案「分裂」不恰當（常用反義為「分工各做／單幹」，題目選項中無理想答案）。→ 改題或刪除。
+4. `level` 欄位按題型機械填寫，不準確：所有 mc/tf → 記憶、數學 fill → 應用、無任何「分析」題。例：`questions/math/P2/L10.json:32`「1米＝（ ）厘米」標「應用」應為「記憶」；中文修辭判斷（P2 L05 #5、P4 L05 #3、P5 L01 #5）、英文文法選擇（P4/P5 全部 mc）、科學可逆／不可逆分類（P5 L04）標「記憶」應為「理解／應用」；P4 sci L05「大量捕殺動物會…」應為「分析」。→ build.js 改為逐題指定 level（可保留預設，但要人手覆寫）。
+5. `verified`：
+   - 英文 P1/P2/P4/P5 全部 `true` 合理（language focus ✅），但 P5 Ch2 `good at`、`afraid of`、`share with`（`questions/eng/P5/L02.json`）不在 research.md 列出例子內，屬推斷 → 建議逐題 false 或補來源。
+   - P2 math L02 見第 1 點，不應 true。
+   - 其餘 69 關 false 合理（中文課文內容、只核實課名之課、P4 數學、P2/P5 科學、P4 人文、P1）。
+
+### 建議（非阻擋）
+6. `questions/chi/P5/L08.json:11` 題目寫《金縷衣》（正確寫法），research.md §1 寫「金鏤衣」→ 請 文件 Bot 更正 research.md。
+7. `questions/chi/P2/L05.json:95`「小鳥在樹上唱歌」判為擬人法，具爭議（鳥本身會「鳴叫」）→ 建議換更明確例句。
+8. `questions/math/P2/L19.json:11` 等 P2 活動時間題用「15時40分」24小時制，P2 未學 → 改「下午3時40分」。
+9. P5 分數題要求假分數（如 `questions/math/P5/L04.json:28` 13/12），本港 P5 通常寫帶分數；`game.js` `norm()` 刪去空格，輸入「1 1/12」會變「11/12」判錯 → 建議接受帶分數。
+10. 答錯時提示直接顯示 `explain`，多數已透露答案（見 qa-shots/05-wrong-feedback.png）→ 建議第一次答錯只顯示「再試一次」。
+
+## PR #2 功能／手機測試（Playwright + Chrome，375×667）
+| 項目 | 結果 |
+|---|---|
+| 載入題庫、年級→科目→地圖 | 通過 |
+| 鎖關（未過第1關不能入第2關） | 通過 |
+| 作答（mc/tf/fill/order）、答錯重試、計分 | 通過（5/6 首答對 → 2★，符合 ≥70% 規則） |
+| 過關後解鎖下一關 | 通過 |
+| 錯題簿收集 | 通過（1 題） |
+| `#level=` 直接入關、P2 讀題按鈕／無語音提示 | 通過 |
+| Console 錯誤 | 0 |
+| 橫向溢出（scrollWidth） | 全部 375，無溢出 |
+未測：Boss（需全關 1★）、錯題簿答啱2次移除、真機粵語語音。
+
+## PR #1 安全報告
+- `docs/ssot/STATUS.md:22` 出現亂碼「完��樣本」（UTF-8 字元損壞，原為「完整樣本」）→ 必須修正。
+- 審核範圍只係 main `161bd51`，未覆蓋 PR #2 新增 548 題、questions/*.json、game.js 改動 → 建議 PR #2 合併後補審。
+- 報告內容本身合理；`game.zip` 已由 PR #2 移除。
+
+## PR #2 `?verifiedOnly=1` 開關（e37e647）
+| 測試 | 結果 |
+|---|---|
+| 預設（`VERIFIED_ONLY_DEFAULT=false`，game.js:5） | 顯示全部：P2 中/英/數14關/科；P5 中/英/數12關/科 |
+| `?verifiedOnly=1` | P2：English 3、數學 6（L1–L6）、科學 1（L1）；P5：English 3、數學 6（L1–L6）；中文、人文、其他科學隱藏 ✅ |
+| `?verifiedOnly=0` | 同預設 ✅ |
+| `?verifiedOnly=1#level=p2m7`（未核實關卡直入） | 唔會開未核實關，返回地圖 ✅ |
+| Console 錯誤 | 0 |
+- 注意：開關以「關卡」為單位；P2 數學 L2（含乘法題，見第1點）仍會顯示 → 修正第1點後先可靠。
+- 建議發佈時 `VERIFIED_ONLY_DEFAULT=true`。
+- 截圖：`/workspace/qa-shots/vo*.png`
+
+## PR #4 文件（README、SSOT 同步）
+- 內容已過時：README／STATUS／CONVENTIONS／DECISIONS 寫「題目無 id/source/verified/level、唔係逐課 JSON、⚠️ 未實施」，但 PR #2 已加齊欄位及 `questions/<subject>/<grade>/<lesson>.json`、`?verifiedOnly` → PR #2 合併後要重寫相關段落，OPEN-QUESTIONS Q9 可能已解決。
+- CONVENTIONS.md 第5–6點改為「規劃，未實施」及新增第11點（worktree 規則）屬規範改動；按 CONVENTIONS 第3點，重要決定要寫入 DECISIONS.md 並先問 Jessie。
+- README 未提 `?verifiedOnly=1`。
+- STATUS.md／HANDOFFS.md 同 PR #1、#2、#3 同改同一表格，合併次序要小心處理衝突。
+
+## PR #3 發佈準備（RELEASE.md）
+- CHANGELOG 草稿過時：寫「Boss 關、錯題簿尚未完成」，實際已有；未提 548 題、questions/*.json、`?verifiedOnly`；仍提 `game.zip`（PR #2 已刪）；「main 只有 1 個 commit」「本機有未 commit 改動」已不符。
+- 發佈前技術檢查「verified:false 已隱藏」→ 建議寫明具體做法：`VERIFIED_ONLY_DEFAULT=true`（game.js:5）。
+- 閘門清單合理；方案 A／B 分析合理，部署仍須 Jessie 批准。
+
+## 覆審 PR #2 eff9ac4（2026-10-21，已核實模式為試玩重點）
+- validate.js：ALL OK 97 levels 548 questions；`VERIFIED_ONLY_DEFAULT=true`（game.js:5）。
+- 預設／`?verifiedOnly=1`：28 關／167 題（全部題目 verified:true）；`=0`：97 關 ✅。
+- 375×667、768×1024 兩種模式：無橫向溢出、0 console 錯誤 ✅（截圖 `/workspace/qa-shots/r2-*.png`）。
+- 讀題：mock speechSynthesis 確認中文／數學用 `zh-HK`、英文用 `en-GB`；無語音時顯示「請老師讀題」。headless 無法驗證真實粵語發音 → 需真機測試。
+- 167 題內容與 693e424 相同，已逐題覆核。
+
+| 項目 | 狀態 |
+|---|---|
+| 新：game.js:64–69 讀題掣重複（P2 每題兩個） | ❌ 新問題 |
+| 新：game.js:64 讀題讀出排序題正確次序（洩露答案） | ❌ 新問題 |
+| P2 math L02 乘法題 verified:true | ❌ 未改 |
+| eng/P5/L02 推斷用法 verified:true | ❌ 未改 |
+| level 欄位機械填寫 | ❌ 未改 |
+| p4m18 梯形答案、p5c2 反義詞（未核實、試玩隱藏） | ❌ 未改（非阻擋） |
+| 預設只顯示已核實 | ✅ 已改 |
+結論：**需要修改**；修正第1–3項後可用於 Jessie 試玩。
+
+## 第三次覆審 PR #2 f010cdb（2026-10-21）
+- validate.js：ALL OK 97 levels 548 questions。
+- 預設／`?verifiedOnly=1`：26 關／154 題；`=0`：97 關 ✅。
+- 7 項修正全部驗證通過：讀題掣單一、排序題讀題唔洩露答案、P2 math L02 及 eng/P5/L02 改 false、level 重新對應（應用 119／理解 20／記憶 15）、p4m18 改為對角線分割得兩個三角形（正確）、p5c2 改近義詞（協作）。
+- 154 題覆核 research.md：無新問題。
+- 375×667、768×1024 兩模式：無溢出、0 console 錯誤；讀題 mock 確認 zh-HK／en-GB，真實粵語發音未驗證（需真機）。
+- 非阻擋：無粵語語音時仍顯示讀題掣；p5m1#5、p2s1#4 level 小執；帶分數輸入、答錯提示洩露答案（已延後）。
+- 截圖：`/workspace/qa-shots/r3-*.png`
+**結論：已核實模式可供 Jessie 今晚試玩。**
+
+## 最終覆審 PR #2 2bcc01b（2026-10-21）
+- 對比 f010cdb：只改 7 題英文（P1 L00/L01/L03、P2 L03）為 verified:false，game.js 不變。
+- validate.js：ALL OK；預設／`=1`：26 關／147 題；`=0`：97 關；冇空關卡。
+- P1 English 5 關（4／3／5／2／5 題）逐關玩通，解鎖及 Boss（10 題）正常，冇出現未核實題目；手機／平板 0 console 錯誤、無溢出。
+- 非阻擋：p1e3 只得 2 題、p1e1 3 題；P1 練習世界仍有 Boss（與 B1-DEV-07 不符）。截圖：`/workspace/qa-shots/r4-*.png`
+**結論：已核實模式可供 Jessie 今晚試玩。**
+- 題數核對（2bcc01b）：548＝true 147＋false 401。PR 寫 394 只計 71 個 false 關卡，漏 7 題逐題覆寫；文件 Bot 365 再少 29（p2m2 6、p5e2 7、實用文 99 關 16）。正確：**401**。Boss／錯題簿屬執行時生成，冇重複計。
+- P1/P2 英文剩餘 37 題 verified:true：全部有 research.md 直接出處；邊緣：ENG-P1-L00-004、ENG-P2-L02-004、ENG-P2-L02-006（可保留）。
+
+## 覆審 PR #2 b8e7e98（2026-10-21）
+- 只改：7 題 P1/P2 英文改返 verified:true（D-記錄喺 DECISIONS.md），game.js 不變。
+- validate.js ALL OK；預設／`=1`：26 關／154 題；`=0`：97 關。7 題答案正確。
+- P1 English 5 關各 5 題玩通，解鎖、Boss 正常；375×667／768×1024 無溢出、0 console 錯誤。截圖 `/workspace/qa-shots/r5-*.png`
+**結論：已核實模式可供 Jessie 今晚試玩。**
+
+## 覆審 PR #4（c093964）、#3（a2dfd0d）、#1（8c2429e）（2026-10-21，對照 PR #2 b8e7e98：26 關／154 題 true、394 false、548 總）
+| PR | 結論 | 已修正 | 仍要改 |
+|---|---|---|---|
+| #4 文件 | 需要修改（小） | 對齊 PR #2 欄位／JSON／?verifiedOnly；CONVENTIONS 改動記入 D-018～D-022；待核實 154/394 正確 | README.md:29 仍 28/167；STATUS.md:35 B1-QA-02 待辦；第11點 user.name 無決定編號；D-019～D-022 均屬轉達，建議 Jessie 親自確認 |
+| #3 發佈準備 | 需要修改（小） | CHANGELOG 已補 Boss、錯題簿、?verifiedOnly、讀題、game.zip | RELEASE.md:25/63 仍 28/167；:33–34 已知問題（讀題掣重複、洩露排序答案）已修正要刪 |
+| #1 安全 | 需要修改（小） | STATUS.md:22 亂碼已修 | 範圍只審 161bd51，未覆蓋 PR #2；game.zip 建議已完成 |
+- 合併衝突：#1～#5 任何兩個都喺 HANDOFFS.md（多數仲有 STATUS.md）衝突 → 建議次序 #2 → #1 → #4 → #3 → #5，每合併一個其餘 rebase。
+
+## 覆審全部最新 head（2026-10-21）
+| PR | head | 結論 | 重點 |
+|---|---|---|---|
+| #2 | 88bf137 | 通過（可試玩） | 提示唔再洩露答案；讀題掣按語音顯示／隱藏（mock：有語音、冇語音、只有 zh-CN、voiceschanged 延遲均正確）；P1 冇 Boss、P2/P4/P5 有；26/154；無溢出、0 錯誤。建議冇語音時顯示「請老師讀題」 |
+| #4 | bb86ceb | 需要修改（小） | README:29、D-023 已修；STATUS:35 B1-QA-02 仍待辦；README:145 提示描述過時；未提 P1 無 Boss／讀題隱藏；D-022 建議 Jessie 親自確認 |
+| #3 | a81bf61 | 需要修改（小） | 26/154 已修；已知問題（提示、讀題掣、P1 Boss）已被 88bf137 修正，要更新 |
+| #1 | 3d02bb0 | 通過 | 亂碼已修、補審 b8e7e98；建議範圍註明至 88bf137 |
+截圖：`/workspace/qa-shots/r6-*.png`
+
+## 最終覆審 PR #4（77f9811）、#3（2dab421）（2026-10-21）
+- #4：通過。STATUS:35、README:145／35／37、D-022 待確認全部已改，與 88bf137 一致。
+- #3：通過；建議已知問題第 2 點寫明「冇語音時唔會顯示『請老師讀題』提示」。
+- 衝突：#1～#5 各自對 main 無衝突；兩兩之間都喺 HANDOFFS.md 衝突（#3×#4 另有 DECISIONS／OPEN-QUESTIONS／STATUS）。
+- 建議合併次序：#2（題庫＋遊戲）→ #1（安全）→ #4（文件）→ #3（發佈準備）→ #5（QA 結果），每合併一個其餘 rebase；合併須 Jessie 批准。
+- 注意：PR #5 遠端仍係 6ebf521，本機 qa/B1-QA-01-results 有之後嘅覆審 commit 未 push。
