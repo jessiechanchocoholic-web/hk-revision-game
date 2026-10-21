@@ -2,7 +2,7 @@
 'use strict';
 var BANK=window.QUESTION_BANK||{levels:[]};
 // 只顯示已核實題目開關：改 VERIFIED_ONLY_DEFAULT 為 true 即全面只顯示 verified:true；或用網址 ?verifiedOnly=1（=0 強制顯示全部）
-var VERIFIED_ONLY_DEFAULT=false;
+var VERIFIED_ONLY_DEFAULT=true;
 var VO=(function(){var m=location.search.match(/[?&]verifiedOnly=([01])/);return m?m[1]==='1':VERIFIED_ONLY_DEFAULT})();
 if(VO)BANK={version:BANK.version,levels:BANK.levels.map(function(l){var o={};for(var k in l)o[k]=l[k];o.questions=l.questions.filter(function(q){return q.verified===true});return o}).filter(function(l){return l.questions.length>0})};
 window.__verifiedOnly=VO;
@@ -22,8 +22,9 @@ var T=function(s,zh,en){return isEng(s)?en:zh};
 // speech
 var voices=[];function loadV(){try{voices=speechSynthesis.getVoices()||[]}catch(e){voices=[]}}
 if('speechSynthesis' in window){loadV();speechSynthesis.onvoiceschanged=loadV}
-function voiceFor(lang){var p=lang.toLowerCase();var v=voices.filter(function(x){return x.lang&&x.lang.toLowerCase().replace('_','-')===p})[0];
- if(!v)v=voices.filter(function(x){var l=(x.lang||'').toLowerCase();return lang==='zh-HK'?(l.indexOf('zh-hk')===0||l.indexOf('yue')===0||l.indexOf('zh')===0):l.indexOf('en')===0})[0];return v}
+function voiceFor(lang){var L=function(x){return (x.lang||'').toLowerCase().replace('_','-')};var pick=function(f){return voices.filter(f)[0]};
+ if(lang==='zh-HK')return pick(function(x){return L(x)==='zh-hk'})||pick(function(x){return L(x).indexOf('yue')===0||/cantonese|粵|廣東/i.test(x.name)})||pick(function(x){return L(x).indexOf('zh')===0});
+ return pick(function(x){return L(x)===lang.toLowerCase()})||pick(function(x){return L(x).indexOf('en')===0})}
 function speak(text,lang){try{speechSynthesis.cancel();var u=new SpeechSynthesisUtterance(text);u.lang=lang;var v=voiceFor(lang);if(v)u.voice=v;u.rate=.9;speechSynthesis.speak(u)}catch(e){}}
 function canSpeak(lang){return ('speechSynthesis' in window)&&!!voiceFor(lang)}
 
@@ -60,6 +61,9 @@ function play(qs,meta){var s=meta.subject;var list=meta.review||meta.boss?qs:shu
   var c=h('div',{class:'card'});c.appendChild(h('div',{},[h('button',{onclick:function(){world(meta.grade,s)}},['⬅ '+T(s,'離開','Quit')]),h('b',{},[meta.title]),h('span',{class:'tag'},[(i+1)+' / '+list.length])]));
   var pr=h('div',{class:'prog'},[h('div',{style:'width:'+(i/list.length*100)+'%'})]);c.appendChild(pr);
   var qtext=q.type==='order'?q.q:q.q;c.appendChild(h('div',{class:'q'},[qtext]));
+  if(readAloud){var say=qtext+(q.options?'。'+q.options.join('，'):'')+(q.items?'。'+q.items.join('，'):'');
+   if('speechSynthesis' in window){c.appendChild(h('button',{class:'speak','aria-label':'read aloud',onclick:function(){loadV();speak(say,lang)}},['🔊 '+T(s,'讀題','Read aloud')]))}
+   else c.appendChild(h('small',{class:'note'},[T(s,'此瀏覽器不支援讀題','Read-aloud not supported in this browser')]))}
   if(q._from)c.appendChild(h('div',{class:'note'},[q._from]));
   if(meta.grade==='P2'){var spLang=(s==='eng')?'en-GB':'zh-HK';if(canSpeak(spLang)){c.appendChild(h('button',{onclick:function(){var t=q.q;if(q.options)t+='。 '+q.options.join('， ');speak(t,spLang)}},['🔊 '+T(s,'讀題','Read aloud')]))}
    else c.appendChild(h('div',{class:'note'},[T(s,'（呢部電腦未安裝廣東話語音，請老師讀題）','(No English voice installed on this computer – teacher please read the question.)')]))}

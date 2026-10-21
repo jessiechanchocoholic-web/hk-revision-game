@@ -22,4 +22,5 @@ window.QUESTION_BANK = { version: "2026-10-21", levels: [
   - 新關卡：`## 年級|科目|關卡id|標題`
 - 進度存喺瀏覽器 localStorage（key `abgps-quest-v1`）：星星、徽章、錯題簿（答錯入簿，複習時答對2次先移除）。
 - 測試關卡：`index.html#level=p5m4` 直接開某一關。
-- **只顯示已核實題目**：`game.js` 頂部 `VERIFIED_ONLY_DEFAULT`（預設 `false`＝顯示全部；改 `true` 即只顯示 `verified:true`）。網址參數 `?verifiedOnly=1` 開／`?verifiedOnly=0` 關，優先於預設。開啟時冇已核實題目嘅關卡同世界會隱藏（現時 28 關／167 題）。
+- **只顯示已核實題目**：`game.js` 頂部 `VERIFIED_ONLY_DEFAULT`（現預設 `true`＝只顯示 `verified:true`；改 `false` 即顯示全部）。網址參數 `?verifiedOnly=1` 開／`?verifiedOnly=0` 關，優先於預設。開啟時冇已核實題目嘅關卡同世界會隱藏（現時 28 關／167 題）。
+- P2 讀題：每題有「🔊 讀題」掣，用瀏覽器內置 speechSynthesis；中文揀 zh-HK／yue（粵語）聲，冇就用其他中文聲；英文用 en-GB／en 聲；唔支援就顯示提示。
