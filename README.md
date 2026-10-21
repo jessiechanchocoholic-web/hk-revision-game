@@ -145,8 +145,8 @@ node tools/build.js
 4. 每題最好有解說（答錯時會顯示做提示）。
 5. 開遊戲玩一次該關，確認顯示正常。
 6. 新題目如未對過課本，請加入 `docs/ssot/UNVERIFIED_QUESTIONS.md`，並唔好將該關卡 ID 加入 `build.js` 嘅 `VERIFIED` 清單。
-8. 老師核對完一關後，將關卡 ID 加入 `VERIFIED` 清單再 build，該關就會喺公開試玩出現。
 7. 唔好寫入學生姓名或任何個人資料；只用自擬題目，唔好抄課本例題或圖片（D-011）。
+8. 老師核對完一關後，將關卡 ID 加入 `VERIFIED` 清單再 build，該關就會喺公開試玩出現。
 
 ## 協作文件
 見 `docs/ssot/`（`research.md` 按 D-015 唔放入 repo）：`STATUS.md`（任務看板）、`DECISIONS.md`、`HANDOFFS.md`、`CONVENTIONS.md`、`OPEN-QUESTIONS.md`、`UNVERIFIED_QUESTIONS.md`。
