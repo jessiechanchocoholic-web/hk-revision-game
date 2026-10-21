@@ -2447,7 +2447,7 @@ window.QUESTION_BANK = {
      "level": "應用",
      "question": "Someone gives you a present. You say:",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Getting started",
-     "verified": false
+     "verified": true
     }
    ],
    "lesson": "L00",
@@ -2537,7 +2537,7 @@ window.QUESTION_BANK = {
      "level": "應用",
      "question": "I ___ Amy.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
-     "verified": false
+     "verified": true
     },
     {
      "type": "fill",
@@ -2553,7 +2553,7 @@ window.QUESTION_BANK = {
      "level": "應用",
      "question": "How old are you? I am ___ (7 in words).",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch1 Starting school",
-     "verified": false
+     "verified": true
     }
    ],
    "lesson": "L01",
@@ -2707,7 +2707,7 @@ window.QUESTION_BANK = {
      "level": "應用",
      "question": "Please ___ your hand.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
-     "verified": false
+     "verified": true
     },
     {
      "type": "mc",
@@ -2727,7 +2727,7 @@ window.QUESTION_BANK = {
      "level": "應用",
      "question": "Please sit ___.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
-     "verified": false
+     "verified": true
     },
     {
      "type": "mc",
@@ -2761,7 +2761,7 @@ window.QUESTION_BANK = {
      "level": "理解",
      "question": "\"Please listen to the teacher\" is a good class rule.",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
-     "verified": false
+     "verified": true
     }
    ],
    "lesson": "L03",
@@ -3263,7 +3263,7 @@ window.QUESTION_BANK = {
      "level": "應用",
      "question": "Your friend is sad. You say:",
      "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Caring for others",
-     "verified": false,
+     "verified": true,
      "readAloud": true
     },
     {

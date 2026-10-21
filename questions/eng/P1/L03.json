@@ -44,7 +44,7 @@
    "level": "應用",
    "question": "Please ___ your hand.",
    "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
-   "verified": false
+   "verified": true
   },
   {
    "type": "mc",
@@ -64,7 +64,7 @@
    "level": "應用",
    "question": "Please sit ___.",
    "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
-   "verified": false
+   "verified": true
   },
   {
    "type": "mc",
@@ -98,7 +98,7 @@
    "level": "理解",
    "question": "\"Please listen to the teacher\" is a good class rule.",
    "source": "research.md §2 Primary Longman Elect (2nd ed)｜Ch3 Be good in class",
-   "verified": false
+   "verified": true
   }
  ]
 }
