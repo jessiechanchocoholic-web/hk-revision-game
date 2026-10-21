@@ -8,103 +8,103 @@
  "questions": [
   {
    "type": "fill",
-   "q": "201 ÷ 3 ＝ ？",
+   "q": "630 ÷ 7 ＝ ？",
    "answer": [
-    "67"
+    "90"
    ],
-   "explain": "3×67＝201",
+   "explain": "7×90＝630",
    "numeric": true,
    "id": "MATH-P4-L06-001",
    "grade": "P4",
    "subject": "math",
    "lesson": "L06",
    "level": "應用",
-   "question": "201 ÷ 3 ＝ ？",
+   "question": "630 ÷ 7 ＝ ？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 除法(一)",
    "verified": false
   },
   {
    "type": "fill",
-   "q": "261 ÷ 9 ＝ ？",
+   "q": "784 ÷ 8 ＝ ？",
    "answer": [
-    "29"
+    "98"
    ],
-   "explain": "9×29＝261",
+   "explain": "8×98＝784",
    "numeric": true,
    "id": "MATH-P4-L06-002",
    "grade": "P4",
    "subject": "math",
    "lesson": "L06",
    "level": "應用",
-   "question": "261 ÷ 9 ＝ ？",
+   "question": "784 ÷ 8 ＝ ？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 除法(一)",
    "verified": false
   },
   {
    "type": "fill",
-   "q": "36 ÷ 2 ＝ ？",
+   "q": "252 ÷ 3 ＝ ？",
    "answer": [
-    "18"
+    "84"
    ],
-   "explain": "2×18＝36",
+   "explain": "3×84＝252",
    "numeric": true,
    "id": "MATH-P4-L06-003",
    "grade": "P4",
    "subject": "math",
    "lesson": "L06",
    "level": "應用",
-   "question": "36 ÷ 2 ＝ ？",
+   "question": "252 ÷ 3 ＝ ？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 除法(一)",
    "verified": false
   },
   {
    "type": "fill",
-   "q": "176 ÷ 2 ＝ ？",
+   "q": "276 ÷ 6 ＝ ？",
    "answer": [
-    "88"
+    "46"
    ],
-   "explain": "2×88＝176",
+   "explain": "6×46＝276",
    "numeric": true,
    "id": "MATH-P4-L06-004",
    "grade": "P4",
    "subject": "math",
    "lesson": "L06",
    "level": "應用",
-   "question": "176 ÷ 2 ＝ ？",
+   "question": "276 ÷ 6 ＝ ？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 除法(一)",
    "verified": false
   },
   {
    "type": "fill",
-   "q": "287 ÷ 7 ＝ ？",
+   "q": "306 ÷ 9 ＝ ？",
    "answer": [
-    "41"
+    "34"
    ],
-   "explain": "7×41＝287",
+   "explain": "9×34＝306",
    "numeric": true,
    "id": "MATH-P4-L06-005",
    "grade": "P4",
    "subject": "math",
    "lesson": "L06",
    "level": "應用",
-   "question": "287 ÷ 7 ＝ ？",
+   "question": "306 ÷ 9 ＝ ？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 除法(一)",
    "verified": false
   },
   {
    "type": "fill",
-   "q": "792 ÷ 8 ＝ ？",
+   "q": "66 ÷ 2 ＝ ？",
    "answer": [
-    "99"
+    "33"
    ],
-   "explain": "8×99＝792",
+   "explain": "2×33＝66",
    "numeric": true,
    "id": "MATH-P4-L06-006",
    "grade": "P4",
    "subject": "math",
    "lesson": "L06",
    "level": "應用",
-   "question": "792 ÷ 8 ＝ ？",
+   "question": "66 ÷ 2 ＝ ？",
    "source": "research.md §3 數學《小學數學新思維》（第二版）｜L6 除法(一)",
    "verified": false
   }

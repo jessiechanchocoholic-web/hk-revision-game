@@ -11,10 +11,10 @@
    "q": "Tom is a boy. ___ is my friend.",
    "answer": "He",
    "options": [
-    "We",
-    "He",
     "She",
-    "It"
+    "It",
+    "He",
+    "We"
    ],
    "explain": "Use \"he\" for a boy.",
    "id": "ENG-P1-L02-001",
@@ -31,9 +31,9 @@
    "q": "Amy is a girl. ___ is seven.",
    "answer": "She",
    "options": [
-    "He",
-    "We",
     "They",
+    "We",
+    "He",
     "She"
    ],
    "explain": "Use \"she\" for a girl.",
@@ -51,10 +51,10 @@
    "q": "Ben and I ___ classmates.",
    "answer": "are",
    "options": [
-    "are",
     "am",
-    "is",
-    "be"
+    "are",
+    "be",
+    "is"
    ],
    "explain": "\"We are\" / \"Ben and I are\".",
    "id": "ENG-P1-L02-003",
@@ -72,9 +72,9 @@
    "answer": "Nice to meet you too!",
    "options": [
     "Nice to meet you too!",
-    "I am six.",
+    "Goodbye!",
     "Good night!",
-    "Goodbye!"
+    "I am six."
    ],
    "explain": "Reply with \"Nice to meet you too!\".",
    "id": "ENG-P1-L02-004",

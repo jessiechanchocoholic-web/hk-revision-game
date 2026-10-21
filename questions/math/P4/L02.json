@@ -1,0 +1,112 @@
+{
+ "levelId": "p4m2",
+ "grade": "P4",
+ "subject": "math",
+ "lesson": "L02",
+ "title": "L2 乘法(二)",
+ "verified": false,
+ "questions": [
+  {
+   "type": "fill",
+   "q": "25 × 13 × 4 ＝ ？（巧算：先算 25×4）",
+   "answer": [
+    "1300"
+   ],
+   "explain": "25×4＝100，100×13＝1300",
+   "numeric": true,
+   "id": "MATH-P4-L02-001",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "25 × 13 × 4 ＝ ？（巧算：先算 25×4）",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 乘法(二)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "25 × 33 × 4 ＝ ？（巧算：先算 25×4）",
+   "answer": [
+    "3300"
+   ],
+   "explain": "25×4＝100，100×33＝3300",
+   "numeric": true,
+   "id": "MATH-P4-L02-002",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "25 × 33 × 4 ＝ ？（巧算：先算 25×4）",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 乘法(二)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "125 × 8 × 4 ＝ ？",
+   "answer": [
+    "4000"
+   ],
+   "explain": "125×8＝1000，1000×4＝4000",
+   "numeric": true,
+   "id": "MATH-P4-L02-003",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "125 × 8 × 4 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 乘法(二)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "41 × 99 ＝ ？（巧算：41×100－41）",
+   "answer": [
+    "4059"
+   ],
+   "explain": "4100－41＝4059",
+   "numeric": true,
+   "id": "MATH-P4-L02-004",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "41 × 99 ＝ ？（巧算：41×100－41）",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 乘法(二)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "36 × 101 ＝ ？（巧算：36×100＋36）",
+   "answer": [
+    "3636"
+   ],
+   "explain": "3600＋36＝3636",
+   "numeric": true,
+   "id": "MATH-P4-L02-005",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "36 × 101 ＝ ？（巧算：36×100＋36）",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 乘法(二)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "31 × 36 ＋ 31 × 64 ＝ ？",
+   "answer": [
+    "3100"
+   ],
+   "explain": "31×(36＋64)＝31×100＝3100",
+   "numeric": true,
+   "id": "MATH-P4-L02-006",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "31 × 36 ＋ 31 × 64 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L2 乘法(二)",
+   "verified": false
+  }
+ ]
+}

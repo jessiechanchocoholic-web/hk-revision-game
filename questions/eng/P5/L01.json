@@ -11,10 +11,10 @@
    "q": "You ___ talk loudly in the library.",
    "answer": "shouldn't",
    "options": [
-    "can",
-    "shouldn't",
     "must",
-    "should"
+    "should",
+    "shouldn't",
+    "can"
    ],
    "explain": "Talking loudly in the library is bad manners.",
    "id": "ENG-P5-L01-001",
@@ -32,9 +32,9 @@
    "answer": "should",
    "options": [
     "mustn't",
-    "shouldn't",
     "don't",
-    "should"
+    "should",
+    "shouldn't"
    ],
    "explain": "Saying thank you is good manners.",
    "id": "ENG-P5-L01-002",
@@ -83,10 +83,10 @@
    "q": "good → ? (adverb)",
    "answer": "well",
    "options": [
-    "goodily",
-    "well",
+    "goodly",
     "good",
-    "goodly"
+    "goodily",
+    "well"
    ],
    "explain": "\"good\" → \"well\" (irregular).",
    "id": "ENG-P5-L01-005",
@@ -105,8 +105,8 @@
    "options": [
     "more polite",
     "politeness",
-    "polite",
-    "politely"
+    "politely",
+    "polite"
    ],
    "explain": "Use an adverb to describe how we speak.",
    "id": "ENG-P5-L01-006",
@@ -123,10 +123,10 @@
    "q": "We should eat ___.",
    "answer": "quietly",
    "options": [
+    "quiet",
     "quietly",
     "quietness",
-    "quieter",
-    "quiet"
+    "quieter"
    ],
    "explain": "Adverb of manner: eat quietly.",
    "id": "ENG-P5-L01-007",

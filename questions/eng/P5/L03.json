@@ -11,9 +11,9 @@
    "q": "The boy ___ the long hair is my cousin.",
    "answer": "with",
    "options": [
-    "in",
     "with",
     "at",
+    "in",
     "on"
    ],
    "explain": "Use \"with\" for things a person has.",
@@ -51,10 +51,10 @@
    "q": "I have a friend ___ likes music.",
    "answer": "who",
    "options": [
-    "where",
-    "which",
+    "who",
     "what",
-    "who"
+    "which",
+    "where"
    ],
    "explain": "Use \"who\" for people.",
    "id": "ENG-P5-L03-003",
@@ -71,10 +71,10 @@
    "q": "The man ___ is wearing glasses is my teacher.",
    "answer": "who",
    "options": [
-    "which",
-    "who",
     "whose",
-    "when"
+    "who",
+    "when",
+    "which"
    ],
    "explain": "\"who\" describes people.",
    "id": "ENG-P5-L03-004",

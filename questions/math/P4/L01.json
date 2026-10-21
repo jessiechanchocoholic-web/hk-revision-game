@@ -1,0 +1,112 @@
+{
+ "levelId": "p4m1",
+ "grade": "P4",
+ "subject": "math",
+ "lesson": "L01",
+ "title": "L1 乘法(一)",
+ "verified": false,
+ "questions": [
+  {
+   "type": "fill",
+   "q": "233 × 36 ＝ ？",
+   "answer": [
+    "8388"
+   ],
+   "explain": "233×36＝8388",
+   "numeric": true,
+   "id": "MATH-P4-L01-001",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "233 × 36 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 乘法(一)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "487 × 17 ＝ ？",
+   "answer": [
+    "8279"
+   ],
+   "explain": "487×17＝8279",
+   "numeric": true,
+   "id": "MATH-P4-L01-002",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "487 × 17 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 乘法(一)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "291 × 33 ＝ ？",
+   "answer": [
+    "9603"
+   ],
+   "explain": "291×33＝9603",
+   "numeric": true,
+   "id": "MATH-P4-L01-003",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "291 × 33 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 乘法(一)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "173 × 27 ＝ ？",
+   "answer": [
+    "4671"
+   ],
+   "explain": "173×27＝4671",
+   "numeric": true,
+   "id": "MATH-P4-L01-004",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "173 × 27 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 乘法(一)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "97 × 10 ＝ ？",
+   "answer": [
+    "970"
+   ],
+   "explain": "乘10，在後面加一個0：970",
+   "numeric": true,
+   "id": "MATH-P4-L01-005",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "97 × 10 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 乘法(一)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "72 × 100 ＝ ？",
+   "answer": [
+    "7200"
+   ],
+   "explain": "乘100，在後面加兩個0：7200",
+   "numeric": true,
+   "id": "MATH-P4-L01-006",
+   "grade": "P4",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "72 × 100 ＝ ？",
+   "source": "research.md §3 數學《小學數學新思維》（第二版）｜L1 乘法(一)",
+   "verified": false
+  }
+ ]
+}

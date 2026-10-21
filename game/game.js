@@ -1,8 +1,9 @@
 (function(){
 'use strict';
+var UNLOCK_ALL=true; // true = 所有關卡及 Boss 一開始已解鎖；false = 要攞星先解鎖
 var BANK=window.QUESTION_BANK||{levels:[]};
 // 只顯示已核實題目開關：改 VERIFIED_ONLY_DEFAULT 為 true 即全面只顯示 verified:true；或用網址 ?verifiedOnly=1（=0 強制顯示全部）
-var VERIFIED_ONLY_DEFAULT=true;
+var VERIFIED_ONLY_DEFAULT=false;
 var VO=(function(){var m=location.search.match(/[?&]verifiedOnly=([01])/);return m?m[1]==='1':VERIFIED_ONLY_DEFAULT})();
 if(VO)BANK={version:BANK.version,levels:BANK.levels.map(function(l){var o={};for(var k in l)o[k]=l[k];o.questions=l.questions.filter(function(q){return q.verified===true});return o}).filter(function(l){return l.questions.length>0})};
 window.__verifiedOnly=VO;
@@ -39,11 +40,11 @@ function grade(gid){upd();app.innerHTML='';var G=GRADES.filter(function(x){retur
  app.appendChild(g)}
 function world(gid,s){upd();app.innerHTML='';var ls=levelsOf(gid,s);var practice=gid==='P1';
  document.getElementById('title').textContent=SUBJ[s].icon+' '+SUBJ[s].name+' · '+gid;
- app.appendChild(h('div',{class:'card'},[h('button',{onclick:function(){grade(gid)}},['⬅ '+T(s,'返回','Back')]),h('span',{class:'note'},[T(s,'過一關（至少1星）就解鎖下一關','Get at least 1 star to unlock the next level')])]));
+ app.appendChild(h('div',{class:'card'},[h('button',{onclick:function(){grade(gid)}},['⬅ '+T(s,'返回','Back')]),h('span',{class:'note'},[UNLOCK_ALL?T(s,'所有關卡已解鎖，揀任何一關開始！','All levels unlocked – pick any level!'):T(s,'過一關（至少1星）就解鎖下一關','Get at least 1 star to unlock the next level')])]));
  var g=h('div',{class:'grid'});var allDone=true;
- ls.forEach(function(l,i){var unlocked=i===0||(st.stars[ls[i-1].id]||0)>0;var s3=st.stars[l.id]||0;if(!s3)allDone=false;
+ ls.forEach(function(l,i){var unlocked=UNLOCK_ALL||i===0||(st.stars[ls[i-1].id]||0)>0;var s3=st.stars[l.id]||0;if(!s3)allDone=false;
   g.appendChild(h('button',{class:'lvl'+(unlocked?'':' locked'),onclick:function(){if(unlocked)play(l.questions,{id:l.id,title:l.title,grade:gid,subject:s});}},[(unlocked?'':'🔒 ')+(practice?'練習關 ':T(s,'第'+(i+1)+'關 ','Level '+(i+1)+' ')),h('small',{},[l.title]),h('small',{},['★★★'.slice(0,s3)+'☆☆☆'.slice(0,3-s3)])]))});
- var bossOk=allDone||ls.length<2;var bid='boss-'+gid+'-'+s;
+ var bossOk=UNLOCK_ALL||allDone||ls.length<2;var bid='boss-'+gid+'-'+s;
  if(!practice)g.appendChild(h('button',{class:'lvl boss'+(bossOk?'':' locked'),onclick:function(){if(!bossOk){alert(T(s,'完成所有關卡先可以挑戰 Boss！','Finish all levels to unlock the Boss!'));return}
   var pool=[];ls.forEach(function(l){pool=pool.concat(shuffle(l.questions).slice(0,2).map(function(q){return Object.assign({},q,{_from:l.title})}))});play(shuffle(pool).slice(0,12),{id:bid,title:T(s,'Boss 模擬考','Boss Mock Exam'),grade:gid,subject:s,boss:true})}},
   [(bossOk?'':'🔒 ')+'👾 Boss',h('small',{},[T(s,'模擬考：混合全部課題','Mock exam: all chapters')]),h('small',{},['★★★'.slice(0,st.stars[bid]||0)])]));
@@ -84,5 +85,5 @@ function play(qs,meta){var s=meta.subject;var list=meta.review||meta.boss?qs:shu
    h('p',{},[T(s,'第一次就答對：','First-try correct: ')+score+' / '+list.length]),meta.boss&&stars>=2?h('p',{},['🏅 '+T(s,'獲得 Boss 徽章！','Boss badge earned!')]):h('span'),
    h('button',{onclick:function(){play(qs,meta)}},['🔁 '+T(s,'再玩','Play again')]),h('button',{class:'primary',onclick:function(){world(meta.grade,s)}},[T(s,'返回地圖','Back to map')])]);app.appendChild(c)}
  show()}
-document.getElementById('homeBtn').onclick=home;window.__game={home:home,grade:grade,world:world,play:play};var m=location.hash.match(/^#level=(.+)$/);var L=m&&BANK.levels.filter(function(l){return l.id===m[1]})[0];if(L)play(L.questions,{id:L.id,title:L.title,grade:L.grade,subject:L.subject});else home();
+document.getElementById('homeBtn').onclick=home;window.__game={home:home,grade:grade,world:world,play:play};var wm=location.hash.match(/^#world=(P\d)-(\w+)$/);if(wm){world(wm[1],wm[2]);return}var m=location.hash.match(/^#level=(.+)$/);var L=m&&BANK.levels.filter(function(l){return l.id===m[1]})[0];if(L)play(L.questions,{id:L.id,title:L.title,grade:L.grade,subject:L.subject});else home();
 })();

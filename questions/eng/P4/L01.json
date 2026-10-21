@@ -11,10 +11,10 @@
    "q": "What ___ you like doing after school?",
    "answer": "do",
    "options": [
+    "is",
     "are",
     "does",
-    "do",
-    "is"
+    "do"
    ],
    "explain": "\"What do you like doing…?\"",
    "id": "ENG-P4-L01-001",
@@ -31,9 +31,9 @@
    "q": "Peter ___ playing football.",
    "answer": "likes",
    "options": [
+    "is like",
     "likes",
     "liking",
-    "is like",
     "like"
    ],
    "explain": "He/She + likes.",
@@ -52,9 +52,9 @@
    "answer": "always",
    "options": [
     "sometimes",
-    "seldom",
+    "never",
     "always",
-    "never"
+    "seldom"
    ],
    "explain": "Always = every time.",
    "id": "ENG-P4-L01-003",
@@ -73,8 +73,8 @@
    "options": [
     "often",
     "never",
-    "usually",
-    "always"
+    "always",
+    "usually"
    ],
    "explain": "Never = 0%.",
    "id": "ENG-P4-L01-004",
@@ -118,10 +118,10 @@
    "q": "___ Tom like reading? Yes, he does.",
    "answer": "Does",
    "options": [
+    "Is",
     "Do",
-    "Does",
     "Are",
-    "Is"
+    "Does"
    ],
    "explain": "Use \"Does\" with he/she.",
    "id": "ENG-P4-L01-006",

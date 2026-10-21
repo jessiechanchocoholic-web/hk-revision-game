@@ -11,9 +11,9 @@
    "q": "What is your name?",
    "answer": "My name is Ben.",
    "options": [
-    "I am six.",
-    "I am fine.",
     "My name is Ben.",
+    "I am fine.",
+    "I am six.",
     "It is red."
    ],
    "explain": "Answer \"What is your name?\" with \"My name is …\".",
@@ -31,10 +31,10 @@
    "q": "How old are you?",
    "answer": "I am six.",
    "options": [
-    "I am six.",
-    "My name is Amy.",
     "Yes, I am.",
-    "It's a pen."
+    "It's a pen.",
+    "My name is Amy.",
+    "I am six."
    ],
    "explain": "Answer \"How old\" with your age.",
    "id": "ENG-P1-L01-002",
@@ -51,10 +51,10 @@
    "q": "This ___ my friend, Tom.",
    "answer": "is",
    "options": [
+    "be",
     "am",
-    "are",
     "is",
-    "be"
+    "are"
    ],
    "explain": "\"This is …\" for one person.",
    "id": "ENG-P1-L01-003",
@@ -71,10 +71,10 @@
    "q": "I ___ Amy.",
    "answer": "am",
    "options": [
-    "am",
     "is",
-    "be",
-    "are"
+    "am",
+    "are",
+    "be"
    ],
    "explain": "Use \"I am\".",
    "id": "ENG-P1-L01-004",
