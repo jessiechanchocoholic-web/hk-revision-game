@@ -11,7 +11,7 @@
 - 若發佈時未經 QA 全面通過，只作試用，可改用 `v0.1.0-beta.1`。
 
 ## 2. CHANGELOG 草稿
-> 依據：QA Bot 喺 PR #2（覆審 eff9ac4）及 PR #3 嘅留言（2026-10-21 13:44 UTC）。數字已由部署 Bot 用程式喺 `feat/question-bank@eff9ac4` 核對：載入 `game/questions.js` → 全部 97 關／548 題；`verified:true` → 28 關／167 題，與 QA 一致；`validate.js` 輸出 `ALL OK 97 levels 548 questions`。
+> 依據：QA Bot 覆審 PR #3 要求（經專案經理 Bot 轉達）及 PR #2 最新留言（13:50 UTC，b8e7e98）。數字已由部署 Bot 用程式喺 `feat/question-bank@b8e7e98` 核對：載入 `game/questions.js` → 全部 97 關／548 題；`verified:true` → 26 關／154 題，與 QA 一致；`validate.js` 輸出 `ALL OK 97 levels 548 questions`。
 > ⚠️ 以上內容仍喺 PR #2，**未合併入 main**（main 仍係 `161bd51`）。
 
 ```
@@ -22,20 +22,20 @@
   由 game/tools/build.js 生成 game/questions.js，game/tools/validate.js 驗證
 - 只顯示已核實題目模式：game.js:5 `VERIFIED_ONLY_DEFAULT=true`（預設開）；
   網址 `?verifiedOnly=1` 強制開、`?verifiedOnly=0` 顯示全部
-  → 公開版預設只顯示 28 關／167 題（verified:true）
+  → 公開版預設只顯示 26 關／154 題（verified:true）
 - 題型：選擇、判斷、填充、排序
 - 每世界 Boss 模擬考（完成所有關卡解鎖）、錯題簿、星星／徽章
 - P2 讀題掣（瀏覽器 speechSynthesis，zh-HK／en-GB）
 - 進度只存瀏覽器 localStorage（hk-revision-quest-v1），無登入、無後端、不收集個人資料
 ### 修正／變更
 - 移除重複 game.zip（安全審核建議，693e424）
-### 已知問題（QA Bot 覆審 eff9ac4，待修）
-- 讀題掣重複（game.js:64–69，P2 每題兩個「🔊 讀題」）
-- 排序題讀題會按正確次序讀出 items，即讀出答案
-- 已核實題目需修：math/P2/L02 乘法題（不在範圍）、eng/P5/L02 部分詞組仍 verified:true
-- 題目 `level`（能力層次）標示未修正
-- 未核實（已隱藏）：p4m18 梯形答案、p5c2「合作」反義詞
-- 建議：P5 分數接受帶分數；答錯提示會透露答案；粵語發音需真機測試
+- QA 修正（f010cdb）：讀題掣重複、排序題唔再讀出答案、verified 調整、能力層次 level 對應、p4m18 梯形答案、p5c2 反義詞
+- P1/P2 英文 44 題按 Jessie 決定全部 verified:true（b8e7e98）
+### 已知問題（待修／待決定）
+- P5 分數題未接受帶分數
+- 答錯提示會透露答案
+- 瀏覽器冇粵語語音時仍顯示讀題掣
+- P1（練習關）仍出現 Boss，與「P1 無 Boss」設計不符
 ```
 > 正式發佈前，以上已知問題修好並合併入 main 後，按最終內容再更新一次。
 
@@ -60,7 +60,7 @@
 - [ ] **Jessie 最後拍板開啟 GitHub Pages（方案 A）**
 - [ ] **Jessie 審批正式部署／發佈 v0.1.0**
 ### 發佈前技術檢查
-- [ ] `verified:false` 題目已隱藏：確認 main 上 `VERIFIED_ONLY_DEFAULT=true`（game.js:5），公開版顯示 28 關／167 題
+- [ ] `verified:false` 題目已隱藏：確認 main 上 `VERIFIED_ONLY_DEFAULT=true`（game.js:5），公開版顯示 26 關／154 題
 - [ ] 本機開 `game/index.html` 可正常遊玩；console 無錯誤
 - [ ] 所有路徑為相對路徑、無外部請求
 - [ ] repo 內無機密（.env、token、key）
