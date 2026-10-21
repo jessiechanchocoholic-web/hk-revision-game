@@ -9,7 +9,7 @@ if(VO)BANK={version:BANK.version,levels:BANK.levels.map(function(l){var o={};for
 window.__verifiedOnly=VO;
 var GRADES=[{id:'P1',name:'一年級',note:'練習關'},{id:'P2',name:'二年級'},{id:'P4',name:'四年級'},{id:'P5',name:'五年級'}];
 var SUBJ={chi:{name:'中文城',icon:'📜'},eng:{name:'English Island',icon:'🏝️'},math:{name:'數學山',icon:'⛰️'},hum:{name:'人文村',icon:'🏘️'},sci:{name:'科學實驗室',icon:'🔬'}};
-var KEY='hk-revision-quest-v1';var st;try{st=JSON.parse(localStorage.getItem(KEY)||localStorage.getItem('hk-revision-quest-v1'))||{}}catch(e){st={}}
+var KEY='hk-revision-quest-v1';var st;try{st=JSON.parse(localStorage.getItem(KEY))||{}}catch(e){st={}}
 st.stars=st.stars||{};st.wrong=st.wrong||{};st.badges=st.badges||{};
 function save(){try{localStorage.setItem(KEY,JSON.stringify(st))}catch(e){}}
 var app=document.getElementById('app');
