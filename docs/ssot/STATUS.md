@@ -56,7 +56,7 @@ Repo：https://github.com/jessiechanchocoholic-web/hk-revision-game （預設分
 | B1-SEC-02 | 檢查 repo 無密鑰/token、無第三方腳本風險、版權（課本內容只作溫習用，不整段抄錄） | 安全 Bot | 審查中 | 2026-10-21 | 無高風險；版權取向待 Jessie 確認（Q6），見 SECURITY_REVIEW.md |
 | B1-DOC-01 | 老師／家長指南：如何用 JSON 增減題目 | 文件 Bot | 待辦 | 2026-10-21 | 依賴 B1-DEV-01 |
 | B1-DOC-02 | 維護 SSOT 文件及「待核實內容清單」（⚠️ 項目） | 文件 Bot | 待辦 | 2026-10-21 | |
-| B1-DEP-01 | 部署準備（只準備，不上線）：比較 GitHub Pages / Netlify 等方案，寫部署步驟 | 部署 Bot | 待辦 | 2026-10-21 | 部署前必須問 Jessie |
+| B1-DEP-01 | 部署準備（只準備，不上線）：比較 GitHub Pages / Netlify 等方案，寫部署步驟 | 部署 Bot | 審查中 | 2026-10-21 | 已寫 docs/ssot/RELEASE.md；已定方案 A＋公開使用（D-008）；等 QA／安全通過及 Jessie 最後拍板開 Pages，未部署 |
 
 ## 第二批（待第一批完成，根據 research.md「題庫優先次序」）
 6. 數學 P4：4上A L4–9、4上B L11–14、18–19（L1–3 課名待抄錄 ⚠️）
