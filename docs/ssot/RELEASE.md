@@ -5,11 +5,11 @@
 
 ## 1. 版本號：`v1.0.0`（D-024）
 - 原建議 `v0.1.0`（初期開發、內容未全核實）；Jessie 於 D-024 批准以 **`v1.0.0`** 公開發佈，以 D-024 為準。
-- tag `v1.0.0` → `1957042`。之後：修正 `1.0.x`；新增關卡／題型 `1.1.0`；破壞性改動（例如題庫格式、localStorage 格式不相容）`2.0.0`。
+- tag `v1.0.0` → `73755c1`。之後：修正 `1.0.x`；新增關卡／題型 `1.1.0`；破壞性改動（例如題庫格式、localStorage 格式不相容）`2.0.0`。
 
 ## 2. CHANGELOG 草稿
-> 依據：QA Bot 覆審 PR #3 要求（經專案經理 Bot 轉達）及 PR #2 最新 commit 88bf137。數字已由部署 Bot 用程式喺 `feat/question-bank@88bf137` 核對：載入 `game/questions.js` → 全部 97 關／548 題；`verified:true` → 26 關／154 題，與 QA 一致；`validate.js` 輸出 `ALL OK 97 levels 548 questions`。
-> ⚠️ 以上內容仍喺 PR #2，**未合併入 main**（main 仍係 `161bd51`）。
+> 依據：QA Bot 覆審 PR #3 要求（經專案經理 Bot 轉達）及 PR #2 最新 commit 57f900a。數字已由部署 Bot 用程式喺 `feat/question-bank@57f900a` 核對：載入 `game/questions.js` → 全部 97 關／548 題；`verified:true` → 26 關／154 題，與 QA 一致；`validate.js` 輸出 `ALL OK 97 levels 548 questions`。
+> ⚠️ 以上內容仍喺 PR #2，**未合併入 main**（main 仍係 `7c2c466`）。
 
 ```
 ## [1.1] - 2026-10-21（D-025，PR #9，main `a1c572c`）
@@ -35,10 +35,10 @@
 - P2 讀題掣（瀏覽器 speechSynthesis，zh-HK／en-GB）
 - 進度只存瀏覽器 localStorage（key `hk-revision-quest-v1`），無登入、無後端、不收集個人資料
 ### 修正／變更
-- 移除重複 game.zip（安全審核建議，693e424）
-- QA 修正（f010cdb）：讀題掣重複、排序題唔再讀出答案、verified 調整、能力層次 level 對應、p4m18 梯形答案、p5c2 反義詞
-- P1/P2 英文 44 題按 Jessie 決定全部 verified:true（b8e7e98）
-- 88bf137（game.js）：答錯提示唔再顯示解釋／答案，改為「再試一次！再讀一次題目，諗吓重點。」；
+- 移除重複 game.zip（安全審核建議，a195a07）
+- QA 修正（7f214e4）：讀題掣重複、排序題唔再讀出答案、verified 調整、能力層次 level 對應、p4m18 梯形答案、p5c2 反義詞
+- P1/P2 英文 44 題按 Jessie 決定全部 verified:true（3c8146a）
+- 57f900a（game.js）：答錯提示唔再顯示解釋／答案，改為「再試一次！再讀一次題目，諗吓重點。」；
   瀏覽器冇對應粵語（zh-HK／yue）或英文語音時自動隱藏讀題掣（voiceschanged 時更新），唔再用普通話聲代替；
   P1 練習關唔再出現 Boss
 ### 已知問題（待修／待決定）
@@ -83,8 +83,8 @@
 ## 5. 上線後檢查（部署 Bot，2026-10-21 14:20 UTC 左右，唯讀）
 | 項目 | 結果 |
 |---|---|
-| main HEAD | ✅ `1957042`（SSOT：記錄 v1.0.0 發佈），PR #1–#5 全部 MERGED |
-| tag | ✅ `v1.0.0` → `1957042` |
+| main HEAD | ✅ `73755c1`（SSOT：記錄 v1.0.0 發佈），PR #1–#5 全部 MERGED |
+| tag | ✅ `v1.0.0` → `73755c1` |
 | GitHub Release | ❌ **未有 Release**（`gh release list` 空）——建議補建（附第 2 節 CHANGELOG），需 Jessie／專案經理 Bot 決定 |
 | Pages 設定（唯讀 API） | ✅ source `main` / `/`、build_type legacy、public、https_enforced；查詢時 status=`building`（可能有新 build 進行中） |
 | 網址 HTTP | ✅ `/game/`、`/game/index.html`、`/game/開始遊戲.html` 均 200 |

@@ -34,8 +34,8 @@ Repo：https://github.com/jessiechanchocoholic-web/hk-revision-game （預設分
 | B1-Q-05 | 題庫 P4 科學 | 開發 Bot（題庫） | 審查中 | 2026-10-21 | ✅ 四上 L1 地球的結構（有完整樣本：地殼/地幔/地核、板塊、三類岩石、三類土壤）、L2 轉動的地球、L3 天氣和氣候、L4 動植物與環境、L5 大自然的平衡。L2–5 只有課名，內容 ⚠️推斷；已入題庫；L2–5 待核實 |
 | B1-DOC-01 | 老師／家長指南：如何增減題目（content.txt／build.js） | 文件 Bot | 審查中 | 2026-10-21 | 依賴 B1-DEV-01；README.md 已寫（PR docs/readme-ssot） |
 | B1-DOC-02 | 維護 SSOT 文件及「待核實內容清單」（⚠️ 項目） | 文件 Bot | 審查中 | 2026-10-21 | ；SSOT 已同步；UNVERIFIED_QUESTIONS.md 已建立（PR docs/readme-ssot） |
-| B1-QA-01 | 題庫內容審核：每題對照 research.md 課題、答案正確、⚠️ 題目標 verified:false | QA Bot | 完成 | 2026-10-21 | PR #2 88bf137 覆審通過（已核實模式 26 關／154 題）；非阻擋建議見 QA_REPORT.md |
-| B1-QA-02 | 功能測試：關卡、Boss、錯題簿、讀題、手機/平板顯示 | QA Bot | 進行中 | 2026-10-21 | 88bf137：手機／平板兩模式通過、P1 無 Boss、提示及讀題掣修正已驗證、讀題修正已驗證；Boss、錯題簿移除、真機粵語語音未測 |
+| B1-QA-01 | 題庫內容審核：每題對照 research.md 課題、答案正確、⚠️ 題目標 verified:false | QA Bot | 完成 | 2026-10-21 | PR #2 57f900a 覆審通過（已核實模式 26 關／154 題）；非阻擋建議見 QA_REPORT.md |
+| B1-QA-02 | 功能測試：關卡、Boss、錯題簿、讀題、手機/平板顯示 | QA Bot | 進行中 | 2026-10-21 | 57f900a：手機／平板兩模式通過、P1 無 Boss、提示及讀題掣修正已驗證、讀題修正已驗證；Boss、錯題簿移除、真機粵語語音未測 |
 | B1-SEC-01 | 私隱審查：不收集學生姓名/個人資料、無登入、無追蹤分析、只用 localStorage | 安全 Bot | 審查中 | 2026-10-21 | 通過，見 SECURITY_REVIEW.md |
 | B1-SEC-02 | 檢查 repo 無密鑰/token、無第三方腳本風險、版權（課本內容只作溫習用，不整段抄錄） | 安全 Bot | 審查中 | 2026-10-21 | 無高風險；版權：只用自擬題目（D-011），見 SECURITY_REVIEW.md |
 | B1-DEP-01 | 部署準備及上線：GitHub Pages（main root，/game/） | 部署 Bot | 完成 | 2026-10-21 | v1.0.0 已上線（D-024）；上線後檢查通過（見 RELEASE.md 第 5 節）；未有 GitHub Release |
@@ -56,7 +56,7 @@ P1 中文一上單元一二、英文 1A Ch1–4、科學一上。
 
 ## 新增待辦（2026-10-21）
 | B1-DEV-08 | 為題目加 `verified`／`source` 欄位（content.txt＋build.js），試玩只顯示已核實題目 | 開發 Bot | 審查中 | 2026-10-21 | D-014、D-016；PR #2 已實施，待 QA 及合併 |
-| B1-DEV-09 | PR #2：將 commit `2bcc01b` 改為 false 嘅 7 題（ENG-P1-L00-005、ENG-P1-L01-004、ENG-P1-L01-005、ENG-P1-L03-002、ENG-P1-L03-003、ENG-P1-L03-005、ENG-P2-L03-005）改返 `verified: true`（移除 `UNVERIFIED_Q` 入面呢 7 個 ID），重新 build／validate | 開發 Bot | 完成 | 2026-10-21 | D-017 已定案：P1／P2 英文 44 題全部已核實；PR #2 commit `b8e7e98` 已改返，文件 Bot 核對：7 題全部 true，總數 154 true／394 false |
+| B1-DEV-09 | PR #2：將 commit `5b45ecb` 改為 false 嘅 7 題（ENG-P1-L00-005、ENG-P1-L01-004、ENG-P1-L01-005、ENG-P1-L03-002、ENG-P1-L03-003、ENG-P1-L03-005、ENG-P2-L03-005）改返 `verified: true`（移除 `UNVERIFIED_Q` 入面呢 7 個 ID），重新 build／validate | 開發 Bot | 完成 | 2026-10-21 | D-017 已定案：P1／P2 英文 44 題全部已核實；PR #2 commit `3c8146a` 已改返，文件 Bot 核對：7 題全部 true，總數 154 true／394 false |
 ## 題庫 PR（feat/question-bank）— 2026-10-21
 - 狀態：審查中（交 QA Bot：B1-QA-01）
 - 題庫：97 關、548 題；`questions/<subject>/<grade>/<lesson>.json`（由 `game/tools/build.js` 生成，與 `game/questions.js` 同步）
