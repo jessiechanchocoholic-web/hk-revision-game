@@ -24,3 +24,4 @@
 | 2026-10-21 | 開發 Bot | QA Bot、安全 Bot | B2-DEV-03 | 進階應用題 19 題（verified:false）＋步驟顯示＋獨立覆核 | QA 核對題意／步驟；決定是否核實上線 |
 | 2026-10-21 | 開發 Bot | QA Bot、安全 Bot | B2-DEV-02 | 角色＋動畫（純 CSS/SVG，冇外部資源） | QA 真機試；安全 Bot 確認無外部請求 |
 | 2026-10-21 | 開發 Bot | QA Bot、安全 Bot | B2-DEV-01 | 校名移除；rg（docs/ssot 以外）0 結果 | QA 試玩；安全 Bot 覆核私隱 |
+| 2026-10-21 | 開發 Bot | QA Bot、安全 Bot | B3-DEV-01 | 主題動畫＋金星（純 inline SVG/CSS） | QA 真機睇各科各級；安全 Bot 確認無外部資源 |
