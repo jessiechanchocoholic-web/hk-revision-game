@@ -21,9 +21,10 @@ var isEng=function(s){return s==='eng'};
 var T=function(s,zh,en){return isEng(s)?en:zh};
 // speech
 var voices=[];function loadV(){try{voices=speechSynthesis.getVoices()||[]}catch(e){voices=[]}}
-if('speechSynthesis' in window){loadV();speechSynthesis.onvoiceschanged=loadV}
+function refreshSpeak(){Array.prototype.forEach.call(document.querySelectorAll('button.speak'),function(b){b.style.display=canSpeak(b.getAttribute('data-lang'))?'':'none'})}
+if('speechSynthesis' in window){loadV();try{speechSynthesis.addEventListener?speechSynthesis.addEventListener('voiceschanged',function(){loadV();refreshSpeak()}):(speechSynthesis.onvoiceschanged=function(){loadV();refreshSpeak()})}catch(e){}}
 function voiceFor(lang){var L=function(x){return (x.lang||'').toLowerCase().replace('_','-')};var pick=function(f){return voices.filter(f)[0]};
- if(lang==='zh-HK')return pick(function(x){return L(x)==='zh-hk'})||pick(function(x){return L(x).indexOf('yue')===0||/cantonese|粵|廣東/i.test(x.name)})||pick(function(x){return L(x).indexOf('zh')===0});
+ if(lang==='zh-HK')return pick(function(x){return L(x)==='zh-hk'})||pick(function(x){return L(x).indexOf('yue')===0||/cantonese|粵|廣東/i.test(x.name)});
  return pick(function(x){return L(x)===lang.toLowerCase()})||pick(function(x){return L(x).indexOf('en')===0})}
 function speak(text,lang){try{speechSynthesis.cancel();var u=new SpeechSynthesisUtterance(text);u.lang=lang;var v=voiceFor(lang);if(v)u.voice=v;u.rate=.9;speechSynthesis.speak(u)}catch(e){}}
 function canSpeak(lang){return ('speechSynthesis' in window)&&!!voiceFor(lang)}
@@ -43,7 +44,7 @@ function world(gid,s){upd();app.innerHTML='';var ls=levelsOf(gid,s);var practice
  ls.forEach(function(l,i){var unlocked=i===0||(st.stars[ls[i-1].id]||0)>0;var s3=st.stars[l.id]||0;if(!s3)allDone=false;
   g.appendChild(h('button',{class:'lvl'+(unlocked?'':' locked'),onclick:function(){if(unlocked)play(l.questions,{id:l.id,title:l.title,grade:gid,subject:s});}},[(unlocked?'':'🔒 ')+(practice?'練習關 ':T(s,'第'+(i+1)+'關 ','Level '+(i+1)+' ')),h('small',{},[l.title]),h('small',{},['★★★'.slice(0,s3)+'☆☆☆'.slice(0,3-s3)])]))});
  var bossOk=allDone||ls.length<2;var bid='boss-'+gid+'-'+s;
- g.appendChild(h('button',{class:'lvl boss'+(bossOk?'':' locked'),onclick:function(){if(!bossOk){alert(T(s,'完成所有關卡先可以挑戰 Boss！','Finish all levels to unlock the Boss!'));return}
+ if(!practice)g.appendChild(h('button',{class:'lvl boss'+(bossOk?'':' locked'),onclick:function(){if(!bossOk){alert(T(s,'完成所有關卡先可以挑戰 Boss！','Finish all levels to unlock the Boss!'));return}
   var pool=[];ls.forEach(function(l){pool=pool.concat(shuffle(l.questions).slice(0,2).map(function(q){return Object.assign({},q,{_from:l.title})}))});play(shuffle(pool).slice(0,12),{id:bid,title:T(s,'Boss 模擬考','Boss Mock Exam'),grade:gid,subject:s,boss:true})}},
   [(bossOk?'':'🔒 ')+'👾 Boss',h('small',{},[T(s,'模擬考：混合全部課題','Mock exam: all chapters')]),h('small',{},['★★★'.slice(0,st.stars[bid]||0)])]));
  var wk=gid+'-'+s;var wl=st.wrong[wk]||[];
@@ -63,13 +64,12 @@ function play(qs,meta){var s=meta.subject;var list=meta.review||meta.boss?qs:shu
   var qtext=q.type==='order'?q.q:q.q;c.appendChild(h('div',{class:'q'},[qtext]));
   var shown=q.items?shuffle(q.items):null;
   if(readAloud){var say=qtext.replace(/[。：:]$/,'')+(q.options?'。'+q.options.join('，'):'')+(shown?'。'+shown.join('，'):'');
-   if('speechSynthesis' in window){c.appendChild(h('button',{class:'speak','aria-label':'read aloud',onclick:function(){loadV();speak(say,lang)}},['🔊 '+T(s,'讀題','Read aloud')]))}
-   else c.appendChild(h('small',{class:'note'},[T(s,'此瀏覽器不支援讀題','Read-aloud not supported in this browser')]))}
+   if('speechSynthesis' in window){var sb=h('button',{class:'speak','data-lang':lang,'aria-label':'read aloud',onclick:function(){loadV();speak(say,lang)}},['🔊 '+T(s,'讀題','Read aloud')]);if(!canSpeak(lang))sb.style.display='none';c.appendChild(sb)}}
   if(q._from)c.appendChild(h('div',{class:'note'},[q._from]));
   var area=h('div',{class:'opts'});c.appendChild(area);var fb=h('div');c.appendChild(fb);app.appendChild(c);
   function result(ok,btn){if(ok){if(firstTry)score++;if(meta.review)rightInReview(meta,q);fb.className='fb ok';fb.innerHTML='';fb.appendChild(document.createTextNode('✅ '+T(s,'答對了！','Correct! ')+(q.explain||'')));
     fb.appendChild(h('div',{},[h('button',{class:'primary',onclick:function(){i++;i<list.length?show():finish()}},[T(s,'下一題 ➜','Next ➜')])]));Array.prototype.forEach.call(area.querySelectorAll('button,input'),function(b){b.disabled=true})}
-   else{if(firstTry&&!meta.review)addWrong(meta,q);if(firstTry&&meta.review)addWrong(meta,q);firstTry=false;fb.className='fb no';fb.textContent='❌ '+T(s,'再試一次！提示：','Try again! Hint: ')+(q.explain||'');if(btn){btn.classList.add('wrong');btn.disabled=true}}}
+   else{if(firstTry&&!meta.review)addWrong(meta,q);if(firstTry&&meta.review)addWrong(meta,q);firstTry=false;fb.className='fb no';fb.textContent='❌ '+T(s,'再試一次！再讀一次題目，諗吓重點。','Try again! Read the question once more.')+(q.hint?' '+q.hint:'');if(btn){btn.classList.add('wrong');btn.disabled=true}}}
   if(q.type==='mc'){q.options.forEach(function(o){var b=h('button',{onclick:function(){var ok=o===q.answer;if(ok)b.classList.add('correct');result(ok,b)}},[o]);area.appendChild(b)})}
   else if(q.type==='tf'){[[true,T(s,'✔ 對','✔ True')],[false,T(s,'✘ 錯','✘ False')]].forEach(function(p){var b=h('button',{onclick:function(){var ok=p[0]===q.answer;if(ok)b.classList.add('correct');result(ok,b)}},[p[1]]);area.appendChild(b)})}
   else if(q.type==='fill'){var inp=h('input',{type:'text',inputmode:q.numeric?'numeric':'text',placeholder:T(s,'輸入答案','Type your answer'),autocomplete:'off'});
