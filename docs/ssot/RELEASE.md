@@ -29,10 +29,9 @@
 ## 3. 技術評估：可否直接由靜態檔發佈
 - ✅ 純靜態 HTML/CSS/JS，**無需 build**（questions.js 已預先生成並 commit）；`build.js` 只係開發者工具。
 - ✅ 所有引用都係相對路徑（`style.css`、`questions.js`、`game.js`），無外部 CDN／第三方腳本／fetch。
-- ⚠️ 入口 `index.html` 喺 `game/` 子資料夾，唔係 repo 根目錄。GitHub Pages「Deploy from branch」只支援 `/`（root）或 `/docs`：
-  - 方案 A（建議，最簡單）：source = `main` / root，網址 `https://jessiechanchocoholic-web.github.io/hk-revision-game/game/`；可另加根目錄 `index.html` 轉址到 `game/`（需另開 PR）。
-  - 方案 B：用 GitHub Actions workflow 只發佈 `game/` 資料夾（網址較乾淨，但會一併公開較少檔案；需新增 workflow，需審批）。
-  - 方案 A 會令 repo 內所有檔案（research.md、docs、game.zip 如已 commit）都可經網址讀取——repo 本身已公開，風險相同，但要留意。
+- ✅ **已定：方案 A、公開使用（專案經理 Bot 轉達 Jessie 決定，2026-10-21）**：Pages source = `main` / root，分享網址 `https://jessiechanchocoholic-web.github.io/hk-revision-game/game/`；任何人可玩。可另加根目錄 `index.html` 轉址到 `game/`（需另開 PR）。
+  - 注意：root 發佈會令 repo 內所有已 commit 檔案（research.md、docs/、game.zip 如已 commit）都可經網址讀取。
+  - 備註：方案 B（GitHub Actions 只發佈 `game/`）已不採用，只作日後參考。
 - ⚠️ 中文檔名 `開始遊戲.html` 網址會 URL-encode，可用但不建議作分享連結；分享用 `game/`。
 - ℹ️ repo 為 public；免費版 Pages 需要 public repo（見 OPEN-QUESTIONS Q3/Q8）。
 
@@ -43,18 +42,19 @@
 - [ ] QA 通過：B1-QA-02 功能測試（含手機／平板）
 - [ ] 安全審核通過：B1-SEC-01 私隱審查
 - [ ] 安全審核通過：B1-SEC-02 密鑰／第三方腳本／版權檢查
-- [ ] Jessie 決定 Q2（託管平台）、Q8（使用者範圍／是否公開）
-- [ ] **Jessie 審批開啟 GitHub Pages（含選擇方案 A 或 B）**
+- [x] 託管方案 A（main root，/game/）及公開使用已定（專案經理 Bot 轉達 Jessie 決定）
+- [ ] 確認 research.md／docs/ 經 Pages 公開無問題（私隱、版權、內部資料）
+- [ ] **Jessie 最後拍板開啟 GitHub Pages（方案 A）**
 - [ ] **Jessie 審批正式部署／發佈 v0.1.0**
 ### 發佈前技術檢查
 - [ ] `verified:false` 的題目已隱藏或清楚標示試用
 - [ ] 本機開 `game/index.html` 可正常遊玩；console 無錯誤
 - [ ] 所有路徑為相對路徑、無外部請求
 - [ ] repo 內無機密（.env、token、key）
-- [ ] 決定 `game.zip`、`research.md` 是否應公開
+- [ ] 決定 `game.zip` 是否應 commit／公開
 - [ ] CHANGELOG 按最終 main 內容更新，日期填上
 ### 發佈步驟（獲批後先做）
 - [ ] 建立 tag `v0.1.0` 及 GitHub Release（附 CHANGELOG）
-- [ ] Settings → Pages 依批准方案開啟（由 Jessie 或經批准後執行）
+- [ ] Settings → Pages：main / root（方案 A），經 Jessie 最後拍板後先開啟（由 Jessie 或經批准後執行）
 - [ ] 部署後測試公開網址（桌面＋手機）、localStorage 進度正常
 - [ ] 更新 STATUS.md、HANDOFFS.md、DECISIONS.md

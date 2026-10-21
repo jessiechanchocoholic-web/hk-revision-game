@@ -9,6 +9,7 @@
 | D-005 | 2026-10-21 | 只用 ✅ 已核實課題出題；⚠️ 推斷內容標記待核實，不上線 | 準確性 | Jessie |
 | D-006 | 2026-10-21 | GitHub repo 未建，SSOT 暫放 /workspace/hk-revision-game/ | 待決定 repo | Jessie |
 | D-007 | 2026-10-21 | 重要決定及部署前必須問 Jessie | 用戶指示 | Jessie |
+| D-008 | 2026-10-21 | GitHub Pages 採方案 A（main root 發佈，網址 /game/）；公開使用，任何人可玩 | 免費、最簡單；分享俾任何人 | Jessie（專案經理 Bot 轉達）；開啟 Pages 仍待 Jessie 最後拍板 |
 
 ## 待 Jessie 決定
 見 `OPEN-QUESTIONS.md`。
