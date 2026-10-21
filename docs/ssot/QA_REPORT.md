@@ -107,3 +107,11 @@
 - validate.js ALL OK；預設／`=1`：26 關／154 題；`=0`：97 關。7 題答案正確。
 - P1 English 5 關各 5 題玩通，解鎖、Boss 正常；375×667／768×1024 無溢出、0 console 錯誤。截圖 `/workspace/qa-shots/r5-*.png`
 **結論：已核實模式可供 Jessie 今晚試玩。**
+
+## 覆審 PR #4（c093964）、#3（a2dfd0d）、#1（8c2429e）（2026-10-21，對照 PR #2 b8e7e98：26 關／154 題 true、394 false、548 總）
+| PR | 結論 | 已修正 | 仍要改 |
+|---|---|---|---|
+| #4 文件 | 需要修改（小） | 對齊 PR #2 欄位／JSON／?verifiedOnly；CONVENTIONS 改動記入 D-018～D-022；待核實 154/394 正確 | README.md:29 仍 28/167；STATUS.md:35 B1-QA-02 待辦；第11點 user.name 無決定編號；D-019～D-022 均屬轉達，建議 Jessie 親自確認 |
+| #3 發佈準備 | 需要修改（小） | CHANGELOG 已補 Boss、錯題簿、?verifiedOnly、讀題、game.zip | RELEASE.md:25/63 仍 28/167；:33–34 已知問題（讀題掣重複、洩露排序答案）已修正要刪 |
+| #1 安全 | 需要修改（小） | STATUS.md:22 亂碼已修 | 範圍只審 161bd51，未覆蓋 PR #2；game.zip 建議已完成 |
+- 合併衝突：#1～#5 任何兩個都喺 HANDOFFS.md（多數仲有 STATUS.md）衝突 → 建議次序 #2 → #1 → #4 → #3 → #5，每合併一個其餘 rebase。
