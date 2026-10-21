@@ -80,3 +80,23 @@
 - 提示：RELEASE.md 記錄方案 A 公開 GitHub Pages；遊戲為純靜態網頁、不收集資料，公開無額外私隱風險。
 
 **v1.0.0 結論：無高風險。**
+
+## B3 審核：PR #16（head `bfd520e`，基準 main `42e4cab`，2026-10-21）
+
+| 項目 | 結論 | 等級 |
+|---|---|---|
+| 學生資料只用 localStorage | 通過：無新增 localStorage 寫入、無 fetch／XHR／sendBeacon／form／cookie | — |
+| 密鑰 | 通過：新增內容關鍵字 0 命中 | — |
+| 第三方／外部資源 | 通過：SVG 無 `<script>`、`on*=`、`href`／`xlink:href`、`<image>`、`<foreignObject>`；CSS 無 `@import`、`url(`；無外部網址 | — |
+| 版權 | 通過：角色為程式自繪 SVG | — |
+| 校名殘留 | PR head 全 repo 0 結果 | — |
+| `window.__mascot` | 建議改善 | 低 |
+
+**`window.__mascot` 分析**（`game/game.js` 啟動段）：
+- 暴露的是 `mascot(mood, grade, subj)`，只回傳一個新 DOM 元素，不讀寫 `st`／localStorage、不接觸題目或答案，故**不能藉此改進度或取得答案**。
+- SVG 字串只由 `THEME`／`GTHEME` 內的常數組成；未知 `subj`／`grade` 會回退到預設主題，`mood` 只作比較或放入 class／`data-theme`（經 `setAttribute`），故即使外部傳入任意字串亦**不會寫入 innerHTML**。
+- 本身不接受網頁外部輸入（無 URL／postMessage 掛鉤）；任何人可在 DevTools 呼叫，但只能在自己瀏覽器產生角色圖。
+- 備註：既有 `window.__game` 已暴露 `home/grade/world/play`，屬同類測試掛鉤。
+- 建議（低）：只在測試環境暴露（例如 URL 有 `?test` 或 `location.hostname==='localhost'` 時才設定），或 `Object.freeze` 後以 `Object.defineProperty(window,'__mascot',{value:…,writable:false})` 暴露，避免被覆寫。
+
+**結論：PR #16 無高風險，可在 QA 通過及 Jessie 批准後合併。**
