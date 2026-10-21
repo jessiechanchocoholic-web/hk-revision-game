@@ -1,21 +1,18 @@
 # 發佈準備：GitHub Pages（B1-DEP-01）
 
-> 只係準備文件。**未開啟 GitHub Pages、未改 repo 設定、未部署。** 開 Pages 前必須由 Jessie 批准。
+> **v1.0.0 已於 2026-10-21 上線**（D-024，Jessie 批准合併同發佈）：https://jessiechanchocoholic-web.github.io/hk-revision-game/game/ 。上線後檢查見第 5 節。以下第 1–4 節為發佈前準備紀錄。
 > 更新日期：2026-10-21｜負責：部署 Bot
 
-## 1. 建議版本號：`v0.1.0`
-- 目前 repo 未有任何 tag／release；功能及題庫仍喺開緊嘅 PR #2，未合併入 main。
-- 第一批功能（B1-DEV-01~07）及題庫（B1-Q-*）仍未完成／未審核，部分課題 ⚠️ 推斷、`verified:false`。
-- 依 SemVer，`0.y.z` 表示初期開發、未穩定 → 首個公開預覽版用 `0.1.0`。
-- 之後：修正用 `0.1.x`；新增關卡／題型用 `0.2.0`；第一批全部完成且老師核對內容後才考慮 `1.0.0`。
-- 若發佈時未經 QA 全面通過，只作試用，可改用 `v0.1.0-beta.1`。
+## 1. 版本號：`v1.0.0`（D-024）
+- 原建議 `v0.1.0`（初期開發、內容未全核實）；Jessie 於 D-024 批准以 **`v1.0.0`** 公開發佈，以 D-024 為準。
+- tag `v1.0.0` → `1957042`。之後：修正 `1.0.x`；新增關卡／題型 `1.1.0`；破壞性改動（例如題庫格式、localStorage 格式不相容）`2.0.0`。
 
 ## 2. CHANGELOG 草稿
 > 依據：QA Bot 覆審 PR #3 要求（經專案經理 Bot 轉達）及 PR #2 最新 commit 88bf137。數字已由部署 Bot 用程式喺 `feat/question-bank@88bf137` 核對：載入 `game/questions.js` → 全部 97 關／548 題；`verified:true` → 26 關／154 題，與 QA 一致；`validate.js` 輸出 `ALL OK 97 levels 548 questions`。
 > ⚠️ 以上內容仍喺 PR #2，**未合併入 main**（main 仍係 `161bd51`）。
 
 ```
-## [0.1.0] - 未發佈（待 QA／安全／Jessie 批准）
+## [1.0.0] - 2026-10-21（原草稿為 0.1.0；按 D-024 改為 1.0.0）
 ### 新增
 - 純靜態網頁遊戲：game/index.html（另有 game/開始遊戲.html）、game.js、style.css，無需 build
 - 題庫：questions/<科目>/<年級>/Lxx.json（P1/P2/P4/P5 中英數人科），共 97 關／548 題；
@@ -50,7 +47,7 @@
 - ⚠️ 中文檔名 `開始遊戲.html` 網址會 URL-encode，可用但不建議作分享連結；分享用 `game/`。
 - ℹ️ repo 為 public；免費版 Pages 需要 public repo（見 OPEN-QUESTIONS Q3/Q8）。
 
-## 4. 發佈檢查清單（全部未完成）
+## 4. 發佈檢查清單（發佈前版本；D-024 已批准合併及發佈，實際結果見第 5 節）
 ### 閘門
 - [ ] PR #2（題庫及功能）修好 QA 意見並合併入 main
 - [ ] QA 通過：B1-QA-01 題庫內容審核
@@ -72,3 +69,26 @@
 - [ ] Settings → Pages：main / root（方案 A），經 Jessie 最後拍板後先開啟（由 Jessie 或經批准後執行）
 - [ ] 部署後測試公開網址（桌面＋手機）、localStorage 進度正常
 - [ ] 更新 STATUS.md、HANDOFFS.md、DECISIONS.md
+
+## 5. 上線後檢查（部署 Bot，2026-10-21 14:20 UTC 左右，唯讀）
+| 項目 | 結果 |
+|---|---|
+| main HEAD | ✅ `1957042`（SSOT：記錄 v1.0.0 發佈），PR #1–#5 全部 MERGED |
+| tag | ✅ `v1.0.0` → `1957042` |
+| GitHub Release | ❌ **未有 Release**（`gh release list` 空）——建議補建（附第 2 節 CHANGELOG），需 Jessie／專案經理 Bot 決定 |
+| Pages 設定（唯讀 API） | ✅ source `main` / `/`、build_type legacy、public、https_enforced；查詢時 status=`building`（可能有新 build 進行中） |
+| 網址 HTTP | ✅ `/game/`、`/game/index.html`、`/game/開始遊戲.html` 均 200 |
+| 引用資源 | ✅ `style.css`、`questions.js`、`game.js` 均 200，全部相對路徑；無外部 URL／CDN |
+| 上線檔案 = main | ✅ 線上 `game.js`、`questions.js` 與 main 逐 byte 相同 |
+| 題數（線上 questions.js） | ✅ 全部 97 關／548 題；verified:true 26 關／154 題 |
+| VERIFIED_ONLY_DEFAULT | ✅ `true`；頁面 `window.__verifiedOnly=true` |
+| Headless Chrome（playwright-core） | ✅ 手機 375×667、桌面 1280×800 均載入主頁（年級選擇），無橫向溢出、無 JS pageerror；手機首次載入有 1 個 console 404，應為 `/favicon.ico`（已確認 404，無影響）|
+| 機密 | ✅ `/.env`、`/.git/config` 404；main 全 repo 搜尋 key/token/password/private key 只見文件描述字眼，無實際密鑰 |
+| 公開範圍 | ⚠️ root 發佈令 `docs/ssot/*`、`game/tools/*` 等可公開讀取（例：`/docs/ssot/STATUS.md` 200），符合方案 A 預期；`research.md` 404（main 未有此檔）|
+
+### 未做／待跟進
+- [ ] 建立 GitHub Release v1.0.0（需批准）
+- [ ] 加 favicon（可選，消除 404）
+- [ ] 真機（iPad／手機）試玩及粵語讀題（headless 未能驗證發音）
+- [ ] 深入流程（答題、Boss、錯題簿）只由 QA 測過，今次只檢查載入
+- [ ] STATUS.md 有兩列 B1-DEP-01（第 40 行舊列「待辦」），建議文件 Bot 清理

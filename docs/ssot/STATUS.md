@@ -56,7 +56,8 @@ Repo：https://github.com/jessiechanchocoholic-web/hk-revision-game （預設分
 | B1-SEC-02 | 檢查 repo 無密鑰/token、無第三方腳本風險、版權（課本內容只作溫習用，不整段抄錄） | 安全 Bot | 審查中 | 2026-10-21 | 無高風險；版權取向待 Jessie 確認（Q6），見 SECURITY_REVIEW.md |
 | B1-DOC-01 | 老師／家長指南：如何用 JSON 增減題目 | 文件 Bot | 待辦 | 2026-10-21 | 依賴 B1-DEV-01 |
 | B1-DOC-02 | 維護 SSOT 文件及「待核實內容清單」（⚠️ 項目） | 文件 Bot | 待辦 | 2026-10-21 | |
-| B1-DEP-01 | 部署準備（只準備，不上線）：比較 GitHub Pages / Netlify 等方案，寫部署步驟 | 部署 Bot | 完成 | 2026-10-21 | GitHub Pages 已啟用，v1.0.0 已上線（D-024）；待部署 Bot 做上線後檢查 |
+| B1-DEP-01 | 部署準備及上線：GitHub Pages（main root，/game/） | 部署 Bot | 完成 | 2026-10-21 | v1.0.0 已上線（D-024）；上線後檢查通過（見 RELEASE.md 第 5 節）；未有 GitHub Release |
+| B1-DEP-02 | 上線後檢查（HTTP、資源、題數、headless、機密） | 部署 Bot | 審查中 | 2026-10-21 | 全部通過；待跟進：建立 Release（需批准）、favicon、真機粵語；第 40 行 B1-DEP-01 為重複舊列 |
 
 ## 第二批（待第一批完成，根據 research.md「題庫優先次序」）
 6. 數學 P4：4上A L4–9、4上B L11–14、18–19（L1–3 課名待抄錄 ⚠️）
