@@ -23,7 +23,7 @@
 - 題型：選擇、判斷、填充、排序
 - 每世界 Boss 模擬考（完成所有關卡解鎖）、錯題簿、星星／徽章
 - P2 讀題掣（瀏覽器 speechSynthesis，zh-HK／en-GB）
-- 進度只存瀏覽器 localStorage（hk-revision-quest-v1），無登入、無後端、不收集個人資料
+- 進度只存瀏覽器 localStorage（key `hk-revision-quest-v1`），無登入、無後端、不收集個人資料
 ### 修正／變更
 - 移除重複 game.zip（安全審核建議，693e424）
 - QA 修正（f010cdb）：讀題掣重複、排序題唔再讀出答案、verified 調整、能力層次 level 對應、p4m18 梯形答案、p5c2 反義詞

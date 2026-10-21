@@ -31,7 +31,7 @@ function speak(text,lang){try{speechSynthesis.cancel();var u=new SpeechSynthesis
 function canSpeak(lang){return ('speechSynthesis' in window)&&!!voiceFor(lang)}
 
 function home(){upd();app.innerHTML='';document.getElementById('title').textContent='溫習闖關大冒險';
- app.appendChild(h('div',{class:'card'},[h('div',{class:'big'},['揀你嘅年級 👇']),h('p',{class:'note'},['小學 · 上學期第一次考試範圍溫習'])]));
+ app.appendChild(h('div',{class:'card'},[h('div',{class:'big'},['揀你嘅年級 👇']),h('p',{class:'note'},['小學上學期第一次考試範圍溫習'])]));
  var g=h('div',{class:'grid'});GRADES.forEach(function(G){g.appendChild(h('button',{class:'big',onclick:function(){grade(G.id)}},[G.name+(G.note?' ('+G.note+')':'')]))});app.appendChild(g)}
 function grade(gid){upd();app.innerHTML='';var G=GRADES.filter(function(x){return x.id===gid})[0];document.getElementById('title').textContent=G.name+(G.note?' · '+G.note:'');
  app.appendChild(h('div',{class:'card'},[h('div',{class:'big'},['揀科目世界']),h('button',{onclick:home},['⬅ 返回'])]));
