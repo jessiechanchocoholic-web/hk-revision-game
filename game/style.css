@@ -15,9 +15,9 @@ button:active{transform:translateY(2px)}.ghost{background:transparent;box-shadow
 /* 卡通角色波波＋動畫 */
 .mascot{width:72px;height:72px;float:left;margin:0 10px 4px 0}.fb{overflow:hidden}
 .card>.mascot-wrap,.card>.mascot{float:none;margin:0 auto 6px}.mascot-wrap{position:relative;width:120px;height:120px;margin:0 auto}.mascot-wrap .mascot{width:120px;height:120px;float:none;margin:0}
-.m-ok{animation:bb-bounce .6s ease}.m-wrong{animation:bb-shake .5s ease}.m-clear{animation:bb-jump 1s ease infinite}.m-boss{animation:bb-jump .8s ease infinite}
+.m-ok{animation:bb-bounce .6s ease}.m-wrong{animation:bb-shake .5s ease}.m-clear{animation:bb-jump 1s ease 3}.m-boss{animation:bb-jump .8s ease 3}
 .fb.no{animation:bb-shake .4s ease}.correct{animation:bb-pop .3s ease}
-.confetti{position:absolute;inset:-20px -60px auto;height:160px;pointer-events:none;overflow:visible}.confetti i{position:absolute;top:0;width:8px;height:12px;border-radius:2px;opacity:0;animation:bb-fall 1.6s ease-in infinite}
+.confetti{position:absolute;inset:-20px -60px auto;height:160px;pointer-events:none;overflow:visible}.confetti i{position:absolute;top:0;width:8px;height:12px;border-radius:2px;opacity:0;animation:bb-fall 1.6s ease-in 2 both}
 @keyframes bb-bounce{0%{transform:scale(.6)}60%{transform:scale(1.15)}100%{transform:scale(1)}}
 @keyframes bb-shake{0%,100%{transform:translateX(0)}25%{transform:translateX(-6px)}75%{transform:translateX(6px)}}
 @keyframes bb-jump{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
