@@ -100,3 +100,10 @@
 - 建議（低）：只在測試環境暴露（例如 URL 有 `?test` 或 `location.hostname==='localhost'` 時才設定），或 `Object.freeze` 後以 `Object.defineProperty(window,'__mascot',{value:…,writable:false})` 暴露，避免被覆寫。
 
 **結論：PR #16 無高風險，可在 QA 通過及 Jessie 批准後合併。**
+
+### PR #16 覆審（head `dcb9b5a`，2026-10-22）
+- `bfd520e..dcb9b5a` 只係 merge main `42e4cab`（帶入已合併的 QA 文件），`game/` 程式碼與 `bfd520e` **完全相同**；對 main 的完整 diff 仍只有 `game/game.js`、`game/style.css` 及 STATUS／HANDOFFS 各 2 行。
+- 四項（學生資料、密鑰、外部資源、版權）：通過，與上次結論相同。
+- 校名、舊 key 縮寫：PR head 全 repo 0 結果；新 commit 0 結果。
+- 舊歷史：分支根 commit 為新歷史 `7c2c466`，已包含 main；新增文字引用的 commit 只有 `42e4cab`（存在於新歷史），無舊 SHA 帶入。
+- `window.__mascot` 低風險建議不變。**結論：無高風險、無新增風險。**
