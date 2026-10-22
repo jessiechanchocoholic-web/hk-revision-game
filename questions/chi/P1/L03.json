@@ -1,0 +1,282 @@
+{
+ "levelId": "p1c3",
+ "grade": "P1",
+ "subject": "chi",
+ "lesson": "L03",
+ "title": "工作紙：數數和認字",
+ "verified": false,
+ "questions": [
+  {
+   "type": "fill",
+   "q": "看圖數數，填中國數字：📚📚📚📚📚 書有（ ）本。",
+   "answer": [
+    "五"
+   ],
+   "explain": "數一數，共有五本書。",
+   "id": "CHI-P1-L03-001",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "理解",
+   "question": "看圖數數，填中國數字：📚📚📚📚📚 書有（ ）本。",
+   "source": "老師工作紙｜工作紙：數數和認字",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "看圖數數，填中國數字：✏️✏️✏️ 筆有（ ）枝。",
+   "answer": [
+    "三"
+   ],
+   "explain": "數一數，共有三枝筆。",
+   "id": "CHI-P1-L03-002",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "理解",
+   "question": "看圖數數，填中國數字：✏️✏️✏️ 筆有（ ）枝。",
+   "source": "老師工作紙｜工作紙：數數和認字",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "看圖數數，填中國數字：🍎🍎🍎🍎🍎🍎🍎🍎🍎 蘋果有（ ）個。",
+   "answer": [
+    "九"
+   ],
+   "explain": "數一數，共有九個蘋果。",
+   "id": "CHI-P1-L03-003",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "理解",
+   "question": "看圖數數，填中國數字：🍎🍎🍎🍎🍎🍎🍎🍎🍎 蘋果有（ ）個。",
+   "source": "老師工作紙｜工作紙：數數和認字",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "看圖數數，填中國數字：🌳🌳🌳🌳 樹有（ ）棵。",
+   "answer": [
+    "四"
+   ],
+   "explain": "數一數，共有四棵樹。",
+   "id": "CHI-P1-L03-004",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "理解",
+   "question": "看圖數數，填中國數字：🌳🌳🌳🌳 樹有（ ）棵。",
+   "source": "老師工作紙｜工作紙：數數和認字",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "看圖數數，填中國數字：🐦🐦🐦🐦🐦🐦🐦 鳥有（ ）隻。",
+   "answer": [
+    "七"
+   ],
+   "explain": "數一數，共有七隻鳥。",
+   "id": "CHI-P1-L03-005",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "理解",
+   "question": "看圖數數，填中國數字：🐦🐦🐦🐦🐦🐦🐦 鳥有（ ）隻。",
+   "source": "老師工作紙｜工作紙：數數和認字",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "看圖數數，填中國數字：🐷🐷🐷🐷🐷🐷 小豬有（ ）頭。",
+   "answer": [
+    "六"
+   ],
+   "explain": "數一數，共有六頭小豬。",
+   "id": "CHI-P1-L03-006",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "理解",
+   "question": "看圖數數，填中國數字：🐷🐷🐷🐷🐷🐷 小豬有（ ）頭。",
+   "source": "老師工作紙｜工作紙：數數和認字",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "看圖數數，填中國數字：⭐⭐⭐⭐⭐⭐⭐⭐ 星星有（ ）顆。",
+   "answer": [
+    "八"
+   ],
+   "explain": "數一數，共有八顆星星。",
+   "id": "CHI-P1-L03-007",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "理解",
+   "question": "看圖數數，填中國數字：⭐⭐⭐⭐⭐⭐⭐⭐ 星星有（ ）顆。",
+   "source": "老師工作紙｜工作紙：數數和認字",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "看圖填字：🐮 這是（ ）。",
+   "answer": "牛",
+   "options": [
+    "牛",
+    "馬",
+    "羊",
+    "午"
+   ],
+   "explain": "圖中是牛。「午」字和「牛」字很像，要小心。",
+   "id": "CHI-P1-L03-008",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "看圖填字：🐮 這是（ ）。",
+   "source": "老師工作紙｜工作紙：數數和認字",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "看圖填字：🐦 這是（ ）。",
+   "answer": "鳥",
+   "options": [
+    "烏",
+    "雞",
+    "魚",
+    "鳥"
+   ],
+   "explain": "圖中是鳥。「烏」字比「鳥」字少了一點。",
+   "id": "CHI-P1-L03-009",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "看圖填字：🐦 這是（ ）。",
+   "source": "老師工作紙｜工作紙：數數和認字",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "看圖填字：🐟 這是（ ）。",
+   "answer": "魚",
+   "options": [
+    "牛",
+    "鳥",
+    "魚",
+    "蝦"
+   ],
+   "explain": "圖中是在水裏游的魚。",
+   "id": "CHI-P1-L03-010",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "看圖填字：🐟 這是（ ）。",
+   "source": "老師工作紙｜工作紙：數數和認字",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "看圖填字：🌿 這是（ ）。",
+   "answer": "草",
+   "options": [
+    "花",
+    "早",
+    "樹",
+    "草"
+   ],
+   "explain": "圖中是綠色的草。",
+   "id": "CHI-P1-L03-011",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "看圖填字：🌿 這是（ ）。",
+   "source": "老師工作紙｜工作紙：數數和認字",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "看圖填字：🌸 這是（ ）。",
+   "answer": "花",
+   "options": [
+    "花",
+    "化",
+    "樹",
+    "草"
+   ],
+   "explain": "圖中是一朵花。",
+   "id": "CHI-P1-L03-012",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "看圖填字：🌸 這是（ ）。",
+   "source": "老師工作紙｜工作紙：數數和認字",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "看圖填字：🐴 這是（ ）。",
+   "answer": "馬",
+   "options": [
+    "羊",
+    "牛",
+    "馬",
+    "鳥"
+   ],
+   "explain": "圖中是馬。",
+   "id": "CHI-P1-L03-013",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "看圖填字：🐴 這是（ ）。",
+   "source": "老師工作紙｜工作紙：數數和認字",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「品」字裏有幾個「口」？",
+   "answer": "三個",
+   "options": [
+    "一個",
+    "三個",
+    "四個",
+    "兩個"
+   ],
+   "explain": "「品」字由三個「口」組成。",
+   "id": "CHI-P1-L03-014",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "「品」字裏有幾個「口」？",
+   "source": "老師工作紙｜工作紙：數數和認字",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "我有（ ）和十個手指頭。",
+   "answer": "一雙手",
+   "options": [
+    "一雙腳",
+    "一雙手",
+    "三雙手",
+    "一隻手"
+   ],
+   "explain": "我們有兩隻手，就是「一雙手」，一共有十個手指頭。",
+   "id": "CHI-P1-L03-015",
+   "grade": "P1",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "我有（ ）和十個手指頭。",
+   "source": "老師工作紙｜工作紙：數數和認字",
+   "verified": false
+  }
+ ]
+}

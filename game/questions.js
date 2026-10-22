@@ -245,6 +245,712 @@ window.QUESTION_BANK = {
    "verified": false
   },
   {
+   "id": "p1c3",
+   "grade": "P1",
+   "subject": "chi",
+   "title": "工作紙：數數和認字",
+   "questions": [
+    {
+     "type": "fill",
+     "q": "看圖數數，填中國數字：📚📚📚📚📚 書有（ ）本。",
+     "answer": [
+      "五"
+     ],
+     "explain": "數一數，共有五本書。",
+     "id": "CHI-P1-L03-001",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "看圖數數，填中國數字：📚📚📚📚📚 書有（ ）本。",
+     "source": "老師工作紙｜工作紙：數數和認字",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "看圖數數，填中國數字：✏️✏️✏️ 筆有（ ）枝。",
+     "answer": [
+      "三"
+     ],
+     "explain": "數一數，共有三枝筆。",
+     "id": "CHI-P1-L03-002",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "看圖數數，填中國數字：✏️✏️✏️ 筆有（ ）枝。",
+     "source": "老師工作紙｜工作紙：數數和認字",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "看圖數數，填中國數字：🍎🍎🍎🍎🍎🍎🍎🍎🍎 蘋果有（ ）個。",
+     "answer": [
+      "九"
+     ],
+     "explain": "數一數，共有九個蘋果。",
+     "id": "CHI-P1-L03-003",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "看圖數數，填中國數字：🍎🍎🍎🍎🍎🍎🍎🍎🍎 蘋果有（ ）個。",
+     "source": "老師工作紙｜工作紙：數數和認字",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "看圖數數，填中國數字：🌳🌳🌳🌳 樹有（ ）棵。",
+     "answer": [
+      "四"
+     ],
+     "explain": "數一數，共有四棵樹。",
+     "id": "CHI-P1-L03-004",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "看圖數數，填中國數字：🌳🌳🌳🌳 樹有（ ）棵。",
+     "source": "老師工作紙｜工作紙：數數和認字",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "看圖數數，填中國數字：🐦🐦🐦🐦🐦🐦🐦 鳥有（ ）隻。",
+     "answer": [
+      "七"
+     ],
+     "explain": "數一數，共有七隻鳥。",
+     "id": "CHI-P1-L03-005",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "看圖數數，填中國數字：🐦🐦🐦🐦🐦🐦🐦 鳥有（ ）隻。",
+     "source": "老師工作紙｜工作紙：數數和認字",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "看圖數數，填中國數字：🐷🐷🐷🐷🐷🐷 小豬有（ ）頭。",
+     "answer": [
+      "六"
+     ],
+     "explain": "數一數，共有六頭小豬。",
+     "id": "CHI-P1-L03-006",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "看圖數數，填中國數字：🐷🐷🐷🐷🐷🐷 小豬有（ ）頭。",
+     "source": "老師工作紙｜工作紙：數數和認字",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "看圖數數，填中國數字：⭐⭐⭐⭐⭐⭐⭐⭐ 星星有（ ）顆。",
+     "answer": [
+      "八"
+     ],
+     "explain": "數一數，共有八顆星星。",
+     "id": "CHI-P1-L03-007",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "看圖數數，填中國數字：⭐⭐⭐⭐⭐⭐⭐⭐ 星星有（ ）顆。",
+     "source": "老師工作紙｜工作紙：數數和認字",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "看圖填字：🐮 這是（ ）。",
+     "answer": "牛",
+     "options": [
+      "牛",
+      "馬",
+      "羊",
+      "午"
+     ],
+     "explain": "圖中是牛。「午」字和「牛」字很像，要小心。",
+     "id": "CHI-P1-L03-008",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "看圖填字：🐮 這是（ ）。",
+     "source": "老師工作紙｜工作紙：數數和認字",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "看圖填字：🐦 這是（ ）。",
+     "answer": "鳥",
+     "options": [
+      "烏",
+      "雞",
+      "魚",
+      "鳥"
+     ],
+     "explain": "圖中是鳥。「烏」字比「鳥」字少了一點。",
+     "id": "CHI-P1-L03-009",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "看圖填字：🐦 這是（ ）。",
+     "source": "老師工作紙｜工作紙：數數和認字",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "看圖填字：🐟 這是（ ）。",
+     "answer": "魚",
+     "options": [
+      "牛",
+      "鳥",
+      "魚",
+      "蝦"
+     ],
+     "explain": "圖中是在水裏游的魚。",
+     "id": "CHI-P1-L03-010",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "看圖填字：🐟 這是（ ）。",
+     "source": "老師工作紙｜工作紙：數數和認字",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "看圖填字：🌿 這是（ ）。",
+     "answer": "草",
+     "options": [
+      "花",
+      "早",
+      "樹",
+      "草"
+     ],
+     "explain": "圖中是綠色的草。",
+     "id": "CHI-P1-L03-011",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "看圖填字：🌿 這是（ ）。",
+     "source": "老師工作紙｜工作紙：數數和認字",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "看圖填字：🌸 這是（ ）。",
+     "answer": "花",
+     "options": [
+      "花",
+      "化",
+      "樹",
+      "草"
+     ],
+     "explain": "圖中是一朵花。",
+     "id": "CHI-P1-L03-012",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "看圖填字：🌸 這是（ ）。",
+     "source": "老師工作紙｜工作紙：數數和認字",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "看圖填字：🐴 這是（ ）。",
+     "answer": "馬",
+     "options": [
+      "羊",
+      "牛",
+      "馬",
+      "鳥"
+     ],
+     "explain": "圖中是馬。",
+     "id": "CHI-P1-L03-013",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "看圖填字：🐴 這是（ ）。",
+     "source": "老師工作紙｜工作紙：數數和認字",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "「品」字裏有幾個「口」？",
+     "answer": "三個",
+     "options": [
+      "一個",
+      "三個",
+      "四個",
+      "兩個"
+     ],
+     "explain": "「品」字由三個「口」組成。",
+     "id": "CHI-P1-L03-014",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "「品」字裏有幾個「口」？",
+     "source": "老師工作紙｜工作紙：數數和認字",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "我有（ ）和十個手指頭。",
+     "answer": "一雙手",
+     "options": [
+      "一雙腳",
+      "一雙手",
+      "三雙手",
+      "一隻手"
+     ],
+     "explain": "我們有兩隻手，就是「一雙手」，一共有十個手指頭。",
+     "id": "CHI-P1-L03-015",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "我有（ ）和十個手指頭。",
+     "source": "老師工作紙｜工作紙：數數和認字",
+     "verified": false
+    }
+   ],
+   "lesson": "L03",
+   "verified": false
+  },
+  {
+   "id": "p1c4",
+   "grade": "P1",
+   "subject": "chi",
+   "title": "工作紙：句子練習",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "🐮 小牛在草地上（ ）。",
+     "answer": "吃草",
+     "options": [
+      "游泳",
+      "飛",
+      "吃草",
+      "寫字"
+     ],
+     "explain": "小牛在草地上吃草。",
+     "id": "CHI-P1-L04-001",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "🐮 小牛在草地上（ ）。",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "🐦 小鳥在（ ）飛。",
+     "answer": "天上",
+     "options": [
+      "池塘裏",
+      "天上",
+      "書包裏",
+      "草地下"
+     ],
+     "explain": "小鳥在天上飛。",
+     "id": "CHI-P1-L04-002",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "🐦 小鳥在（ ）飛。",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "🐟 小魚在（ ）游。",
+     "answer": "池塘裏",
+     "options": [
+      "草地上",
+      "樹上",
+      "池塘裏",
+      "天上"
+     ],
+     "explain": "小魚在池塘裏游。",
+     "id": "CHI-P1-L04-003",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "🐟 小魚在（ ）游。",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "早上醒來，我學會了自己（ ）。",
+     "answer": "起牀",
+     "options": [
+      "飛上天",
+      "開汽車",
+      "起牀",
+      "煮大餐"
+     ],
+     "explain": "我學會了自己起牀。",
+     "id": "CHI-P1-L04-004",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "早上醒來，我學會了自己（ ）。",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "我學會了用毛巾（ ）。",
+     "answer": "洗臉",
+     "options": [
+      "刷牙",
+      "寫字",
+      "洗臉",
+      "背書包"
+     ],
+     "explain": "用毛巾洗臉；用牙刷刷牙。",
+     "id": "CHI-P1-L04-005",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "我學會了用毛巾（ ）。",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "我學會了用牙刷（ ）。",
+     "answer": "刷牙",
+     "options": [
+      "洗臉",
+      "讀書",
+      "寫字",
+      "刷牙"
+     ],
+     "explain": "用牙刷刷牙。",
+     "id": "CHI-P1-L04-006",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "我學會了用牙刷（ ）。",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "我學會了自己穿（ ）。",
+     "answer": "校服",
+     "options": [
+      "課本",
+      "書包",
+      "校服",
+      "牙刷"
+     ],
+     "explain": "我學會了自己穿校服。",
+     "id": "CHI-P1-L04-007",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "我學會了自己穿（ ）。",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "我學會了自己收拾（ ）。",
+     "answer": "書包",
+     "options": [
+      "天空",
+      "草地",
+      "書包",
+      "池塘"
+     ],
+     "explain": "上學前要收拾書包。",
+     "id": "CHI-P1-L04-008",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "我學會了自己收拾（ ）。",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "我學會了用鉛筆（ ）。",
+     "answer": "寫字",
+     "options": [
+      "刷牙",
+      "寫字",
+      "起牀",
+      "洗臉"
+     ],
+     "explain": "用鉛筆寫字。",
+     "id": "CHI-P1-L04-009",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "我學會了用鉛筆（ ）。",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "我學會了自己背書包，也學會了讀書。",
+     "answer": true,
+     "explain": "上學時自己背書包，在學校讀書。",
+     "id": "CHI-P1-L04-010",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "我學會了自己背書包，也學會了讀書。",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "早上見到老師，我會說：",
+     "answer": "老師早",
+     "options": [
+      "對不起",
+      "晚安",
+      "老師早",
+      "同學好"
+     ],
+     "explain": "早上見到老師要說「老師早」。",
+     "id": "CHI-P1-L04-011",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "早上見到老師，我會說：",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "見到同學，我會說：",
+     "answer": "同學好",
+     "options": [
+      "老師早",
+      "晚安",
+      "同學好",
+      "對不起"
+     ],
+     "explain": "見到同學要說「同學好」。",
+     "id": "CHI-P1-L04-012",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "見到同學，我會說：",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "我的書包裏有甚麼？",
+     "answer": "學生手冊和中國語文課本",
+     "options": [
+      "學生手冊和中國語文課本",
+      "枕頭和被子",
+      "電視和雪櫃",
+      "碗和筷子"
+     ],
+     "explain": "書包裏放上學要用的學生手冊和中國語文課本。",
+     "id": "CHI-P1-L04-013",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "我的書包裏有甚麼？",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "選詞完句：我（ ）了帶文具盒回校。",
+     "answer": "忘",
+     "options": [
+      "忘",
+      "是",
+      "在",
+      "自己"
+     ],
+     "explain": "「忘了」就是沒有記得。",
+     "id": "CHI-P1-L04-014",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "選詞完句：我（ ）了帶文具盒回校。",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "選詞完句：弟弟會（ ）看書。",
+     "answer": "自己",
+     "options": [
+      "了",
+      "自己",
+      "是",
+      "忘"
+     ],
+     "explain": "弟弟會自己看書。",
+     "id": "CHI-P1-L04-015",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "選詞完句：弟弟會（ ）看書。",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "選詞完句：陳老師（ ）我的班主任。",
+     "answer": "是",
+     "options": [
+      "了",
+      "忘",
+      "是",
+      "自己"
+     ],
+     "explain": "陳老師是我的班主任。",
+     "id": "CHI-P1-L04-016",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "選詞完句：陳老師（ ）我的班主任。",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "「我愛吃草莓」是完整的句子，句子尾要加哪個標點？",
+     "answer": "。",
+     "options": [
+      "，",
+      "「",
+      "、",
+      "。"
+     ],
+     "explain": "完整句子的尾巴要加句號「。」：我愛吃草莓。",
+     "id": "CHI-P1-L04-017",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "「我愛吃草莓」是完整的句子，句子尾要加哪個標點？",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "「我會自己洗澡」是完整的句子，句子尾要加哪個標點？",
+     "answer": "。",
+     "options": [
+      "。",
+      "、",
+      "，",
+      "」"
+     ],
+     "explain": "完整句子的尾巴要加句號：我會自己洗澡。",
+     "id": "CHI-P1-L04-018",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "「我會自己洗澡」是完整的句子，句子尾要加哪個標點？",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "句號「。」要放在完整句子的尾巴。",
+     "answer": true,
+     "explain": "例如：我愛吃草莓。",
+     "id": "CHI-P1-L04-019",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "句號「。」要放在完整句子的尾巴。",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    },
+    {
+     "type": "order",
+     "q": "重組句子：把詞語排成正確的句子",
+     "items": [
+      "媽媽",
+      "在洗手間",
+      "洗衣服。"
+     ],
+     "explain": "媽媽在洗手間洗衣服。",
+     "answer": [
+      "媽媽",
+      "在洗手間",
+      "洗衣服。"
+     ],
+     "id": "CHI-P1-L04-020",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "理解",
+     "question": "重組句子：把詞語排成正確的句子",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    },
+    {
+     "type": "order",
+     "q": "重組句子：把詞語排成正確的句子",
+     "items": [
+      "樹上",
+      "有很多",
+      "鳥兒。"
+     ],
+     "explain": "樹上有很多鳥兒。",
+     "answer": [
+      "樹上",
+      "有很多",
+      "鳥兒。"
+     ],
+     "id": "CHI-P1-L04-021",
+     "grade": "P1",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "理解",
+     "question": "重組句子：把詞語排成正確的句子",
+     "source": "老師工作紙｜工作紙：句子練習",
+     "verified": false
+    }
+   ],
+   "lesson": "L04",
+   "verified": false
+  },
+  {
    "id": "p2c1",
    "grade": "P2",
    "subject": "chi",
