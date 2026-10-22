@@ -16,7 +16,7 @@ button:active{transform:translateY(2px)}.ghost{background:transparent;box-shadow
 /* 卡通角色波波＋動畫 */
 .mascot{width:72px;height:72px;float:left;margin:0 10px 4px 0}.fb{overflow:hidden}
 .card>.mascot-wrap,.card>.mascot{float:none;margin:0 auto 6px}.mascot-wrap{position:relative;width:120px;height:120px;margin:0 auto}.mascot-wrap .mascot{width:120px;height:120px;float:none;margin:0}
-.m-ok{animation:bb-bounce .6s ease}.m-wrong{animation:bb-shake .5s ease}.m-clear{animation:bb-jump 1s ease 3}.m-boss{animation:bb-jump .8s ease 3}
+
 .fb.no{animation:bb-shake .4s ease}.correct{animation:bb-pop .3s ease}
 .confetti{position:absolute;inset:-20px -60px auto;height:160px;pointer-events:none;overflow:visible}.confetti i{position:absolute;top:0;width:8px;height:12px;border-radius:2px;opacity:0;animation:bb-fall 1.6s ease-in 2 both}
 @keyframes bb-bounce{0%{transform:scale(.6)}60%{transform:scale(1.15)}100%{transform:scale(1)}}
@@ -26,3 +26,26 @@ button:active{transform:translateY(2px)}.ghost{background:transparent;box-shadow
 @keyframes bb-fall{0%{opacity:1;transform:translateY(0) rotate(0)}100%{opacity:0;transform:translateY(150px) rotate(360deg)}}
 @media (max-width:480px){.mascot{width:56px;height:56px}.q{font-size:1.2rem}button{padding:12px 14px}}
 @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}.confetti{display:none}}
+
+/* B3：科目 × 年級主題動畫（動作名由 game.js THEME 表決定；--amp 由年級決定；全部有限次數） */
+.gold{color:#f6c344;text-shadow:0 1px 0 #b7791f,0 0 6px #fde68a}.dim{color:#cbd5e0}
+@keyframes chi-ok{0%{transform:rotate(0)}30%{transform:rotate(calc(-12deg*var(--amp)))}70%{transform:rotate(calc(10deg*var(--amp)))}100%{transform:rotate(0)}}
+@keyframes chi-wrong{0%,100%{transform:translateY(0)}50%{transform:translateY(calc(6px*var(--amp))) scaleY(.92)}}
+@keyframes chi-clear{0%,100%{transform:translateY(0) rotate(0)}50%{transform:translateY(calc(-12px*var(--amp))) rotate(calc(8deg*var(--amp)))}}
+@keyframes chi-boss{0%{transform:scale(1)}40%{transform:scale(calc(1 + .18*var(--amp))) translateY(-8px)}60%{transform:scale(.95) translateY(4px)}100%{transform:scale(1)}}
+@keyframes eng-ok{0%{transform:scale(.7)}60%{transform:scale(calc(1 + .15*var(--amp)))}100%{transform:scale(1)}}
+@keyframes eng-wrong{0%,100%{transform:rotate(0)}25%{transform:rotate(calc(-8deg*var(--amp)))}75%{transform:rotate(calc(8deg*var(--amp)))}}
+@keyframes eng-clear{0%,100%{transform:translateX(0)}25%{transform:translateX(calc(-10px*var(--amp))) translateY(-8px)}75%{transform:translateX(calc(10px*var(--amp))) translateY(-8px)}}
+@keyframes eng-boss{0%,100%{transform:rotateY(0)}50%{transform:rotateY(180deg) translateY(calc(-10px*var(--amp)))}}
+@keyframes math-ok{0%{transform:rotate(0) scale(.8)}100%{transform:rotate(calc(360deg)) scale(1)}}
+@keyframes math-wrong{0%,100%{transform:translateX(0)}20%,60%{transform:translateX(calc(-6px*var(--amp)))}40%,80%{transform:translateX(calc(6px*var(--amp)))}}
+@keyframes math-clear{0%,100%{transform:translateY(0) scale(1)}30%{transform:translateY(calc(-16px*var(--amp))) scale(1.05,.95)}60%{transform:translateY(0) scale(.95,1.05)}}
+@keyframes math-boss{0%{transform:rotate(0)}50%{transform:rotate(calc(180deg)) scale(calc(1 + .15*var(--amp)))}100%{transform:rotate(360deg)}}
+@keyframes hum-ok{0%,100%{transform:translateX(0)}50%{transform:translateX(calc(8px*var(--amp))) rotate(5deg)}}
+@keyframes hum-wrong{0%,100%{transform:rotate(0)}50%{transform:rotate(calc(-6deg*var(--amp))) translateY(4px)}}
+@keyframes hum-clear{0%,100%{transform:translate(0,0)}25%{transform:translate(calc(12px*var(--amp)),-10px)}50%{transform:translate(0,-16px)}75%{transform:translate(calc(-12px*var(--amp)),-10px)}}
+@keyframes hum-boss{0%,100%{transform:scale(1) rotate(0)}50%{transform:scale(calc(1 + .2*var(--amp))) rotate(calc(-10deg*var(--amp)))}}
+@keyframes sci-ok{0%{transform:translateY(0)}50%{transform:translateY(calc(-10px*var(--amp))) scale(1.05)}100%{transform:translateY(0)}}
+@keyframes sci-wrong{0%,100%{transform:scale(1)}50%{transform:scale(calc(1 - .08*var(--amp)))}}
+@keyframes sci-clear{0%,100%{transform:translateY(0)}50%{transform:translateY(calc(-14px*var(--amp))) rotate(calc(-6deg*var(--amp)))}}
+@keyframes sci-boss{0%{transform:scale(1);filter:none}50%{transform:scale(calc(1 + .2*var(--amp)));filter:hue-rotate(90deg)}100%{transform:scale(1);filter:none}}

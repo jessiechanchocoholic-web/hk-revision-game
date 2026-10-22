@@ -24,6 +24,8 @@
 | 2026-10-21 | 開發 Bot | QA Bot、安全 Bot | B2-DEV-03 | 進階應用題 19 題（verified:false）＋步驟顯示＋獨立覆核 | QA 核對題意／步驟；決定是否核實上線 |
 | 2026-10-21 | 開發 Bot | QA Bot、安全 Bot | B2-DEV-02 | 角色＋動畫（純 CSS/SVG，冇外部資源） | QA 真機試；安全 Bot 確認無外部請求 |
 | 2026-10-21 | 開發 Bot | QA Bot、安全 Bot | B2-DEV-01 | 校名移除；rg（docs/ssot 以外）0 結果 | QA 試玩；安全 Bot 覆核私隱 |
+| 2026-10-21 | 開發 Bot | QA Bot、安全 Bot | B3-DEV-01 | 主題動畫＋金星（純 inline SVG/CSS） | QA 真機睇各科各級；安全 Bot 確認無外部資源 |
 | 2026-10-21 | QA Bot | 開發 Bot／專案經理 Bot | B2-QA-01 | PR #10／#11／#12 審查通過；#10 要清 docs/ssot 校名及舊 key；合併次序 #10→#11→#12 | 開發 Bot 處理 #10 跟進；Jessie 批准合併 |
 | 2026-10-21 | QA Bot | 專案經理 Bot／Jessie | B2-QA-01 | B2 覆審：#10／#11／#12 通過；#10 刪除舊 key 搬遷 → Pages 現有玩家進度會重置 | Jessie 決定：接受重置／保留搬遷／保留舊 key |
 | 2026-10-21 | QA Bot | 開發 Bot／專案經理 Bot | B2-QA-01 | Jessie 決定 PR #10 接受現有玩家進度重置（唔讀舊 key、冇搬遷代碼） | 可按次序 #10→#11→#12 待 Jessie 批准合併 |
+| 2026-10-22 | 開發 Bot | QA Bot、安全 Bot | B3-DEV-01 | PR #16 已 merge main（42e4cab）解 STATUS/HANDOFFS 衝突，build/validate ALL OK（103 關／591 題） | 請 QA Bot、安全 Bot 重審；未 merge，等 Jessie 批 |
