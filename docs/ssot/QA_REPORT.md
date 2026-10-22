@@ -1,7 +1,7 @@
 # QA 報告（B1-QA-01 / B1-QA-02）
 
 - 日期：2026-10-21｜審查者：QA Bot
-- 範圍（審查次序）：PR #2 `feat/question-bank`（head e37e647）→ PR #1 安全報告 → PR #4 文件 → PR #3 發佈準備
+- 範圍（審查次序）：PR #2 `feat/question-bank`（head c724470）→ PR #1 安全報告 → PR #4 文件 → PR #3 發佈準備
 - 結論：四個 PR 全部 **需要修改**（遊戲本身可玩、0 console 錯誤；問題集中喺題目內容標記及文件同步）
 
 ## PR #2 題庫
@@ -39,10 +39,10 @@
 
 ## PR #1 安全報告
 - `docs/ssot/STATUS.md:22` 出現亂碼「完��樣本」（UTF-8 字元損壞，原為「完整樣本」）→ 必須修正。
-- 審核範圍只係 main `161bd51`，未覆蓋 PR #2 新增 548 題、questions/*.json、game.js 改動 → 建議 PR #2 合併後補審。
+- 審核範圍只係 main `7c2c466`，未覆蓋 PR #2 新增 548 題、questions/*.json、game.js 改動 → 建議 PR #2 合併後補審。
 - 報告內容本身合理；`game.zip` 已由 PR #2 移除。
 
-## PR #2 `?verifiedOnly=1` 開關（e37e647）
+## PR #2 `?verifiedOnly=1` 開關（c724470）
 | 測試 | 結果 |
 |---|---|
 | 預設（`VERIFIED_ONLY_DEFAULT=false`，game.js:5） | 顯示全部：P2 中/英/數14關/科；P5 中/英/數12關/科 |
@@ -65,12 +65,12 @@
 - 發佈前技術檢查「verified:false 已隱藏」→ 建議寫明具體做法：`VERIFIED_ONLY_DEFAULT=true`（game.js:5）。
 - 閘門清單合理；方案 A／B 分析合理，部署仍須 Jessie 批准。
 
-## 覆審 PR #2 eff9ac4（2026-10-21，已核實模式為試玩重點）
+## 覆審 PR #2 982d619（2026-10-21，已核實模式為試玩重點）
 - validate.js：ALL OK 97 levels 548 questions；`VERIFIED_ONLY_DEFAULT=true`（game.js:5）。
 - 預設／`?verifiedOnly=1`：28 關／167 題（全部題目 verified:true）；`=0`：97 關 ✅。
 - 375×667、768×1024 兩種模式：無橫向溢出、0 console 錯誤 ✅（截圖 `/workspace/qa-shots/r2-*.png`）。
 - 讀題：mock speechSynthesis 確認中文／數學用 `zh-HK`、英文用 `en-GB`；無語音時顯示「請老師讀題」。headless 無法驗證真實粵語發音 → 需真機測試。
-- 167 題內容與 693e424 相同，已逐題覆核。
+- 167 題內容與 a195a07 相同，已逐題覆核。
 
 | 項目 | 狀態 |
 |---|---|
@@ -83,7 +83,7 @@
 | 預設只顯示已核實 | ✅ 已改 |
 結論：**需要修改**；修正第1–3項後可用於 Jessie 試玩。
 
-## 第三次覆審 PR #2 f010cdb（2026-10-21）
+## 第三次覆審 PR #2 7f214e4（2026-10-21）
 - validate.js：ALL OK 97 levels 548 questions。
 - 預設／`?verifiedOnly=1`：26 關／154 題；`=0`：97 關 ✅。
 - 7 項修正全部驗證通過：讀題掣單一、排序題讀題唔洩露答案、P2 math L02 及 eng/P5/L02 改 false、level 重新對應（應用 119／理解 20／記憶 15）、p4m18 改為對角線分割得兩個三角形（正確）、p5c2 改近義詞（協作）。
@@ -93,41 +93,60 @@
 - 截圖：`/workspace/qa-shots/r3-*.png`
 **結論：已核實模式可供 Jessie 今晚試玩。**
 
-## 最終覆審 PR #2 2bcc01b（2026-10-21）
-- 對比 f010cdb：只改 7 題英文（P1 L00/L01/L03、P2 L03）為 verified:false，game.js 不變。
+## 最終覆審 PR #2 5b45ecb（2026-10-21）
+- 對比 7f214e4：只改 7 題英文（P1 L00/L01/L03、P2 L03）為 verified:false，game.js 不變。
 - validate.js：ALL OK；預設／`=1`：26 關／147 題；`=0`：97 關；冇空關卡。
 - P1 English 5 關（4／3／5／2／5 題）逐關玩通，解鎖及 Boss（10 題）正常，冇出現未核實題目；手機／平板 0 console 錯誤、無溢出。
 - 非阻擋：p1e3 只得 2 題、p1e1 3 題；P1 練習世界仍有 Boss（與 B1-DEV-07 不符）。截圖：`/workspace/qa-shots/r4-*.png`
 **結論：已核實模式可供 Jessie 今晚試玩。**
-- 題數核對（2bcc01b）：548＝true 147＋false 401。PR 寫 394 只計 71 個 false 關卡，漏 7 題逐題覆寫；文件 Bot 365 再少 29（p2m2 6、p5e2 7、實用文 99 關 16）。正確：**401**。Boss／錯題簿屬執行時生成，冇重複計。
+- 題數核對（5b45ecb）：548＝true 147＋false 401。PR 寫 394 只計 71 個 false 關卡，漏 7 題逐題覆寫；文件 Bot 365 再少 29（p2m2 6、p5e2 7、實用文 99 關 16）。正確：**401**。Boss／錯題簿屬執行時生成，冇重複計。
 - P1/P2 英文剩餘 37 題 verified:true：全部有 research.md 直接出處；邊緣：ENG-P1-L00-004、ENG-P2-L02-004、ENG-P2-L02-006（可保留）。
 
-## 覆審 PR #2 b8e7e98（2026-10-21）
+## 覆審 PR #2 3c8146a（2026-10-21）
 - 只改：7 題 P1/P2 英文改返 verified:true（D-記錄喺 DECISIONS.md），game.js 不變。
 - validate.js ALL OK；預設／`=1`：26 關／154 題；`=0`：97 關。7 題答案正確。
 - P1 English 5 關各 5 題玩通，解鎖、Boss 正常；375×667／768×1024 無溢出、0 console 錯誤。截圖 `/workspace/qa-shots/r5-*.png`
 **結論：已核實模式可供 Jessie 今晚試玩。**
 
-## 覆審 PR #4（c093964）、#3（a2dfd0d）、#1（8c2429e）（2026-10-21，對照 PR #2 b8e7e98：26 關／154 題 true、394 false、548 總）
+## 覆審 PR #4（c5a808a）、#3（44389a1）、#1（71b3d6a）（2026-10-21，對照 PR #2 3c8146a：26 關／154 題 true、394 false、548 總）
 | PR | 結論 | 已修正 | 仍要改 |
 |---|---|---|---|
 | #4 文件 | 需要修改（小） | 對齊 PR #2 欄位／JSON／?verifiedOnly；CONVENTIONS 改動記入 D-018～D-022；待核實 154/394 正確 | README.md:29 仍 28/167；STATUS.md:35 B1-QA-02 待辦；第11點 user.name 無決定編號；D-019～D-022 均屬轉達，建議 Jessie 親自確認 |
 | #3 發佈準備 | 需要修改（小） | CHANGELOG 已補 Boss、錯題簿、?verifiedOnly、讀題、game.zip | RELEASE.md:25/63 仍 28/167；:33–34 已知問題（讀題掣重複、洩露排序答案）已修正要刪 |
-| #1 安全 | 需要修改（小） | STATUS.md:22 亂碼已修 | 範圍只審 161bd51，未覆蓋 PR #2；game.zip 建議已完成 |
+| #1 安全 | 需要修改（小） | STATUS.md:22 亂碼已修 | 範圍只審 7c2c466，未覆蓋 PR #2；game.zip 建議已完成 |
 - 合併衝突：#1～#5 任何兩個都喺 HANDOFFS.md（多數仲有 STATUS.md）衝突 → 建議次序 #2 → #1 → #4 → #3 → #5，每合併一個其餘 rebase。
 
 ## 覆審全部最新 head（2026-10-21）
 | PR | head | 結論 | 重點 |
 |---|---|---|---|
-| #2 | 88bf137 | 通過（可試玩） | 提示唔再洩露答案；讀題掣按語音顯示／隱藏（mock：有語音、冇語音、只有 zh-CN、voiceschanged 延遲均正確）；P1 冇 Boss、P2/P4/P5 有；26/154；無溢出、0 錯誤。建議冇語音時顯示「請老師讀題」 |
-| #4 | bb86ceb | 需要修改（小） | README:29、D-023 已修；STATUS:35 B1-QA-02 仍待辦；README:145 提示描述過時；未提 P1 無 Boss／讀題隱藏；D-022 建議 Jessie 親自確認 |
-| #3 | a81bf61 | 需要修改（小） | 26/154 已修；已知問題（提示、讀題掣、P1 Boss）已被 88bf137 修正，要更新 |
-| #1 | 3d02bb0 | 通過 | 亂碼已修、補審 b8e7e98；建議範圍註明至 88bf137 |
+| #2 | 57f900a | 通過（可試玩） | 提示唔再洩露答案；讀題掣按語音顯示／隱藏（mock：有語音、冇語音、只有 zh-CN、voiceschanged 延遲均正確）；P1 冇 Boss、P2/P4/P5 有；26/154；無溢出、0 錯誤。建議冇語音時顯示「請老師讀題」 |
+| #4 | 851dea4 | 需要修改（小） | README:29、D-023 已修；STATUS:35 B1-QA-02 仍待辦；README:145 提示描述過時；未提 P1 無 Boss／讀題隱藏；D-022 建議 Jessie 親自確認 |
+| #3 | 7a92a13 | 需要修改（小） | 26/154 已修；已知問題（提示、讀題掣、P1 Boss）已被 57f900a 修正，要更新 |
+| #1 | cd5a5c8 | 通過 | 亂碼已修、補審 3c8146a；建議範圍註明至 57f900a |
 截圖：`/workspace/qa-shots/r6-*.png`
 
-## 最終覆審 PR #4（77f9811）、#3（2dab421）（2026-10-21）
-- #4：通過。STATUS:35、README:145／35／37、D-022 待確認全部已改，與 88bf137 一致。
+## 最終覆審 PR #4（da47e4a）、#3（26778b8）（2026-10-21）
+- #4：通過。STATUS:35、README:145／35／37、D-022 待確認全部已改，與 57f900a 一致。
 - #3：通過；建議已知問題第 2 點寫明「冇語音時唔會顯示『請老師讀題』提示」。
 - 衝突：#1～#5 各自對 main 無衝突；兩兩之間都喺 HANDOFFS.md 衝突（#3×#4 另有 DECISIONS／OPEN-QUESTIONS／STATUS）。
 - 建議合併次序：#2（題庫＋遊戲）→ #1（安全）→ #4（文件）→ #3（發佈準備）→ #5（QA 結果），每合併一個其餘 rebase；合併須 Jessie 批准。
-- 注意：PR #5 遠端仍係 6ebf521，本機 qa/B1-QA-01-results 有之後嘅覆審 commit 未 push。
+- 注意：PR #5 遠端仍係 3bda4f8，本機 qa/B1-QA-01-results 有之後嘅覆審 commit 未 push。
+
+## B2 審查（2026-10-21，基於 main a1c572c）
+| PR | head | 結論 | 重點 |
+|---|---|---|---|
+| #10 移除校名 | ad9daec | 通過，有跟進 | game／questions／README 0 命中、截圖已改；docs/ssot（STATUS:1、RELEASE:26、SECURITY_REVIEW:17,53）仍有校名／舊 key；git 歷史仍有校名（改寫歷史要 Jessie 決定） |
+| #11 卡通動畫 | 09ade3b | 通過 | 離線 0 外部請求、0 錯誤；reduced-motion 停晒動畫；375／768 無溢出；效能正常 |
+| #12 進階數學 | 1054561 | 通過 | 19 題答案及步驟 QA 獨立重算全部正確；verified 全 false 合理；validate ALL OK 103／591 |
+- 衝突：三個 PR 各自對 main 無衝突；兩兩喺 STATUS.md／HANDOFFS.md 衝突，#11×#12 另有 game.js／style.css。
+- 建議合併次序：#10 → #11 → #12（#12 rebase 後重跑 build.js＋validate.js）。合併須 Jessie 批准。
+- 截圖：`/workspace/qa-shots/b11-*.png`、`b12-*.png`
+
+## B2 覆審（2026-10-21）
+| PR | head | 結論 | 重點 |
+|---|---|---|---|
+| #10 | 7ab4c28 | 通過（Jessie 已決定） | 追蹤檔 0 命中；舊版進度 key（含校名縮寫，已移除）唔再讀取、冇搬遷代碼 → 舊版已玩過嘅玩家進度會重置 → **Jessie 決定接受重置**。註：歷史改寫後 main（a1c572c 起）已用 `hk-revision-quest-v1`，Pages 15:33 UTC 重新部署後重置已實際生效 |
+| #11 | 54003d1 | 通過 | 跳動 3 次、彩紙 2 次後停；reduced-motion、離線、375／768、0 錯誤 |
+| #12 | 2093f73 | 通過 | 零部分積已刪；p4m98→p4m96 無撞號、無殘留引用；validate 103／591；19 題再核正確 |
+- 衝突不變：兩兩喺 STATUS／HANDOFFS 衝突，#11×#12 另有 game.js／style.css；建議次序 #10 → #11 → #12。截圖：`/workspace/qa-shots/b11r2-*.png`、`b12r2-*.png`
+- 註（2026-10-21）：歷史改寫後，本報告 commit 編號已按 commit 訊息＋日期換成新歷史編號（24 個，全部對到）。
