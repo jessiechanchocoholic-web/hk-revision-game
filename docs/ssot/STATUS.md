@@ -79,3 +79,4 @@ P1 中文一上單元一二、英文 1A Ch1–4、科學一上。
 - 2026-10-21 B2-QA-01 審查中：QA Bot 審查 PR #10／#11／#12 覆審全部通過（#10 7ab4c28：Jessie 決定接受進度重置），見 QA_REPORT.md「B2 審查」。
 - 2026-10-21 開發 Bot：歷史改寫令 QA_REPORT #10 一行變成「舊 key＝新 key」，已改為中性字眼「舊進度 key」。
 - 2026-10-22 B3-DEV-01（PR #16）：已 merge main 解衝突，交返 QA Bot、安全 Bot 重審；未 merge。
+- 2026-10-22 B3-DEV-02 審查中：加 favicon（自家 SVG 笑臉金星）；repo 根目錄及 game/ 有 favicon.svg／favicon.ico，HTML 加 `<link rel="icon">`；單一離線 HTML 內嵌 data URI（bundle.js）；validate ALL OK 103 關／591 題。
