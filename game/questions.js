@@ -828,7 +828,7 @@ window.QUESTION_BANK = {
     },
     {
      "type": "mc",
-     "q": "選詞完句：陳老師（ ）我的班主任。",
+     "q": "選詞完句：我的老師（ ）我的班主任。",
      "answer": "是",
      "options": [
       "了",
@@ -836,13 +836,13 @@ window.QUESTION_BANK = {
       "是",
       "自己"
      ],
-     "explain": "陳老師是我的班主任。",
+     "explain": "我的老師是我的班主任。",
      "id": "CHI-P1-L04-016",
      "grade": "P1",
      "subject": "chi",
      "lesson": "L04",
      "level": "記憶",
-     "question": "選詞完句：陳老師（ ）我的班主任。",
+     "question": "選詞完句：我的老師（ ）我的班主任。",
      "source": "老師工作紙｜工作紙：句子練習",
      "verified": false
     },
