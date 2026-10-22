@@ -5,12 +5,16 @@ const ri=(a,b)=>a+Math.floor(rnd()*(b-a+1));
 const shuffle=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=ri(0,i);[a[i],a[j]]=[a[j],a[i]]}return a};
 const gcd=(a,b)=>b?gcd(b,a%b):a;
 const frac=(n,d)=>{const g=gcd(Math.abs(n),d);n/=g;d/=g;return d===1?String(n):n+'/'+d};
+// 關卡級來源覆寫：老師工作紙改寫題（B4-DEV-01），一律 verified:false（唔加入 VERIFIED）
+const SRC_LEVEL={p1c3:'老師工作紙',p1c4:'老師工作紙'};
+// 新關卡用獨立 seed 洗牌，避免改動其他關卡選項次序
+let seed2=20261022;const shuffle2=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){seed2=(seed2*1103515245+12345)%2147483648;const j=Math.floor(seed2/2147483648*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
 const levels=[];let cur;
 for(const line of fs.readFileSync(path.join(__dirname,'content.txt'),'utf8').split('\n')){
   if(!line.trim()||line.startsWith('# '))continue;
   if(line.startsWith('## ')){const [g,s,id,t]=line.slice(3).split('|');cur={id,grade:g,subject:s,title:t,questions:[]};levels.push(cur);continue}
   const k=line[0],b=line.slice(2).split('|');
-  if(k==='M')cur.questions.push({type:'mc',q:b[0],answer:b[1],options:shuffle(b.slice(1,5)),explain:b[5]});
+  if(k==='M')cur.questions.push({type:'mc',q:b[0],answer:b[1],options:(SRC_LEVEL[cur.id]?shuffle2:shuffle)(b.slice(1,5)),explain:b[5]});
   else if(k==='T'||k==='F')cur.questions.push({type:'tf',q:b[0],answer:k==='T',explain:b[1]});
   else if(k==='S')cur.questions.push({type:'fill',q:b[0],answer:b[1].split('/'),explain:b[2]});
   else if(k==='O')cur.questions.push({type:'order',q:b[1],items:b[0].split('>'),explain:b[2]});
@@ -222,7 +226,7 @@ const levelOf=(l,q)=>{if(q.level)return q.level;const t=q.q||'';
  if(q.type==='order')return '理解';
  return q.type==='fill'?'理解':'記憶'};
 for(const l of levels){l.lesson=lessonNo(l);l.verified=VERIFIED.has(l.id);
- l.questions.forEach((q,i)=>{if(q.type==='order'&&q.answer===undefined)q.answer=q.items.slice();Object.assign(q,{id:`${SUBJ_CODE[l.subject]}-${l.grade}-${l.lesson}-${String(i+1).padStart(3,'0')}`,grade:l.grade,subject:l.subject,lesson:l.lesson,level:levelOf(l,q),question:q.q,source:SRC[l.subject]+'｜'+l.title,verified:l.verified});if(UNVERIFIED_Q.has(q.id))q.verified=false;if(l.grade==='P2')q.readAloud=true;});
+ l.questions.forEach((q,i)=>{if(q.type==='order'&&q.answer===undefined)q.answer=q.items.slice();Object.assign(q,{id:`${SUBJ_CODE[l.subject]}-${l.grade}-${l.lesson}-${String(i+1).padStart(3,'0')}`,grade:l.grade,subject:l.subject,lesson:l.lesson,level:levelOf(l,q),question:q.q,source:(SRC_LEVEL[l.id]||SRC[l.subject])+'｜'+l.title,verified:l.verified});if(UNVERIFIED_Q.has(q.id))q.verified=false;if(l.grade==='P2')q.readAloud=true;});
  const dir=path.join(__dirname,'..','..','questions',l.subject,l.grade);fs.mkdirSync(dir,{recursive:true});
  fs.writeFileSync(path.join(dir,l.lesson+'.json'),JSON.stringify({levelId:l.id,grade:l.grade,subject:l.subject,lesson:l.lesson,title:l.title,verified:l.verified,questions:l.questions},null,1)+'\n');}
 // Boss: generated at runtime from world levels. Output

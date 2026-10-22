@@ -21,6 +21,7 @@
 | A5 | content.txt | p4s2–p4s5 | P4 科學 L2 轉動的地球、L3 天氣和氣候、L4 動植物與環境、L5 大自然的平衡 | 20 | 只有課名，內容推斷（只有 L1 有作業樣本） | 待核 |
 | A6 | content.txt | p2c1、p2c5、p2c8、p2c11、p4c1、p4c5、p4c8、p4c13、p5c1、p5c2、p5c4、p5c5、p5c8、p5c14、p5c15 | 中文 P2/P4/P5 各課 | 89 | research.md：無中文課本、無詞語表；課文內容、例句、詞語全屬推斷；v1.1 按作業重寫 p2c1（7 題）、p4c1（8 題）、p5c1（8 題），但作業未入 repo、仍 `verified:false`，文件 Bot 未能核對原文（題型亦標 ⚠️推斷） | 待核 |
 | A7 | content.txt | p1c1、p1c2 | P1 中文單元一、二 | 12 | 只有課題名，內容推斷；P1 只作練習 | 待核 |
+| A7b | content.txt | p1c3、p1c4 | P1 中文老師工作紙改寫（B4-DEV-01） | 36 | 來源老師工作紙（已批改），題目改寫；未經 research.md 核實 | 待核 |
 | A8 | content.txt | p1s1–p1s7、p2s2–p2s4、p5s1–p5s5 | P1／P2／P5 科學 | 81 | 只核實課名（P2 L1 有學習重點）；內容推斷 | 待核 |
 | A9 | content.txt | p4h1–p4h4 | P4 人文 L1–4 | 20 | 只核實課名 | 待核 |
 | A10 | build.js | p4m4–p4m19 | P4 數學（第二批） | 67 | 只核實課名；L1–3 另見 A12 | 待核 |

@@ -30,3 +30,6 @@
 | 2026-10-21 | QA Bot | 開發 Bot／專案經理 Bot | B2-QA-01 | Jessie 決定 PR #10 接受現有玩家進度重置（唔讀舊 key、冇搬遷代碼） | 可按次序 #10→#11→#12 待 Jessie 批准合併 |
 | 2026-10-22 | 開發 Bot | QA Bot、安全 Bot | B3-DEV-01 | PR #16 已 merge main（42e4cab）解 STATUS/HANDOFFS 衝突，build/validate ALL OK（103 關／591 題） | 請 QA Bot、安全 Bot 重審；未 merge，等 Jessie 批 |
 | 2026-10-22 | 開發 Bot | QA Bot | B3-DEV-02 | favicon：根目錄＋game/ 加 favicon.svg／.ico，index.html／開始遊戲.html 加 link；離線單檔內嵌 data URI；本地 server 4 個 favicon 路徑 200 | QA 喺 Pages 開 /game/ 同根目錄確認 favicon 冇 404；離線單檔分頁顯示星星 |
+| 2026-10-22 | 開發 Bot | QA Bot | B4-DEV-01 | 小一中文老師工作紙 p1c3／p1c4 共 36 題（verified:false，source 老師工作紙）；bundle 外部引用檢查收緊；build/validate（105 關／627 題 ALL OK）／bundle 通過；headless 開 #level=p1c3、p1c4 正常 | QA 核對答案同老師批改一致、干擾項唯一正確；試玩 P1 中文第3、4關 |
+| 2026-10-22 | 開發 Bot | QA Bot | B4-DEV-01 | 按 Jessie 決定，p1c4 選詞完句改用「我的老師（是）我的班主任」，答案仍為（是）；全分支已無該稱呼；build/validate/bundle 通過 | QA 覆核 p1c4 該題 |
+| 2026-10-22 | 開發 Bot | QA Bot | B4-DEV-01 | QA 修正：L03-009 干擾項「雞」→「狗」；L04-014 解釋「沒有記得」→「記不起」；L04-020/021 排序詞塊移除「。」，題目提示「句子尾要加句號「。」」，解釋顯示完整句子連句號；判分仍比對 items 次序；build/validate（ALL OK 105 關／627 題）／bundle 通過 | QA 覆核 L03-009、L04-014、L04-020/021 |
