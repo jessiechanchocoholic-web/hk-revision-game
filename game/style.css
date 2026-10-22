@@ -49,3 +49,12 @@ button:active{transform:translateY(2px)}.ghost{background:transparent;box-shadow
 @keyframes sci-wrong{0%,100%{transform:scale(1)}50%{transform:scale(calc(1 - .08*var(--amp)))}}
 @keyframes sci-clear{0%,100%{transform:translateY(0)}50%{transform:translateY(calc(-14px*var(--amp))) rotate(calc(-6deg*var(--amp)))}}
 @keyframes sci-boss{0%{transform:scale(1);filter:none}50%{transform:scale(calc(1 + .2*var(--amp)));filter:hue-rotate(90deg)}100%{transform:scale(1);filter:none}}
+/* 隨機抽關（B5-DEV-01） */
+.rand-card{text-align:center;margin-top:14px}.rand-btn{background:linear-gradient(90deg,#f56565,#ecc94b,#48bb78,#4299e1,#9f7aea);color:#fff;text-shadow:0 1px 2px #0006}
+.rand-panel{margin-top:10px}.rand-reel{margin:8px auto;max-width:360px;min-height:64px;display:flex;align-items:center;justify-content:center;border-radius:16px;background:#2b6cb0;color:#fff;font-size:1.3rem;font-weight:bold;padding:10px;border:4px dashed #fff;box-shadow:0 0 0 4px #ecc94b}
+.rand-reel.spin{animation:rand-wob .25s linear infinite}.rand-reel.done{animation:bb-pop .4s ease 2}
+@keyframes rand-wob{0%,100%{transform:rotate(-2deg)}50%{transform:rotate(2deg)}}
+.rand-modes{display:flex;flex-wrap:wrap;justify-content:center;align-items:center}.rand-fixed{display:inline-flex;flex-wrap:wrap;align-items:center;justify-content:center}
+.rand-panel select{font:inherit;font-size:1.1rem;padding:10px;border-radius:12px;border:2px solid #9ab;margin:6px}.rand-result{font-size:1.15rem;font-weight:bold;min-height:1.5em}
+button:disabled{opacity:.6;cursor:default}button:focus-visible,select:focus-visible{outline:3px solid #ecc94b;outline-offset:2px}
+@media (prefers-reduced-motion:reduce){.rand-reel.spin,.rand-reel.done{animation:none}}
