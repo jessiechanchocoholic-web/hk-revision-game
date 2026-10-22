@@ -388,7 +388,7 @@ window.QUESTION_BANK = {
      "answer": "鳥",
      "options": [
       "烏",
-      "雞",
+      "狗",
       "魚",
       "鳥"
      ],
@@ -796,7 +796,7 @@ window.QUESTION_BANK = {
       "在",
       "自己"
      ],
-     "explain": "「忘了」就是沒有記得。",
+     "explain": "「忘了」就是記不起。",
      "id": "CHI-P1-L04-014",
      "grade": "P1",
      "subject": "chi",
@@ -902,47 +902,47 @@ window.QUESTION_BANK = {
     },
     {
      "type": "order",
-     "q": "重組句子：把詞語排成正確的句子",
+     "q": "重組句子：把詞語排成正確的句子（句子尾要加句號「。」）",
      "items": [
       "媽媽",
       "在洗手間",
-      "洗衣服。"
+      "洗衣服"
      ],
      "explain": "媽媽在洗手間洗衣服。",
      "answer": [
       "媽媽",
       "在洗手間",
-      "洗衣服。"
+      "洗衣服"
      ],
      "id": "CHI-P1-L04-020",
      "grade": "P1",
      "subject": "chi",
      "lesson": "L04",
      "level": "理解",
-     "question": "重組句子：把詞語排成正確的句子",
+     "question": "重組句子：把詞語排成正確的句子（句子尾要加句號「。」）",
      "source": "老師工作紙｜工作紙：句子練習",
      "verified": false
     },
     {
      "type": "order",
-     "q": "重組句子：把詞語排成正確的句子",
+     "q": "重組句子：把詞語排成正確的句子（句子尾要加句號「。」）",
      "items": [
       "樹上",
       "有很多",
-      "鳥兒。"
+      "鳥兒"
      ],
      "explain": "樹上有很多鳥兒。",
      "answer": [
       "樹上",
       "有很多",
-      "鳥兒。"
+      "鳥兒"
      ],
      "id": "CHI-P1-L04-021",
      "grade": "P1",
      "subject": "chi",
      "lesson": "L04",
      "level": "理解",
-     "question": "重組句子：把詞語排成正確的句子",
+     "question": "重組句子：把詞語排成正確的句子（句子尾要加句號「。」）",
      "source": "老師工作紙｜工作紙：句子練習",
      "verified": false
     }
