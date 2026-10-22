@@ -30,9 +30,32 @@ function voiceFor(lang){var L=function(x){return (x.lang||'').toLowerCase().repl
 function speak(text,lang){try{speechSynthesis.cancel();var u=new SpeechSynthesisUtterance(text);u.lang=lang;var v=voiceFor(lang);if(v)u.voice=v;u.rate=.9;speechSynthesis.speak(u)}catch(e){}}
 function canSpeak(lang){return ('speechSynthesis' in window)&&!!voiceFor(lang)}
 
-function home(){upd();app.innerHTML='';document.getElementById('title').textContent='溫習闖關大冒險';
+// 隨機抽關（B5-DEV-01）：先喺「有關卡」嘅（年級,科目）組合入面平均抽一個，再喺嗰個組合嘅普通關卡（唔包 Boss）平均抽一關。已套用 verifiedOnly 過濾。唔寫入進度。
+function randCombos(gid){var c=[];GRADES.forEach(function(G){if(gid&&G.id!==gid)return;Object.keys(SUBJ).forEach(function(s){if(levelsOf(G.id,s).length)c.push({g:G.id,s:s})})});return c}
+function comboLabel(c){var G=GRADES.filter(function(x){return x.id===c.g})[0];return G.name+' · '+SUBJ[c.s].icon+' '+SUBJ[c.s].name}
+function reducedMotion(){try{return window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches}catch(e){return false}}
+var randTimer=null;
+function randomPick(gid){var combos=randCombos(gid);var box=document.getElementById('randBox'),out=document.getElementById('randResult'),reel=document.getElementById('randReel');
+ if(!combos.length){out.textContent='呢個年級暫時冇關卡';return}
+ var pick=combos[Math.floor(Math.random()*combos.length)];var ls=levelsOf(pick.g,pick.s);var L=ls[Math.floor(Math.random()*ls.length)];
+ Array.prototype.forEach.call(box.querySelectorAll('button,select'),function(b){b.disabled=true});
+ var go=function(){reel.className='rand-reel done';reel.style.background=(THEME[pick.s]||THEME.math).body;reel.textContent=comboLabel(pick);
+  out.textContent='🎉 抽中：'+comboLabel(pick)+'：'+L.title+'，準備開始！';
+  randTimer=setTimeout(function(){randTimer=null;play(L.questions,{id:L.id,title:L.title,grade:pick.g,subject:pick.s})},reducedMotion()?900:1600)};
+ if(reducedMotion()){go();return}
+ out.textContent='轉緊…';var n=0,total=18+Math.floor(Math.random()*6),delay=60;reel.className='rand-reel spin';
+ (function step(){if(n>=total){go();return}var c=combos[n%combos.length===0?Math.floor(Math.random()*combos.length):(n*7)%combos.length];reel.style.background=(THEME[c.s]||THEME.math).body;reel.textContent=comboLabel(c);n++;delay*=1.08;randTimer=setTimeout(step,delay)})()}
+function randomCard(){var sel=h('select',{id:'randGrade','aria-label':'固定年級'});GRADES.forEach(function(G){sel.appendChild(h('option',{value:G.id},[G.name]))});
+ var panel=h('div',{id:'randBox',class:'rand-panel',hidden:'hidden'},[
+  h('div',{id:'randReel',class:'rand-reel','aria-hidden':'true'},['🎲 ？？？']),
+  h('div',{class:'rand-modes'},[h('button',{class:'primary',onclick:function(){randomPick(null)}},['🎲 全部隨機']),
+   h('span',{class:'rand-fixed'},[sel,h('button',{class:'primary',onclick:function(){randomPick(sel.value)}},['🎯 固定年級、隨機科目'])])]),
+  h('p',{id:'randResult',class:'rand-result',role:'status','aria-live':'polite'},[''])]);
+ var btn=h('button',{class:'big rand-btn','aria-expanded':'false','aria-controls':'randBox',onclick:function(){var open=panel.hasAttribute('hidden');if(open)panel.removeAttribute('hidden');else panel.setAttribute('hidden','hidden');btn.setAttribute('aria-expanded',String(open))}},['🎲 隨機']);
+ return h('div',{class:'card rand-card'},[btn,h('span',{class:'note'},[' 唔知揀邊科？等波波幫你抽！']),panel])}
+function home(){if(randTimer){clearTimeout(randTimer);randTimer=null}upd();app.innerHTML='';document.getElementById('title').textContent='溫習闖關大冒險';
  app.appendChild(h('div',{class:'card'},[h('div',{class:'big'},['揀你嘅年級 👇']),h('p',{class:'note'},['小學上學期第一次考試範圍溫習'])]));
- var g=h('div',{class:'grid'});GRADES.forEach(function(G){g.appendChild(h('button',{class:'big',onclick:function(){grade(G.id)}},[G.name+(G.note?' ('+G.note+')':'')]))});app.appendChild(g)}
+ var g=h('div',{class:'grid'});GRADES.forEach(function(G){g.appendChild(h('button',{class:'big',onclick:function(){grade(G.id)}},[G.name+(G.note?' ('+G.note+')':'')]))});app.appendChild(g);app.appendChild(randomCard())}
 function grade(gid){upd();app.innerHTML='';var G=GRADES.filter(function(x){return x.id===gid})[0];document.getElementById('title').textContent=G.name+(G.note?' · '+G.note:'');
  app.appendChild(h('div',{class:'card'},[h('div',{class:'big'},['揀科目世界']),h('button',{onclick:home},['⬅ 返回'])]));
  var g=h('div',{class:'grid'});Object.keys(SUBJ).forEach(function(s){var ls=levelsOf(gid,s);if(!ls.length)return;var got=ls.reduce(function(a,l){return a+(st.stars[l.id]||0)},0);
@@ -114,5 +137,5 @@ function play(qs,meta){var s=meta.subject;var list=meta.review||meta.boss?qs:shu
    h('p',{},[T(s,'第一次就答對：','First-try correct: ')+score+' / '+list.length]),meta.boss&&stars>=2?h('p',{},['🏅 '+T(s,'獲得 Boss 徽章！','Boss badge earned!')]):h('span'),
    h('button',{onclick:function(){play(qs,meta)}},['🔁 '+T(s,'再玩','Play again')]),h('button',{class:'primary',onclick:function(){world(meta.grade,s)}},[T(s,'返回地圖','Back to map')])]);app.appendChild(c)}
  show()}
-document.getElementById('homeBtn').onclick=home;window.__mascot=mascot;window.__game={home:home,grade:grade,world:world,play:play};var wm=location.hash.match(/^#world=(P\d)-(\w+)$/);if(wm){world(wm[1],wm[2]);return}var m=location.hash.match(/^#level=(.+)$/);var L=m&&BANK.levels.filter(function(l){return l.id===m[1]})[0];if(L)play(L.questions,{id:L.id,title:L.title,grade:L.grade,subject:L.subject});else home();
+document.getElementById('homeBtn').onclick=home;window.__mascot=mascot;window.__game={randomPick:randomPick,randCombos:randCombos,home:home,grade:grade,world:world,play:play};var wm=location.hash.match(/^#world=(P\d)-(\w+)$/);if(wm){world(wm[1],wm[2]);return}var m=location.hash.match(/^#level=(.+)$/);var L=m&&BANK.levels.filter(function(l){return l.id===m[1]})[0];if(L)play(L.questions,{id:L.id,title:L.title,grade:L.grade,subject:L.subject});else home();
 })();

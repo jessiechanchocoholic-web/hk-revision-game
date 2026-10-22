@@ -33,3 +33,4 @@
 | 2026-10-22 | 開發 Bot | QA Bot | B4-DEV-01 | 小一中文老師工作紙 p1c3／p1c4 共 36 題（verified:false，source 老師工作紙）；bundle 外部引用檢查收緊；build/validate（105 關／627 題 ALL OK）／bundle 通過；headless 開 #level=p1c3、p1c4 正常 | QA 核對答案同老師批改一致、干擾項唯一正確；試玩 P1 中文第3、4關 |
 | 2026-10-22 | 開發 Bot | QA Bot | B4-DEV-01 | 按 Jessie 決定，p1c4 選詞完句改用「我的老師（是）我的班主任」，答案仍為（是）；全分支已無該稱呼；build/validate/bundle 通過 | QA 覆核 p1c4 該題 |
 | 2026-10-22 | 開發 Bot | QA Bot | B4-DEV-01 | QA 修正：L03-009 干擾項「雞」→「狗」；L04-014 解釋「沒有記得」→「記不起」；L04-020/021 排序詞塊移除「。」，題目提示「句子尾要加句號「。」」，解釋顯示完整句子連句號；判分仍比對 items 次序；build/validate（ALL OK 105 關／627 題）／bundle 通過 | QA 覆核 L03-009、L04-014、L04-020/021 |
+| 2026-10-22 | 開發 Bot | QA Bot | B5-DEV-01 | 主頁「隨機」抽關：全部隨機／固定年級隨機科目；只抽有關卡嘅組合（跟 verifiedOnly），組合平均→關卡平均（唔含 Boss）；reduced-motion 即時顯示；唔改進度 schema；build/validate（ALL OK 105 關／627 題）／bundle 通過；headless：兩模式、reduced-motion＋鍵盤、375／768px、?verifiedOnly=1，冇 console error | QA 喺手機及離線單檔試兩模式、鍵盤操作、reduced-motion；確認舊關卡同進度冇受影響 |
