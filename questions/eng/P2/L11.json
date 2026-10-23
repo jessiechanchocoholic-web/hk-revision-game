@@ -1,0 +1,177 @@
+{
+ "levelId": "p2e11",
+ "grade": "P2",
+ "subject": "eng",
+ "lesson": "L11",
+ "title": "Grammar 2B Ch 5–6: Festivals, Seasons, Gerunds & Question Words",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "People watch fireworks and get red packets ___ Chinese New Year.",
+   "answer": "at",
+   "options": [
+    "in",
+    "at",
+    "on",
+    "by"
+   ],
+   "explain": "節日名稱（at Chinese New Year / at Christmas / at Easter / at Mid-Autumn Festival）前面用介詞 at。",
+   "id": "ENG-P2-L11-001",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L11",
+   "level": "應用",
+   "question": "People watch fireworks and get red packets ___ Chinese New Year.",
+   "source": "英文補充教材｜Grammar 2B Ch 5–6: Festivals, Seasons, Gerunds & Question Words",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "___ the second day of Chinese New Year, people watch fireworks.",
+   "answer": "On",
+   "options": [
+    "On",
+    "In",
+    "By",
+    "At"
+   ],
+   "explain": "具體某一天（含 day 的日子，如 On the second day / On New Year's Day）前面用介詞 On。",
+   "id": "ENG-P2-L11-002",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L11",
+   "level": "應用",
+   "question": "___ the second day of Chinese New Year, people watch fireworks.",
+   "source": "英文補充教材｜Grammar 2B Ch 5–6: Festivals, Seasons, Gerunds & Question Words",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "My brother Keith doesn't like swimming. He likes ___ his bicycle at weekends.",
+   "answer": "riding",
+   "options": [
+    "to riding",
+    "rides",
+    "riding",
+    "ride"
+   ],
+   "explain": "like 後面可接動名詞（gerund，即動詞 + -ing），ride 去 e 加 ing 變成 riding。",
+   "id": "ENG-P2-L11-003",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L11",
+   "level": "應用",
+   "question": "My brother Keith doesn't like swimming. He likes ___ his bicycle at weekends.",
+   "source": "英文補充教材｜Grammar 2B Ch 5–6: Festivals, Seasons, Gerunds & Question Words",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "___ do you like Mid-Autumn Festival? Because I like playing with lanterns.",
+   "answer": "Why",
+   "options": [
+    "What",
+    "Which",
+    "Why",
+    "Where"
+   ],
+   "explain": "回答以 because 解釋原因，問句要用疑問詞 Why（為甚麼）。",
+   "id": "ENG-P2-L11-004",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L11",
+   "level": "應用",
+   "question": "___ do you like Mid-Autumn Festival? Because I like playing with lanterns.",
+   "source": "英文補充教材｜Grammar 2B Ch 5–6: Festivals, Seasons, Gerunds & Question Words",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "We usually eat hotpot in the evening ___ winter.",
+   "answer": "in",
+   "options": [
+    "in",
+    "at",
+    "on",
+    "of"
+   ],
+   "explain": "季節（in spring / summer / autumn / winter）前面用介詞 in。",
+   "id": "ENG-P2-L11-005",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L11",
+   "level": "應用",
+   "question": "We usually eat hotpot in the evening ___ winter.",
+   "source": "英文補充教材｜Grammar 2B Ch 5–6: Festivals, Seasons, Gerunds & Question Words",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "A: ___ teddy bear do you like best, the brown one or the grey one? B: I like the grey teddy bear best.",
+   "answer": "Which",
+   "options": [
+    "Why",
+    "Who",
+    "Which",
+    "What"
+   ],
+   "explain": "在有限的特定選項中作選擇時，用疑問詞 Which（哪一個）。",
+   "id": "ENG-P2-L11-006",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L11",
+   "level": "應用",
+   "question": "A: ___ teddy bear do you like best, the brown one or the grey one? B: I like the grey teddy bear best.",
+   "source": "英文補充教材｜Grammar 2B Ch 5–6: Festivals, Seasons, Gerunds & Question Words",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "Fill in the correct form: Tina likes ___ (swim) in the sea in summer.",
+   "answer": [
+    "swimming"
+   ],
+   "explain": "like + 動名詞（gerund），swim 是短元音加單輔音，雙寫 m 加 ing：swimming。",
+   "id": "ENG-P2-L11-007",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L11",
+   "level": "應用",
+   "question": "Fill in the correct form: Tina likes ___ (swim) in the sea in summer.",
+   "source": "英文補充教材｜Grammar 2B Ch 5–6: Festivals, Seasons, Gerunds & Question Words",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "order",
+   "q": "Rearrange the words to form a question.",
+   "items": [
+    "Which",
+    "season",
+    "do you like best"
+   ],
+   "explain": "詢問最喜歡哪個季節：Which season do you like best?",
+   "answer": [
+    "Which",
+    "season",
+    "do you like best"
+   ],
+   "id": "ENG-P2-L11-008",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L11",
+   "level": "應用",
+   "question": "Rearrange the words to form a question.",
+   "source": "英文補充教材｜Grammar 2B Ch 5–6: Festivals, Seasons, Gerunds & Question Words",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}

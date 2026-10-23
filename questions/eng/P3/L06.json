@@ -1,0 +1,140 @@
+{
+ "levelId": "p3e6",
+ "grade": "P3",
+ "subject": "eng",
+ "lesson": "L06",
+ "title": "Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "In Reading 3B Ch 3 Text 1, when was the witch's birthday party held at Wendy's house?",
+   "answer": "On 31st October (Halloween)",
+   "options": [
+    "On 1st January",
+    "On 1st May",
+    "On 25th December (Christmas)",
+    "On 31st October (Halloween)"
+   ],
+   "explain": "根據 Reading 3B Ch 3 日記，派對在 10 月 31 日萬聖節（Halloween）舉行。",
+   "id": "ENG-P3-L06-001",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "In Reading 3B Ch 3 Text 1, when was the witch's birthday party held at Wendy's house?",
+   "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "In the play 'Unhappy Birthdays in Storyland' (Reading 3B Ch 3 Text 2), why was the Little Pig unhappy?",
+   "answer": "Because the wolf blew his birthday cake and house away.",
+   "options": [
+    "Because he had no friends.",
+    "Because Snow White ate his apple.",
+    "Because the wolf blew his birthday cake and house away.",
+    "Because he lost his textbook."
+   ],
+   "explain": "根據 Reading 3B Ch 3 戲劇，大灰狼吹走了小豬的生日蛋糕和房子。",
+   "id": "ENG-P3-L06-002",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "In the play 'Unhappy Birthdays in Storyland' (Reading 3B Ch 3 Text 2), why was the Little Pig unhappy?",
+   "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "In Reading 3B Ch 3 Text 2, what happened when the Dragon tried to blow out the candles on his birthday cake?",
+   "answer": "He breathed fire and burnt the birthday cake!",
+   "options": [
+    "He made ice cream.",
+    "The candles did not go out.",
+    "He breathed fire and burnt the birthday cake!",
+    "He fell asleep."
+   ],
+   "explain": "根據 Reading 3B Ch 3 戲劇，龍吹蠟燭時噴出火，把蛋糕燒焦了。",
+   "id": "ENG-P3-L06-003",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "In Reading 3B Ch 3 Text 2, what happened when the Dragon tried to blow out the candles on his birthday cake?",
+   "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "In the fable 'The Stomach and Other Body Parts' (Reading 3B Ch 4 Text 2), why did the hands, mouth and teeth stop working?",
+   "answer": "They thought the stomach was lazy and did nothing.",
+   "options": [
+    "They were broken.",
+    "They thought the stomach was lazy and did nothing.",
+    "The brain told them to sleep.",
+    "They went on holiday."
+   ],
+   "explain": "根據 Reading 3B Ch 4 寓言故事，手、嘴和牙齒以為胃（stomach）很懶惰不工作，所以罷工。",
+   "id": "ENG-P3-L06-004",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "In the fable 'The Stomach and Other Body Parts' (Reading 3B Ch 4 Text 2), why did the hands, mouth and teeth stop working?",
+   "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "What lesson does the fable 'The Stomach and Other Body Parts' teach us?",
+   "answer": "Every part of the body is important and must work together.",
+   "options": [
+    "Only the brain needs food.",
+    "Hands are more important than eyes.",
+    "Every part of the body is important and must work together.",
+    "The stomach is not useful."
+   ],
+   "explain": "當手和嘴不把食物送進胃裏，全身都變得虛弱無力，說明身體各部分必須分工合作。",
+   "id": "ENG-P3-L06-005",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "What lesson does the fable 'The Stomach and Other Body Parts' teach us?",
+   "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "In the comic strip about David, his father and the donkey (Reading 3B Ch 4 Text 1), trying to please everyone made them carry the donkey in the end.",
+   "answer": true,
+   "explain": "父子二人不斷聽別人批評而改變騎驢的方式，最後竟抬着驢走，說明不能盲目討好所有人。",
+   "id": "ENG-P3-L06-006",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "理解",
+   "question": "In the comic strip about David, his father and the donkey (Reading 3B Ch 4 Text 1), trying to please everyone made them carry the donkey in the end.",
+   "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "In the fable, which body part digests food to give energy to the whole body? The ___.",
+   "answer": [
+    "stomach"
+   ],
+   "explain": "胃（stomach）負責消化食物，為全身提供能量。",
+   "id": "ENG-P3-L06-007",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "In the fable, which body part digests food to give energy to the whole body? The ___.",
+   "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
+   "verified": false
+  }
+ ]
+}

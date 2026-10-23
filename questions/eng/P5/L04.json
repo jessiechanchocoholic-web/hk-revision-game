@@ -1,0 +1,140 @@
+{
+ "levelId": "p5e4",
+ "grade": "P5",
+ "subject": "eng",
+ "lesson": "L04",
+ "title": "Grammar 5A–5B Overview: Present Perfect Tense (already/just/yet/ever/for/since)",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "I have ___ finished my homework. Now I can watch TV.",
+   "answer": "already",
+   "options": [
+    "already",
+    "never",
+    "yet",
+    "ever"
+   ],
+   "explain": "肯定句中表示「已經完成」用 already（置於 have/has 與過去分詞之間）。",
+   "id": "ENG-P5-L04-001",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "I have ___ finished my homework. Now I can watch TV.",
+   "source": "英文補充教材｜Grammar 5A–5B Overview: Present Perfect Tense (already/just/yet/ever/for/since)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Has your sister tidied her bookshelf ___? No, not yet.",
+   "answer": "yet",
+   "options": [
+    "yet",
+    "just",
+    "already",
+    "ever"
+   ],
+   "explain": "現在完成時疑問句尾詢問「……了沒有？」用 yet。",
+   "id": "ENG-P5-L04-002",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "Has your sister tidied her bookshelf ___? No, not yet.",
+   "source": "英文補充教材｜Grammar 5A–5B Overview: Present Perfect Tense (already/just/yet/ever/for/since)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Have you ___ ridden a camel? No, I have never ridden one.",
+   "answer": "ever",
+   "options": [
+    "ever",
+    "already",
+    "yet",
+    "since"
+   ],
+   "explain": "詢問「曾經有過某經驗嗎？」用 Have you ever + 過去分詞。",
+   "id": "ENG-P5-L04-003",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "Have you ___ ridden a camel? No, I have never ridden one.",
+   "source": "英文補充教材｜Grammar 5A–5B Overview: Present Perfect Tense (already/just/yet/ever/for/since)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Uncle Ben has lived in Sha Tin ___ ten years.",
+   "answer": "for",
+   "options": [
+    "for",
+    "in",
+    "from",
+    "since"
+   ],
+   "explain": "ten years 是一段時間長度（duration），現在完成時配介詞 for。",
+   "id": "ENG-P5-L04-004",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "Uncle Ben has lived in Sha Tin ___ ten years.",
+   "source": "英文補充教材｜Grammar 5A–5B Overview: Present Perfect Tense (already/just/yet/ever/for/since)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Aunt Judy has been a nurse ___ 2018.",
+   "answer": "since",
+   "options": [
+    "in",
+    "for",
+    "at",
+    "since"
+   ],
+   "explain": "2018 是過去的起始時間點（point in time），現在完成時配介詞 since。",
+   "id": "ENG-P5-L04-005",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "Aunt Judy has been a nurse ___ 2018.",
+   "source": "英文補充教材｜Grammar 5A–5B Overview: Present Perfect Tense (already/just/yet/ever/for/since)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "Fill in the past participle: Have you ever ___ (see) a panda in real life?",
+   "answer": [
+    "seen"
+   ],
+   "explain": "see 的過去分詞（past participle）是 seen（see - saw - seen）。",
+   "id": "ENG-P5-L04-006",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "Fill in the past participle: Have you ever ___ (see) a panda in real life?",
+   "source": "英文補充教材｜Grammar 5A–5B Overview: Present Perfect Tense (already/just/yet/ever/for/since)",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "We use 'How long' with the present perfect tense to ask about the duration of an action (e.g. How long have you studied English?).",
+   "answer": true,
+   "explain": "How long 用於詢問動作持續了多久。",
+   "id": "ENG-P5-L04-007",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "理解",
+   "question": "We use 'How long' with the present perfect tense to ask about the duration of an action (e.g. How long have you studied English?).",
+   "source": "英文補充教材｜Grammar 5A–5B Overview: Present Perfect Tense (already/just/yet/ever/for/since)",
+   "verified": false
+  }
+ ]
+}

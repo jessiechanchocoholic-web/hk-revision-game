@@ -1,0 +1,114 @@
+{
+ "levelId": "p3c2",
+ "grade": "P3",
+ "subject": "chi",
+ "lesson": "L02",
+ "title": "結構助詞「的、地、得」",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "選出正確的助詞：「小鳥在藍天上自由自在（ ）飛翔。」",
+   "answer": "地",
+   "options": [
+    "得",
+    "的",
+    "地",
+    "着"
+   ],
+   "explain": "動詞「飛翔」前面的修飾語，應配結構助詞「地」。",
+   "id": "CHI-P3-L02-001",
+   "grade": "P3",
+   "subject": "chi",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "選出正確的助詞：「小鳥在藍天上自由自在（ ）飛翔。」",
+   "source": "課程補充題庫｜結構助詞「的、地、得」",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "選出正確的助詞：「這朵紅花開（ ）真美麗！」",
+   "answer": "得",
+   "options": [
+    "的",
+    "得",
+    "了",
+    "地"
+   ],
+   "explain": "動詞「開」後面補充說明程度，應配結構助詞「得」。",
+   "id": "CHI-P3-L02-002",
+   "grade": "P3",
+   "subject": "chi",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "選出正確的助詞：「這朵紅花開（ ）真美麗！」",
+   "source": "課程補充題庫｜結構助詞「的、地、得」",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "選出正確的助詞：「媽媽買了一個香甜（ ）大西瓜。」",
+   "answer": "的",
+   "options": [
+    "得",
+    "過",
+    "的",
+    "地"
+   ],
+   "explain": "名詞「大西瓜」前面的形容詞，應配結構助詞「的」。",
+   "id": "CHI-P3-L02-003",
+   "grade": "P3",
+   "subject": "chi",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "選出正確的助詞：「媽媽買了一個香甜（ ）大西瓜。」",
+   "source": "課程補充題庫｜結構助詞「的、地、得」",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "請填上「的、地、得」：弟弟跑（ ）很快，轉眼就到了終點。",
+   "answer": [
+    "得"
+   ],
+   "explain": "動詞「跑」後面補充說明快慢程度，用「得」。",
+   "id": "CHI-P3-L02-004",
+   "grade": "P3",
+   "subject": "chi",
+   "lesson": "L02",
+   "level": "理解",
+   "question": "請填上「的、地、得」：弟弟跑（ ）很快，轉眼就到了終點。",
+   "source": "課程補充題庫｜結構助詞「的、地、得」",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "「溫暖的陽光」中，因為「陽光」是名詞，所以前面用「的」。",
+   "answer": true,
+   "explain": "「形容詞＋的＋名詞」是正確用法。",
+   "id": "CHI-P3-L02-005",
+   "grade": "P3",
+   "subject": "chi",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "「溫暖的陽光」中，因為「陽光」是名詞，所以前面用「的」。",
+   "source": "課程補充題庫｜結構助詞「的、地、得」",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "「他高興得跳了起來」中的「得」應該改為「的」。",
+   "answer": false,
+   "explain": "「高興得跳了起來」是用「得」連接後面的程度補語，原句正確。",
+   "id": "CHI-P3-L02-006",
+   "grade": "P3",
+   "subject": "chi",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "「他高興得跳了起來」中的「得」應該改為「的」。",
+   "source": "課程補充題庫｜結構助詞「的、地、得」",
+   "verified": false
+  }
+ ]
+}

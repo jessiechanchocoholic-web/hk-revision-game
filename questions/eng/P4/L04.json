@@ -1,0 +1,140 @@
+{
+ "levelId": "p4e4",
+ "grade": "P4",
+ "subject": "eng",
+ "lesson": "L04",
+ "title": "Grammar 4A–4B Overview: Future Tense, Modals (Could/Would) & Indefinite Pronouns",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "We ___ going to visit the Science Museum tomorrow afternoon.",
+   "answer": "are",
+   "options": [
+    "will",
+    "are",
+    "is",
+    "do"
+   ],
+   "explain": "表示計劃好的將來動作，用 be going to + 原形動詞，主語 We 配 are。",
+   "id": "ENG-P4-L04-001",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "We ___ going to visit the Science Museum tomorrow afternoon.",
+   "source": "英文補充教材｜Grammar 4A–4B Overview: Future Tense, Modals (Could/Would) & Indefinite Pronouns",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "I think it ___ rain tomorrow. Remember to bring an umbrella.",
+   "answer": "will",
+   "options": [
+    "will",
+    "does",
+    "was",
+    "is"
+   ],
+   "explain": "表示對將來的預測（tomorrow），用助動詞 will + 原形動詞 rain。",
+   "id": "ENG-P4-L04-002",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "I think it ___ rain tomorrow. Remember to bring an umbrella.",
+   "source": "英文補充教材｜Grammar 4A–4B Overview: Future Tense, Modals (Could/Would) & Indefinite Pronouns",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "When I was four years old, I ___ ride a tricycle, but I couldn't ride a bicycle.",
+   "answer": "could",
+   "options": [
+    "will",
+    "could",
+    "can",
+    "must"
+   ],
+   "explain": "描述過去四歲時的能力（When I was four），用 can 的過去式 could。",
+   "id": "ENG-P4-L04-003",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "When I was four years old, I ___ ride a tricycle, but I couldn't ride a bicycle.",
+   "source": "英文補充教材｜Grammar 4A–4B Overview: Future Tense, Modals (Could/Would) & Indefinite Pronouns",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "___ you like a cup of hot chocolate? Yes, please.",
+   "answer": "Would",
+   "options": [
+    "Should",
+    "Must",
+    "Could",
+    "Would"
+   ],
+   "explain": "禮貌地詢問對方想要甚麼用 Would you like ...?",
+   "id": "ENG-P4-L04-004",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "___ you like a cup of hot chocolate? Yes, please.",
+   "source": "英文補充教材｜Grammar 4A–4B Overview: Future Tense, Modals (Could/Would) & Indefinite Pronouns",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Listen! There is ___ knocking at the door.",
+   "answer": "someone",
+   "options": [
+    "someone",
+    "no one",
+    "everything",
+    "anyone"
+   ],
+   "explain": "肯定句中表示「有人」用不定代詞 someone / somebody。",
+   "id": "ENG-P4-L04-005",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "Listen! There is ___ knocking at the door.",
+   "source": "英文補充教材｜Grammar 4A–4B Overview: Future Tense, Modals (Could/Would) & Indefinite Pronouns",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "Fill in the blank: Is there ___ (anyone / someone) in the music room now?",
+   "answer": [
+    "anyone"
+   ],
+   "explain": "疑問句中詢問「有沒有任何人」用 anyone。",
+   "id": "ENG-P4-L04-006",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "Fill in the blank: Is there ___ (anyone / someone) in the music room now?",
+   "source": "英文補充教材｜Grammar 4A–4B Overview: Future Tense, Modals (Could/Would) & Indefinite Pronouns",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "We use 'a few' with plural countable nouns (e.g. a few apples) and 'a little' with uncountable nouns (e.g. a little water).",
+   "answer": true,
+   "explain": "a few 後接可數複數名詞，a little 後接不可數名詞。",
+   "id": "ENG-P4-L04-007",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "理解",
+   "question": "We use 'a few' with plural countable nouns (e.g. a few apples) and 'a little' with uncountable nouns (e.g. a little water).",
+   "source": "英文補充教材｜Grammar 4A–4B Overview: Future Tense, Modals (Could/Would) & Indefinite Pronouns",
+   "verified": false
+  }
+ ]
+}

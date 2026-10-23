@@ -1,0 +1,171 @@
+{
+ "levelId": "p2e6",
+ "grade": "P2",
+ "subject": "eng",
+ "lesson": "L06",
+ "title": "Grammar 2A Ch 4: Plural Nouns, Articles & Because",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "What is the plural form of 'strawberry'?",
+   "answer": "strawberries",
+   "options": [
+    "strawberries",
+    "strawberryes",
+    "strawberrys",
+    "strawberves"
+   ],
+   "explain": "strawberry 以「輔音 + y」結尾，眾數要改 y 為 ies（strawberries）。",
+   "id": "ENG-P2-L06-001",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "What is the plural form of 'strawberry'?",
+   "source": "英文補充教材｜Grammar 2A Ch 4: Plural Nouns, Articles & Because",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "What is the plural form of 'peach'?",
+   "answer": "peaches",
+   "options": [
+    "peachies",
+    "peaches",
+    "peachs",
+    "peoves"
+   ],
+   "explain": "peach 以 ch 結尾，眾數要加 -es（peaches）。",
+   "id": "ENG-P2-L06-002",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "What is the plural form of 'peach'?",
+   "source": "英文補充教材｜Grammar 2A Ch 4: Plural Nouns, Articles & Because",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "There are two ___ and an apple on the table.",
+   "answer": "mangoes",
+   "options": [
+    "mangos",
+    "mango",
+    "mangoes",
+    "mangoes'"
+   ],
+   "explain": "two 後面用複數名詞，mango 的眾數加 -es（mangoes）。",
+   "id": "ENG-P2-L06-003",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "There are two ___ and an apple on the table.",
+   "source": "英文補充教材｜Grammar 2A Ch 4: Plural Nouns, Articles & Because",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "I can see a bee and an ant. ___ bee is flying.",
+   "answer": "The",
+   "options": [
+    "An",
+    "The",
+    "Some",
+    "A"
+   ],
+   "explain": "第二次提到同一隻蜜蜂（bee）時，要用定冠詞 The。",
+   "id": "ENG-P2-L06-004",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "I can see a bee and an ant. ___ bee is flying.",
+   "source": "英文補充教材｜Grammar 2A Ch 4: Plural Nouns, Articles & Because",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "I don't like lemons ___ they are sour.",
+   "answer": "because",
+   "options": [
+    "but",
+    "so",
+    "or",
+    "because"
+   ],
+   "explain": "解釋不喜歡檸檬的原因（they are sour），用連接詞 because（因為）。",
+   "id": "ENG-P2-L06-005",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "I don't like lemons ___ they are sour.",
+   "source": "英文補充教材｜Grammar 2A Ch 4: Plural Nouns, Articles & Because",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "Fill in the plural noun: Candy has fifteen ___ (cherry).",
+   "answer": [
+    "cherries"
+   ],
+   "explain": "cherry 以輔音 r + y 結尾，去 y 加 ies 變成 cherries。",
+   "id": "ENG-P2-L06-006",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "Fill in the plural noun: Candy has fifteen ___ (cherry).",
+   "source": "英文補充教材｜Grammar 2A Ch 4: Plural Nouns, Articles & Because",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "Nouns ending in vowel + y (like 'boy', 'toy', 'monkey') just add -s in the plural form.",
+   "answer": true,
+   "explain": "元音 + y 結尾的名詞直接加 -s（boys, toys, monkeys），不改 ies。",
+   "id": "ENG-P2-L06-007",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "理解",
+   "question": "Nouns ending in vowel + y (like 'boy', 'toy', 'monkey') just add -s in the plural form.",
+   "source": "英文補充教材｜Grammar 2A Ch 4: Plural Nouns, Articles & Because",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "order",
+   "q": "Rearrange the words to form a correct sentence.",
+   "items": [
+    "I like",
+    "butterflies",
+    "because they are beautiful"
+   ],
+   "explain": "主句 I like butterflies 加上原因子句 because they are beautiful。",
+   "answer": [
+    "I like",
+    "butterflies",
+    "because they are beautiful"
+   ],
+   "id": "ENG-P2-L06-008",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "Rearrange the words to form a correct sentence.",
+   "source": "英文補充教材｜Grammar 2A Ch 4: Plural Nouns, Articles & Because",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}

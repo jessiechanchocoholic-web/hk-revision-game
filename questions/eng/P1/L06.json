@@ -1,0 +1,140 @@
+{
+ "levelId": "p1e6",
+ "grade": "P1",
+ "subject": "eng",
+ "lesson": "L06",
+ "title": "Grammar 1B: Present Continuous, Can & Prepositions",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Look! The frog ___ in the pond.",
+   "answer": "is jumping",
+   "options": [
+    "jumps",
+    "is jumping",
+    "are jumping",
+    "jump"
+   ],
+   "explain": "看到提示詞 Look! 表示動作正在進行，單數主語 The frog 配 is jumping。",
+   "id": "ENG-P1-L06-001",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "Look! The frog ___ in the pond.",
+   "source": "英文補充教材｜Grammar 1B: Present Continuous, Can & Prepositions",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Birds ___ fly in the sky, but they can't swim underwater.",
+   "answer": "can",
+   "options": [
+    "can",
+    "do",
+    "are",
+    "must"
+   ],
+   "explain": "表示能力「能夠／會飛」用情態動詞 can。",
+   "id": "ENG-P1-L06-002",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "Birds ___ fly in the sky, but they can't swim underwater.",
+   "source": "英文補充教材｜Grammar 1B: Present Continuous, Can & Prepositions",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Where is the puppy? It is sleeping ___ the chair.",
+   "answer": "under",
+   "options": [
+    "of",
+    "from",
+    "between",
+    "under"
+   ],
+   "explain": "under the chair 表示「在椅子下面」。",
+   "id": "ENG-P1-L06-003",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "Where is the puppy? It is sleeping ___ the chair.",
+   "source": "英文補充教材｜Grammar 1B: Present Continuous, Can & Prepositions",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "What ___ the children doing? They are singing.",
+   "answer": "are",
+   "options": [
+    "am",
+    "is",
+    "can",
+    "are"
+   ],
+   "explain": "複數主語 the children 在現在進行式疑問句中配助動詞 are。",
+   "id": "ENG-P1-L06-004",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "What ___ the children doing? They are singing.",
+   "source": "英文補充教材｜Grammar 1B: Present Continuous, Can & Prepositions",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "___ can you see in the park? I can see some flowers.",
+   "answer": "What",
+   "options": [
+    "Where",
+    "How old",
+    "What",
+    "Who"
+   ],
+   "explain": "詢問「看見甚麼東西」用疑問詞 What。",
+   "id": "ENG-P1-L06-005",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "___ can you see in the park? I can see some flowers.",
+   "source": "英文補充教材｜Grammar 1B: Present Continuous, Can & Prepositions",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "Fill in the correct verb form: I am ___ (draw) a picture now.",
+   "answer": [
+    "drawing"
+   ],
+   "explain": "am + 動詞 -ing 表示正在畫畫（drawing）。",
+   "id": "ENG-P1-L06-006",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "應用",
+   "question": "Fill in the correct verb form: I am ___ (draw) a picture now.",
+   "source": "英文補充教材｜Grammar 1B: Present Continuous, Can & Prepositions",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "In 'A fish can flies', the verb form after 'can' is correct.",
+   "answer": false,
+   "explain": "情態動詞 can 後面必須用動詞原形（can fly），不可加 -s 或 -ies。",
+   "id": "ENG-P1-L06-007",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L06",
+   "level": "理解",
+   "question": "In 'A fish can flies', the verb form after 'can' is correct.",
+   "source": "英文補充教材｜Grammar 1B: Present Continuous, Can & Prepositions",
+   "verified": false
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "levelId": "p2e9",
+ "grade": "P2",
+ "subject": "eng",
+ "lesson": "L09",
+ "title": "Grammar 2B Ch 1–2: Simple Present Tense (Habits, Spelling & Negatives)",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Holly ___ her room every day.",
+   "answer": "tidies",
+   "options": [
+    "tidies",
+    "tidys",
+    "tidy",
+    "tidying"
+   ],
+   "explain": "tidy 以「輔音 d + y」結尾，第三人稱單數 Holly 後面改 y 為 ies（tidies）。",
+   "id": "ENG-P2-L09-001",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L09",
+   "level": "應用",
+   "question": "Holly ___ her room every day.",
+   "source": "英文補充教材｜Grammar 2B Ch 1–2: Simple Present Tense (Habits, Spelling & Negatives)",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "He ___ songs and ___ with his friends every morning.",
+   "answer": "sings, plays",
+   "options": [
+    "sing, play",
+    "singing, playing",
+    "sings, plays",
+    "sings, plaies"
+   ],
+   "explain": "play 以「元音 a + y」結尾，直接加 -s（plays，不可寫 plaies）。",
+   "id": "ENG-P2-L09-002",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L09",
+   "level": "應用",
+   "question": "He ___ songs and ___ with his friends every morning.",
+   "source": "英文補充教材｜Grammar 2B Ch 1–2: Simple Present Tense (Habits, Spelling & Negatives)",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "___ your father walk the dog every day? Yes, he does.",
+   "answer": "Does",
+   "options": [
+    "Do",
+    "Are",
+    "Does",
+    "Is"
+   ],
+   "explain": "主語 your father 是第三人稱單數，一般現在時疑問句用助動詞 Does。",
+   "id": "ENG-P2-L09-003",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L09",
+   "level": "應用",
+   "question": "___ your father walk the dog every day? Yes, he does.",
+   "source": "英文補充教材｜Grammar 2B Ch 1–2: Simple Present Tense (Habits, Spelling & Negatives)",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "Betty is lazy. She ___ study for her tests.",
+   "answer": "does not",
+   "options": [
+    "does not",
+    "is not",
+    "do not",
+    "not"
+   ],
+   "explain": "第三人稱單數 She 的否定句用 does not（doesn't）+ 原形動詞 study。",
+   "id": "ENG-P2-L09-004",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L09",
+   "level": "應用",
+   "question": "Betty is lazy. She ___ study for her tests.",
+   "source": "英文補充教材｜Grammar 2B Ch 1–2: Simple Present Tense (Habits, Spelling & Negatives)",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "Kitty does not ___ fish.",
+   "answer": "eat",
+   "options": [
+    "to eat",
+    "eats",
+    "eating",
+    "eat"
+   ],
+   "explain": "助動詞 does not / doesn't 後面的動詞必須還原為原形 eat。",
+   "id": "ENG-P2-L09-005",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L09",
+   "level": "應用",
+   "question": "Kitty does not ___ fish.",
+   "source": "英文補充教材｜Grammar 2B Ch 1–2: Simple Present Tense (Habits, Spelling & Negatives)",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "Fill in the simple present form: Mr Bell ___ (watch) TV every night.",
+   "answer": [
+    "watches"
+   ],
+   "explain": "watch 以 ch 結尾，第三人稱單數加 -es（watches）。",
+   "id": "ENG-P2-L09-006",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L09",
+   "level": "應用",
+   "question": "Fill in the simple present form: Mr Bell ___ (watch) TV every night.",
+   "source": "英文補充教材｜Grammar 2B Ch 1–2: Simple Present Tense (Habits, Spelling & Negatives)",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "For verbs ending in vowel + y (like 'play', 'enjoy', 'buy'), we add '-s' instead of '-ies' for he/she/it.",
+   "answer": true,
+   "explain": "元音 + y 結尾的動詞（plays, enjoys, buys）直接加 -s。",
+   "id": "ENG-P2-L09-007",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L09",
+   "level": "理解",
+   "question": "For verbs ending in vowel + y (like 'play', 'enjoy', 'buy'), we add '-s' instead of '-ies' for he/she/it.",
+   "source": "英文補充教材｜Grammar 2B Ch 1–2: Simple Present Tense (Habits, Spelling & Negatives)",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "order",
+   "q": "Rearrange the words to form a negative sentence.",
+   "items": [
+    "Gary",
+    "does not",
+    "tidy his room every day"
+   ],
+   "explain": "第三人稱單數否定句：Gary does not tidy his room every day.",
+   "answer": [
+    "Gary",
+    "does not",
+    "tidy his room every day"
+   ],
+   "id": "ENG-P2-L09-008",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L09",
+   "level": "應用",
+   "question": "Rearrange the words to form a negative sentence.",
+   "source": "英文補充教材｜Grammar 2B Ch 1–2: Simple Present Tense (Habits, Spelling & Negatives)",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}

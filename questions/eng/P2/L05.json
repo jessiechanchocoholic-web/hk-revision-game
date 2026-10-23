@@ -1,0 +1,177 @@
+{
+ "levelId": "p2e5",
+ "grade": "P2",
+ "subject": "eng",
+ "lesson": "L05",
+ "title": "Grammar 2A Ch 1–3: There is/are, Modals & Feelings",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "___ there a computer room on the third floor? Yes, there is.",
+   "answer": "Is",
+   "options": [
+    "Are",
+    "Can",
+    "Is",
+    "Do"
+   ],
+   "explain": "a computer room 是單數，詢問「有沒有」用 Is there ...?",
+   "id": "ENG-P2-L05-001",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "___ there a computer room on the third floor? Yes, there is.",
+   "source": "英文補充教材｜Grammar 2A Ch 1–3: There is/are, Modals & Feelings",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "Where ___ the toilets? They are on the second floor.",
+   "answer": "are",
+   "options": [
+    "is",
+    "am",
+    "are",
+    "does"
+   ],
+   "explain": "the toilets 是複數，疑問句動詞用 are（Where are the toilets?）。",
+   "id": "ENG-P2-L05-002",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "Where ___ the toilets? They are on the second floor.",
+   "source": "英文補充教材｜Grammar 2A Ch 1–3: There is/are, Modals & Feelings",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "You ___ wait for your turn in the computer room.",
+   "answer": "must",
+   "options": [
+    "can't",
+    "must",
+    "aren't",
+    "mustn't"
+   ],
+   "explain": "排隊輪候（wait for your turn）是必須遵守的規則，用 must。",
+   "id": "ENG-P2-L05-003",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "You ___ wait for your turn in the computer room.",
+   "source": "英文補充教材｜Grammar 2A Ch 1–3: There is/are, Modals & Feelings",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "Look! The panda is sleeping. We ___ keep quiet.",
+   "answer": "must",
+   "options": [
+    "mustn't",
+    "must",
+    "can't",
+    "don't"
+   ],
+   "explain": "熊貓正在睡覺，我們必須保持安靜（must keep quiet）。",
+   "id": "ENG-P2-L05-004",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "Look! The panda is sleeping. We ___ keep quiet.",
+   "source": "英文補充教材｜Grammar 2A Ch 1–3: There is/are, Modals & Feelings",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "Keep ___ the grass, please. Don't walk on it.",
+   "answer": "off",
+   "options": [
+    "in",
+    "off",
+    "up",
+    "on"
+   ],
+   "explain": "Keep off the grass 是固定動詞片語，意思是「請勿踐踏草地」。",
+   "id": "ENG-P2-L05-005",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "Keep ___ the grass, please. Don't walk on it.",
+   "source": "英文補充教材｜Grammar 2A Ch 1–3: There is/are, Modals & Feelings",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "Alan: I am hungry. Betty: I am hungry ___.",
+   "answer": "too",
+   "options": [
+    "or",
+    "and",
+    "too",
+    "either"
+   ],
+   "explain": "在肯定句尾表示「也一樣」用 too（I am hungry too.）。",
+   "id": "ENG-P2-L05-006",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "Alan: I am hungry. Betty: I am hungry ___.",
+   "source": "英文補充教材｜Grammar 2A Ch 1–3: There is/are, Modals & Feelings",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "Correct the mistake: 'We mustn't climbing the trees.' -> We mustn't ___ the trees.",
+   "answer": [
+    "climb"
+   ],
+   "explain": "情態動詞 must / mustn't 後面必須用動詞原形 climb。",
+   "id": "ENG-P2-L05-007",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "Correct the mistake: 'We mustn't climbing the trees.' -> We mustn't ___ the trees.",
+   "source": "英文補充教材｜Grammar 2A Ch 1–3: There is/are, Modals & Feelings",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "order",
+   "q": "Rearrange the words to make a suggestion.",
+   "items": [
+    "Let's",
+    "turn",
+    "on the fan"
+   ],
+   "explain": "Let's 後接動詞原形 turn on：Let's turn on the fan.（我們開風扇吧。）",
+   "answer": [
+    "Let's",
+    "turn",
+    "on the fan"
+   ],
+   "id": "ENG-P2-L05-008",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "Rearrange the words to make a suggestion.",
+   "source": "英文補充教材｜Grammar 2A Ch 1–3: There is/are, Modals & Feelings",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}

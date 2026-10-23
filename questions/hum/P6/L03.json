@@ -1,0 +1,115 @@
+{
+ "levelId": "p6h3",
+ "grade": "P6",
+ "subject": "hum",
+ "lesson": "L03",
+ "title": "地球村與可持續發展",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "隨着温室氣體排放增加，地球平均氣溫上升，這種全球環境問題稱為甚麼？",
+   "answer": "全球暖化（氣候變化）",
+   "options": [
+    "地震海嘯",
+    "日食現象",
+    "全球暖化（氣候變化）",
+    "火山爆發"
+   ],
+   "explain": "二氧化碳等温室氣體過多導致温室效應加劇，引發全球暖化。",
+   "id": "HUM-P6-L03-001",
+   "grade": "P6",
+   "subject": "hum",
+   "lesson": "L03",
+   "level": "分析",
+   "question": "隨着温室氣體排放增加，地球平均氣溫上升，這種全球環境問題稱為甚麼？",
+   "source": "課程補充題庫｜地球村與可持續發展",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "以下哪一項能源屬於「可再生能源」（取之不盡，且較清潔環保）？",
+   "answer": "太陽能和風能",
+   "options": [
+    "石油",
+    "太陽能和風能",
+    "天然氣",
+    "煤"
+   ],
+   "explain": "太陽能、風能、水力能屬於可再生能源；煤、石油、天然氣屬化石燃料（不可再生）。",
+   "id": "HUM-P6-L03-002",
+   "grade": "P6",
+   "subject": "hum",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "以下哪一項能源屬於「可再生能源」（取之不盡，且較清潔環保）？",
+   "source": "課程補充題庫｜地球村與可持續發展",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "負責維護國際和平與安全、促進國際合作的全球性政府間組織是甚麼？",
+   "answer": "聯合國 (UN)",
+   "options": [
+    "童軍總會",
+    "聯合國 (UN)",
+    "奧林匹克委員會",
+    "街坊福利會"
+   ],
+   "explain": "聯合國（United Nations）致力維護世界和平、推動可持續發展與人道救援。",
+   "id": "HUM-P6-L03-003",
+   "grade": "P6",
+   "subject": "hum",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "負責維護國際和平與安全、促進國際合作的全球性政府間組織是甚麼？",
+   "source": "課程補充題庫｜地球村與可持續發展",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "環保「4R」原則包括：減少使用（Reduce）、物盡其用（Reuse）、循環再造（Recycle）和（ ）（Replace）。",
+   "answer": [
+    "替代使用",
+    "替代"
+   ],
+   "explain": "4R 為 Reduce、Reuse、Recycle、Replace（替代使用）。",
+   "id": "HUM-P6-L03-004",
+   "grade": "P6",
+   "subject": "hum",
+   "lesson": "L03",
+   "level": "理解",
+   "question": "環保「4R」原則包括：減少使用（Reduce）、物盡其用（Reuse）、循環再造（Recycle）和（ ）（Replace）。",
+   "source": "課程補充題庫｜地球村與可持續發展",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "「可持續發展」是指在滿足當代人需要的同時，不損害後代人滿足其需要的能力。",
+   "answer": true,
+   "explain": "兼顧經濟發展、社會進步與環境保育是可持續發展的核心。",
+   "id": "HUM-P6-L03-005",
+   "grade": "P6",
+   "subject": "hum",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "「可持續發展」是指在滿足當代人需要的同時，不損害後代人滿足其需要的能力。",
+   "source": "課程補充題庫｜地球村與可持續發展",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "地球上的淡水資源非常豐富，完全不需要節約用水。",
+   "answer": false,
+   "explain": "地球上絕大部分是鹹水，可供人類直接使用的淡水資源十分有限，必須珍惜。",
+   "id": "HUM-P6-L03-006",
+   "grade": "P6",
+   "subject": "hum",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "地球上的淡水資源非常豐富，完全不需要節約用水。",
+   "source": "課程補充題庫｜地球村與可持續發展",
+   "verified": false
+  }
+ ]
+}

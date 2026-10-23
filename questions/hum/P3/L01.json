@@ -1,0 +1,114 @@
+{
+ "levelId": "p3h1",
+ "grade": "P3",
+ "subject": "hum",
+ "lesson": "L01",
+ "title": "香港十八區與地圖",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "香港一共分為多少個行政區？",
+   "answer": "18區",
+   "options": [
+    "12區",
+    "9區",
+    "20區",
+    "18區"
+   ],
+   "explain": "香港全境共分為 18 個行政區（港島 4 區、九龍 5 區、新界 9 區）。",
+   "id": "HUM-P3-L01-001",
+   "grade": "P3",
+   "subject": "hum",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "香港一共分為多少個行政區？",
+   "source": "課程補充題庫｜香港十八區與地圖",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "香港國際機場位於哪一個島嶼附近（赤鱲角）？",
+   "answer": "大嶼山",
+   "options": [
+    "香港島",
+    "大嶼山",
+    "南丫島",
+    "長洲"
+   ],
+   "explain": "香港國際機場位於大嶼山以北的赤鱲角，屬離島區。",
+   "id": "HUM-P3-L01-002",
+   "grade": "P3",
+   "subject": "hum",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "香港國際機場位於哪一個島嶼附近（赤鱲角）？",
+   "source": "課程補充題庫｜香港十八區與地圖",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "閱讀地圖時，如果沒有特別標示方向標，地圖的上方通常代表哪個方向？",
+   "answer": "北方",
+   "options": [
+    "東方",
+    "西方",
+    "北方",
+    "南方"
+   ],
+   "explain": "一般地圖按「上北、下南、左西、右東」繪製。",
+   "id": "HUM-P3-L01-003",
+   "grade": "P3",
+   "subject": "hum",
+   "lesson": "L01",
+   "level": "分析",
+   "question": "閱讀地圖時，如果沒有特別標示方向標，地圖的上方通常代表哪個方向？",
+   "source": "課程補充題庫｜香港十八區與地圖",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "地圖上用來解釋各種符號代表甚麼景物的說明表，稱為（ ）。",
+   "answer": [
+    "圖例"
+   ],
+   "explain": "圖例（Legend）用來說明地圖符號的含義。",
+   "id": "HUM-P3-L01-004",
+   "grade": "P3",
+   "subject": "hum",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "地圖上用來解釋各種符號代表甚麼景物的說明表，稱為（ ）。",
+   "source": "課程補充題庫｜香港十八區與地圖",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "沙田區、元朗區和大埔區都位於新界。",
+   "answer": true,
+   "explain": "新界共有 9 個行政區，包括沙田、元朗、大埔等。",
+   "id": "HUM-P3-L01-005",
+   "grade": "P3",
+   "subject": "hum",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "沙田區、元朗區和大埔區都位於新界。",
+   "source": "課程補充題庫｜香港十八區與地圖",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "中西區和灣仔區都位於九龍半島。",
+   "answer": false,
+   "explain": "中西區和灣仔區位於香港島，不是九龍半島。",
+   "id": "HUM-P3-L01-006",
+   "grade": "P3",
+   "subject": "hum",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "中西區和灣仔區都位於九龍半島。",
+   "source": "課程補充題庫｜香港十八區與地圖",
+   "verified": false
+  }
+ ]
+}

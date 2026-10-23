@@ -1,0 +1,110 @@
+{
+ "levelId": "p3m2",
+ "grade": "P3",
+ "subject": "math",
+ "lesson": "L02",
+ "title": "三位數乘除與餘數",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "245 × 3 ＝ ？",
+   "answer": "735",
+   "options": [
+    "735",
+    "725",
+    "635",
+    "745"
+   ],
+   "explain": "200×3＝600，40×3＝120，5×3＝15；600＋120＋15＝735。",
+   "id": "MATH-P3-L02-001",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "245 × 3 ＝ ？",
+   "source": "課程補充題庫｜三位數乘除與餘數",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "85 ÷ 6 的商和餘數是多少？",
+   "answer": "14 … 1",
+   "options": [
+    "14 … 1",
+    "14 … 2",
+    "15 … 1",
+    "13 … 7"
+   ],
+   "explain": "6×14＝84，85－84＝1，所以商是 14，餘數是 1。",
+   "id": "MATH-P3-L02-002",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "85 ÷ 6 的商和餘數是多少？",
+   "source": "課程補充題庫｜三位數乘除與餘數",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "每盒朱古力有 108 粒，買 6 盒共有朱古力 ___ 粒。",
+   "answer": [
+    "648"
+   ],
+   "explain": "108×6＝648（粒）。",
+   "id": "MATH-P3-L02-003",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "每盒朱古力有 108 粒，買 6 盒共有朱古力 ___ 粒。",
+   "source": "課程補充題庫｜三位數乘除與餘數",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "把 432 本圖書平均分給 4 個班別，每班可分得圖書 ___ 本。",
+   "answer": [
+    "108"
+   ],
+   "explain": "432÷4＝108（本）。",
+   "id": "MATH-P3-L02-004",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "把 432 本圖書平均分給 4 個班別，每班可分得圖書 ___ 本。",
+   "source": "課程補充題庫｜三位數乘除與餘數",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "在有餘數的除法中，餘數一定要比除數小。",
+   "answer": true,
+   "explain": "如果餘數大於或等於除數，表示商還可以再加。",
+   "id": "MATH-P3-L02-005",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "在有餘數的除法中，餘數一定要比除數小。",
+   "source": "課程補充題庫｜三位數乘除與餘數",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "0 乘以任何數都等於原來的數。",
+   "answer": false,
+   "explain": "0 乘以任何數都等於 0。",
+   "id": "MATH-P3-L02-006",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "理解",
+   "question": "0 乘以任何數都等於原來的數。",
+   "source": "課程補充題庫｜三位數乘除與餘數",
+   "verified": false
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "levelId": "p1h2",
+ "grade": "P1",
+ "subject": "hum",
+ "lesson": "L02",
+ "title": "禮貌與安全",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "別人幫助了我們，我們應該說甚麼禮貌說話？",
+   "answer": "謝謝",
+   "options": [
+    "謝謝",
+    "不用客氣",
+    "對不起",
+    "再見"
+   ],
+   "explain": "接受別人幫助後應說「謝謝」表示感謝。",
+   "id": "HUM-P1-L02-001",
+   "grade": "P1",
+   "subject": "hum",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "別人幫助了我們，我們應該說甚麼禮貌說話？",
+   "source": "課程補充題庫｜禮貌與安全",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "過馬路時，行人交通燈亮起「紅公仔」，我們應該怎樣做？",
+   "answer": "停在行人路上等候",
+   "options": [
+    "停在行人路上等候",
+    "閉上眼睛走過去",
+    "立即衝過馬路",
+    "在馬路中間玩耍"
+   ],
+   "explain": "紅燈代表禁止通行，必須停在行人路上等候綠燈。",
+   "id": "HUM-P1-L02-002",
+   "grade": "P1",
+   "subject": "hum",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "過馬路時，行人交通燈亮起「紅公仔」，我們應該怎樣做？",
+   "source": "課程補充題庫｜禮貌與安全",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "早上見到老師和同學時，應該說甚麼？",
+   "answer": "早安",
+   "options": [
+    "早安",
+    "沒關係",
+    "晚安",
+    "對不起"
+   ],
+   "explain": "早上見面打招呼應說「早安」。",
+   "id": "HUM-P1-L02-003",
+   "grade": "P1",
+   "subject": "hum",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "早上見到老師和同學時，應該說甚麼？",
+   "source": "課程補充題庫｜禮貌與安全",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "不小心撞倒別人，我們應該有禮貌地說「___」。",
+   "answer": [
+    "對不起"
+   ],
+   "explain": "做錯事或撞倒別人時，應主動說「對不起」。",
+   "id": "HUM-P1-L02-004",
+   "grade": "P1",
+   "subject": "hum",
+   "lesson": "L02",
+   "level": "理解",
+   "question": "不小心撞倒別人，我們應該有禮貌地說「___」。",
+   "source": "課程補充題庫｜禮貌與安全",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "留在家中時，不可以隨便替陌生人開門。",
+   "answer": true,
+   "explain": "為了個人及家居安全，不應替陌生人開門。",
+   "id": "HUM-P1-L02-005",
+   "grade": "P1",
+   "subject": "hum",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "留在家中時，不可以隨便替陌生人開門。",
+   "source": "課程補充題庫｜禮貌與安全",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "手濕的時候去觸摸電掣是十分安全的。",
+   "answer": false,
+   "explain": "水能導電，濕手觸摸電掣會有觸電危險。",
+   "id": "HUM-P1-L02-006",
+   "grade": "P1",
+   "subject": "hum",
+   "lesson": "L02",
+   "level": "記憶",
+   "question": "手濕的時候去觸摸電掣是十分安全的。",
+   "source": "課程補充題庫｜禮貌與安全",
+   "verified": false
+  }
+ ]
+}

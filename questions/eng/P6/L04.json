@@ -1,0 +1,140 @@
+{
+ "levelId": "p6e4",
+ "grade": "P6",
+ "subject": "eng",
+ "lesson": "L04",
+ "title": "Grammar 6A Ch 4: Correlative Conjunctions (either...or / neither...nor / both...and)",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "After lunch, we can ___ go cycling ___ watch a film.",
+   "answer": "either, or",
+   "options": [
+    "either, or",
+    "both, or",
+    "either, and",
+    "neither, nor"
+   ],
+   "explain": "根據 Grammar 6A p.15 & p.27：表示在兩個選擇中「或者……或者……（二選一）」用 either ... or。",
+   "id": "ENG-P6-L04-001",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "After lunch, we can ___ go cycling ___ watch a film.",
+   "source": "英文補充教材｜Grammar 6A Ch 4: Correlative Conjunctions (either...or / neither...nor / both...and)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "___ Bill ___ I can ride a bike, so let's watch a film instead.",
+   "answer": "Neither, nor",
+   "options": [
+    "Either, or",
+    "Neither, nor",
+    "Neither, or",
+    "Both, and"
+   ],
+   "explain": "根據 Grammar 6A p.16 & p.27：表示「既不……也不……（兩個都不會）」用 Neither ... nor。",
+   "id": "ENG-P6-L04-002",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "___ Bill ___ I can ride a bike, so let's watch a film instead.",
+   "source": "英文補充教材｜Grammar 6A Ch 4: Correlative Conjunctions (either...or / neither...nor / both...and)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "___ action films ___ romantic films are interesting to me. Let's watch a comedy.",
+   "answer": "Neither, nor",
+   "options": [
+    "Neither, nor",
+    "Neither, and",
+    "Both, or",
+    "Either, or"
+   ],
+   "explain": "根據 Grammar 6A p.27 Section A Q5：否定兩種電影都無趣用 Neither action films nor romantic films。",
+   "id": "ENG-P6-L04-003",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "___ action films ___ romantic films are interesting to me. Let's watch a comedy.",
+   "source": "英文補充教材｜Grammar 6A Ch 4: Correlative Conjunctions (either...or / neither...nor / both...and)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "___ Jenny ___ her brother like playing badminton. They play together every Saturday.",
+   "answer": "Both, and",
+   "options": [
+    "Neither, nor",
+    "Both, or",
+    "Both, and",
+    "Either, or"
+   ],
+   "explain": "根據 Grammar 6A p.18：表示「兩個都喜歡」用 Both ... and，謂語動詞用複數 like。",
+   "id": "ENG-P6-L04-004",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "___ Jenny ___ her brother like playing badminton. They play together every Saturday.",
+   "source": "英文補充教材｜Grammar 6A Ch 4: Correlative Conjunctions (either...or / neither...nor / both...and)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Neither the king nor the queen ___ happy about the bad news.",
+   "answer": "is",
+   "options": [
+    "is",
+    "were",
+    "be",
+    "are"
+   ],
+   "explain": "根據 Grammar 6A p.16–18：neither ... nor 連接兩個單數主語時，動詞跟隨鄰近單數主語用 is。",
+   "id": "ENG-P6-L04-005",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "Neither the king nor the queen ___ happy about the bad news.",
+   "source": "英文補充教材｜Grammar 6A Ch 4: Correlative Conjunctions (either...or / neither...nor / both...and)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "Fill in the blank (Grammar 6A p.15): You can have either apple juice ___ orange juice.",
+   "answer": [
+    "or"
+   ],
+   "explain": "either 與 or 搭配（either ... or）。",
+   "id": "ENG-P6-L04-006",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "Fill in the blank (Grammar 6A p.15): You can have either apple juice ___ orange juice.",
+   "source": "英文補充教材｜Grammar 6A Ch 4: Correlative Conjunctions (either...or / neither...nor / both...and)",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "'Neither Tom or Jerry likes cheese.' uses the correct pair of conjunctions.",
+   "answer": false,
+   "explain": "Neither 必須與 nor 搭配（Neither Tom nor Jerry），不可用 or。",
+   "id": "ENG-P6-L04-007",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "理解",
+   "question": "'Neither Tom or Jerry likes cheese.' uses the correct pair of conjunctions.",
+   "source": "英文補充教材｜Grammar 6A Ch 4: Correlative Conjunctions (either...or / neither...nor / both...and)",
+   "verified": false
+  }
+ ]
+}

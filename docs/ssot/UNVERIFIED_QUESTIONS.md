@@ -22,6 +22,8 @@
 | A6 | content.txt | p2c1、p2c5、p2c8、p2c11、p4c1、p4c5、p4c8、p4c13、p5c1、p5c2、p5c4、p5c5、p5c8、p5c14、p5c15 | 中文 P2/P4/P5 各課 | 89 | research.md：無中文課本、無詞語表；課文內容、例句、詞語全屬推斷；v1.1 按作業重寫 p2c1（7 題）、p4c1（8 題）、p5c1（8 題），但作業未入 repo、仍 `verified:false`，文件 Bot 未能核對原文（題型亦標 ⚠️推斷） | 待核 |
 | A7 | content.txt | p1c1、p1c2 | P1 中文單元一、二 | 12 | 只有課題名，內容推斷；P1 只作練習 | 待核 |
 | A7b | content.txt | p1c3、p1c4 | P1 中文老師工作紙改寫（B4-DEV-01） | 36 | 來源老師工作紙（已批改），題目改寫；未經 research.md 核實 | 待核 |
+| A14 | content.txt | p1e5–p1e6、p2e4–p2e11、p3e5–p3e9、p4e4–p4e5、p5e4–p5e5、p6e1–p6e6 | P1–P6 英文 Reading & Grammar 補充教材（B6-DEV-01，25 關） | 187 | 由 5 份新英文教材改寫（source 標「英文補充教材」）；待核實 | 待核 |
+| A15 | content.txt | p1m1–p1m3、p1h1–p1h2、p1s8–p1s9、p3c1–p3c5、p3m1–p3m5、p3h1–p3h3、p3s1–p3s3、p6c1–p6c5、p6m1–p6m5、p6h1–p6h3、p6s1–p6s3 | P1 數/人/科補充及 P3、P6 全科補充題庫（B6-DEV-01，39 關） | 234 | 課程補充題庫（source 標「課程補充題庫」）；待對照課本核實 | 待核 |
 | A8 | content.txt | p1s1–p1s7、p2s2–p2s4、p5s1–p5s5 | P1／P2／P5 科學 | 81 | 只核實課名（P2 L1 有學習重點）；內容推斷 | 待核 |
 | A9 | content.txt | p4h1–p4h4 | P4 人文 L1–4 | 20 | 只核實課名 | 待核 |
 | A10 | build.js | p4m4–p4m19 | P4 數學（第二批） | 67 | 只核實課名；L1–3 另見 A12 | 待核 |

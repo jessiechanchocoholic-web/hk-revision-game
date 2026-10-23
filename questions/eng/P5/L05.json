@@ -1,0 +1,149 @@
+{
+ "levelId": "p5e5",
+ "grade": "P5",
+ "subject": "eng",
+ "lesson": "L05",
+ "title": "Grammar 5B Overview: Past Continuous, Connectives (when/while/although) & Reflexives",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "I ___ a shower when the telephone rang.",
+   "answer": "was having",
+   "options": [
+    "am having",
+    "have",
+    "had",
+    "was having"
+   ],
+   "explain": "表示電話響起那一刻正在進行的長動作，用過去進行式 was having。",
+   "id": "ENG-P5-L05-001",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "I ___ a shower when the telephone rang.",
+   "source": "英文補充教材｜Grammar 5B Overview: Past Continuous, Connectives (when/while/although) & Reflexives",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "While Mum ___ dinner, Dad was setting the table.",
+   "answer": "was cooking",
+   "options": [
+    "cooks",
+    "is cooking",
+    "was cooking",
+    "cooked"
+   ],
+   "explain": "while 連接兩個同時在過去持續進行的動作，都用過去進行式（was cooking）。",
+   "id": "ENG-P5-L05-002",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "While Mum ___ dinner, Dad was setting the table.",
+   "source": "英文補充教材｜Grammar 5B Overview: Past Continuous, Connectives (when/while/although) & Reflexives",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "___ it was raining heavily, the firemen kept working.",
+   "answer": "Although",
+   "options": [
+    "So",
+    "Because",
+    "However",
+    "Although"
+   ],
+   "explain": "前後兩句意思轉折（「雖然下大雨，但消防員繼續工作」），句首用連接詞 Although。",
+   "id": "ENG-P5-L05-003",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "___ it was raining heavily, the firemen kept working.",
+   "source": "英文補充教材｜Grammar 5B Overview: Past Continuous, Connectives (when/while/although) & Reflexives",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Be careful with the paper cutter! Don't hurt ___.",
+   "answer": "yourself",
+   "options": [
+    "yours",
+    "you",
+    "yourself",
+    "your"
+   ],
+   "explain": "祈使句主語是隱含的 you，反身代詞（reflexive pronoun）用 yourself（別弄傷你自己）。",
+   "id": "ENG-P5-L05-004",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "Be careful with the paper cutter! Don't hurt ___.",
+   "source": "英文補充教材｜Grammar 5B Overview: Past Continuous, Connectives (when/while/although) & Reflexives",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "The children enjoyed ___ very much at the Christmas party.",
+   "answer": "themselves",
+   "options": [
+    "themselves",
+    "their",
+    "themself",
+    "them"
+   ],
+   "explain": "enjoy oneself 表示「玩得開心」，複數主語 The children 對應 themselves。",
+   "id": "ENG-P5-L05-005",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "The children enjoyed ___ very much at the Christmas party.",
+   "source": "英文補充教材｜Grammar 5B Overview: Past Continuous, Connectives (when/while/although) & Reflexives",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "Fill in the reflexive pronoun: Leo made this model plane all by ___ (he).",
+   "answer": [
+    "himself"
+   ],
+   "explain": "by himself 表示「靠他自己獨立完成」。",
+   "id": "ENG-P5-L05-006",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "Fill in the reflexive pronoun: Leo made this model plane all by ___ (he).",
+   "source": "英文補充教材｜Grammar 5B Overview: Past Continuous, Connectives (when/while/although) & Reflexives",
+   "verified": false
+  },
+  {
+   "type": "order",
+   "q": "Rearrange the words to form a correct sentence.",
+   "items": [
+    "I was",
+    "reading a book",
+    "when the lights went out"
+   ],
+   "explain": "過去進行式長動作 + when + 過去式短動作：I was reading a book when the lights went out.",
+   "answer": [
+    "I was",
+    "reading a book",
+    "when the lights went out"
+   ],
+   "id": "ENG-P5-L05-007",
+   "grade": "P5",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "Rearrange the words to form a correct sentence.",
+   "source": "英文補充教材｜Grammar 5B Overview: Past Continuous, Connectives (when/while/although) & Reflexives",
+   "verified": false
+  }
+ ]
+}

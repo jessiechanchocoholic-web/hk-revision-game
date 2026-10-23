@@ -1,0 +1,151 @@
+{
+ "levelId": "p6e3",
+ "grade": "P6",
+ "subject": "eng",
+ "lesson": "L03",
+ "title": "Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "___ it is raining heavily outside, we have to cancel the picnic.",
+   "answer": "Since",
+   "options": [
+    "Since",
+    "So",
+    "However",
+    "So that"
+   ],
+   "explain": "根據 Grammar 6A p.9：Since 放在句首表示「既然／由於」（給出已知原因），相當於 Because。",
+   "id": "ENG-P6-L03-001",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "應用",
+   "question": "___ it is raining heavily outside, we have to cancel the picnic.",
+   "source": "英文補充教材｜Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "The box is ___ heavy ___ carry. Can you help me?",
+   "answer": "too, to",
+   "options": [
+    "very, to",
+    "too, to",
+    "too, for",
+    "so, that"
+   ],
+   "explain": "根據 Grammar 6A p.11：too + 形容詞 + to + 動詞原形（too heavy to carry）表示「太……以致不能……」。",
+   "id": "ENG-P6-L03-002",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "應用",
+   "question": "The box is ___ heavy ___ carry. Can you help me?",
+   "source": "英文補充教材｜Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "This puzzle is ___ difficult ___ my little sister ___ solve.",
+   "answer": "too, for, to",
+   "options": [
+    "so, for, to",
+    "too, to, for",
+    "too, for, to",
+    "very, for, to"
+   ],
+   "explain": "根據 Grammar 6A p.12：too + 形容詞 + for + 某人 + to + 動詞原形（too difficult for my little sister to solve）。",
+   "id": "ENG-P6-L03-003",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "應用",
+   "question": "This puzzle is ___ difficult ___ my little sister ___ solve.",
+   "source": "英文補充教材｜Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "The soup is too hot for the baby ___.",
+   "answer": "to drink",
+   "options": [
+    "drinks",
+    "drinking",
+    "to drink",
+    "drank"
+   ],
+   "explain": "根據 Grammar 6A p.12：too ... for someone 後接 to-infinitive（to drink）。",
+   "id": "ENG-P6-L03-004",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "應用",
+   "question": "The soup is too hot for the baby ___.",
+   "source": "英文補充教材｜Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Mum turned on the air conditioner ___ the room would be cool.",
+   "answer": "so that",
+   "options": [
+    "since",
+    "so that",
+    "because",
+    "too"
+   ],
+   "explain": "根據 Grammar 6A p.9–10：開冷氣的目的是令房間涼快（would be cool），用 so that。",
+   "id": "ENG-P6-L03-005",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "應用",
+   "question": "Mum turned on the air conditioner ___ the room would be cool.",
+   "source": "英文補充教材｜Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "Rewrite using 'too ... to' (Grammar 6A p.11): Leo is very tired. He cannot walk any further. -> Leo is ___ tired ___ walk any further.",
+   "answer": [
+    "too, to",
+    "too,to",
+    "too to"
+   ],
+   "explain": "too tired to walk 表示「太累而走不動」。",
+   "id": "ENG-P6-L03-006",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "應用",
+   "question": "Rewrite using 'too ... to' (Grammar 6A p.11): Leo is very tired. He cannot walk any further. -> Leo is ___ tired ___ walk any further.",
+   "source": "英文補充教材｜Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to",
+   "verified": false
+  },
+  {
+   "type": "order",
+   "q": "Rearrange the words to form a correct sentence (Grammar 6A p.12).",
+   "items": [
+    "The shelf is",
+    "too high",
+    "for Jenny to reach"
+   ],
+   "explain": "結構：too + 形容詞 (high) + for + 人 (Jenny) + to + 動詞 (reach)。",
+   "answer": [
+    "The shelf is",
+    "too high",
+    "for Jenny to reach"
+   ],
+   "id": "ENG-P6-L03-007",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L03",
+   "level": "應用",
+   "question": "Rearrange the words to form a correct sentence (Grammar 6A p.12).",
+   "source": "英文補充教材｜Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to",
+   "verified": false
+  }
+ ]
+}

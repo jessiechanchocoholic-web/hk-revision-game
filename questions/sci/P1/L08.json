@@ -1,0 +1,114 @@
+{
+ "levelId": "p1s8",
+ "grade": "P1",
+ "subject": "sci",
+ "lesson": "L08",
+ "title": "五官與身體健康",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "我們用哪一個感覺器官來分辨花朵的香味？",
+   "answer": "鼻子",
+   "options": [
+    "舌頭",
+    "耳朵",
+    "眼睛",
+    "鼻子"
+   ],
+   "explain": "鼻子負責嗅覺，用來聞氣味。",
+   "id": "SCI-P1-L08-001",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "我們用哪一個感覺器官來分辨花朵的香味？",
+   "source": "課程補充題庫｜五官與身體健康",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "想要保護眼睛，以下哪一種做法是正確的？",
+   "answer": "在光線充足的地方看書",
+   "options": [
+    "用骯髒的手揉眼睛",
+    "在光線充足的地方看書",
+    "躺在床上看書",
+    "在黑暗的房間玩手機"
+   ],
+   "explain": "光線充足並保持適當距離才能保護視力。",
+   "id": "SCI-P1-L08-002",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "想要保護眼睛，以下哪一種做法是正確的？",
+   "source": "課程補充題庫｜五官與身體健康",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "以下哪一種習慣有助預防病菌傳播？",
+   "answer": "進食前和如廁後徹底洗手",
+   "options": [
+    "打噴嚏時不掩着口鼻",
+    "每天不刷牙",
+    "進食前和如廁後徹底洗手",
+    "不洗手就拿食物吃"
+   ],
+   "explain": "勤洗手能有效清除手上的病菌。",
+   "id": "SCI-P1-L08-003",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "以下哪一種習慣有助預防病菌傳播？",
+   "source": "課程補充題庫｜五官與身體健康",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "我們每天早晚都要用牙刷和牙膏 ___，保護牙齒健康。",
+   "answer": [
+    "刷牙"
+   ],
+   "explain": "早晚刷牙可以清除牙菌膜和食物殘渣，預防蛀牙。",
+   "id": "SCI-P1-L08-004",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L08",
+   "level": "理解",
+   "question": "我們每天早晚都要用牙刷和牙膏 ___，保護牙齒健康。",
+   "source": "課程補充題庫｜五官與身體健康",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "充足的睡眠和適量的運動，能令身體健康強壯。",
+   "answer": true,
+   "explain": "休息與運動對兒童成長非常重要。",
+   "id": "SCI-P1-L08-005",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "充足的睡眠和適量的運動，能令身體健康強壯。",
+   "source": "課程補充題庫｜五官與身體健康",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "舌頭是用來聽聲音的感覺器官。",
+   "answer": false,
+   "explain": "舌頭負責味覺（嚐味道），耳朵才是用來聽聲音的。",
+   "id": "SCI-P1-L08-006",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L08",
+   "level": "記憶",
+   "question": "舌頭是用來聽聲音的感覺器官。",
+   "source": "課程補充題庫｜五官與身體健康",
+   "verified": false
+  }
+ ]
+}

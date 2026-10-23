@@ -1,0 +1,110 @@
+{
+ "levelId": "p3m5",
+ "grade": "P3",
+ "subject": "math",
+ "lesson": "L05",
+ "title": "分數初階與長方形周界",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "把一個蛋糕平均分成 8 份，吃了其中的 3 份，即吃了全個蛋糕的幾分之幾？",
+   "answer": "3/8",
+   "options": [
+    "3/5",
+    "5/8",
+    "8/3",
+    "3/8"
+   ],
+   "explain": "平均分成 8 份，分母是 8；取 3 份，分子是 3，即 3/8。",
+   "id": "MATH-P3-L05-001",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L05",
+   "level": "理解",
+   "question": "把一個蛋糕平均分成 8 份，吃了其中的 3 份，即吃了全個蛋糕的幾分之幾？",
+   "source": "課程補充題庫｜分數初階與長方形周界",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "比較同分母分數的大小：2/7、5/7、4/7，哪一個最大？",
+   "answer": "5/7",
+   "options": [
+    "一樣大",
+    "4/7",
+    "2/7",
+    "5/7"
+   ],
+   "explain": "分母相同時，分子越大，分數越大，所以 5/7 最大。",
+   "id": "MATH-P3-L05-002",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L05",
+   "level": "理解",
+   "question": "比較同分母分數的大小：2/7、5/7、4/7，哪一個最大？",
+   "source": "課程補充題庫｜分數初階與長方形周界",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "一個長方形長 12 厘米，闊 8 厘米，它的周界是 ___ 厘米。",
+   "answer": [
+    "40"
+   ],
+   "explain": "長方形周界 ＝ (長＋闊)×2 ＝ (12＋8)×2 ＝ 40 厘米。",
+   "id": "MATH-P3-L05-003",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "一個長方形長 12 厘米，闊 8 厘米，它的周界是 ___ 厘米。",
+   "source": "課程補充題庫｜分數初階與長方形周界",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "一個正方形的邊長是 9 厘米，它的周界是 ___ 厘米。",
+   "answer": [
+    "36"
+   ],
+   "explain": "正方形周界 ＝ 邊長×4 ＝ 9×4 ＝ 36 厘米。",
+   "id": "MATH-P3-L05-004",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "一個正方形的邊長是 9 厘米，它的周界是 ___ 厘米。",
+   "source": "課程補充題庫｜分數初階與長方形周界",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "1 可以寫成分子與分母相同的分數，例如 4/4 或 6/6。",
+   "answer": true,
+   "explain": "把整體平均分成若干份並取全部，數值等於 1。",
+   "id": "MATH-P3-L05-005",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L05",
+   "level": "理解",
+   "question": "1 可以寫成分子與分母相同的分數，例如 4/4 或 6/6。",
+   "source": "課程補充題庫｜分數初階與長方形周界",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "1/5 比 1/2 大，因為 5 比 2 大。",
+   "answer": false,
+   "explain": "分子相同時，分母越大，每份越小，所以 1/5 比 1/2 小。",
+   "id": "MATH-P3-L05-006",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L05",
+   "level": "理解",
+   "question": "1/5 比 1/2 大，因為 5 比 2 大。",
+   "source": "課程補充題庫｜分數初階與長方形周界",
+   "verified": false
+  }
+ ]
+}

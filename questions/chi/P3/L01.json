@@ -1,0 +1,116 @@
+{
+ "levelId": "p3c1",
+ "grade": "P3",
+ "subject": "chi",
+ "lesson": "L01",
+ "title": "四字詞語與校園生活",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "運動會上，同學們在跑道旁大聲為健兒打氣，場面十分（ ）。",
+   "answer": "熱鬧非凡",
+   "options": [
+    "半途而廢",
+    "熱鬧非凡",
+    "鴉雀無聲",
+    "冷冷清清"
+   ],
+   "explain": "「熱鬧非凡」形容場面非常熱鬧、充滿活力。",
+   "id": "CHI-P3-L01-001",
+   "grade": "P3",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "運動會上，同學們在跑道旁大聲為健兒打氣，場面十分（ ）。",
+   "source": "課程補充題庫｜四字詞語與校園生活",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "做功課時必須（ ），才不會常常寫錯字。",
+   "answer": "專心致志",
+   "options": [
+    "東張西望",
+    "專心致志",
+    "馬馬虎虎",
+    "三心兩意"
+   ],
+   "explain": "「專心致志」形容注意力高度集中、非常專心。",
+   "id": "CHI-P3-L01-002",
+   "grade": "P3",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "做功課時必須（ ），才不會常常寫錯字。",
+   "source": "課程補充題庫｜四字詞語與校園生活",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "遇到不懂的問題，我們應該（ ）地向老師請教。",
+   "answer": "虛心",
+   "options": [
+    "驕傲",
+    "粗心",
+    "虛心",
+    "貪心"
+   ],
+   "explain": "虛心請教是良好的學習態度。",
+   "id": "CHI-P3-L01-003",
+   "grade": "P3",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "遇到不懂的問題，我們應該（ ）地向老師請教。",
+   "source": "課程補充題庫｜四字詞語與校園生活",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "看到同學跌倒了，小美（ ）走上前扶起他。（填二字詞語：急忙、立刻的意思）",
+   "answer": [
+    "連忙",
+    "急忙",
+    "立刻"
+   ],
+   "explain": "「連忙」、「急忙」或「立刻」都表示立即行動。",
+   "id": "CHI-P3-L01-004",
+   "grade": "P3",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "看到同學跌倒了，小美（ ）走上前扶起他。（填二字詞語：急忙、立刻的意思）",
+   "source": "課程補充題庫｜四字詞語與校園生活",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "「守望相助」的意思是大家互相幫助、互相照顧。",
+   "answer": true,
+   "explain": "鄰里或同學之間互相幫助稱為守望相助。",
+   "id": "CHI-P3-L01-005",
+   "grade": "P3",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "「守望相助」的意思是大家互相幫助、互相照顧。",
+   "source": "課程補充題庫｜四字詞語與校園生活",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "「半途而廢」是讚賞別人做事非常有恆心、堅持到底。",
+   "answer": false,
+   "explain": "「半途而廢」指做事中途放棄，未能堅持到底。",
+   "id": "CHI-P3-L01-006",
+   "grade": "P3",
+   "subject": "chi",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "「半途而廢」是讚賞別人做事非常有恆心、堅持到底。",
+   "source": "課程補充題庫｜四字詞語與校園生活",
+   "verified": false
+  }
+ ]
+}

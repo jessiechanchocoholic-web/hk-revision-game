@@ -1,0 +1,167 @@
+{
+ "levelId": "p1e5",
+ "grade": "P1",
+ "subject": "eng",
+ "lesson": "L05",
+ "title": "Grammar 1A–1B: Articles, Demonstratives & Pronouns",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "I want ___ apple and a banana.",
+   "answer": "an",
+   "options": [
+    "an",
+    "a",
+    "two",
+    "some"
+   ],
+   "explain": "apple 以元音（a, e, i, o, u）開頭，單數前要用不定冠詞 an。",
+   "id": "ENG-P1-L05-001",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "I want ___ apple and a banana.",
+   "source": "英文補充教材｜Grammar 1A–1B: Articles, Demonstratives & Pronouns",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Look at ___ bird in the sky! It is far away.",
+   "answer": "that",
+   "options": [
+    "those",
+    "these",
+    "this",
+    "that"
+   ],
+   "explain": "指遠處的單數物件或動物（bird）時，使用指示代詞 that。",
+   "id": "ENG-P1-L05-002",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "Look at ___ bird in the sky! It is far away.",
+   "source": "英文補充教材｜Grammar 1A–1B: Articles, Demonstratives & Pronouns",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "___ are my colour pencils here in my hand.",
+   "answer": "These",
+   "options": [
+    "These",
+    "It",
+    "This",
+    "That"
+   ],
+   "explain": "指近處的複數物件（colour pencils）時，使用指示代詞 These。",
+   "id": "ENG-P1-L05-003",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "___ are my colour pencils here in my hand.",
+   "source": "英文補充教材｜Grammar 1A–1B: Articles, Demonstratives & Pronouns",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "This is my brother. ___ name is Leo.",
+   "answer": "His",
+   "options": [
+    "Their",
+    "His",
+    "My",
+    "Her"
+   ],
+   "explain": "brother 是男孩，表示「他的」要用物主形容詞 His。",
+   "id": "ENG-P1-L05-004",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "This is my brother. ___ name is Leo.",
+   "source": "英文補充教材｜Grammar 1A–1B: Articles, Demonstratives & Pronouns",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Our English teacher is very kind. We all like ___ (she / her).",
+   "answer": "her",
+   "options": [
+    "him",
+    "she",
+    "her",
+    "he"
+   ],
+   "explain": "動詞 like 後面要用受格代詞（object pronoun），女性用 her。",
+   "id": "ENG-P1-L05-005",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "Our English teacher is very kind. We all like ___ (she / her).",
+   "source": "英文補充教材｜Grammar 1A–1B: Articles, Demonstratives & Pronouns",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "Fill in the article (a / an): There is ___ elephant in the zoo.",
+   "answer": [
+    "an"
+   ],
+   "explain": "elephant 以元音 e 開頭，單數前用 an。",
+   "id": "ENG-P1-L05-006",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "Fill in the article (a / an): There is ___ elephant in the zoo.",
+   "source": "英文補充教材｜Grammar 1A–1B: Articles, Demonstratives & Pronouns",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "We use 'this' for one thing near us and 'that' for one thing far away.",
+   "answer": true,
+   "explain": "this 指近處單數，that 指遠處單數。",
+   "id": "ENG-P1-L05-007",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "理解",
+   "question": "We use 'this' for one thing near us and 'that' for one thing far away.",
+   "source": "英文補充教材｜Grammar 1A–1B: Articles, Demonstratives & Pronouns",
+   "verified": false
+  },
+  {
+   "type": "order",
+   "q": "Rearrange the words to form a correct sentence.",
+   "items": [
+    "This",
+    "is",
+    "my",
+    "new",
+    "eraser"
+   ],
+   "explain": "正確句序：This is my new eraser.（這是我的新橡皮擦。）",
+   "answer": [
+    "This",
+    "is",
+    "my",
+    "new",
+    "eraser"
+   ],
+   "id": "ENG-P1-L05-008",
+   "grade": "P1",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "Rearrange the words to form a correct sentence.",
+   "source": "英文補充教材｜Grammar 1A–1B: Articles, Demonstratives & Pronouns",
+   "verified": false
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "levelId": "p1s9",
+ "grade": "P1",
+ "subject": "sci",
+ "lesson": "L09",
+ "title": "動植物與四季",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "植物生長需要陽光、空氣和甚麼？",
+   "answer": "水",
+   "options": [
+    "水",
+    "玩具",
+    "石頭",
+    "糖果"
+   ],
+   "explain": "植物需要陽光、空氣、水和養分才能健康生長。",
+   "id": "SCI-P1-L09-001",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L09",
+   "level": "記憶",
+   "question": "植物生長需要陽光、空氣和甚麼？",
+   "source": "課程補充題庫｜動植物與四季",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "以下哪一種動物會在水裏游，而且用鰓呼吸？",
+   "answer": "魚",
+   "options": [
+    "蝴蝶",
+    "小狗",
+    "魚",
+    "小鳥"
+   ],
+   "explain": "魚類生活在水中，用鰭游泳，用鰓呼吸。",
+   "id": "SCI-P1-L09-002",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L09",
+   "level": "記憶",
+   "question": "以下哪一種動物會在水裏游，而且用鰓呼吸？",
+   "source": "課程補充題庫｜動植物與四季",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "香港的哪一個季節天氣最寒冷，大家要穿厚外套？",
+   "answer": "冬季",
+   "options": [
+    "春季",
+    "冬季",
+    "夏季",
+    "秋季"
+   ],
+   "explain": "冬季氣溫較低，天氣寒冷乾燥。",
+   "id": "SCI-P1-L09-003",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L09",
+   "level": "記憶",
+   "question": "香港的哪一個季節天氣最寒冷，大家要穿厚外套？",
+   "source": "課程補充題庫｜動植物與四季",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "夏天陽光猛烈，天氣十分 ___，外出時要多喝水。",
+   "answer": [
+    "炎熱"
+   ],
+   "explain": "香港夏季天氣炎熱潮濕，要注意補充水分防中暑。",
+   "id": "SCI-P1-L09-004",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L09",
+   "level": "理解",
+   "question": "夏天陽光猛烈，天氣十分 ___，外出時要多喝水。",
+   "source": "課程補充題庫｜動植物與四季",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "狗、貓和兔子都是有生命的動物，需要食物和水。",
+   "answer": true,
+   "explain": "動物屬於生物，需要水和食物維持生命。",
+   "id": "SCI-P1-L09-005",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L09",
+   "level": "記憶",
+   "question": "狗、貓和兔子都是有生命的動物，需要食物和水。",
+   "source": "課程補充題庫｜動植物與四季",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "塑膠花會自己長大和開花，所以它是植物。",
+   "answer": false,
+   "explain": "塑膠花沒有生命，不會生長，不是真正的植物。",
+   "id": "SCI-P1-L09-006",
+   "grade": "P1",
+   "subject": "sci",
+   "lesson": "L09",
+   "level": "記憶",
+   "question": "塑膠花會自己長大和開花，所以它是植物。",
+   "source": "課程補充題庫｜動植物與四季",
+   "verified": false
+  }
+ ]
+}

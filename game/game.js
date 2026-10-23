@@ -7,7 +7,7 @@ var VERIFIED_ONLY_DEFAULT=false;
 var VO=(function(){var m=location.search.match(/[?&]verifiedOnly=([01])/);return m?m[1]==='1':VERIFIED_ONLY_DEFAULT})();
 if(VO)BANK={version:BANK.version,levels:BANK.levels.map(function(l){var o={};for(var k in l)o[k]=l[k];o.questions=l.questions.filter(function(q){return q.verified===true});return o}).filter(function(l){return l.questions.length>0})};
 window.__verifiedOnly=VO;
-var GRADES=[{id:'P1',name:'一年級',note:'練習關'},{id:'P2',name:'二年級'},{id:'P4',name:'四年級'},{id:'P5',name:'五年級'}];
+var GRADES=[{id:'P1',name:'一年級',note:'練習關'},{id:'P2',name:'二年級'},{id:'P3',name:'三年級'},{id:'P4',name:'四年級'},{id:'P5',name:'五年級'},{id:'P6',name:'六年級'}];
 var SUBJ={chi:{name:'中文城',icon:'📜'},eng:{name:'English Island',icon:'🏝️'},math:{name:'數學山',icon:'⛰️'},hum:{name:'人文村',icon:'🏘️'},sci:{name:'科學實驗室',icon:'🔬'}};
 var KEY='hk-revision-quest-v1';var st;try{st=JSON.parse(localStorage.getItem(KEY))||{}}catch(e){st={}}
 st.stars=st.stars||{};st.wrong=st.wrong||{};st.badges=st.badges||{};
@@ -97,8 +97,10 @@ var THEME={
 var GTHEME={
  P1:{acc:'<path d="M36 22 Q50 30 64 22 Q50 14 36 22Z" fill="#f687b3"/><circle cx="50" cy="22" r="4" fill="#d53f8c"/>',eye:11,amp:1.35,dur:1.25,iter:2,label:'小一'},
  P2:{acc:'<path d="M26 30 Q50 6 74 30 Z" fill="#4299e1"/><rect x="60" y="27" width="22" height="5" rx="2" fill="#2b6cb0"/>',eye:10,amp:1.15,dur:1.05,iter:3,label:'小二'},
+ P3:{acc:'<path d="M24 28 C20 12 58 6 76 22 C66 30 34 32 24 28Z" fill="#ed64a6" stroke="#97266d" stroke-width="2"/><path d="M48 12 Q52 4 56 8" stroke="#97266d" stroke-width="2.5" fill="none" stroke-linecap="round"/><polygon points="62,21 64,16 69,16 65,19 66,24 62,21 58,24 59,19 55,16 60,16" fill="#ecc94b"/>',eye:9.5,amp:1.05,dur:.95,iter:3,label:'小三'},
  P4:{acc:'<g fill="none" stroke="#1a202c" stroke-width="2.5"><circle cx="38" cy="50" r="11"/><circle cx="62" cy="50" r="11"/><path d="M49 50 H51"/></g>',eye:9,amp:.95,dur:.85,iter:3,label:'小四'},
- P5:{acc:'<path d="M26 24 L50 14 L74 24 L50 34 Z" fill="#1a202c"/><rect x="42" y="26" width="16" height="8" fill="#1a202c"/><path d="M72 24 V36" stroke="#ecc94b" stroke-width="2"/><circle cx="72" cy="37" r="2.5" fill="#ecc94b"/>',eye:8.5,amp:.8,dur:.7,iter:3,label:'小五'}};
+ P5:{acc:'<path d="M26 24 L50 14 L74 24 L50 34 Z" fill="#1a202c"/><rect x="42" y="26" width="16" height="8" fill="#1a202c"/><path d="M72 24 V36" stroke="#ecc94b" stroke-width="2"/><circle cx="72" cy="37" r="2.5" fill="#ecc94b"/>',eye:8.5,amp:.8,dur:.7,iter:3,label:'小五'},
+ P6:{acc:'<path d="M20 74 Q50 92 80 74 L74 62 Q50 74 26 62 Z" fill="#553c9a" stroke="#ecc94b" stroke-width="2"/><circle cx="50" cy="74" r="5" fill="#ecc94b" stroke="#b7791f" stroke-width="1.5"/><g transform="translate(8 14)"><path d="M4 4 H16 V11 Q16 17 10 17 Q4 17 4 11 Z" fill="#ecc94b" stroke="#b7791f" stroke-width="1.5"/><path d="M4 6 H1 Q1 12 4 12 M16 6 H19 Q19 12 16 12" fill="none" stroke="#b7791f" stroke-width="1.5"/><rect x="8" y="17" width="4" height="4" fill="#b7791f"/><rect x="5" y="21" width="10" height="3" rx="1" fill="#ecc94b" stroke="#b7791f" stroke-width="1"/></g>',eye:8,amp:.75,dur:.65,iter:4,label:'小六'}};
 function mascot(mood,grade,subj){var t=THEME[subj]||THEME.math,g=GTHEME[grade]||GTHEME.P4;var sad=mood==='wrong';
  var mouth=sad?'<path d="M41 72 Q50 64 59 72" stroke="#333" stroke-width="3" fill="none" stroke-linecap="round"/>':'<path d="M38 66 Q50 80 62 66" stroke="#333" stroke-width="3" fill="#f66" stroke-linecap="round"/>';
  var extra=mood==='boss'?'<path d="M30 14 L36 0 L44 10 L50 -4 L56 10 L64 0 L70 14 Z" fill="#f6c344" stroke="#b7791f" stroke-width="2"/>':mood==='clear'?'<text x="2" y="20" font-size="16" fill="#f6c344">★</text><text x="80" y="20" font-size="16" fill="#f6c344">★</text>':'';

@@ -1,0 +1,110 @@
+{
+ "levelId": "p3m3",
+ "grade": "P3",
+ "subject": "math",
+ "lesson": "L03",
+ "title": "四則混合計算",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "計算：25 ＋ 15 × 4 ＝ ？",
+   "answer": "85",
+   "options": [
+    "85",
+    "95",
+    "75",
+    "160"
+   ],
+   "explain": "先乘後加：15×4＝60，25＋60＝85。",
+   "id": "MATH-P3-L03-001",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L03",
+   "level": "應用",
+   "question": "計算：25 ＋ 15 × 4 ＝ ？",
+   "source": "課程補充題庫｜四則混合計算",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "計算：(72 － 24) ÷ 6 ＝ ？",
+   "answer": "8",
+   "options": [
+    "12",
+    "9",
+    "8",
+    "68"
+   ],
+   "explain": "先算括號內：72－24＝48，再算 48÷6＝8。",
+   "id": "MATH-P3-L03-002",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L03",
+   "level": "應用",
+   "question": "計算：(72 － 24) ÷ 6 ＝ ？",
+   "source": "課程補充題庫｜四則混合計算",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "計算：120 － 18 × 5 ＝ ___。",
+   "answer": [
+    "30"
+   ],
+   "explain": "先算乘法 18×5＝90，再算 120－90＝30。",
+   "id": "MATH-P3-L03-003",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L03",
+   "level": "應用",
+   "question": "計算：120 － 18 × 5 ＝ ___。",
+   "source": "課程補充題庫｜四則混合計算",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "計算：36 ÷ (9 － 3) ＝ ___。",
+   "answer": [
+    "6"
+   ],
+   "explain": "先算括號內 9－3＝6，再算 36÷6＝6。",
+   "id": "MATH-P3-L03-004",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L03",
+   "level": "應用",
+   "question": "計算：36 ÷ (9 － 3) ＝ ___。",
+   "source": "課程補充題庫｜四則混合計算",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "四則混合計算時，如果有括號，要先計算括號裏面的部分。",
+   "answer": true,
+   "explain": "括號具有優先計算權。",
+   "id": "MATH-P3-L03-005",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L03",
+   "level": "分析",
+   "question": "四則混合計算時，如果有括號，要先計算括號裏面的部分。",
+   "source": "課程補充題庫｜四則混合計算",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "計算 40 － 16 ÷ 4 時，應該先算 40 － 16 ＝ 24，再除以 4 得 6。",
+   "answer": false,
+   "explain": "應先除後減：16÷4＝4，40－4＝36。",
+   "id": "MATH-P3-L03-006",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L03",
+   "level": "應用",
+   "question": "計算 40 － 16 ÷ 4 時，應該先算 40 － 16 ＝ 24，再除以 4 得 6。",
+   "source": "課程補充題庫｜四則混合計算",
+   "verified": false
+  }
+ ]
+}

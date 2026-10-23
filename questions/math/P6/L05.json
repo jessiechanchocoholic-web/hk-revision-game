@@ -1,0 +1,110 @@
+{
+ "levelId": "p6m5",
+ "grade": "P6",
+ "subject": "math",
+ "lesson": "L05",
+ "title": "速率、長方體體積與簡易方程",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "一輛汽車在 3 小時內行駛了 240 公里，它的平均速率是多少？",
+   "answer": "80 公里/小時",
+   "options": [
+    "720 公里/小時",
+    "80 公里/小時",
+    "60 公里/小時",
+    "90 公里/小時"
+   ],
+   "explain": "速率 ＝ 距離 ÷ 時間 ＝ 240 ÷ 3 ＝ 80（公里/小時）。",
+   "id": "MATH-P6-L05-001",
+   "grade": "P6",
+   "subject": "math",
+   "lesson": "L05",
+   "level": "理解",
+   "question": "一輛汽車在 3 小時內行駛了 240 公里，它的平均速率是多少？",
+   "source": "課程補充題庫｜速率、長方體體積與簡易方程",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "一個長方體水箱長 8 厘米、闊 5 厘米、高 4 厘米，它的體積是多少立方厘米？",
+   "answer": "160 立方厘米",
+   "options": [
+    "80 立方厘米",
+    "120 立方厘米",
+    "160 立方厘米",
+    "17 立方厘米"
+   ],
+   "explain": "長方體體積 ＝ 長 × 闊 × 高 ＝ 8 × 5 × 4 ＝ 160（立方厘米）。",
+   "id": "MATH-P6-L05-002",
+   "grade": "P6",
+   "subject": "math",
+   "lesson": "L05",
+   "level": "理解",
+   "question": "一個長方體水箱長 8 厘米、闊 5 厘米、高 4 厘米，它的體積是多少立方厘米？",
+   "source": "課程補充題庫｜速率、長方體體積與簡易方程",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "解方程：3x ＋ 5 ＝ 29，x ＝ ___。",
+   "answer": [
+    "8"
+   ],
+   "explain": "3x ＝ 29 － 5 ＝ 24，x ＝ 24 ÷ 3 ＝ 8。",
+   "id": "MATH-P6-L05-003",
+   "grade": "P6",
+   "subject": "math",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "解方程：3x ＋ 5 ＝ 29，x ＝ ___。",
+   "source": "課程補充題庫｜速率、長方體體積與簡易方程",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "小巴的平均速率是 65 公里/小時，行駛 4 小時共走了 ___ 公里。",
+   "answer": [
+    "260"
+   ],
+   "explain": "距離 ＝ 速率 × 時間 ＝ 65 × 4 ＝ 260（公里）。",
+   "id": "MATH-P6-L05-004",
+   "grade": "P6",
+   "subject": "math",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "小巴的平均速率是 65 公里/小時，行駛 4 小時共走了 ___ 公里。",
+   "source": "課程補充題庫｜速率、長方體體積與簡易方程",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "1 升（L）的水體積等於 1000 立方厘米（cm³）。",
+   "answer": true,
+   "explain": "1 L ＝ 1000 mL ＝ 1000 cm³。",
+   "id": "MATH-P6-L05-005",
+   "grade": "P6",
+   "subject": "math",
+   "lesson": "L05",
+   "level": "理解",
+   "question": "1 升（L）的水體積等於 1000 立方厘米（cm³）。",
+   "source": "課程補充題庫｜速率、長方體體積與簡易方程",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "解方程「2y － 6 ＝ 10」時，移項後得到 2y ＝ 10 － 6，所以 y ＝ 2。",
+   "answer": false,
+   "explain": "移項後應為 2y ＝ 10 ＋ 6 ＝ 16，所以 y ＝ 8。",
+   "id": "MATH-P6-L05-006",
+   "grade": "P6",
+   "subject": "math",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "解方程「2y － 6 ＝ 10」時，移項後得到 2y ＝ 10 － 6，所以 y ＝ 2。",
+   "source": "課程補充題庫｜速率、長方體體積與簡易方程",
+   "verified": false
+  }
+ ]
+}

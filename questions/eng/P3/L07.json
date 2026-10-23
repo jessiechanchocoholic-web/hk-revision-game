@@ -1,0 +1,167 @@
+{
+ "levelId": "p3e7",
+ "grade": "P3",
+ "subject": "eng",
+ "lesson": "L07",
+ "title": "Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "In the Summer Programme notice (Reading 3B Ch 5 Text 2), on which day do students need swimwear and a towel?",
+   "answer": "Monday",
+   "options": [
+    "Friday",
+    "Monday",
+    "Thursday",
+    "Wednesday"
+   ],
+   "explain": "根據暑期活動時間表，星期一（Monday）下午 2:30 有游泳課（Swimming），因此需要帶泳衣和毛巾。",
+   "id": "ENG-P3-L07-001",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "In the Summer Programme notice (Reading 3B Ch 5 Text 2), on which day do students need swimwear and a towel?",
+   "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Jacky is good at sports and wants to take part in a race. On which day should he join the Mini Olympics?",
+   "answer": "Friday",
+   "options": [
+    "Tuesday",
+    "Wednesday",
+    "Monday",
+    "Friday"
+   ],
+   "explain": "根據暑期活動時間表，星期五（Friday）下午 2:30 舉行小型運動會（Mini Olympics）。",
+   "id": "ENG-P3-L07-002",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "Jacky is good at sports and wants to take part in a race. On which day should he join the Mini Olympics?",
+   "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "According to the Summer Programme notes, what can students get for free?",
+   "answer": "Free drinks",
+   "options": [
+    "Free drinks",
+    "Free computers",
+    "Free swimwear",
+    "Free lunch boxes"
+   ],
+   "explain": "根據注意事項（Notes），學生需自備午餐，但活動會免費提供飲品（get free drinks）。",
+   "id": "ENG-P3-L07-003",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "According to the Summer Programme notes, what can students get for free?",
+   "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "On the webpage 'BOOKS FOR KIDS' (Reading 3B Ch 6 Text 1), why are the tiger cubs afraid in 'Mummy Tiger, Where Are You?'?",
+   "answer": "Because they can't find their mum.",
+   "options": [
+    "Because they can't find Tilly.",
+    "Because Nick fights with them.",
+    "Because Tilly plays a trick on them.",
+    "Because they can't find their mum."
+   ],
+   "explain": "根據 Reading 3B Ch 6 p.21–22，虎媽媽出去找食物沒有回來，小老虎找不到媽媽所以很害怕。",
+   "id": "ENG-P3-L07-004",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "On the webpage 'BOOKS FOR KIDS' (Reading 3B Ch 6 Text 1), why are the tiger cubs afraid in 'Mummy Tiger, Where Are You?'?",
+   "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "In 'Mummy Tiger, Where Are You?', the big sister Tilly is NOT ___.",
+   "answer": "naughty",
+   "options": [
+    "naughty",
+    "helpful",
+    "brave",
+    "kind"
+   ],
+   "explain": "根據 Reading 3B Ch 6 p.22 第 1 題，大姐 Tilly 既勇敢又體貼照顧弟妹，所以她並不頑皮（NOT naughty）。",
+   "id": "ENG-P3-L07-005",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "In 'Mummy Tiger, Where Are You?', the big sister Tilly is NOT ___.",
+   "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "In the magazine article about brave dogs (Reading 3B Ch 6 Text 2), how did Peter's dog Susie save him from the house fire?",
+   "answer": "Susie barked to wake the neighbours and pulled Peter away from the fire.",
+   "options": [
+    "Susie barked to wake the neighbours and pulled Peter away from the fire.",
+    "Susie poured water on the fire.",
+    "Susie jumped on a snake in the garden.",
+    "Susie called the police on the phone."
+   ],
+   "explain": "根據 Reading 3B Ch 6 p.23，Peter 受傷無法走動，小狗 Susie 大聲吠叫喚醒鄰居，並把 Peter 拉離火場。",
+   "id": "ENG-P3-L07-006",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "In the magazine article about brave dogs (Reading 3B Ch 6 Text 2), how did Peter's dog Susie save him from the house fire?",
+   "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "What is the best title for the magazine article about Joe and Susie in Reading 3B Ch 6?",
+   "answer": "More than a best friend",
+   "options": [
+    "Thanks, Susie!",
+    "More than a best friend",
+    "Well done, Joe!",
+    "Joe at the vet's"
+   ],
+   "explain": "文章介紹了 Joe 和 Susie 兩隻勇敢救主人的狗，標題應涵蓋全文，最佳標題是 'More than a best friend'。",
+   "id": "ENG-P3-L07-007",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "What is the best title for the magazine article about Joe and Susie in Reading 3B Ch 6?",
+   "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "In 'Lazy Linda's New School' (the 5th book in the series), how many OTHER Lazy Linda books are there? (Write a number)",
+   "answer": [
+    "4",
+    "four"
+   ],
+   "explain": "這是系列中的第 5 本書（fifth book），所以同系列另外還有 4 本。",
+   "id": "ENG-P3-L07-008",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "In 'Lazy Linda's New School' (the 5th book in the series), how many OTHER Lazy Linda books are there? (Write a number)",
+   "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
+   "verified": false
+  }
+ ]
+}

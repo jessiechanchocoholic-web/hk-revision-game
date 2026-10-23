@@ -431,3 +431,518 @@ M:世界上有幾個大洲？|七個|五個|三個|十個|亞洲、非洲、北�
 M:中國位於哪個大洲？|亞洲|歐洲|非洲|大洋洲|中國在亞洲。
 M:世界上最大的海洋是：|太平洋|大西洋|印度洋|北冰洋|太平洋最大。
 M:地球儀上，把地球分成南北半球的是：|赤道|經線|國界|河流|赤道把地球分為南北半球。
+
+# New English Reading & Grammar Levels (P1–P6) extracted from the 5 new Primary Longman Elect (2nd edition) PDFs
+# Compatible with /workspace/hk-revision-game-pm/game/tools/content.txt and build.js
+
+## P1|eng|p1e5|Grammar 1A–1B: Articles, Demonstratives & Pronouns
+M|I want ___ apple and a banana.|an|a|some|two|apple 以元音（a, e, i, o, u）開頭，單數前要用不定冠詞 an。
+M|Look at ___ bird in the sky! It is far away.|that|those|these|this|指遠處的單數物件或動物（bird）時，使用指示代詞 that。
+M|___ are my colour pencils here in my hand.|These|It|That|This|指近處的複數物件（colour pencils）時，使用指示代詞 These。
+M|This is my brother. ___ name is Leo.|His|Their|My|Her|brother 是男孩，表示「他的」要用物主形容詞 His。
+M|Our English teacher is very kind. We all like ___ (she / her).|her|him|she|he|動詞 like 後面要用受格代詞（object pronoun），女性用 her。
+S|Fill in the article (a / an): There is ___ elephant in the zoo.|an|elephant 以元音 e 開頭，單數前用 an。
+T|We use 'this' for one thing near us and 'that' for one thing far away.|this 指近處單數，that 指遠處單數。
+O|This>is>my>new>eraser|Rearrange the words to form a correct sentence.|正確句序：This is my new eraser.（這是我的新橡皮擦。）
+
+## P1|eng|p1e6|Grammar 1B: Present Continuous, Can & Prepositions
+M|Look! The frog ___ in the pond.|is jumping|jumps|are jumping|jump|看到提示詞 Look! 表示動作正在進行，單數主語 The frog 配 is jumping。
+M|Birds ___ fly in the sky, but they can't swim underwater.|can|must|are|do|表示能力「能夠／會飛」用情態動詞 can。
+M|Where is the puppy? It is sleeping ___ the chair.|under|of|between|from|under the chair 表示「在椅子下面」。
+M|What ___ the children doing? They are singing.|are|am|is|can|複數主語 the children 在現在進行式疑問句中配助動詞 are。
+M|___ can you see in the park? I can see some flowers.|What|How old|Who|Where|詢問「看見甚麼東西」用疑問詞 What。
+S|Fill in the correct verb form: I am ___ (draw) a picture now.|drawing|am + 動詞 -ing 表示正在畫畫（drawing）。
+F|In 'A fish can flies', the verb form after 'can' is correct.|情態動詞 can 後面必須用動詞原形（can fly），不可加 -s 或 -ies。
+
+## P2|eng|p2e4|Textbook 2A Reading: School Places, Rules & Hansel and Gretel
+M|In the story of Sally and Sam the squirrels, where is the art room?|On the first floor|On the fifth floor|In the garden|On the ground floor|根據 2A Ch 1 課文，美勞室（art room）在一樓（on the first floor），可以在裏面畫畫和做手偶。
+M|What can Sally and Sam do in the library on the second floor?|Borrow books|Buy snacks|Make puppets|Play hopscotch|根據 2A Ch 1 課文，圖書館在二樓，學生可以在那裏借書（borrow books）。
+M|In the 2A Ch 2 pamphlet, what does the word 'huge' mean in 'The library is huge'?|big|new|small|quiet|根據 2A Ch 2 閱讀練習第 3 題，huge 的意思是 big（巨大／很大）。
+M|What is the rule in the garden? You ___ pick the flowers.|mustn't|are|can|must|在花園裏絕對不可以摘花，要用 mustn't（不可）。
+M|In the story 'Hansel and Gretel' (2A Ch 3), why do they eat some biscuits?|Because they are hungry.|Because they are bored.|Because it is morning.|Because they are cold.|根據 2A Ch 3 故事，Hansel 和 Gretel 因為肚餓（hungry），所以提議吃餅乾（Let's eat some biscuits）。
+M|In 'Hansel and Gretel', what happens when they wake up from their nap?|It is dark and they are lost.|They find a library.|They go swimming.|They meet a giraffe.|根據 2A Ch 3 故事第 4 格，他們午睡醒來時天黑了（It's dark!），而且迷路了（We're lost!）。
+S|Complete the suggestion from Hansel: 'I'm tired.' 'Me too. ___ take a short rest.'|Let's|提議一起休息用 Let's（Let's take a short rest.）。
+T|We use 'in' for a room (e.g. in the music room) and 'on' for a floor (e.g. on the first floor).|房間用 in（in the art room / library），樓層用 on（on the first / ground floor）。
+
+## P2|eng|p2e5|Grammar 2A Ch 1–3: There is/are, Modals & Feelings
+M|___ there a computer room on the third floor? Yes, there is.|Is|Do|Are|Can|a computer room 是單數，詢問「有沒有」用 Is there ...?
+M|Where ___ the toilets? They are on the second floor.|are|is|does|am|the toilets 是複數，疑問句動詞用 are（Where are the toilets?）。
+M|You ___ wait for your turn in the computer room.|must|mustn't|aren't|can't|排隊輪候（wait for your turn）是必須遵守的規則，用 must。
+M|Look! The panda is sleeping. We ___ keep quiet.|must|mustn't|don't|can't|熊貓正在睡覺，我們必須保持安靜（must keep quiet）。
+M|Keep ___ the grass, please. Don't walk on it.|off|up|on|in|Keep off the grass 是固定動詞片語，意思是「請勿踐踏草地」。
+M|Alan: I am hungry. Betty: I am hungry ___.|too|or|and|either|在肯定句尾表示「也一樣」用 too（I am hungry too.）。
+S|Correct the mistake: 'We mustn't climbing the trees.' -> We mustn't ___ the trees.|climb|情態動詞 must / mustn't 後面必須用動詞原形 climb。
+O|Let's>turn>on the fan|Rearrange the words to make a suggestion.|Let's 後接動詞原形 turn on：Let's turn on the fan.（我們開風扇吧。）
+
+## P2|eng|p2e6|Grammar 2A Ch 4: Plural Nouns, Articles & Because
+M|What is the plural form of 'strawberry'?|strawberries|strawberryes|strawberrys|strawberves|strawberry 以「輔音 + y」結尾，眾數要改 y 為 ies（strawberries）。
+M|What is the plural form of 'peach'?|peaches|peachies|peoves|peachs|peach 以 ch 結尾，眾數要加 -es（peaches）。
+M|There are two ___ and an apple on the table.|mangoes|mangoes'|mango|mangos|two 後面用複數名詞，mango 的眾數加 -es（mangoes）。
+M|I can see a bee and an ant. ___ bee is flying.|The|An|A|Some|第二次提到同一隻蜜蜂（bee）時，要用定冠詞 The。
+M|I don't like lemons ___ they are sour.|because|but|so|or|解釋不喜歡檸檬的原因（they are sour），用連接詞 because（因為）。
+S|Fill in the plural noun: Candy has fifteen ___ (cherry).|cherries|cherry 以輔音 r + y 結尾，去 y 加 ies 變成 cherries。
+T|Nouns ending in vowel + y (like 'boy', 'toy', 'monkey') just add -s in the plural form.|元音 + y 結尾的名詞直接加 -s（boys, toys, monkeys），不改 ies。
+O|I like>butterflies>because they are beautiful|Rearrange the words to form a correct sentence.|主句 I like butterflies 加上原因子句 because they are beautiful。
+
+## P2|eng|p2e7|Grammar 2A Ch 5: Where & How, Transport & Prepositions
+M|I live in Causeway Bay. It is ___ Hong Kong Island.|on|at|in|by|島嶼（Hong Kong Island, Lantau Island, Lamma Island, Cheung Chau）前面用介詞 on。
+M|Mr Smith lives ___ Tuen Mun. It is in the New Territories.|in|on|at|by|地區名稱（如 Tuen Mun, Sha Tin, Kwun Tong, Kowloon）前面用介詞 in。
+M|___ do you come to school? I come to school by school bus.|How|Who|What|Where|詢問上學的交通方式（by school bus）用疑問詞 How。
+M|Jerry lives near his school. He comes to school ___ foot.|on|with|by|in|步行上學固定用 on foot（不可說 by foot）。
+M|Meg comes to school ___ MTR every morning.|by|at|on|in|乘搭交通工具（by bus / by car / by MTR / by ferry / by tram）用介詞 by，中間不加 the。
+M|'___ here, Rocky!' says Bob to his dog.|Come|Comes|Go|Going|叫對方朝向說話者走過來用 Come here（Go 表示離開說話者去別處）。
+S|Fill in the preposition: My aunt lives ___ Lantau Island.|on|Lantau Island 是島嶼，介詞用 on。
+F|'How you come to school?' is a grammatically correct question.|一般現在時疑問句不能漏掉助動詞 do，應為：How do you come to school?
+
+## P2|eng|p2e8|Grammar 2A Ch 6: Jobs, Simple Present, Possessives & And/Or
+M|Gigi's father is a fireman. He ___ out fires.|puts|putting|put|is put|第三人稱單數 He 描述職業工作（事實）用簡單現在式 puts out fires。
+M|Wendy is a policewoman. She ___ bad people.|catches|catchs|catch|catching|catch 以 ch 結尾，第三人稱單數 She 後面要加 -es（catches）。
+M|What is your ___ job? She is a nurse. She looks after sick people.|mother's|mothers'|mother|mothers|表示「媽媽的職業」要用所有格名詞 mother's（加 's）。
+M|Do you have any brothers ___ sisters?|or|and|because|but|在疑問句（Do you have any ...?）中連接兩個並列名詞時用 or。
+M|No, I have no brothers ___ sisters. I am an only child.|or|because|too|and|在否定句（have no ...）中連接兩個並列項目時用 or。
+M|Yes, I have one brother ___ two sisters.|and|but|or|so|在肯定句中連接兩個並列名詞時用 and。
+S|Fill in the correct verb form: Alan is a postman. He ___ (bring) letters to people.|brings|主語 He 是第三人稱單數，bring 加 -s 變成 brings。
+O|What>is>your father's job|Rearrange the words to form a question.|詢問別人爸爸的職業：What is your father's job?
+
+## P2|eng|p2e9|Grammar 2B Ch 1–2: Simple Present Tense (Habits, Spelling & Negatives)
+M|Holly ___ her room every day.|tidies|tidys|tidying|tidy|tidy 以「輔音 d + y」結尾，第三人稱單數 Holly 後面改 y 為 ies（tidies）。
+M|He ___ songs and ___ with his friends every morning.|sings, plays|sings, plaies|singing, playing|sing, play|play 以「元音 a + y」結尾，直接加 -s（plays，不可寫 plaies）。
+M|___ your father walk the dog every day? Yes, he does.|Does|Are|Is|Do|主語 your father 是第三人稱單數，一般現在時疑問句用助動詞 Does。
+M|Betty is lazy. She ___ study for her tests.|does not|is not|not|do not|第三人稱單數 She 的否定句用 does not（doesn't）+ 原形動詞 study。
+M|Kitty does not ___ fish.|eat|eating|to eat|eats|助動詞 does not / doesn't 後面的動詞必須還原為原形 eat。
+S|Fill in the simple present form: Mr Bell ___ (watch) TV every night.|watches|watch 以 ch 結尾，第三人稱單數加 -es（watches）。
+T|For verbs ending in vowel + y (like 'play', 'enjoy', 'buy'), we add '-s' instead of '-ies' for he/she/it.|元音 + y 結尾的動詞（plays, enjoys, buys）直接加 -s。
+O|Gary>does not>tidy his room every day|Rearrange the words to form a negative sentence.|第三人稱單數否定句：Gary does not tidy his room every day.
+
+## P2|eng|p2e10|Grammar 2B Ch 3–4: Time Prepositions, Tenses & What time
+M|Mandy goes to Brownies ___ Mondays.|on|in|by|at|星期幾（on Mondays = every Monday）前面用介詞 on。
+M|Look! Alan ___ his bicycle in the park right now.|is riding|rides|riding|ride|看到 Look! 和 right now 表示此刻正在發生，用現在進行式 is riding。
+M|Cathy has lunch ___ twelve fifty-five ___ the afternoon.|at, in|in, at|on, in|at, on|具體時間點用 at（at twelve fifty-five）；早上／下午／晚上用 in（in the afternoon）。
+M|Mr Lam goes to bed ___ ten thirty ___ night.|at, at|at, in|in, at|on, at|具體時刻用 at ten thirty；「在晚上（night）」固定用 at night。
+M|___ does Betty do her homework? She does her homework at four forty-five.|What time|Where|Who|Which|回答是具體時間（at four forty-five），問句用 What time（幾點）。
+S|Correct the mistake: 'Amy sweeps the floor on every Sunday.' -> Write the correct time phrase without preposition:|every Sunday|every / this / today 前面不可加介詞 on，直接寫 every Sunday。
+F|'What do Sally do on Fridays?' is grammatically correct.|Sally 是第三人稱單數，助動詞必須用 does（What does Sally do on Fridays?）。
+
+## P2|eng|p2e11|Grammar 2B Ch 5–6: Festivals, Seasons, Gerunds & Question Words
+M|People watch fireworks and get red packets ___ Chinese New Year.|at|on|by|in|節日名稱（at Chinese New Year / at Christmas / at Easter / at Mid-Autumn Festival）前面用介詞 at。
+M|___ the second day of Chinese New Year, people watch fireworks.|On|By|At|In|具體某一天（含 day 的日子，如 On the second day / On New Year's Day）前面用介詞 On。
+M|My brother Keith doesn't like swimming. He likes ___ his bicycle at weekends.|riding|to riding|ride|rides|like 後面可接動名詞（gerund，即動詞 + -ing），ride 去 e 加 ing 變成 riding。
+M|___ do you like Mid-Autumn Festival? Because I like playing with lanterns.|Why|What|Where|Which|回答以 because 解釋原因，問句要用疑問詞 Why（為甚麼）。
+M|We usually eat hotpot in the evening ___ winter.|in|at|on|of|季節（in spring / summer / autumn / winter）前面用介詞 in。
+M|A: ___ teddy bear do you like best, the brown one or the grey one? B: I like the grey teddy bear best.|Which|Why|Who|What|在有限的特定選項中作選擇時，用疑問詞 Which（哪一個）。
+S|Fill in the correct form: Tina likes ___ (swim) in the sea in summer.|swimming|like + 動名詞（gerund），swim 是短元音加單輔音，雙寫 m 加 ing：swimming。
+O|Which>season>do you like best|Rearrange the words to form a question.|詢問最喜歡哪個季節：Which season do you like best?
+
+## P3|eng|p3e5|Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages
+M|In Reading 3B Ch 1 ('Amy and Snowy'), why did the other ducks laugh at Snowy at first?|Because Snowy was big and grey, not yellow like them.|Because Snowy could not swim.|Because Snowy ate all their food.|Because Snowy was a dog.|根據 Reading 3B Ch 1 故事，Snowy 起初又大又灰，跟其他黃色小鴨不同，長大後才發現是一隻美麗的白天鵝（swan）。
+M|In the Magic Potions advertisement (Reading 3B Ch 1 Text 2), who wrote a review for 'Hair-grow'?|Rapunzel|The Big Bad Wolf|The Giant|Snow White|根據 Reading 3B Ch 1 廣告，長髮公主 Rapunzel 推薦令頭髮變長的魔藥 Hair-grow。
+M|In Reading 3B Ch 2 Text 1, why did Spod pass the Maths test while his friends failed?|Because Spod studied hard while his friends played and ate.|Because Spod's dad was the teacher.|Because Spod copied his friend's answers.|Because the test was very easy.|根據 Reading 3B Ch 2 故事，Spod 留在家裏努力溫習數學，而其他朋友只顧玩耍和吃東西。
+M|In Reading 3B Ch 2 Text 2 (Sunny Days Children's Centre), what did Paul do with the old people?|He visited an old people's home and played games with them.|He went to Disneyland.|He made magic potions.|He went bird-watching in Tai Po Kau.|根據 Reading 3B Ch 2 留言板，Paul 探訪老人院並與長者一起玩遊戲。
+M|Where did Jenny go bird-watching in Reading 3B Ch 2 Text 2?|Tai Po Kau|Causeway Bay|Lantau Island|Sai Kung|根據 Reading 3B Ch 2 課文，Jenny 去大埔滘（Tai Po Kau）觀鳥。
+T|In Reading 3B Ch 1 Text 2, 'Body-power' potion helps the drinker become strong like The Giant.|巨人（The Giant）推薦 Body-power 魔藥，讓人變得強壯。
+S|In 'Amy and Snowy', Snowy grew up into a beautiful white ___.|swan|Snowy 長大後變成一隻美麗的白天鵝（swan）。
+
+## P3|eng|p3e6|Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable
+M|In Reading 3B Ch 3 Text 1, when was the witch's birthday party held at Wendy's house?|On 31st October (Halloween)|On 1st May|On 1st January|On 25th December (Christmas)|根據 Reading 3B Ch 3 日記，派對在 10 月 31 日萬聖節（Halloween）舉行。
+M|In the play 'Unhappy Birthdays in Storyland' (Reading 3B Ch 3 Text 2), why was the Little Pig unhappy?|Because the wolf blew his birthday cake and house away.|Because he lost his textbook.|Because he had no friends.|Because Snow White ate his apple.|根據 Reading 3B Ch 3 戲劇，大灰狼吹走了小豬的生日蛋糕和房子。
+M|In Reading 3B Ch 3 Text 2, what happened when the Dragon tried to blow out the candles on his birthday cake?|He breathed fire and burnt the birthday cake!|He made ice cream.|He fell asleep.|The candles did not go out.|根據 Reading 3B Ch 3 戲劇，龍吹蠟燭時噴出火，把蛋糕燒焦了。
+M|In the fable 'The Stomach and Other Body Parts' (Reading 3B Ch 4 Text 2), why did the hands, mouth and teeth stop working?|They thought the stomach was lazy and did nothing.|They went on holiday.|The brain told them to sleep.|They were broken.|根據 Reading 3B Ch 4 寓言故事，手、嘴和牙齒以為胃（stomach）很懶惰不工作，所以罷工。
+M|What lesson does the fable 'The Stomach and Other Body Parts' teach us?|Every part of the body is important and must work together.|Only the brain needs food.|The stomach is not useful.|Hands are more important than eyes.|當手和嘴不把食物送進胃裏，全身都變得虛弱無力，說明身體各部分必須分工合作。
+T|In the comic strip about David, his father and the donkey (Reading 3B Ch 4 Text 1), trying to please everyone made them carry the donkey in the end.|父子二人不斷聽別人批評而改變騎驢的方式，最後竟抬着驢走，說明不能盲目討好所有人。
+S|In the fable, which body part digests food to give energy to the whole body? The ___.|stomach|胃（stomach）負責消化食物，為全身提供能量。
+
+## P3|eng|p3e7|Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs
+M|In the Summer Programme notice (Reading 3B Ch 5 Text 2), on which day do students need swimwear and a towel?|Monday|Thursday|Wednesday|Friday|根據暑期活動時間表，星期一（Monday）下午 2:30 有游泳課（Swimming），因此需要帶泳衣和毛巾。
+M|Jacky is good at sports and wants to take part in a race. On which day should he join the Mini Olympics?|Friday|Monday|Tuesday|Wednesday|根據暑期活動時間表，星期五（Friday）下午 2:30 舉行小型運動會（Mini Olympics）。
+M|According to the Summer Programme notes, what can students get for free?|Free drinks|Free lunch boxes|Free computers|Free swimwear|根據注意事項（Notes），學生需自備午餐，但活動會免費提供飲品（get free drinks）。
+M|On the webpage 'BOOKS FOR KIDS' (Reading 3B Ch 6 Text 1), why are the tiger cubs afraid in 'Mummy Tiger, Where Are You?'?|Because they can't find their mum.|Because Nick fights with them.|Because Tilly plays a trick on them.|Because they can't find Tilly.|根據 Reading 3B Ch 6 p.21–22，虎媽媽出去找食物沒有回來，小老虎找不到媽媽所以很害怕。
+M|In 'Mummy Tiger, Where Are You?', the big sister Tilly is NOT ___.|naughty|kind|brave|helpful|根據 Reading 3B Ch 6 p.22 第 1 題，大姐 Tilly 既勇敢又體貼照顧弟妹，所以她並不頑皮（NOT naughty）。
+M|In the magazine article about brave dogs (Reading 3B Ch 6 Text 2), how did Peter's dog Susie save him from the house fire?|Susie barked to wake the neighbours and pulled Peter away from the fire.|Susie called the police on the phone.|Susie poured water on the fire.|Susie jumped on a snake in the garden.|根據 Reading 3B Ch 6 p.23，Peter 受傷無法走動，小狗 Susie 大聲吠叫喚醒鄰居，並把 Peter 拉離火場。
+M|What is the best title for the magazine article about Joe and Susie in Reading 3B Ch 6?|More than a best friend|Joe at the vet's|Well done, Joe!|Thanks, Susie!|文章介紹了 Joe 和 Susie 兩隻勇敢救主人的狗，標題應涵蓋全文，最佳標題是 'More than a best friend'。
+S|In 'Lazy Linda's New School' (the 5th book in the series), how many OTHER Lazy Linda books are there? (Write a number)|4/four|這是系列中的第 5 本書（fifth book），所以同系列另外還有 4 本。
+
+## P3|eng|p3e8|Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages
+M|On the book cover 'All Change for the Chans!' (Booster A), what happens to eight-year-old Eric Chan during a storm?|He swaps bodies with his 35-year-old dad, Tony.|He moves to Scotland.|He turns into a funny dog.|He writes fifteen children's books.|根據 Booster A（p.25），八歲的 Eric 在暴風雨中與 35 歲的爸爸交換了身體，Eric 要去上班，爸爸卻要去返學。
+M|In Booster A, the 'Crown Readers' series is for Primary 4–6 students. Who is the illustrator of the front cover?|Glenda Li|Tom Smith|Michael Hill|Eric Wong|根據 Booster A（p.25），作者是 Michael Hill，而封面插畫師（illustrator）是 Glenda Li。
+M|In the notice about after-school classes with 'Clive the Clown' (Booster B), Maggie Lau is in Class 2C. On which day can she have lessons?|On Mondays|On Wednesdays|On Sundays|On Fridays|根據 Booster B（p.27–28），小一至小三（Primary 1–3）的課堂在星期一（Mondays 3–4 p.m.），Maggie 讀 2C 班，所以星期一上課。
+M|In Booster B, what is Clive the Clown's job?|To make people happy with jokes, magic tricks, juggling and balloon toys.|To teach Maths and Science.|To look after sick children as a doctor.|To drive the school bus.|根據 Booster B 第 2 題，Clive 是小丑，他的工作是表演魔術、雜耍和扭氣球逗人開心（make people happy）。
+M|In Booster C ('Bedtime Stories for Children' contents page), Anne reads: 'Oh dear! She dropped her purse again!' Which story is she reading?|Careless Cathy|Honest Ollie and the Maths Test|Brave Baby Bear|George the Clever Robot|根據 Booster C（p.29–30），經常粗心掉錢包（dropped her purse again）對應故事《Careless Cathy》。
+M|In Booster C, Paul reads: 'He could see the test papers on the teacher's desk...' Which story starting on page 35 is he reading?|Honest Ollie and the Maths Test|Poor Charlie and the Chocolate Mountain|The Day Grandpa Looked After Us|Why Don't You Play With Me?|看到老師桌上的測驗卷（test papers），對應第 35 頁開始的故事《Honest Ollie and the Maths Test》（因此在第 37 頁）。
+F|In Booster A, 'Book Shop Monthly' is the publisher of the book 'All Change for the Chans!'.|Book Shop Monthly 只是撰寫書評的雜誌（Tom Smith, Book Shop Monthly），並非出版社。
+
+## P3|eng|p3e9|Grammar 3A–3B Overview: Simple Past Tense, Connectives & Quantifiers
+M|We ___ a magic show at the children's centre yesterday.|watched|watching|watch|watches|句末有過去時間詞 yesterday，動詞要用簡單過去式 watched。
+M|___ you go to the library last Saturday? Yes, I did.|Did|Do|Does|Were|last Saturday 表示過去時間，一般過去時疑問句用助動詞 Did。
+M|Leo was hungry, ___ he ate a big sandwich.|so|or|but|because|前半句是原因（肚餓），後半句是結果（吃三文治），用連接詞 so（所以）。
+M|Are there ___ bananas in the basket? No, there aren't any.|any|some|an|a|在疑問句和否定句中，表示「一些／任何」通常用 any。
+M|___ is this backpack? It is eighty-five dollars.|How much|How many|How old|What time|詢問價錢（Prices: eighty-five dollars）用疑問詞 How much。
+S|Fill in the past tense verb: Mum ___ (buy) some strawberries at the market yesterday.|bought|buy 的不規則過去式是 bought。
+O|Where>did>you go last Sunday|Rearrange the words to form a past tense question.|過去式特殊疑問句：Where did you go last Sunday?
+
+## P4|eng|p4e4|Grammar 4A–4B Overview: Future Tense, Modals (Could/Would) & Indefinite Pronouns
+M|We ___ going to visit the Science Museum tomorrow afternoon.|are|do|will|is|表示計劃好的將來動作，用 be going to + 原形動詞，主語 We 配 are。
+M|I think it ___ rain tomorrow. Remember to bring an umbrella.|will|was|is|does|表示對將來的預測（tomorrow），用助動詞 will + 原形動詞 rain。
+M|When I was four years old, I ___ ride a tricycle, but I couldn't ride a bicycle.|could|will|can|must|描述過去四歲時的能力（When I was four），用 can 的過去式 could。
+M|___ you like a cup of hot chocolate? Yes, please.|Would|Could|Must|Should|禮貌地詢問對方想要甚麼用 Would you like ...?
+M|Listen! There is ___ knocking at the door.|someone|no one|everything|anyone|肯定句中表示「有人」用不定代詞 someone / somebody。
+S|Fill in the blank: Is there ___ (anyone / someone) in the music room now?|anyone|疑問句中詢問「有沒有任何人」用 anyone。
+T|We use 'a few' with plural countable nouns (e.g. a few apples) and 'a little' with uncountable nouns (e.g. a little water).|a few 後接可數複數名詞，a little 後接不可數名詞。
+
+## P4|eng|p4e5|Grammar 4B Overview: Possessive Pronouns, Quantifiers & Partitives
+M|This is not my umbrella. Mine is blue. Is this umbrella ___?|yours|your|yourself|you|句末不接名詞，表示「你的（雨傘）」要用名詞性物主代詞 yours。
+M|These storybooks belong to Ben and Sam. The books are ___.|theirs|them|their|they|代替 their books（他們的書），用名詞性物主代詞 theirs。
+M|Don't eat too ___ sweets. They are bad for your teeth.|many|little|much|lot|sweets 是可數複數名詞，表示「太多」用 too many。
+M|There is only a ___ orange juice left in the bottle.|little|lot|many|few|orange juice 是不可數名詞，表示「少許」用 a little。
+M|Mum bought two ___ of bread and a jar of jam at the supermarket.|loaves|bunches|cartons|loaf|bread 的量詞是 loaf，兩條麵包用複數 loaves（two loaves of bread）。
+S|Change to a possessive pronoun: 'This is her ruler.' -> 'This ruler is ___.'|hers|her + 名詞 相當於名詞性物主代詞 hers。
+O|Can>you>pass me a bottle of water|Rearrange the words to make a polite request.|正確句序：Can you pass me a bottle of water?
+
+## P5|eng|p5e4|Grammar 5A–5B Overview: Present Perfect Tense (already/just/yet/ever/for/since)
+M|I have ___ finished my homework. Now I can watch TV.|already|ever|yet|never|肯定句中表示「已經完成」用 already（置於 have/has 與過去分詞之間）。
+M|Has your sister tidied her bookshelf ___? No, not yet.|yet|ever|just|already|現在完成時疑問句尾詢問「……了沒有？」用 yet。
+M|Have you ___ ridden a camel? No, I have never ridden one.|ever|yet|since|already|詢問「曾經有過某經驗嗎？」用 Have you ever + 過去分詞。
+M|Uncle Ben has lived in Sha Tin ___ ten years.|for|since|from|in|ten years 是一段時間長度（duration），現在完成時配介詞 for。
+M|Aunt Judy has been a nurse ___ 2018.|since|for|in|at|2018 是過去的起始時間點（point in time），現在完成時配介詞 since。
+S|Fill in the past participle: Have you ever ___ (see) a panda in real life?|seen|see 的過去分詞（past participle）是 seen（see - saw - seen）。
+T|We use 'How long' with the present perfect tense to ask about the duration of an action (e.g. How long have you studied English?).|How long 用於詢問動作持續了多久。
+
+## P5|eng|p5e5|Grammar 5B Overview: Past Continuous, Connectives (when/while/although) & Reflexives
+M|I ___ a shower when the telephone rang.|was having|had|have|am having|表示電話響起那一刻正在進行的長動作，用過去進行式 was having。
+M|While Mum ___ dinner, Dad was setting the table.|was cooking|cooks|is cooking|cooked|while 連接兩個同時在過去持續進行的動作，都用過去進行式（was cooking）。
+M|___ it was raining heavily, the firemen kept working.|Although|Because|So|However|前後兩句意思轉折（「雖然下大雨，但消防員繼續工作」），句首用連接詞 Although。
+M|Be careful with the paper cutter! Don't hurt ___.|yourself|you|yours|your|祈使句主語是隱含的 you，反身代詞（reflexive pronoun）用 yourself（別弄傷你自己）。
+M|The children enjoyed ___ very much at the Christmas party.|themselves|them|their|themself|enjoy oneself 表示「玩得開心」，複數主語 The children 對應 themselves。
+S|Fill in the reflexive pronoun: Leo made this model plane all by ___ (he).|himself|by himself 表示「靠他自己獨立完成」。
+O|I was>reading a book>when the lights went out|Rearrange the words to form a correct sentence.|過去進行式長動作 + when + 過去式短動作：I was reading a book when the lights went out.
+
+## P6|eng|p6e1|Grammar 6A Ch 1: First Conditional & Nouns and Gender
+M|Sandy ___ fit if she ___ exercise every day.|will be, does|is, will do|be, does|will be, will do|根據 Grammar 6A p.1：第一類條件句（First conditional），主句用將來式 will be，if 條件子句用簡單現在式 does。
+M|If my brother Ken ___ any homework, he will visit Grandma on Sunday.|doesn't have|don't have|won't have|isn't have|根據 Grammar 6A p.1：if 子句中用簡單現在式，第三人稱單數 Ken 的否定式為 doesn't have。
+M|We ___ sashimi at the fish market if we ___ up early one day.|will eat, wake|eat, will wake|will eat, will wake|ate, woke|根據 Grammar 6A p.2（Tim 的信）：主句用 will eat，if 子句用簡單現在式 wake。
+M|In the play, Jerry is the king and Sarah is the ___.|queen|empress|witch|princess|根據 Grammar 6A p.3（名詞性別）：king（國王）對應的女性名詞（feminine noun）是 queen（王后）。
+M|The ___ and the empress have a lot of gold and jewels.|emperor|king|prince|wizard|根據 Grammar 6A p.3–4：empress（女皇／皇后）對應的男性名詞（masculine noun）是 emperor（皇帝）。
+M|Which of the following is a 'common-gender noun' (can be used for both men and women)?|firefighter|actress|waitress|fireman|根據 Grammar 6A p.3：firefighter（消防員）、police officer、parent、child 等屬於通性名詞（common-gender nouns）。
+S|Fill in the feminine noun (Grammar 6A p.3): A man who acts in a film is an actor. A woman who acts in a film is an ___.|actress|actor（男演員）對應的女性名詞是 actress（女演員）。
+O|If the weather>is fine>Dad will take lots of photos|Rearrange the words to form a first conditional sentence (Grammar 6A p.2).|If 子句用簡單現在式（If the weather is fine），主句用將來式（Dad will take lots of photos.）。
+
+## P6|eng|p6e2|Grammar 6A Ch 2: Connectives (so that / so / because) & To-infinitives
+M|Peter practises the piano every day ___ he can pass the piano exam.|so that|however|because|so|根據 Grammar 6A p.5：表示「為了達到某目的」（後接 can / will 子句）用連接詞 so that。
+M|The prince wanted to save the princess, ___ he fought the wicked dragon.|so|although|because|so that|根據 Grammar 6A p.5–6：前半句是原因，後半句是結果（戰鬥），中間用連接詞 so（因此）。
+M|Candy didn't go to the party ___ she had a bad cold.|because|so|but|so that|根據 Grammar 6A p.5：後半句說明沒去派對的原因（患了重感冒），用連接詞 because。
+M|Remember ___ the windows before you leave the classroom.|to close|close|closed|closing|根據 Grammar 6A p.7：remember + to-infinitive（Remember to close）表示「記得要做某事」。
+M|My little brother is learning ___ a bicycle in the park.|to ride|riding|rides|ride|根據 Grammar 6A p.7–8：動詞 learn 後面要接帶 to 的不定式（learn to ride）。
+S|Complete with 'to' + verb (Grammar 6A p.7): Oh no! I forgot ___ (bring) my English workbook today.|to bring|forget 後接 to-infinitive：forgot to bring（忘記帶）。
+T|We often use modal verbs like 'can', 'will', 'could' or 'would' in the clause after 'so that' to show purpose.|根據 Grammar 6A p.5，so that 引導的目的狀語從句常配合 can / could / will / would 使用。
+
+## P6|eng|p6e3|Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to
+M|___ it is raining heavily outside, we have to cancel the picnic.|Since|So that|So|However|根據 Grammar 6A p.9：Since 放在句首表示「既然／由於」（給出已知原因），相當於 Because。
+M|The box is ___ heavy ___ carry. Can you help me?|too, to|so, that|too, for|very, to|根據 Grammar 6A p.11：too + 形容詞 + to + 動詞原形（too heavy to carry）表示「太……以致不能……」。
+M|This puzzle is ___ difficult ___ my little sister ___ solve.|too, for, to|too, to, for|very, for, to|so, for, to|根據 Grammar 6A p.12：too + 形容詞 + for + 某人 + to + 動詞原形（too difficult for my little sister to solve）。
+M|The soup is too hot for the baby ___.|to drink|drinking|drinks|drank|根據 Grammar 6A p.12：too ... for someone 後接 to-infinitive（to drink）。
+M|Mum turned on the air conditioner ___ the room would be cool.|so that|since|too|because|根據 Grammar 6A p.9–10：開冷氣的目的是令房間涼快（would be cool），用 so that。
+S|Rewrite using 'too ... to' (Grammar 6A p.11): Leo is very tired. He cannot walk any further. -> Leo is ___ tired ___ walk any further.|too, to/too,to/too to|too tired to walk 表示「太累而走不動」。
+O|The shelf is>too high>for Jenny to reach|Rearrange the words to form a correct sentence (Grammar 6A p.12).|結構：too + 形容詞 (high) + for + 人 (Jenny) + to + 動詞 (reach)。
+
+## P6|eng|p6e4|Grammar 6A Ch 4: Correlative Conjunctions (either...or / neither...nor / both...and)
+M|After lunch, we can ___ go cycling ___ watch a film.|either, or|both, or|neither, nor|either, and|根據 Grammar 6A p.15 & p.27：表示在兩個選擇中「或者……或者……（二選一）」用 either ... or。
+M|___ Bill ___ I can ride a bike, so let's watch a film instead.|Neither, nor|Neither, or|Either, or|Both, and|根據 Grammar 6A p.16 & p.27：表示「既不……也不……（兩個都不會）」用 Neither ... nor。
+M|___ action films ___ romantic films are interesting to me. Let's watch a comedy.|Neither, nor|Both, or|Neither, and|Either, or|根據 Grammar 6A p.27 Section A Q5：否定兩種電影都無趣用 Neither action films nor romantic films。
+M|___ Jenny ___ her brother like playing badminton. They play together every Saturday.|Both, and|Either, or|Neither, nor|Both, or|根據 Grammar 6A p.18：表示「兩個都喜歡」用 Both ... and，謂語動詞用複數 like。
+M|Neither the king nor the queen ___ happy about the bad news.|is|are|were|be|根據 Grammar 6A p.16–18：neither ... nor 連接兩個單數主語時，動詞跟隨鄰近單數主語用 is。
+S|Fill in the blank (Grammar 6A p.15): You can have either apple juice ___ orange juice.|or|either 與 or 搭配（either ... or）。
+F|'Neither Tom or Jerry likes cheese.' uses the correct pair of conjunctions.|Neither 必須與 nor 搭配（Neither Tom nor Jerry），不可用 or。
+
+## P6|eng|p6e5|Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives
+M|If I ___ a writer, I ___ write books about animals.|were, would|was, will|were, will|am, will|根據 Grammar 6A p.19 & p.28：第二類條件句（假設現在不可能或相反的情況），if 子句用過去式 were，主句用 would + 原形動詞。
+M|If Candy ___ a dragon, she ___ ride on it.|met, would|met, will|meet, would|meets, will|根據 Grammar 6A p.28 Section C Q1：遇見龍是幻想情境（Second conditional），用 If Candy met a dragon, she would ride on it。
+M|Susan is the girl ___ is performing a magic show.|who|where|which|whose|根據 Grammar 6A p.20 & p.27：先行詞 the girl 是人，關係代詞（relative pronoun）用 who。
+M|This is a wallet ___ is made of soft leather.|which|where|whom|who|根據 Grammar 6A p.20 & p.27：先行詞 a wallet 是物件，關係代詞用 which。
+M|The clown's jokes were very ___. All the audience felt ___.|amusing, amused|amusing, amusing|amused, amused|amused, amusing|根據 Grammar 6A p.21 & p.28：形容事物「令人發笑的」用 -ing 形容詞 amusing；形容人「感到好笑的」用 -ed 形容詞 amused。
+M|The prince showed true love to the princess. Everyone was deeply ___.|touched|touching|touches|touch|根據 Grammar 6A p.28 Section D Q2：形容人「深受感動」要用 -ed 形容詞 touched（而非 touching）。
+S|Correct the mistake (Grammar 6A p.28 Section D Q4): 'If I am Rapunzel, I would let down my long hair.' -> Change 'am' to:|were|第二類條件句中，If I 後面用虛擬語氣 were（If I were Rapunzel...）。
+O|If Amy>saw a fairy>she would draw a picture of it|Rearrange the words to form a second conditional sentence (Grammar 6A p.28).|第二類條件句：If Amy saw a fairy, she would draw a picture of it.
+
+## P6|eng|p6e6|Grammar 6A Ch 6: Similes (as ... as / be ... like) & Connectives (however / but)
+M|The princess's skin is ___ white ___ snow.|as, as|like, as|so, as|as, like|根據 Grammar 6A p.23：明喻結構 as + 形容詞 + as（as white as snow 雪白）。
+M|Sam is ___ proud ___ a peacock.|as, as|like, as|as, like|too, to|根據 Grammar 6A p.28 Section D Q1：as proud as a peacock（像孔雀一樣驕傲），不可寫 proud like a peacock。
+M|The firefighter is brave ___ a lion.|like|as|so|for|根據 Grammar 6A p.23–24：be + 形容詞 + like + 名詞（brave like a lion 像獅子一樣勇敢）。
+M|After the teacher explained the rule, everything is clear ___ crystal now.|like|likes|as|to|根據 Grammar 6A p.28 Section D Q8：這裏的 like 是介詞（「像水晶一樣清晰」），不可加 -s 寫成 likes。
+M|Grandpa is seventy years old, ___ he is still as strong as an ox.|but|because|however|although|根據 Grammar 6A p.25 & p.28：在同一個句子中間連接兩個轉折分句（前面只有逗號，後無逗號），用連接詞 but。
+M|Bob is very smart. ___, he is proud and rude to his classmates.|However|So that|Although|But|根據 Grammar 6A p.25 & p.28 Section D Q5：放在第二句句首並有逗號隔開，表示「然而／可是」用 However,。
+S|Complete the simile (Grammar 6A p.23): The old man is as wise as an ___.|owl|固定比喻搭配：as wise as an owl（像貓頭鷹一樣有智慧）。
+T|In 'The pillows are as soft as clouds', 'as ... as' is used to compare two things that are similar.|根據 Grammar 6A p.23，我們用 as ... as 和 be ... like 來作比喻（similes）。
+
+# P1 補充題庫（數學、人文、科學）及 P3 全科題庫（中文、數學、人文、科學）
+## P1|math|p1m1|1至20的認識與順逆數
+M:由 11 順着數，14 的下一個數是甚麼？|15|13|16|12|順着數每次加 1，14 的下一個數是 15。
+M:由 20 倒着數，20 的前一個數是甚麼？|19|18|17|10|倒着數每次減 1，20 的前一個數是 19。
+S:1 個十和 7 個一合起來是 ___。|17|1 個十是 10，加上 7 個一是 17。
+S:在 12、15、9、18 四個數中，最大的數是 ___。|18|比較各數大小：9 < 12 < 15 < 18，最大是 18。
+T:16 比 13 大，但比 19 小。|13 < 16 < 19，敘述正確。
+F:由 10 順着數到 15，一共數了 4 個數。|10、11、12、13、14、15 一共是 6 個數。
+## P1|math|p1m2|18以內的加減法
+M:8 ＋ 7 ＝ ？|15|14|16|13|用「湊十法」：8＋2＝10，10＋5＝15。
+M:16 － 9 ＝ ？|7|6|8|9|用「破十法」：10－9＝1，1＋6＝7。
+S:樹上有 9 隻小鳥，再飛來 6 隻，現在樹上共有小鳥 ___ 隻。|15|9＋6＝15（隻）。
+S:媽媽買了 17 個蘋果，家人吃了 8 個，還餘蘋果 ___ 個。|9|17－8＝9（個）。
+T:7 ＋ 8 和 8 ＋ 7 的答案相同，都是 15。|加法交換位置，和維持不變，都是 15。
+F:14 － 6 的答案是 9。|14－6＝8，不是 9。
+## P1|math|p1m3|立體圖形、時鐘與長短
+M:以下哪一種立體圖形可以向四面八方自由滾動？|球體|正方體|長方體|角錐體|球體表面全是曲面，能向任何方向滾動。
+M:時鐘的分針指着 12，時針指着 8，現在是幾時？|8時正|12時正|8時半|4時正|分針指着 12、時針指着 8，表示 8 時正。
+M:時鐘的分針指着 6，時針在 3 和 4 中間，現在是幾時？|3時半|4時半|6時正|3時正|分針指着 6 表示半小時，時針過了 3，即是 3 時半。
+S:正方體一共有 ___ 個平的面。|6|正方體有上、下、前、後、左、右共 6 個正方形平面。
+T:比較兩支鉛筆的長短時，先把其中一端對齊，就更容易比較。|對齊一端後看另一端，伸出較遠的一支較長。
+F:圓柱體沒有平的面，只有曲面。|圓柱體上下有 2 個圓形的平面，側面才是曲面。
+## P1|hum|p1h1|我的家庭與學校
+M:爸爸的爸爸，我們應該稱呼他做甚麼？|爺爺|公公|伯父|舅父|爸爸的父親稱為爺爺（祖父）；媽媽的父親稱為公公（外祖父）。
+M:在學校裏，如果身體感到不舒服，應該立即告訴誰？|老師|陌生人|巴士司機|郵差|在校內感到不適，應立即向老師或校務處求助。
+M:以下哪一項是愛護家庭的表現？|主動幫忙收拾玩具|把玩具亂扔在地上|對家人大聲呼喝|只顧自己看電視|主動收拾玩具能減輕家人負擔，保持家居整潔。
+S:在學校圖書館看書時，我們要保持 ___，不可大聲喧嘩。|安靜|圖書館是閱讀的地方，需要保持安靜。
+T:家人互相照顧和關心，能令家庭更溫暖和睦。|相親相愛是和睦家庭的基礎。
+F:在學校裏，只有班長才需要遵守校規。|每一位同學都應該遵守校規。
+## P1|hum|p1h2|禮貌與安全
+M:別人幫助了我們，我們應該說甚麼禮貌說話？|謝謝|對不起|再見|不用客氣|接受別人幫助後應說「謝謝」表示感謝。
+M:過馬路時，行人交通燈亮起「紅公仔」，我們應該怎樣做？|停在行人路上等候|立即衝過馬路|在馬路中間玩耍|閉上眼睛走過去|紅燈代表禁止通行，必須停在行人路上等候綠燈。
+M:早上見到老師和同學時，應該說甚麼？|早安|晚安|對不起|沒關係|早上見面打招呼應說「早安」。
+S:不小心撞倒別人，我們應該有禮貌地說「___」。|對不起|做錯事或撞倒別人時，應主動說「對不起」。
+T:留在家中時，不可以隨便替陌生人開門。|為了個人及家居安全，不應替陌生人開門。
+F:手濕的時候去觸摸電掣是十分安全的。|水能導電，濕手觸摸電掣會有觸電危險。
+## P1|sci|p1s8|五官與身體健康
+M:我們用哪一個感覺器官來分辨花朵的香味？|鼻子|耳朵|眼睛|舌頭|鼻子負責嗅覺，用來聞氣味。
+M:想要保護眼睛，以下哪一種做法是正確的？|在光線充足的地方看書|在黑暗的房間玩手機|躺在床上看書|用骯髒的手揉眼睛|光線充足並保持適當距離才能保護視力。
+M:以下哪一種習慣有助預防病菌傳播？|進食前和如廁後徹底洗手|不洗手就拿食物吃|打噴嚏時不掩着口鼻|每天不刷牙|勤洗手能有效清除手上的病菌。
+S:我們每天早晚都要用牙刷和牙膏 ___，保護牙齒健康。|刷牙|早晚刷牙可以清除牙菌膜和食物殘渣，預防蛀牙。
+T:充足的睡眠和適量的運動，能令身體健康強壯。|休息與運動對兒童成長非常重要。
+F:舌頭是用來聽聲音的感覺器官。|舌頭負責味覺（嚐味道），耳朵才是用來聽聲音的。
+## P1|sci|p1s9|動植物與四季
+M:植物生長需要陽光、空氣和甚麼？|水|糖果|玩具|石頭|植物需要陽光、空氣、水和養分才能健康生長。
+M:以下哪一種動物會在水裏游，而且用鰓呼吸？|魚|小鳥|小狗|蝴蝶|魚類生活在水中，用鰭游泳，用鰓呼吸。
+M:香港的哪一個季節天氣最寒冷，大家要穿厚外套？|冬季|夏季|春季|秋季|冬季氣溫較低，天氣寒冷乾燥。
+S:夏天陽光猛烈，天氣十分 ___，外出時要多喝水。|炎熱|香港夏季天氣炎熱潮濕，要注意補充水分防中暑。
+T:狗、貓和兔子都是有生命的動物，需要食物和水。|動物屬於生物，需要水和食物維持生命。
+F:塑膠花會自己長大和開花，所以它是植物。|塑膠花沒有生命，不會生長，不是真正的植物。
+## P3|chi|p3c1|四字詞語與校園生活
+M:運動會上，同學們在跑道旁大聲為健兒打氣，場面十分（ ）。|熱鬧非凡|鴉雀無聲|冷冷清清|半途而廢|「熱鬧非凡」形容場面非常熱鬧、充滿活力。
+M:做功課時必須（ ），才不會常常寫錯字。|專心致志|三心兩意|東張西望|馬馬虎虎|「專心致志」形容注意力高度集中、非常專心。
+M:遇到不懂的問題，我們應該（ ）地向老師請教。|虛心|驕傲|粗心|貪心|虛心請教是良好的學習態度。
+S:看到同學跌倒了，小美（ ）走上前扶起他。（填二字詞語：急忙、立刻的意思）|連忙/急忙/立刻|「連忙」、「急忙」或「立刻」都表示立即行動。
+T:「守望相助」的意思是大家互相幫助、互相照顧。|鄰里或同學之間互相幫助稱為守望相助。
+F:「半途而廢」是讚賞別人做事非常有恆心、堅持到底。|「半途而廢」指做事中途放棄，未能堅持到底。
+## P3|chi|p3c2|結構助詞「的、地、得」
+M:選出正確的助詞：「小鳥在藍天上自由自在（ ）飛翔。」|地|的|得|着|動詞「飛翔」前面的修飾語，應配結構助詞「地」。
+M:選出正確的助詞：「這朵紅花開（ ）真美麗！」|得|的|地|了|動詞「開」後面補充說明程度，應配結構助詞「得」。
+M:選出正確的助詞：「媽媽買了一個香甜（ ）大西瓜。」|的|地|得|過|名詞「大西瓜」前面的形容詞，應配結構助詞「的」。
+S:請填上「的、地、得」：弟弟跑（ ）很快，轉眼就到了終點。|得|動詞「跑」後面補充說明快慢程度，用「得」。
+T:「溫暖的陽光」中，因為「陽光」是名詞，所以前面用「的」。|「形容詞＋的＋名詞」是正確用法。
+F:「他高興得跳了起來」中的「得」應該改為「的」。|「高興得跳了起來」是用「得」連接後面的程度補語，原句正確。
+## P3|chi|p3c3|標點符號與反義詞
+M:「節儉」的反義詞是甚麼？|浪費|吝嗇|珍惜|勤勞|節儉指愛惜物力不胡亂花費，相反詞是「浪費」。
+M:「謙虛」的反義詞是甚麼？|驕傲|誠實|勇敢|禮貌|謙虛的相反詞是「驕傲」或「自滿」。
+M:選出標點符號完全正確的一句：|媽媽問：「你今天做完功課了嗎？」|媽媽問。「你今天做完功課了嗎！」|媽媽問：「你今天做完功課了嗎。」|媽媽問，「你今天做完功課了嗎」|提示語「媽媽問」後用冒號和引號，疑問句句末用問號。
+S:「整齊」的反義詞是（ ）。|凌亂/雜亂/混亂|整齊的相反詞是「凌亂」或「雜亂」。
+T:用於並列詞語之間的標點符號「、」叫做頓號。|例如「蘋果、橙和香蕉」中的「、」是頓號。
+F:感嘆句的句末應該使用問號「？」。|感嘆句句末應使用感嘆號「！」，疑問句才用問號「？」。
+## P3|chi|p3c4|比喻句與擬人句
+M:「圓圓的月亮像一個銀色的大玉盤。」這句話運用了甚麼修辭手法？|比喻|擬人|排比|反問|把「月亮」比作「大玉盤」，有喻詞「像」，屬於比喻句。
+M:「春風溫柔地撫摸着小草的臉龐。」這句話運用了甚麼修辭手法？|擬人|比喻|誇張|設問|把「春風」和「小草」當作人來寫（溫柔地撫摸、臉龐），屬於擬人句。
+M:以下哪一句是比喻句？|紅通通的太陽像一個大火球。|小鳥在樹枝上快樂地唱歌。|他長得像他爸爸一樣高。|今天好像快要下雨了。|把太陽比作大火球是比喻；「像爸爸」是同類比較，「好像下雨」是推測。
+S:「小溪在山谷裏快樂地唱歌。」這句把小溪當作人來寫，運用了（ ）修辭手法。|擬人|賦予小溪人的動作「快樂地唱歌」，是擬人法。
+T:比喻句通常由「本體」、「喻詞」和「喻體」三部分組成。|例如「太陽（本體）像（喻詞）大火球（喻體）」。
+F:「花兒在風中向我們點頭微笑」是比喻句。|「點頭微笑」是人的動作，這是擬人句，不是比喻句。
+## P3|chi|p3c5|關聯詞與重組句子
+M:選出適當的關聯詞：「（ ）今天下着大雨，（ ）運動會改期舉行。」|因為……所以……|雖然……但是……|不但……而且……|如果……就……|前半句是原因，後半句是結果，應用因果關聯詞「因為……所以……」。
+M:選出適當的關聯詞：「（ ）這道數學題很難，小強（ ）沒有放棄。」|雖然……但是……|因為……所以……|只要……就……|與其……不如……|前後分句意思轉折，應用「雖然……但是……」。
+O:同學們>在操場上>高興地>做早操|請把詞語重組成通順的句子|按「人物＋地點＋狀語＋動作」排列：同學們在操場上高興地做早操。
+O:圖書館裏>擺放着>各式各樣的>圖書|請把詞語重組成通順的句子|按「地點＋動作＋形容詞＋名詞」排列：圖書館裏擺放着各式各樣的圖書。
+O:只要我們>努力學習>就一定會>取得進步|請把詞語重組成通順的句子|條件複句：只要我們努力學習，就一定會取得進步。
+T:「他不但成績好，而且樂於助人。」這是一句遞進複句。|「不但……而且……」表示更進一層的遞進關係。
+## P3|math|p3m1|五位數與位值
+M:在五位數「58 329」中，數字「8」是在哪一個位？|千位|萬位|百位|十位|由右至左依次是個、十、百、千、萬位，8 在千位，代表 8000。
+M:「三萬四千零五十六」寫作阿拉伯數字是多少？|34056|34560|30456|340056|30000＋4000＋50＋6＝34056。
+S:在「72 614」中，萬位數字是 7，代表 ___。|70000|萬位上的 7 代表 7 個一萬，即 70000。
+S:用 0、2、5、8、9 五個數字組成最小的五位數（數字不可重複），答案是 ___。|20589|萬位不可為 0，最小選 2，其餘由小至大排列：20589。
+T:最大的四位數是 9999，加 1 後就變成最小的五位數 10000。|9999＋1＝10000。
+F:在「40 500」中，百位上的「5」代表 5000。|百位上的 5 代表 500，不是 5000。
+## P3|math|p3m2|三位數乘除與餘數
+M:245 × 3 ＝ ？|735|725|635|745|200×3＝600，40×3＝120，5×3＝15；600＋120＋15＝735。
+M:85 ÷ 6 的商和餘數是多少？|14 … 1|13 … 7|14 … 2|15 … 1|6×14＝84，85－84＝1，所以商是 14，餘數是 1。
+S:每盒朱古力有 108 粒，買 6 盒共有朱古力 ___ 粒。|648|108×6＝648（粒）。
+S:把 432 本圖書平均分給 4 個班別，每班可分得圖書 ___ 本。|108|432÷4＝108（本）。
+T:在有餘數的除法中，餘數一定要比除數小。|如果餘數大於或等於除數，表示商還可以再加。
+F:0 乘以任何數都等於原來的數。|0 乘以任何數都等於 0。
+## P3|math|p3m3|四則混合計算
+M:計算：25 ＋ 15 × 4 ＝ ？|85|160|75|95|先乘後加：15×4＝60，25＋60＝85。
+M:計算：(72 － 24) ÷ 6 ＝ ？|8|68|12|9|先算括號內：72－24＝48，再算 48÷6＝8。
+S:計算：120 － 18 × 5 ＝ ___。|30|先算乘法 18×5＝90，再算 120－90＝30。
+S:計算：36 ÷ (9 － 3) ＝ ___。|6|先算括號內 9－3＝6，再算 36÷6＝6。
+T:四則混合計算時，如果有括號，要先計算括號裏面的部分。|括號具有優先計算權。
+F:計算 40 － 16 ÷ 4 時，應該先算 40 － 16 ＝ 24，再除以 4 得 6。|應先除後減：16÷4＝4，40－4＝36。
+## P3|math|p3m4|長度(毫米與公里)與時間(秒)
+M:量度一枚硬幣的厚度，最適合使用哪一個長度單位？|毫米 (mm)|公里 (km)|米 (m)|厘米 (cm)|硬幣很薄，用毫米 (mm) 最準確。
+M:由香港島到九龍的距離，最適合使用哪一個長度單位？|公里 (km)|毫米 (mm)|厘米 (cm)|分米|較遠的地理距離用公里 (km)。
+S:3 公里 ＝ ___ 米。|3000|1 公里 ＝ 1000 米，3 公里 ＝ 3000 米。
+S:2 分鐘 15 秒 ＝ ___ 秒。|135|2 分鐘 ＝ 2×60 ＝ 120 秒，120＋15＝135 秒。
+T:1 厘米等於 10 毫米，所以 50 毫米等於 5 厘米。|1 cm ＝ 10 mm，50 mm ＝ 5 cm。
+F:秒針在鐘面上走一圈是 1 小時。|秒針走一圈是 60 秒，即 1 分鐘。
+## P3|math|p3m5|分數初階與長方形周界
+M:把一個蛋糕平均分成 8 份，吃了其中的 3 份，即吃了全個蛋糕的幾分之幾？|3/8|5/8|3/5|8/3|平均分成 8 份，分母是 8；取 3 份，分子是 3，即 3/8。
+M:比較同分母分數的大小：2/7、5/7、4/7，哪一個最大？|5/7|2/7|4/7|一樣大|分母相同時，分子越大，分數越大，所以 5/7 最大。
+S:一個長方形長 12 厘米，闊 8 厘米，它的周界是 ___ 厘米。|40|長方形周界 ＝ (長＋闊)×2 ＝ (12＋8)×2 ＝ 40 厘米。
+S:一個正方形的邊長是 9 厘米，它的周界是 ___ 厘米。|36|正方形周界 ＝ 邊長×4 ＝ 9×4 ＝ 36 厘米。
+T:1 可以寫成分子與分母相同的分數，例如 4/4 或 6/6。|把整體平均分成若干份並取全部，數值等於 1。
+F:1/5 比 1/2 大，因為 5 比 2 大。|分子相同時，分母越大，每份越小，所以 1/5 比 1/2 小。
+## P3|hum|p3h1|香港十八區與地圖
+M:香港一共分為多少個行政區？|18區|12區|9區|20區|香港全境共分為 18 個行政區（港島 4 區、九龍 5 區、新界 9 區）。
+M:香港國際機場位於哪一個島嶼附近（赤鱲角）？|大嶼山|香港島|長洲|南丫島|香港國際機場位於大嶼山以北的赤鱲角，屬離島區。
+M:閱讀地圖時，如果沒有特別標示方向標，地圖的上方通常代表哪個方向？|北方|南方|東方|西方|一般地圖按「上北、下南、左西、右東」繪製。
+S:地圖上用來解釋各種符號代表甚麼景物的說明表，稱為（ ）。|圖例|圖例（Legend）用來說明地圖符號的含義。
+T:沙田區、元朗區和大埔區都位於新界。|新界共有 9 個行政區，包括沙田、元朗、大埔等。
+F:中西區和灣仔區都位於九龍半島。|中西區和灣仔區位於香港島，不是九龍半島。
+## P3|hum|p3h2|精明消費者與社區
+M:購買預先包裝食物時，我們應該查看包裝上的甚麼資料，確保食物沒有過期？|食用期限（此日期前最佳／此日期或之前食用）|包裝盒的顏色|廣告明星的名字|店舖的招牌|查看食用期限才能確保食物安全新鮮。
+M:以下哪一項是「需要」（生活必需品），而不是「想要」（非必需品）？|每天飲用的清水和健康正餐|最新款的電子遊戲機|昂貴的限量版玩具|名牌裝飾品|水、食物、衣物和住所是維持基本生活的「需要」。
+M:社區內的消防局主要為市民提供甚麼服務？|滅火及救援服務|借閱圖書服務|派遞信件服務|售賣蔬菜水果|消防處負責滅火、救援及防火宣傳工作。
+S:香港市民在遇到緊急火警或有人嚴重受傷時，可致電緊急求助電話（ ）。|999|香港緊急求助電話是 999。
+T:購物時自備環保袋，減少使用膠袋，是愛護環境的精明表現。|自備購物袋符合環保「減廢」原則。
+F:精明消費者購物時只需要看廣告宣傳，不需要比較價錢和品質。|精明消費者應貨比三家，考慮實際需要、品質與價錢。
+## P3|hum|p3h3|香港歷史與古蹟
+M:昔日香港還未發展成現代化都市之前，主要從事甚麼行業？|漁業和農業（捕魚和耕種）|太空科技業|汽車製造業|大型軟件開發|早期香港居民多以捕魚、耕種、製鹽等為生。
+M:位於九龍城區宋皇臺公園內的「宋皇臺」石刻，與哪一個朝代的歷史有關？|宋朝|唐朝|漢朝|明朝|相傳南宋末年宋帝昺與宋端宗曾逃難至此，後人刻「宋皇臺」紀念。
+M:新界不少傳統圍村四周築有高牆和圍門，當年主要是為了甚麼用途？|防禦盜賊和野獸，保護村民安全|用來遮擋陽光|方便停泊飛機|用來舉辦游泳比賽|圍村的圍牆、更樓和護城河具有防禦盜賊、保障安全的功能。
+S:參觀法定古蹟或博物館時，我們應該（ ）文物，不可胡亂塗鴉或破壞。|愛護|愛護文物古蹟是每位市民的責任。
+T:香港尖沙咀鐘樓（前九廣鐵路鐘樓）是香港著名的法定古蹟之一。|尖沙咀鐘樓建於 1915 年，已被列為香港法定古蹟。
+F:法定古蹟已經很舊，全部拆掉改建商場會更有歷史價值。|古蹟見證香港歷史發展，具有珍貴文化價值，必須妥善保育。
+## P3|sci|p3s1|健康飲食與牙齒護理
+M:根據「健康飲食金字塔」，我們每天應該吃最多的是哪一類食物？|穀物類（如飯、粉、麵、麵包）|油、鹽、糖類|肉、魚、蛋及代替品|奶類及代替品|穀物類位於金字塔底層，提供身體所需能量，應吃最多。
+M:人的一生中會有兩副牙齒，幼兒時期長出的第一副牙齒叫甚麼？|乳齒|恆齒|智慧齒|假牙|第一副牙齒稱為乳齒（共20顆），換牙後長出的是恆齒。
+M:在各類牙齒中，形狀像小鏟子、主要用來切斷食物的是哪一種牙齒？|門齒|臼齒|犬齒|智齒|門齒位於口腔前方，負責切斷食物；犬齒負責撕裂；臼齒負責磨碎。
+S:我們吃得太多甜食又沒有清潔牙齒，口腔內的細菌會產生酸性物質，引致（ ）。|蛀牙|細菌分解糖分產生酸，侵蝕牙齒表面形成蛀牙。
+T:蔬菜和水果含有豐富的膳食纖維和維生素，有助保持腸道健康。|多吃蔬果能預防便秘及補充維生素。
+F:油、鹽和糖味道很好，所以在健康飲食金字塔中應該吃最多。|油、鹽、糖位於金字塔頂層，吃得太多會損害健康，應吃最少。
+## P3|sci|p3s2|植物與動物分類
+M:以下哪一種動物屬於「哺乳類」（大多是胎生，幼崽喝母乳長大）？|海豚|企鵝|青蛙|金魚|海豚用肺呼吸、胎生並以母乳哺育幼崽，屬於哺乳類。
+M:鳥類身體表面有羽毛，並且有甚麼特徵？|有翅膀、有喙，並且是卵生|用鰓呼吸|全身長滿鱗片並終生生活在水裏|沒有脊椎骨|鳥類特徵是體表被覆羽毛、有翼、有喙、卵生及恆溫。
+M:植物根部的主要功能是固定植物，以及從泥土中吸收甚麼？|水分和養分（礦物質）|陽光|二氧化碳|花蜜|植物的根負責固定植株並吸收泥土中的水分與養分。
+S:昆蟲的身體分為頭、胸、腹三部分，而且胸部生有（ ）對足（即 6 隻腳）。|3|昆蟲的共同特徵是頭、胸、腹三節及 3 對足（6 隻腳）。
+T:植物葉片在陽光下能進行光合作用，製造養分並釋放氧氣。|葉片含葉綠素，利用陽光、水和二氧化碳進行光合作用。
+F:蜘蛛有 8 隻腳，所以蜘蛛也屬於昆蟲類。|昆蟲只有 6 隻腳，蜘蛛有 8 隻腳，屬於蛛形綱，不是昆蟲。
+## P3|sci|p3s3|空氣、水與天氣變化
+M:空氣中含有多種氣體，人和動物呼吸時需要吸入空氣中的哪一種氣體來維持生命？|氧氣|二氧化碳|水蒸氣|氦氣|人類和動物呼吸需要氧氣。
+M:純淨的水在正常情況下具有甚麼特性？|無色、無味、無臭、透明|白色、甜味|藍色、鹹味|有固定形狀的固體|純水是無色、無味、無臭的透明液體。
+M:地面和海面的水受熱後變成水蒸氣升上天空，遇冷凝結成小水點，聚集在一起就形成甚麼？|雲|彩虹|雷電|陽光|水蒸氣升上高空遇冷凝結成無數小水滴或小冰晶，形成雲。
+S:水在 0°C 或以下會凝結成固態的（ ）；加熱沸騰時會變成氣態的水蒸氣。|冰|水有三態：固態（冰）、液態（水）、氣態（水蒸氣）。
+T:風是由空氣流動所產生的現象。|冷熱空氣流動形成風。
+F:燃燒蠟燭時不需要空氣，把玻璃杯蓋住蠟燭，蠟燭會燒得更旺。|燃燒需要氧氣，用杯蓋住蠟燭耗盡氧氣後，蠟燭便會熄滅。
+## P6|chi|p6c1|成語運用與褒貶義
+M:以下哪一個成語屬於「褒義詞」（帶有讚揚、肯定的感情色彩）？|見義勇為|處心積慮|狐假虎威|守株待兔|「見義勇為」指看到合乎正義的事就勇敢去做，屬褒義詞；其餘均帶貶義。
+M:「消防員（ ）地衝進火場救出受困市民，令人敬佩。」括號內應填入哪個成語？|奮不顧身|袖手旁觀|驚慌失措|半途而廢|「奮不顧身」形容振作勇氣，不顧自身安危，最合句意。
+M:以下哪一個成語屬於「貶義詞」（帶有批評、否定的感情色彩）？|弄虛作假|鍥而不捨|雪中送炭|精益求精|「弄虛作假」指製造假象欺騙別人，屬貶義詞。
+S:這件工藝品雕刻得十分精細，真是（ ）！（填形容技藝極高超、宛如天成的成語）|巧奪天工|「巧奪天工」形容人工的精巧勝過天然。
+T:「同舟共濟」比喻大家團結一致，共同渡過難關，屬於褒義成語。|同坐一條船渡河，比喻同心協力戰勝困難。
+F:「畫蛇添足」是用來讚賞別人做事非常細心、考慮周全。|「畫蛇添足」比喻做了多餘的事，反而不恰當，屬貶義。
+## P6|chi|p6c2|複句關聯詞（既然、即使、無論）
+M:選出適當的關聯詞：「（ ）你已經答應了別人，（ ）應該守信用把事情做好。」|既然……就……|即使……也……|與其……不如……|無論……都……|前半句提出既定事實，後半句推論應有做法，用「既然……就……」。
+M:選出適當的關聯詞：「（ ）遇到多大的風浪，救援人員（ ）堅持繼續搜尋。」|無論……都……|因為……所以……|如果……就……|不但……反而……|「無論……都……」表示在任何條件下結果都不改變（無條件複句）。
+M:選出適當的關聯詞：「（ ）明天下大雨，我們的義工探訪活動（ ）會如期室內進行。」|即使……也……|既然……就……|因為……所以……|只要……就……|「即使……也……」表示假設讓步關係。
+O:與其在家裏>浪費時間>不如到圖書館>閱讀課外書|請把詞語重組成通順的取捨複句|「與其……不如……」表示比較後作出取捨：與其在家裏浪費時間，不如到圖書館閱讀課外書。
+O:無論學習上>遇到甚麼困難>我們都不應該>輕易放棄|請把詞語重組成通順的條件複句|「無論……都……」無條件複句：無論學習上遇到甚麼困難，我們都不應該輕易放棄。
+T:「只有平時努力溫習，考試時才能取得理想成績。」這是必要條件複句。|「只有……才……」強調缺少該條件就不能產生後面的結果。
+## P6|chi|p6c3|修辭辨析（排比、反問、設問、誇張）
+M:「難道我們不應該愛護自己的地球嗎？」這句話運用了甚麼修辭手法？|反問|設問|排比|比喻|用疑問的形式表達確定的意思（我們應該愛護地球），只問不答，是反問。
+M:「是誰在默默為社會服務？是辛勤的清潔工人。」這句話運用了甚麼修辭手法？|設問|反問|誇張|擬人|自問自答，以引起讀者注意和思考，屬於設問。
+M:「那裏的瀑布從高處傾瀉而下，聲音震耳欲聾，幾十里外都震動起來。」這句話運用了甚麼修辭手法？|誇張|設問|排比|對偶|故意把瀑布的聲勢擴大（「震耳欲聾、幾十里外都震動」），屬於誇張。
+S:「時間就是生命，時間就是知識，時間就是力量。」把三個結構相同、語氣一致的句子排列在一起，這種修辭手法稱為（ ）。|排比|三個或以上結構相同、字數相近的句子並排，稱為排比。
+T:反問句雖然句末用問號，但答案已經包含在問句之中，不需要別人回答。|反問是用疑問句式加強肯定或否定語氣。
+F:「教室裏安靜得連一根針掉在地上也聽得見。」這句話運用了擬人修辭手法。|這是故意縮小聲響來突顯安靜的「誇張」手法，不是擬人。
+## P6|chi|p6c4|病句修改與標點符號
+M:「經過老師耐心的教導，使我明白了這個道理。」這句病句有甚麼毛病？|成分殘缺（缺少主語，應刪去「經過」或「使」）|用詞不當|前後矛盾|次序顛倒|同時用「經過……」和「使……」會令句子失去主語，刪去其一即可。
+M:「昨天全班同學基本上都全部交齊了功課。」這句病句有甚麼毛病？|前後矛盾（「基本上」與「全部」矛盾）|缺少謂語|褒貶顛倒|主賓不配|「基本上」表示大多數，「全部」表示無一例外，兩者自相矛盾。
+M:選出書名號用法完全正確的一句：|我最喜歡閱讀《西遊記》這部古典小說。|我最喜歡閱讀「西遊記」這部古典小說。|我最喜歡閱讀《西遊記這部古典小說》。|我最喜歡閱讀（西遊記）這部古典小說。|書名、篇名、報刊名應使用書名號《 》，且只括住書名本身。
+S:修改病句：「我們在公園裏看見五顏六色的紅花。」應刪去「（ ）」一詞，避免前後矛盾。|五顏六色|「五顏六色」指多種顏色，與「紅花」矛盾（或刪去「紅」字改為「鮮花」）。
+T:破折號「——」可以用來表示解釋說明，或者表示聲音的延長。|破折號常見作用包括解釋說明、話題轉折和聲音延長。
+F:「他穿着一件白色上衣和一頂藍色帽子。」這句話沒有語病。|動詞「穿着」不能配「帽子」，應改為「他穿着一件白色上衣，戴着一頂藍色帽子」。
+## P6|chi|p6c5|閱讀理解與書信公函格式
+M:撰寫中文傳統書信時，給長輩（如父母、老師）的「祝頌語」，以下哪一個最恰當？|敬祝 安康|祝 學業進步|祝 生意興隆|此致 敬禮|對長輩祝頌語可用「敬祝 安康」或「敬請 福安」；「學業進步」用於同輩或晚輩。
+M:在中文書信格式中，「稱謂」（收信人稱呼）應該寫在信紙的哪個位置？|第一行頂格（最左方不留空格），後加冒號|第一行空兩格|信末右下角|信紙正中央|書信稱謂必須在第一行頂格書寫，後面加上冒號「：」。
+M:閱讀文章時，如果某一段落在文章中間，既總結上文內容，又引出下文內容，這段落在結構上起甚麼作用？|承上啟下（過渡）|開門見山|點明主題|首尾呼應|連接上文並引出下文的段落稱為「過渡段」，作用是承上啟下。
+S:書信結尾寫完祝頌語後，在信紙右下方寫上寄信人自己的名字，這部分稱為（ ）。|署名|寫信人自己的姓名稱為「署名」，署名下再寫日期。
+T:議論文的三要素是「論點」、「論據」和「論證」。|論點是作者的主張，論據是證明論點的事實或道理，論證是推理過程。
+F:寫信給老師時，在自己名字前面可以自稱「貴校學生」。|「貴」是敬辭，用來稱呼對方，不可用來稱呼自己；應自稱「學生」。
+## P6|math|p6m1|小數除法與四則混合
+M:計算：7.2 ÷ 0.8 ＝ ？|9|0.9|90|8|把被除數和除數同時乘以 10：72 ÷ 8 ＝ 9。
+M:計算：12.5 × 0.4 ＋ 3.2 ＝ ？|8.2|53.2|45|7.2|先乘後加：12.5 × 0.4 ＝ 5，5 ＋ 3.2 ＝ 8.2。
+S:計算：15.6 ÷ 1.2 ＝ ___。|13|同時乘以 10：156 ÷ 12 ＝ 13。
+S:計算：(9.6 － 2.4) ÷ 0.6 ＝ ___。|12|先算括號內 9.6 － 2.4 ＝ 7.2，再算 7.2 ÷ 0.6 ＝ 12。
+T:計算小數除法時，可以先把除數擴大成整數，被除數也同時擴大相同的倍數，商維持不變。|這是商不變性質。
+F:3.5 ÷ 0.5 的答案是 0.7。|3.5 ÷ 0.5 ＝ 35 ÷ 5 ＝ 7，不是 0.7。
+## P6|math|p6m2|小數、分數與百分數互化
+M:把分數 3/8 化為百分數是多少？|37.5%|38%|3.75%|75%|3 ÷ 8 ＝ 0.375 ＝ 37.5%。
+M:把百分數 75% 化為最簡分數是多少？|3/4|7/5|15/20|4/5|75% ＝ 75/100，分子分母同時除以 25 得 3/4。
+S:把小數 0.45 化為最簡分數（以 a/b 格式作答），答案是 ___。|9/20|0.45 ＝ 45/100，分子分母同時除以 5 得 9/20。
+S:把分數 4/5 化為百分數，答案是 ___%。|80|4/5 ＝ 0.8 ＝ 80%。
+T:1.25 化為百分數是 125%，化為帶分數是 1 又 1/4。|1.25 × 100% ＝ 125%，0.25 ＝ 1/4。
+F:把 6% 化為小數是 0.6。|6% ＝ 6/100 ＝ 0.06，0.6 是 60%。
+## P6|math|p6m3|百分數應用與折扣問題
+M:一件外套原價 250 元，現以「八折」發售，售價是多少元？|200元|220元|50元|180元|八折即原價的 80%：250 × 80% ＝ 200（元）。
+M:全班有學生 40 人，今天有 15% 的學生參加校外比賽，留在學校的有多少人？|34人|6人|25人|35人|40 × (1 － 15%) ＝ 40 × 85% ＝ 34（人）。
+S:一個書包原價 300 元，減價後售 240 元，書包減價了百分之幾？答案：___%。|20|減價金額 ＝ 300 － 240 ＝ 60 元；減價百分率 ＝ 60 ÷ 300 × 100% ＝ 20%。
+S:運動鞋原價 500 元，「六折」發售時的售價是 ___ 元。|300|六折即 60%：500 × 60% ＝ 300（元）。
+T:「九五折」的意思是售價是原價的 95%，即比原價便宜了 5%。|九五折 ＝ 95%，折扣率為 5%。
+F:某商品先加價 10%，再減價 10%，最後售價與原價完全相同。|設原價 100 元，加 10% 後是 110 元，再減 10% 是 110 × 0.9 ＝ 99 元，比原價低。
+## P6|math|p6m4|圓周與圓面積（π取3.14或22/7）
+M:一個圓的半徑是 7 厘米，它的圓周是多少厘米？（取 π ＝ 22/7）|44厘米|22厘米|154厘米|88厘米|圓周 ＝ 2 × π × r ＝ 2 × (22/7) × 7 ＝ 44（厘米）。
+M:一個圓的直徑是 10 厘米，它的圓周是多少厘米？（取 π ＝ 3.14）|31.4厘米|62.8厘米|78.5厘米|314厘米|圓周 ＝ π × d ＝ 3.14 × 10 ＝ 31.4（厘米）。
+S:一個圓的半徑是 5 厘米，它的面積是 ___ 平方厘米。（取 π ＝ 3.14）|78.5|圓面積 ＝ π × r² ＝ 3.14 × 5 × 5 ＝ 78.5（平方厘米）。
+S:一個圓的半徑是 7 米，它的面積是 ___ 平方米。（取 π ＝ 22/7）|154|圓面積 ＝ (22/7) × 7 × 7 ＝ 154（平方米）。
+T:同一個圓內，直徑的長度永遠是半徑的 2 倍。|d ＝ 2r。
+F:圓的半徑擴大為原來的 2 倍，圓面積也只會擴大為原來的 2 倍。|面積與半徑的平方成正比，半徑擴大 2 倍，面積會擴大為 2×2＝4 倍。
+## P6|math|p6m5|速率、長方體體積與簡易方程
+M:一輛汽車在 3 小時內行駛了 240 公里，它的平均速率是多少？|80 公里/小時|720 公里/小時|60 公里/小時|90 公里/小時|速率 ＝ 距離 ÷ 時間 ＝ 240 ÷ 3 ＝ 80（公里/小時）。
+M:一個長方體水箱長 8 厘米、闊 5 厘米、高 4 厘米，它的體積是多少立方厘米？|160 立方厘米|17 立方厘米|80 立方厘米|120 立方厘米|長方體體積 ＝ 長 × 闊 × 高 ＝ 8 × 5 × 4 ＝ 160（立方厘米）。
+S:解方程：3x ＋ 5 ＝ 29，x ＝ ___。|8|3x ＝ 29 － 5 ＝ 24，x ＝ 24 ÷ 3 ＝ 8。
+S:小巴的平均速率是 65 公里/小時，行駛 4 小時共走了 ___ 公里。|260|距離 ＝ 速率 × 時間 ＝ 65 × 4 ＝ 260（公里）。
+T:1 升（L）的水體積等於 1000 立方厘米（cm³）。|1 L ＝ 1000 mL ＝ 1000 cm³。
+F:解方程「2y － 6 ＝ 10」時，移項後得到 2y ＝ 10 － 6，所以 y ＝ 2。|移項後應為 2y ＝ 10 ＋ 6 ＝ 16，所以 y ＝ 8。
+## P6|hum|p6h1|中國近代歷史與國家發展
+M:1911 年爆發、推翻清朝帝制並建立中華民國的歷史事件是甚麼？|辛亥革命|五四運動|鴉片戰爭|洋務運動|1911 年孫中山先生等領導辛亥革命，結束中國二千多年封建帝制。
+M:中國古代四大發明中，哪一項發明對世界航海事業的發展貢獻最大？|指南針|造紙術|印刷術|火藥|指南針用於航海辨別方向，促進了世界航海與貿易發展。
+M:近年中國積極建設、連接大灣區三個城市（香港、珠海、澳門）的大型跨海基建是甚麼？|港珠澳大橋|青馬大橋|汀九橋|昂船洲大橋|港珠澳大橋連接香港、珠海和澳門，是世界最長的跨海大橋之一。
+S:中華人民共和國的國歌是《___》。|義勇軍進行曲|《義勇軍進行曲》由田漢作詞、聶耳作曲。
+T:改革開放政策自 1978 年推行以來，中國的經濟、科技和人民生活水平都取得了巨大發展。|深圳等經濟特區及全國經濟在改革開放後迅速騰飛。
+F:造紙術和活字印刷術都是由外國傳入中國的發明。|造紙術（蔡倫改進）與活字印刷術（畢昇發明）均為中國古代四大發明。
+## P6|hum|p6h2|基本法與香港國際聯繫
+M:香港特別行政區於哪一年 7 月 1 日正式成立，回歸祖國？|1997年|1984年|1999年|2000年|1997 年 7 月 1 日香港回歸祖國，成立香港特別行政區。
+M:根據《基本法》，香港特別行政區實行甚麼方針，保持原有的資本主義制度和生活方式五十年不變？|一國兩制、港人治港、高度自治|完全獨立制度|農業自給自足制度|閉關自守制度|《基本法》落實「一國兩制」、「港人治港」、高度自治方針。
+M:香港是國際著名的金融、貿易和航運中心，以下哪一項是香港的優勢？|地理位置優越、資訊流通自由及健全的法律制度|擁有豐富的石油和煤礦資源|全境都是大片沙漠|只允許使用單一語言|香港具備優良海港、自由港政策、普通法制度及兩文三語優勢。
+S:香港特別行政區區旗上的圖案是一朵白色的動態五瓣（ ）花。|紫荊|香港區旗和區徽均以五瓣紫荊花及五顆星為核心圖案。
+T:《中華人民共和國憲法》和《基本法》共同構成香港特別行政區的憲制基礎。|憲法是國家根本大法，基本法根據憲法制定。
+F:根據《基本法》，香港特別行政區的外交和國防事務由香港自行負責，與中央人民政府無關。|根據《基本法》，中央人民政府負責管理與香港特區有關的外交事務和防務。
+## P6|hum|p6h3|地球村與可持續發展
+M:隨着温室氣體排放增加，地球平均氣溫上升，這種全球環境問題稱為甚麼？|全球暖化（氣候變化）|地震海嘯|火山爆發|日食現象|二氧化碳等温室氣體過多導致温室效應加劇，引發全球暖化。
+M:以下哪一項能源屬於「可再生能源」（取之不盡，且較清潔環保）？|太陽能和風能|煤|石油|天然氣|太陽能、風能、水力能屬於可再生能源；煤、石油、天然氣屬化石燃料（不可再生）。
+M:負責維護國際和平與安全、促進國際合作的全球性政府間組織是甚麼？|聯合國 (UN)|奧林匹克委員會|童軍總會|街坊福利會|聯合國（United Nations）致力維護世界和平、推動可持續發展與人道救援。
+S:環保「4R」原則包括：減少使用（Reduce）、物盡其用（Reuse）、循環再造（Recycle）和（ ）（Replace）。|替代使用/替代|4R 為 Reduce、Reuse、Recycle、Replace（替代使用）。
+T:「可持續發展」是指在滿足當代人需要的同時，不損害後代人滿足其需要的能力。|兼顧經濟發展、社會進步與環境保育是可持續發展的核心。
+F:地球上的淡水資源非常豐富，完全不需要節約用水。|地球上絕大部分是鹹水，可供人類直接使用的淡水資源十分有限，必須珍惜。
+## P6|sci|p6s1|生物的適應與食物鏈
+M:沙漠氣候炎熱乾旱，仙人掌的葉片演化成甚麼形狀，以減少水分蒸發？|針狀（刺）|闊大的荷葉狀|長條絲帶狀|花朵狀|仙人掌的葉退化成針刺，減少水分流失，莖部肥厚可儲水。
+M:北極熊生活在嚴寒的極地，牠身體有甚麼特徵幫助牠適應環境？|厚厚的脂肪層和濃密的白色毛皮|全身長滿羽毛|用鰓在水底呼吸|皮膚表面沒有毛髮|厚脂肪和密毛能保暖，白色毛皮亦起保護色作用。
+M:在「草 → 兔子 → 狐狸」這條食物鏈中，「草」扮演甚麼角色？|生產者|初級消費者|次級消費者|分解者|綠色植物能透過光合作用自己製造食物，是食物鏈的「生產者」。
+S:變色龍和竹節蟲能夠改變體色或外形，令自己與周圍環境相似以避開天敵，這種適應方式稱為（ ）色或擬態。|保護|與環境顏色相似以隱藏自己的顏色稱為「保護色」。
+T:食物鏈通常由綠色植物（生產者）開始，能量沿着食物鏈傳遞給消費者。|所有動物直接或間接依賴植物製造的養分生存。
+F:如果森林裏的樹木被大量砍伐，只會影響植物，對棲息在森林裏的動物完全沒有影響。|森林是動物的棲息地和食物來源，濫伐林木會破壞生態平衡，甚至令物種滅絕。
+## P6|sci|p6s2|能量轉換與簡單機械
+M:開動電風扇時，主要是將「電能」轉換成甚麼能量？|動能（機械能）|化學能|光能|核能|電風扇通電後扇葉轉動，主要是電能轉換成動能。
+M:升旗禮時，旗杆頂部用來改變用力方向、把國旗拉上去的簡單機械是甚麼？|定滑輪|斜面|劈（楔）|螺旋|旗杆頂部的滑輪位置固定，屬於「定滑輪」，能改變施力方向。
+M:使用剪刀剪東西或用撬棍撬起大石頭，這是應用了哪一種簡單機械的原理？|槓桿原理|滑輪原理|齒輪原理|斜面原理|剪刀和撬棍都有支點、施力點和抗力點，屬於槓桿。
+S:植物進行光合作用時，把太陽的「光能」轉換並儲存在植物體內，變成（ ）能。|化學|食物和植物體內儲存的能量屬於「化學能」。
+T:在斜面上推重物上車，比直接垂直搬上去更省力，但移動的距離較長。|斜面是一種省力但費距離的簡單機械。
+F:定滑輪不但可以改變用力的方向，還可以省一半的力。|定滑輪只能改變用力方向，不能省力；動滑輪才能省力。
+## P6|sci|p6s3|太空探索與環境保護
+M:太陽系八大行星中，我們居住的「地球」距離太陽由近至遠排在第幾位？|第三位|第一位|第五位|第八位|由近至遠依次為：水星、金星、地球、火星、木星、土星、天王星、海王星。
+M:月球本身不會發光，我們在夜空中看到明亮的月光，是因為甚麼原因？|月球反射了太陽的光|月球表面有大量火山在燃燒|月球裝滿了電燈|地球照亮了月球|月球是地球的天然衛星，本身不發光，靠反射太陽光而發亮。
+M:地球自西向東不停地「自轉」，自轉一圈大約需要多少時間，並形成甚麼現象？|約 24 小時（一天），形成晝夜交替現象|約 365 天（一年），形成四季更替|約 30 天，形成月相變化|約 1 小時，形成潮汐|地球自轉一圈約 24 小時（一天），向着太陽的一面是白晝，背着的是黑夜。
+S:中國自主研發並成功將航天員送入太空的載人飛船系列，命名為「（ ）」號（例如五號、舟系列）。|神舟|中國載人飛船系列為「神舟」號（如神舟五號楊利偉首次進入太空），月球探測工程則為「嫦娥」工程。
+T:地球除了自轉外，還會圍繞太陽「公轉」，公轉一周約需一年，並產生四季變化。|地球傾斜着自轉軸繞太陽公轉，形成四季更替。
+F:太陽系中體積最大的行星是水星。|太陽系中體積最大的行星是「木星」，最小的是「水星」。

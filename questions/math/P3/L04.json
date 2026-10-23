@@ -1,0 +1,110 @@
+{
+ "levelId": "p3m4",
+ "grade": "P3",
+ "subject": "math",
+ "lesson": "L04",
+ "title": "長度(毫米與公里)與時間(秒)",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "量度一枚硬幣的厚度，最適合使用哪一個長度單位？",
+   "answer": "毫米 (mm)",
+   "options": [
+    "毫米 (mm)",
+    "米 (m)",
+    "厘米 (cm)",
+    "公里 (km)"
+   ],
+   "explain": "硬幣很薄，用毫米 (mm) 最準確。",
+   "id": "MATH-P3-L04-001",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "分析",
+   "question": "量度一枚硬幣的厚度，最適合使用哪一個長度單位？",
+   "source": "課程補充題庫｜長度(毫米與公里)與時間(秒)",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "由香港島到九龍的距離，最適合使用哪一個長度單位？",
+   "answer": "公里 (km)",
+   "options": [
+    "毫米 (mm)",
+    "厘米 (cm)",
+    "公里 (km)",
+    "分米"
+   ],
+   "explain": "較遠的地理距離用公里 (km)。",
+   "id": "MATH-P3-L04-002",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "分析",
+   "question": "由香港島到九龍的距離，最適合使用哪一個長度單位？",
+   "source": "課程補充題庫｜長度(毫米與公里)與時間(秒)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "3 公里 ＝ ___ 米。",
+   "answer": [
+    "3000"
+   ],
+   "explain": "1 公里 ＝ 1000 米，3 公里 ＝ 3000 米。",
+   "id": "MATH-P3-L04-003",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "3 公里 ＝ ___ 米。",
+   "source": "課程補充題庫｜長度(毫米與公里)與時間(秒)",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "2 分鐘 15 秒 ＝ ___ 秒。",
+   "answer": [
+    "135"
+   ],
+   "explain": "2 分鐘 ＝ 2×60 ＝ 120 秒，120＋15＝135 秒。",
+   "id": "MATH-P3-L04-004",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "2 分鐘 15 秒 ＝ ___ 秒。",
+   "source": "課程補充題庫｜長度(毫米與公里)與時間(秒)",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "1 厘米等於 10 毫米，所以 50 毫米等於 5 厘米。",
+   "answer": true,
+   "explain": "1 cm ＝ 10 mm，50 mm ＝ 5 cm。",
+   "id": "MATH-P3-L04-005",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "理解",
+   "question": "1 厘米等於 10 毫米，所以 50 毫米等於 5 厘米。",
+   "source": "課程補充題庫｜長度(毫米與公里)與時間(秒)",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "秒針在鐘面上走一圈是 1 小時。",
+   "answer": false,
+   "explain": "秒針走一圈是 60 秒，即 1 分鐘。",
+   "id": "MATH-P3-L04-006",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L04",
+   "level": "理解",
+   "question": "秒針在鐘面上走一圈是 1 小時。",
+   "source": "課程補充題庫｜長度(毫米與公里)與時間(秒)",
+   "verified": false
+  }
+ ]
+}
