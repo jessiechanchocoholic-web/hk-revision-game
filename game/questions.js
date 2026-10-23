@@ -7721,6 +7721,8364 @@ window.QUESTION_BANK = {
    "verified": false
   },
   {
+   "id": "p1e5",
+   "grade": "P1",
+   "subject": "eng",
+   "title": "Grammar 1A–1B: Articles, Demonstratives & Pronouns",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "I want ___ apple and a banana.",
+     "answer": "an",
+     "options": [
+      "an",
+      "a",
+      "two",
+      "some"
+     ],
+     "explain": "apple 以元音（a, e, i, o, u）開頭，單數前要用不定冠詞 an。",
+     "id": "ENG-P1-L05-001",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "I want ___ apple and a banana.",
+     "source": "英文補充教材｜Grammar 1A–1B: Articles, Demonstratives & Pronouns",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Look at ___ bird in the sky! It is far away.",
+     "answer": "that",
+     "options": [
+      "those",
+      "these",
+      "this",
+      "that"
+     ],
+     "explain": "指遠處的單數物件或動物（bird）時，使用指示代詞 that。",
+     "id": "ENG-P1-L05-002",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Look at ___ bird in the sky! It is far away.",
+     "source": "英文補充教材｜Grammar 1A–1B: Articles, Demonstratives & Pronouns",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "___ are my colour pencils here in my hand.",
+     "answer": "These",
+     "options": [
+      "These",
+      "It",
+      "This",
+      "That"
+     ],
+     "explain": "指近處的複數物件（colour pencils）時，使用指示代詞 These。",
+     "id": "ENG-P1-L05-003",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "___ are my colour pencils here in my hand.",
+     "source": "英文補充教材｜Grammar 1A–1B: Articles, Demonstratives & Pronouns",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "This is my brother. ___ name is Leo.",
+     "answer": "His",
+     "options": [
+      "Their",
+      "His",
+      "My",
+      "Her"
+     ],
+     "explain": "brother 是男孩，表示「他的」要用物主形容詞 His。",
+     "id": "ENG-P1-L05-004",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "This is my brother. ___ name is Leo.",
+     "source": "英文補充教材｜Grammar 1A–1B: Articles, Demonstratives & Pronouns",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Our English teacher is very kind. We all like ___ (she / her).",
+     "answer": "her",
+     "options": [
+      "him",
+      "she",
+      "her",
+      "he"
+     ],
+     "explain": "動詞 like 後面要用受格代詞（object pronoun），女性用 her。",
+     "id": "ENG-P1-L05-005",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Our English teacher is very kind. We all like ___ (she / her).",
+     "source": "英文補充教材｜Grammar 1A–1B: Articles, Demonstratives & Pronouns",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "Fill in the article (a / an): There is ___ elephant in the zoo.",
+     "answer": [
+      "an"
+     ],
+     "explain": "elephant 以元音 e 開頭，單數前用 an。",
+     "id": "ENG-P1-L05-006",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Fill in the article (a / an): There is ___ elephant in the zoo.",
+     "source": "英文補充教材｜Grammar 1A–1B: Articles, Demonstratives & Pronouns",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "We use 'this' for one thing near us and 'that' for one thing far away.",
+     "answer": true,
+     "explain": "this 指近處單數，that 指遠處單數。",
+     "id": "ENG-P1-L05-007",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "We use 'this' for one thing near us and 'that' for one thing far away.",
+     "source": "英文補充教材｜Grammar 1A–1B: Articles, Demonstratives & Pronouns",
+     "verified": false
+    },
+    {
+     "type": "order",
+     "q": "Rearrange the words to form a correct sentence.",
+     "items": [
+      "This",
+      "is",
+      "my",
+      "new",
+      "eraser"
+     ],
+     "explain": "正確句序：This is my new eraser.（這是我的新橡皮擦。）",
+     "answer": [
+      "This",
+      "is",
+      "my",
+      "new",
+      "eraser"
+     ],
+     "id": "ENG-P1-L05-008",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Rearrange the words to form a correct sentence.",
+     "source": "英文補充教材｜Grammar 1A–1B: Articles, Demonstratives & Pronouns",
+     "verified": false
+    }
+   ],
+   "lesson": "L05",
+   "verified": false
+  },
+  {
+   "id": "p1e6",
+   "grade": "P1",
+   "subject": "eng",
+   "title": "Grammar 1B: Present Continuous, Can & Prepositions",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "Look! The frog ___ in the pond.",
+     "answer": "is jumping",
+     "options": [
+      "jumps",
+      "is jumping",
+      "are jumping",
+      "jump"
+     ],
+     "explain": "看到提示詞 Look! 表示動作正在進行，單數主語 The frog 配 is jumping。",
+     "id": "ENG-P1-L06-001",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "Look! The frog ___ in the pond.",
+     "source": "英文補充教材｜Grammar 1B: Present Continuous, Can & Prepositions",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Birds ___ fly in the sky, but they can't swim underwater.",
+     "answer": "can",
+     "options": [
+      "can",
+      "do",
+      "are",
+      "must"
+     ],
+     "explain": "表示能力「能夠／會飛」用情態動詞 can。",
+     "id": "ENG-P1-L06-002",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "Birds ___ fly in the sky, but they can't swim underwater.",
+     "source": "英文補充教材｜Grammar 1B: Present Continuous, Can & Prepositions",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Where is the puppy? It is sleeping ___ the chair.",
+     "answer": "under",
+     "options": [
+      "of",
+      "from",
+      "between",
+      "under"
+     ],
+     "explain": "under the chair 表示「在椅子下面」。",
+     "id": "ENG-P1-L06-003",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "Where is the puppy? It is sleeping ___ the chair.",
+     "source": "英文補充教材｜Grammar 1B: Present Continuous, Can & Prepositions",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "What ___ the children doing? They are singing.",
+     "answer": "are",
+     "options": [
+      "am",
+      "is",
+      "can",
+      "are"
+     ],
+     "explain": "複數主語 the children 在現在進行式疑問句中配助動詞 are。",
+     "id": "ENG-P1-L06-004",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "What ___ the children doing? They are singing.",
+     "source": "英文補充教材｜Grammar 1B: Present Continuous, Can & Prepositions",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "___ can you see in the park? I can see some flowers.",
+     "answer": "What",
+     "options": [
+      "Where",
+      "How old",
+      "What",
+      "Who"
+     ],
+     "explain": "詢問「看見甚麼東西」用疑問詞 What。",
+     "id": "ENG-P1-L06-005",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "___ can you see in the park? I can see some flowers.",
+     "source": "英文補充教材｜Grammar 1B: Present Continuous, Can & Prepositions",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "Fill in the correct verb form: I am ___ (draw) a picture now.",
+     "answer": [
+      "drawing"
+     ],
+     "explain": "am + 動詞 -ing 表示正在畫畫（drawing）。",
+     "id": "ENG-P1-L06-006",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "Fill in the correct verb form: I am ___ (draw) a picture now.",
+     "source": "英文補充教材｜Grammar 1B: Present Continuous, Can & Prepositions",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "In 'A fish can flies', the verb form after 'can' is correct.",
+     "answer": false,
+     "explain": "情態動詞 can 後面必須用動詞原形（can fly），不可加 -s 或 -ies。",
+     "id": "ENG-P1-L06-007",
+     "grade": "P1",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "理解",
+     "question": "In 'A fish can flies', the verb form after 'can' is correct.",
+     "source": "英文補充教材｜Grammar 1B: Present Continuous, Can & Prepositions",
+     "verified": false
+    }
+   ],
+   "lesson": "L06",
+   "verified": false
+  },
+  {
+   "id": "p2e4",
+   "grade": "P2",
+   "subject": "eng",
+   "title": "Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "In the story of Sally and Sam the squirrels, where is the art room?",
+     "answer": "On the first floor",
+     "options": [
+      "On the fifth floor",
+      "In the garden",
+      "On the first floor",
+      "On the ground floor"
+     ],
+     "explain": "根據 2A Ch 1 課文，美勞室（art room）在一樓（on the first floor），可以在裏面畫畫和做手偶。",
+     "id": "ENG-P2-L04-001",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "In the story of Sally and Sam the squirrels, where is the art room?",
+     "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "What can Sally and Sam do in the library on the second floor?",
+     "answer": "Borrow books",
+     "options": [
+      "Play hopscotch",
+      "Make puppets",
+      "Buy snacks",
+      "Borrow books"
+     ],
+     "explain": "根據 2A Ch 1 課文，圖書館在二樓，學生可以在那裏借書（borrow books）。",
+     "id": "ENG-P2-L04-002",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "What can Sally and Sam do in the library on the second floor?",
+     "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "In the 2A Ch 2 pamphlet, what does the word 'huge' mean in 'The library is huge'?",
+     "answer": "big",
+     "options": [
+      "new",
+      "big",
+      "quiet",
+      "small"
+     ],
+     "explain": "根據 2A Ch 2 閱讀練習第 3 題，huge 的意思是 big（巨大／很大）。",
+     "id": "ENG-P2-L04-003",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "In the 2A Ch 2 pamphlet, what does the word 'huge' mean in 'The library is huge'?",
+     "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "What is the rule in the garden? You ___ pick the flowers.",
+     "answer": "mustn't",
+     "options": [
+      "mustn't",
+      "must",
+      "are",
+      "can"
+     ],
+     "explain": "在花園裏絕對不可以摘花，要用 mustn't（不可）。",
+     "id": "ENG-P2-L04-004",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "What is the rule in the garden? You ___ pick the flowers.",
+     "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "In the story 'Hansel and Gretel' (2A Ch 3), why do they eat some biscuits?",
+     "answer": "Because they are hungry.",
+     "options": [
+      "Because they are cold.",
+      "Because they are bored.",
+      "Because it is morning.",
+      "Because they are hungry."
+     ],
+     "explain": "根據 2A Ch 3 故事，Hansel 和 Gretel 因為肚餓（hungry），所以提議吃餅乾（Let's eat some biscuits）。",
+     "id": "ENG-P2-L04-005",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "In the story 'Hansel and Gretel' (2A Ch 3), why do they eat some biscuits?",
+     "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "In 'Hansel and Gretel', what happens when they wake up from their nap?",
+     "answer": "It is dark and they are lost.",
+     "options": [
+      "It is dark and they are lost.",
+      "They meet a giraffe.",
+      "They find a library.",
+      "They go swimming."
+     ],
+     "explain": "根據 2A Ch 3 故事第 4 格，他們午睡醒來時天黑了（It's dark!），而且迷路了（We're lost!）。",
+     "id": "ENG-P2-L04-006",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "In 'Hansel and Gretel', what happens when they wake up from their nap?",
+     "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "fill",
+     "q": "Complete the suggestion from Hansel: 'I'm tired.' 'Me too. ___ take a short rest.'",
+     "answer": [
+      "Let's"
+     ],
+     "explain": "提議一起休息用 Let's（Let's take a short rest.）。",
+     "id": "ENG-P2-L04-007",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "Complete the suggestion from Hansel: 'I'm tired.' 'Me too. ___ take a short rest.'",
+     "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "tf",
+     "q": "We use 'in' for a room (e.g. in the music room) and 'on' for a floor (e.g. on the first floor).",
+     "answer": true,
+     "explain": "房間用 in（in the art room / library），樓層用 on（on the first / ground floor）。",
+     "id": "ENG-P2-L04-008",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "理解",
+     "question": "We use 'in' for a room (e.g. in the music room) and 'on' for a floor (e.g. on the first floor).",
+     "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
+     "verified": false,
+     "readAloud": true
+    }
+   ],
+   "lesson": "L04",
+   "verified": false
+  },
+  {
+   "id": "p2e5",
+   "grade": "P2",
+   "subject": "eng",
+   "title": "Grammar 2A Ch 1–3: There is/are, Modals & Feelings",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "___ there a computer room on the third floor? Yes, there is.",
+     "answer": "Is",
+     "options": [
+      "Are",
+      "Can",
+      "Is",
+      "Do"
+     ],
+     "explain": "a computer room 是單數，詢問「有沒有」用 Is there ...?",
+     "id": "ENG-P2-L05-001",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "___ there a computer room on the third floor? Yes, there is.",
+     "source": "英文補充教材｜Grammar 2A Ch 1–3: There is/are, Modals & Feelings",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "Where ___ the toilets? They are on the second floor.",
+     "answer": "are",
+     "options": [
+      "is",
+      "am",
+      "are",
+      "does"
+     ],
+     "explain": "the toilets 是複數，疑問句動詞用 are（Where are the toilets?）。",
+     "id": "ENG-P2-L05-002",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Where ___ the toilets? They are on the second floor.",
+     "source": "英文補充教材｜Grammar 2A Ch 1–3: There is/are, Modals & Feelings",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "You ___ wait for your turn in the computer room.",
+     "answer": "must",
+     "options": [
+      "can't",
+      "must",
+      "aren't",
+      "mustn't"
+     ],
+     "explain": "排隊輪候（wait for your turn）是必須遵守的規則，用 must。",
+     "id": "ENG-P2-L05-003",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "You ___ wait for your turn in the computer room.",
+     "source": "英文補充教材｜Grammar 2A Ch 1–3: There is/are, Modals & Feelings",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "Look! The panda is sleeping. We ___ keep quiet.",
+     "answer": "must",
+     "options": [
+      "mustn't",
+      "must",
+      "can't",
+      "don't"
+     ],
+     "explain": "熊貓正在睡覺，我們必須保持安靜（must keep quiet）。",
+     "id": "ENG-P2-L05-004",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Look! The panda is sleeping. We ___ keep quiet.",
+     "source": "英文補充教材｜Grammar 2A Ch 1–3: There is/are, Modals & Feelings",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "Keep ___ the grass, please. Don't walk on it.",
+     "answer": "off",
+     "options": [
+      "in",
+      "off",
+      "up",
+      "on"
+     ],
+     "explain": "Keep off the grass 是固定動詞片語，意思是「請勿踐踏草地」。",
+     "id": "ENG-P2-L05-005",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Keep ___ the grass, please. Don't walk on it.",
+     "source": "英文補充教材｜Grammar 2A Ch 1–3: There is/are, Modals & Feelings",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "Alan: I am hungry. Betty: I am hungry ___.",
+     "answer": "too",
+     "options": [
+      "or",
+      "and",
+      "too",
+      "either"
+     ],
+     "explain": "在肯定句尾表示「也一樣」用 too（I am hungry too.）。",
+     "id": "ENG-P2-L05-006",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Alan: I am hungry. Betty: I am hungry ___.",
+     "source": "英文補充教材｜Grammar 2A Ch 1–3: There is/are, Modals & Feelings",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "fill",
+     "q": "Correct the mistake: 'We mustn't climbing the trees.' -> We mustn't ___ the trees.",
+     "answer": [
+      "climb"
+     ],
+     "explain": "情態動詞 must / mustn't 後面必須用動詞原形 climb。",
+     "id": "ENG-P2-L05-007",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Correct the mistake: 'We mustn't climbing the trees.' -> We mustn't ___ the trees.",
+     "source": "英文補充教材｜Grammar 2A Ch 1–3: There is/are, Modals & Feelings",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "order",
+     "q": "Rearrange the words to make a suggestion.",
+     "items": [
+      "Let's",
+      "turn",
+      "on the fan"
+     ],
+     "explain": "Let's 後接動詞原形 turn on：Let's turn on the fan.（我們開風扇吧。）",
+     "answer": [
+      "Let's",
+      "turn",
+      "on the fan"
+     ],
+     "id": "ENG-P2-L05-008",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Rearrange the words to make a suggestion.",
+     "source": "英文補充教材｜Grammar 2A Ch 1–3: There is/are, Modals & Feelings",
+     "verified": false,
+     "readAloud": true
+    }
+   ],
+   "lesson": "L05",
+   "verified": false
+  },
+  {
+   "id": "p2e6",
+   "grade": "P2",
+   "subject": "eng",
+   "title": "Grammar 2A Ch 4: Plural Nouns, Articles & Because",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "What is the plural form of 'strawberry'?",
+     "answer": "strawberries",
+     "options": [
+      "strawberries",
+      "strawberryes",
+      "strawberrys",
+      "strawberves"
+     ],
+     "explain": "strawberry 以「輔音 + y」結尾，眾數要改 y 為 ies（strawberries）。",
+     "id": "ENG-P2-L06-001",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "What is the plural form of 'strawberry'?",
+     "source": "英文補充教材｜Grammar 2A Ch 4: Plural Nouns, Articles & Because",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "What is the plural form of 'peach'?",
+     "answer": "peaches",
+     "options": [
+      "peachies",
+      "peaches",
+      "peachs",
+      "peoves"
+     ],
+     "explain": "peach 以 ch 結尾，眾數要加 -es（peaches）。",
+     "id": "ENG-P2-L06-002",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "What is the plural form of 'peach'?",
+     "source": "英文補充教材｜Grammar 2A Ch 4: Plural Nouns, Articles & Because",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "There are two ___ and an apple on the table.",
+     "answer": "mangoes",
+     "options": [
+      "mangos",
+      "mango",
+      "mangoes",
+      "mangoes'"
+     ],
+     "explain": "two 後面用複數名詞，mango 的眾數加 -es（mangoes）。",
+     "id": "ENG-P2-L06-003",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "There are two ___ and an apple on the table.",
+     "source": "英文補充教材｜Grammar 2A Ch 4: Plural Nouns, Articles & Because",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "I can see a bee and an ant. ___ bee is flying.",
+     "answer": "The",
+     "options": [
+      "An",
+      "The",
+      "Some",
+      "A"
+     ],
+     "explain": "第二次提到同一隻蜜蜂（bee）時，要用定冠詞 The。",
+     "id": "ENG-P2-L06-004",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "I can see a bee and an ant. ___ bee is flying.",
+     "source": "英文補充教材｜Grammar 2A Ch 4: Plural Nouns, Articles & Because",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "I don't like lemons ___ they are sour.",
+     "answer": "because",
+     "options": [
+      "but",
+      "so",
+      "or",
+      "because"
+     ],
+     "explain": "解釋不喜歡檸檬的原因（they are sour），用連接詞 because（因為）。",
+     "id": "ENG-P2-L06-005",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "I don't like lemons ___ they are sour.",
+     "source": "英文補充教材｜Grammar 2A Ch 4: Plural Nouns, Articles & Because",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "fill",
+     "q": "Fill in the plural noun: Candy has fifteen ___ (cherry).",
+     "answer": [
+      "cherries"
+     ],
+     "explain": "cherry 以輔音 r + y 結尾，去 y 加 ies 變成 cherries。",
+     "id": "ENG-P2-L06-006",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "Fill in the plural noun: Candy has fifteen ___ (cherry).",
+     "source": "英文補充教材｜Grammar 2A Ch 4: Plural Nouns, Articles & Because",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "tf",
+     "q": "Nouns ending in vowel + y (like 'boy', 'toy', 'monkey') just add -s in the plural form.",
+     "answer": true,
+     "explain": "元音 + y 結尾的名詞直接加 -s（boys, toys, monkeys），不改 ies。",
+     "id": "ENG-P2-L06-007",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "理解",
+     "question": "Nouns ending in vowel + y (like 'boy', 'toy', 'monkey') just add -s in the plural form.",
+     "source": "英文補充教材｜Grammar 2A Ch 4: Plural Nouns, Articles & Because",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "order",
+     "q": "Rearrange the words to form a correct sentence.",
+     "items": [
+      "I like",
+      "butterflies",
+      "because they are beautiful"
+     ],
+     "explain": "主句 I like butterflies 加上原因子句 because they are beautiful。",
+     "answer": [
+      "I like",
+      "butterflies",
+      "because they are beautiful"
+     ],
+     "id": "ENG-P2-L06-008",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "Rearrange the words to form a correct sentence.",
+     "source": "英文補充教材｜Grammar 2A Ch 4: Plural Nouns, Articles & Because",
+     "verified": false,
+     "readAloud": true
+    }
+   ],
+   "lesson": "L06",
+   "verified": false
+  },
+  {
+   "id": "p2e7",
+   "grade": "P2",
+   "subject": "eng",
+   "title": "Grammar 2A Ch 5: Where & How, Transport & Prepositions",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "I live in Causeway Bay. It is ___ Hong Kong Island.",
+     "answer": "on",
+     "options": [
+      "at",
+      "on",
+      "in",
+      "by"
+     ],
+     "explain": "島嶼（Hong Kong Island, Lantau Island, Lamma Island, Cheung Chau）前面用介詞 on。",
+     "id": "ENG-P2-L07-001",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "I live in Causeway Bay. It is ___ Hong Kong Island.",
+     "source": "英文補充教材｜Grammar 2A Ch 5: Where & How, Transport & Prepositions",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "Mr Smith lives ___ Tuen Mun. It is in the New Territories.",
+     "answer": "in",
+     "options": [
+      "on",
+      "at",
+      "in",
+      "by"
+     ],
+     "explain": "地區名稱（如 Tuen Mun, Sha Tin, Kwun Tong, Kowloon）前面用介詞 in。",
+     "id": "ENG-P2-L07-002",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "Mr Smith lives ___ Tuen Mun. It is in the New Territories.",
+     "source": "英文補充教材｜Grammar 2A Ch 5: Where & How, Transport & Prepositions",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "___ do you come to school? I come to school by school bus.",
+     "answer": "How",
+     "options": [
+      "How",
+      "Where",
+      "What",
+      "Who"
+     ],
+     "explain": "詢問上學的交通方式（by school bus）用疑問詞 How。",
+     "id": "ENG-P2-L07-003",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "___ do you come to school? I come to school by school bus.",
+     "source": "英文補充教材｜Grammar 2A Ch 5: Where & How, Transport & Prepositions",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "Jerry lives near his school. He comes to school ___ foot.",
+     "answer": "on",
+     "options": [
+      "on",
+      "by",
+      "in",
+      "with"
+     ],
+     "explain": "步行上學固定用 on foot（不可說 by foot）。",
+     "id": "ENG-P2-L07-004",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "Jerry lives near his school. He comes to school ___ foot.",
+     "source": "英文補充教材｜Grammar 2A Ch 5: Where & How, Transport & Prepositions",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "Meg comes to school ___ MTR every morning.",
+     "answer": "by",
+     "options": [
+      "at",
+      "in",
+      "on",
+      "by"
+     ],
+     "explain": "乘搭交通工具（by bus / by car / by MTR / by ferry / by tram）用介詞 by，中間不加 the。",
+     "id": "ENG-P2-L07-005",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "Meg comes to school ___ MTR every morning.",
+     "source": "英文補充教材｜Grammar 2A Ch 5: Where & How, Transport & Prepositions",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "'___ here, Rocky!' says Bob to his dog.",
+     "answer": "Come",
+     "options": [
+      "Go",
+      "Come",
+      "Comes",
+      "Going"
+     ],
+     "explain": "叫對方朝向說話者走過來用 Come here（Go 表示離開說話者去別處）。",
+     "id": "ENG-P2-L07-006",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "'___ here, Rocky!' says Bob to his dog.",
+     "source": "英文補充教材｜Grammar 2A Ch 5: Where & How, Transport & Prepositions",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "fill",
+     "q": "Fill in the preposition: My aunt lives ___ Lantau Island.",
+     "answer": [
+      "on"
+     ],
+     "explain": "Lantau Island 是島嶼，介詞用 on。",
+     "id": "ENG-P2-L07-007",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "Fill in the preposition: My aunt lives ___ Lantau Island.",
+     "source": "英文補充教材｜Grammar 2A Ch 5: Where & How, Transport & Prepositions",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "tf",
+     "q": "'How you come to school?' is a grammatically correct question.",
+     "answer": false,
+     "explain": "一般現在時疑問句不能漏掉助動詞 do，應為：How do you come to school?",
+     "id": "ENG-P2-L07-008",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L07",
+     "level": "理解",
+     "question": "'How you come to school?' is a grammatically correct question.",
+     "source": "英文補充教材｜Grammar 2A Ch 5: Where & How, Transport & Prepositions",
+     "verified": false,
+     "readAloud": true
+    }
+   ],
+   "lesson": "L07",
+   "verified": false
+  },
+  {
+   "id": "p2e8",
+   "grade": "P2",
+   "subject": "eng",
+   "title": "Grammar 2A Ch 6: Jobs, Simple Present, Possessives & And/Or",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "Gigi's father is a fireman. He ___ out fires.",
+     "answer": "puts",
+     "options": [
+      "putting",
+      "put",
+      "is put",
+      "puts"
+     ],
+     "explain": "第三人稱單數 He 描述職業工作（事實）用簡單現在式 puts out fires。",
+     "id": "ENG-P2-L08-001",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "Gigi's father is a fireman. He ___ out fires.",
+     "source": "英文補充教材｜Grammar 2A Ch 6: Jobs, Simple Present, Possessives & And/Or",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "Wendy is a policewoman. She ___ bad people.",
+     "answer": "catches",
+     "options": [
+      "catches",
+      "catching",
+      "catchs",
+      "catch"
+     ],
+     "explain": "catch 以 ch 結尾，第三人稱單數 She 後面要加 -es（catches）。",
+     "id": "ENG-P2-L08-002",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "Wendy is a policewoman. She ___ bad people.",
+     "source": "英文補充教材｜Grammar 2A Ch 6: Jobs, Simple Present, Possessives & And/Or",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "What is your ___ job? She is a nurse. She looks after sick people.",
+     "answer": "mother's",
+     "options": [
+      "mothers",
+      "mother's",
+      "mother",
+      "mothers'"
+     ],
+     "explain": "表示「媽媽的職業」要用所有格名詞 mother's（加 's）。",
+     "id": "ENG-P2-L08-003",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "What is your ___ job? She is a nurse. She looks after sick people.",
+     "source": "英文補充教材｜Grammar 2A Ch 6: Jobs, Simple Present, Possessives & And/Or",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "Do you have any brothers ___ sisters?",
+     "answer": "or",
+     "options": [
+      "or",
+      "because",
+      "and",
+      "but"
+     ],
+     "explain": "在疑問句（Do you have any ...?）中連接兩個並列名詞時用 or。",
+     "id": "ENG-P2-L08-004",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "Do you have any brothers ___ sisters?",
+     "source": "英文補充教材｜Grammar 2A Ch 6: Jobs, Simple Present, Possessives & And/Or",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "No, I have no brothers ___ sisters. I am an only child.",
+     "answer": "or",
+     "options": [
+      "and",
+      "because",
+      "or",
+      "too"
+     ],
+     "explain": "在否定句（have no ...）中連接兩個並列項目時用 or。",
+     "id": "ENG-P2-L08-005",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "No, I have no brothers ___ sisters. I am an only child.",
+     "source": "英文補充教材｜Grammar 2A Ch 6: Jobs, Simple Present, Possessives & And/Or",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "Yes, I have one brother ___ two sisters.",
+     "answer": "and",
+     "options": [
+      "but",
+      "so",
+      "or",
+      "and"
+     ],
+     "explain": "在肯定句中連接兩個並列名詞時用 and。",
+     "id": "ENG-P2-L08-006",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "Yes, I have one brother ___ two sisters.",
+     "source": "英文補充教材｜Grammar 2A Ch 6: Jobs, Simple Present, Possessives & And/Or",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "fill",
+     "q": "Fill in the correct verb form: Alan is a postman. He ___ (bring) letters to people.",
+     "answer": [
+      "brings"
+     ],
+     "explain": "主語 He 是第三人稱單數，bring 加 -s 變成 brings。",
+     "id": "ENG-P2-L08-007",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "Fill in the correct verb form: Alan is a postman. He ___ (bring) letters to people.",
+     "source": "英文補充教材｜Grammar 2A Ch 6: Jobs, Simple Present, Possessives & And/Or",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "order",
+     "q": "Rearrange the words to form a question.",
+     "items": [
+      "What",
+      "is",
+      "your father's job"
+     ],
+     "explain": "詢問別人爸爸的職業：What is your father's job?",
+     "answer": [
+      "What",
+      "is",
+      "your father's job"
+     ],
+     "id": "ENG-P2-L08-008",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "Rearrange the words to form a question.",
+     "source": "英文補充教材｜Grammar 2A Ch 6: Jobs, Simple Present, Possessives & And/Or",
+     "verified": false,
+     "readAloud": true
+    }
+   ],
+   "lesson": "L08",
+   "verified": false
+  },
+  {
+   "id": "p2e9",
+   "grade": "P2",
+   "subject": "eng",
+   "title": "Grammar 2B Ch 1–2: Simple Present Tense (Habits, Spelling & Negatives)",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "Holly ___ her room every day.",
+     "answer": "tidies",
+     "options": [
+      "tidies",
+      "tidys",
+      "tidy",
+      "tidying"
+     ],
+     "explain": "tidy 以「輔音 d + y」結尾，第三人稱單數 Holly 後面改 y 為 ies（tidies）。",
+     "id": "ENG-P2-L09-001",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L09",
+     "level": "應用",
+     "question": "Holly ___ her room every day.",
+     "source": "英文補充教材｜Grammar 2B Ch 1–2: Simple Present Tense (Habits, Spelling & Negatives)",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "He ___ songs and ___ with his friends every morning.",
+     "answer": "sings, plays",
+     "options": [
+      "sing, play",
+      "singing, playing",
+      "sings, plays",
+      "sings, plaies"
+     ],
+     "explain": "play 以「元音 a + y」結尾，直接加 -s（plays，不可寫 plaies）。",
+     "id": "ENG-P2-L09-002",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L09",
+     "level": "應用",
+     "question": "He ___ songs and ___ with his friends every morning.",
+     "source": "英文補充教材｜Grammar 2B Ch 1–2: Simple Present Tense (Habits, Spelling & Negatives)",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "___ your father walk the dog every day? Yes, he does.",
+     "answer": "Does",
+     "options": [
+      "Do",
+      "Are",
+      "Does",
+      "Is"
+     ],
+     "explain": "主語 your father 是第三人稱單數，一般現在時疑問句用助動詞 Does。",
+     "id": "ENG-P2-L09-003",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L09",
+     "level": "應用",
+     "question": "___ your father walk the dog every day? Yes, he does.",
+     "source": "英文補充教材｜Grammar 2B Ch 1–2: Simple Present Tense (Habits, Spelling & Negatives)",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "Betty is lazy. She ___ study for her tests.",
+     "answer": "does not",
+     "options": [
+      "does not",
+      "is not",
+      "do not",
+      "not"
+     ],
+     "explain": "第三人稱單數 She 的否定句用 does not（doesn't）+ 原形動詞 study。",
+     "id": "ENG-P2-L09-004",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L09",
+     "level": "應用",
+     "question": "Betty is lazy. She ___ study for her tests.",
+     "source": "英文補充教材｜Grammar 2B Ch 1–2: Simple Present Tense (Habits, Spelling & Negatives)",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "Kitty does not ___ fish.",
+     "answer": "eat",
+     "options": [
+      "to eat",
+      "eats",
+      "eating",
+      "eat"
+     ],
+     "explain": "助動詞 does not / doesn't 後面的動詞必須還原為原形 eat。",
+     "id": "ENG-P2-L09-005",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L09",
+     "level": "應用",
+     "question": "Kitty does not ___ fish.",
+     "source": "英文補充教材｜Grammar 2B Ch 1–2: Simple Present Tense (Habits, Spelling & Negatives)",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "fill",
+     "q": "Fill in the simple present form: Mr Bell ___ (watch) TV every night.",
+     "answer": [
+      "watches"
+     ],
+     "explain": "watch 以 ch 結尾，第三人稱單數加 -es（watches）。",
+     "id": "ENG-P2-L09-006",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L09",
+     "level": "應用",
+     "question": "Fill in the simple present form: Mr Bell ___ (watch) TV every night.",
+     "source": "英文補充教材｜Grammar 2B Ch 1–2: Simple Present Tense (Habits, Spelling & Negatives)",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "tf",
+     "q": "For verbs ending in vowel + y (like 'play', 'enjoy', 'buy'), we add '-s' instead of '-ies' for he/she/it.",
+     "answer": true,
+     "explain": "元音 + y 結尾的動詞（plays, enjoys, buys）直接加 -s。",
+     "id": "ENG-P2-L09-007",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L09",
+     "level": "理解",
+     "question": "For verbs ending in vowel + y (like 'play', 'enjoy', 'buy'), we add '-s' instead of '-ies' for he/she/it.",
+     "source": "英文補充教材｜Grammar 2B Ch 1–2: Simple Present Tense (Habits, Spelling & Negatives)",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "order",
+     "q": "Rearrange the words to form a negative sentence.",
+     "items": [
+      "Gary",
+      "does not",
+      "tidy his room every day"
+     ],
+     "explain": "第三人稱單數否定句：Gary does not tidy his room every day.",
+     "answer": [
+      "Gary",
+      "does not",
+      "tidy his room every day"
+     ],
+     "id": "ENG-P2-L09-008",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L09",
+     "level": "應用",
+     "question": "Rearrange the words to form a negative sentence.",
+     "source": "英文補充教材｜Grammar 2B Ch 1–2: Simple Present Tense (Habits, Spelling & Negatives)",
+     "verified": false,
+     "readAloud": true
+    }
+   ],
+   "lesson": "L09",
+   "verified": false
+  },
+  {
+   "id": "p2e10",
+   "grade": "P2",
+   "subject": "eng",
+   "title": "Grammar 2B Ch 3–4: Time Prepositions, Tenses & What time",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "Mandy goes to Brownies ___ Mondays.",
+     "answer": "on",
+     "options": [
+      "by",
+      "on",
+      "in",
+      "at"
+     ],
+     "explain": "星期幾（on Mondays = every Monday）前面用介詞 on。",
+     "id": "ENG-P2-L10-001",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L10",
+     "level": "應用",
+     "question": "Mandy goes to Brownies ___ Mondays.",
+     "source": "英文補充教材｜Grammar 2B Ch 3–4: Time Prepositions, Tenses & What time",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "Look! Alan ___ his bicycle in the park right now.",
+     "answer": "is riding",
+     "options": [
+      "is riding",
+      "ride",
+      "riding",
+      "rides"
+     ],
+     "explain": "看到 Look! 和 right now 表示此刻正在發生，用現在進行式 is riding。",
+     "id": "ENG-P2-L10-002",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L10",
+     "level": "應用",
+     "question": "Look! Alan ___ his bicycle in the park right now.",
+     "source": "英文補充教材｜Grammar 2B Ch 3–4: Time Prepositions, Tenses & What time",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "Cathy has lunch ___ twelve fifty-five ___ the afternoon.",
+     "answer": "at, in",
+     "options": [
+      "at, on",
+      "in, at",
+      "on, in",
+      "at, in"
+     ],
+     "explain": "具體時間點用 at（at twelve fifty-five）；早上／下午／晚上用 in（in the afternoon）。",
+     "id": "ENG-P2-L10-003",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L10",
+     "level": "應用",
+     "question": "Cathy has lunch ___ twelve fifty-five ___ the afternoon.",
+     "source": "英文補充教材｜Grammar 2B Ch 3–4: Time Prepositions, Tenses & What time",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "Mr Lam goes to bed ___ ten thirty ___ night.",
+     "answer": "at, at",
+     "options": [
+      "on, at",
+      "in, at",
+      "at, in",
+      "at, at"
+     ],
+     "explain": "具體時刻用 at ten thirty；「在晚上（night）」固定用 at night。",
+     "id": "ENG-P2-L10-004",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L10",
+     "level": "應用",
+     "question": "Mr Lam goes to bed ___ ten thirty ___ night.",
+     "source": "英文補充教材｜Grammar 2B Ch 3–4: Time Prepositions, Tenses & What time",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "___ does Betty do her homework? She does her homework at four forty-five.",
+     "answer": "What time",
+     "options": [
+      "Where",
+      "Which",
+      "Who",
+      "What time"
+     ],
+     "explain": "回答是具體時間（at four forty-five），問句用 What time（幾點）。",
+     "id": "ENG-P2-L10-005",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L10",
+     "level": "應用",
+     "question": "___ does Betty do her homework? She does her homework at four forty-five.",
+     "source": "英文補充教材｜Grammar 2B Ch 3–4: Time Prepositions, Tenses & What time",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "fill",
+     "q": "Correct the mistake: 'Amy sweeps the floor on every Sunday.' -> Write the correct time phrase without preposition:",
+     "answer": [
+      "every Sunday"
+     ],
+     "explain": "every / this / today 前面不可加介詞 on，直接寫 every Sunday。",
+     "id": "ENG-P2-L10-006",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L10",
+     "level": "應用",
+     "question": "Correct the mistake: 'Amy sweeps the floor on every Sunday.' -> Write the correct time phrase without preposition:",
+     "source": "英文補充教材｜Grammar 2B Ch 3–4: Time Prepositions, Tenses & What time",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "tf",
+     "q": "'What do Sally do on Fridays?' is grammatically correct.",
+     "answer": false,
+     "explain": "Sally 是第三人稱單數，助動詞必須用 does（What does Sally do on Fridays?）。",
+     "id": "ENG-P2-L10-007",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L10",
+     "level": "理解",
+     "question": "'What do Sally do on Fridays?' is grammatically correct.",
+     "source": "英文補充教材｜Grammar 2B Ch 3–4: Time Prepositions, Tenses & What time",
+     "verified": false,
+     "readAloud": true
+    }
+   ],
+   "lesson": "L10",
+   "verified": false
+  },
+  {
+   "id": "p2e11",
+   "grade": "P2",
+   "subject": "eng",
+   "title": "Grammar 2B Ch 5–6: Festivals, Seasons, Gerunds & Question Words",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "People watch fireworks and get red packets ___ Chinese New Year.",
+     "answer": "at",
+     "options": [
+      "in",
+      "at",
+      "on",
+      "by"
+     ],
+     "explain": "節日名稱（at Chinese New Year / at Christmas / at Easter / at Mid-Autumn Festival）前面用介詞 at。",
+     "id": "ENG-P2-L11-001",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L11",
+     "level": "應用",
+     "question": "People watch fireworks and get red packets ___ Chinese New Year.",
+     "source": "英文補充教材｜Grammar 2B Ch 5–6: Festivals, Seasons, Gerunds & Question Words",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "___ the second day of Chinese New Year, people watch fireworks.",
+     "answer": "On",
+     "options": [
+      "On",
+      "In",
+      "By",
+      "At"
+     ],
+     "explain": "具體某一天（含 day 的日子，如 On the second day / On New Year's Day）前面用介詞 On。",
+     "id": "ENG-P2-L11-002",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L11",
+     "level": "應用",
+     "question": "___ the second day of Chinese New Year, people watch fireworks.",
+     "source": "英文補充教材｜Grammar 2B Ch 5–6: Festivals, Seasons, Gerunds & Question Words",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "My brother Keith doesn't like swimming. He likes ___ his bicycle at weekends.",
+     "answer": "riding",
+     "options": [
+      "to riding",
+      "rides",
+      "riding",
+      "ride"
+     ],
+     "explain": "like 後面可接動名詞（gerund，即動詞 + -ing），ride 去 e 加 ing 變成 riding。",
+     "id": "ENG-P2-L11-003",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L11",
+     "level": "應用",
+     "question": "My brother Keith doesn't like swimming. He likes ___ his bicycle at weekends.",
+     "source": "英文補充教材｜Grammar 2B Ch 5–6: Festivals, Seasons, Gerunds & Question Words",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "___ do you like Mid-Autumn Festival? Because I like playing with lanterns.",
+     "answer": "Why",
+     "options": [
+      "What",
+      "Which",
+      "Why",
+      "Where"
+     ],
+     "explain": "回答以 because 解釋原因，問句要用疑問詞 Why（為甚麼）。",
+     "id": "ENG-P2-L11-004",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L11",
+     "level": "應用",
+     "question": "___ do you like Mid-Autumn Festival? Because I like playing with lanterns.",
+     "source": "英文補充教材｜Grammar 2B Ch 5–6: Festivals, Seasons, Gerunds & Question Words",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "We usually eat hotpot in the evening ___ winter.",
+     "answer": "in",
+     "options": [
+      "in",
+      "at",
+      "on",
+      "of"
+     ],
+     "explain": "季節（in spring / summer / autumn / winter）前面用介詞 in。",
+     "id": "ENG-P2-L11-005",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L11",
+     "level": "應用",
+     "question": "We usually eat hotpot in the evening ___ winter.",
+     "source": "英文補充教材｜Grammar 2B Ch 5–6: Festivals, Seasons, Gerunds & Question Words",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "mc",
+     "q": "A: ___ teddy bear do you like best, the brown one or the grey one? B: I like the grey teddy bear best.",
+     "answer": "Which",
+     "options": [
+      "Why",
+      "Who",
+      "Which",
+      "What"
+     ],
+     "explain": "在有限的特定選項中作選擇時，用疑問詞 Which（哪一個）。",
+     "id": "ENG-P2-L11-006",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L11",
+     "level": "應用",
+     "question": "A: ___ teddy bear do you like best, the brown one or the grey one? B: I like the grey teddy bear best.",
+     "source": "英文補充教材｜Grammar 2B Ch 5–6: Festivals, Seasons, Gerunds & Question Words",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "fill",
+     "q": "Fill in the correct form: Tina likes ___ (swim) in the sea in summer.",
+     "answer": [
+      "swimming"
+     ],
+     "explain": "like + 動名詞（gerund），swim 是短元音加單輔音，雙寫 m 加 ing：swimming。",
+     "id": "ENG-P2-L11-007",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L11",
+     "level": "應用",
+     "question": "Fill in the correct form: Tina likes ___ (swim) in the sea in summer.",
+     "source": "英文補充教材｜Grammar 2B Ch 5–6: Festivals, Seasons, Gerunds & Question Words",
+     "verified": false,
+     "readAloud": true
+    },
+    {
+     "type": "order",
+     "q": "Rearrange the words to form a question.",
+     "items": [
+      "Which",
+      "season",
+      "do you like best"
+     ],
+     "explain": "詢問最喜歡哪個季節：Which season do you like best?",
+     "answer": [
+      "Which",
+      "season",
+      "do you like best"
+     ],
+     "id": "ENG-P2-L11-008",
+     "grade": "P2",
+     "subject": "eng",
+     "lesson": "L11",
+     "level": "應用",
+     "question": "Rearrange the words to form a question.",
+     "source": "英文補充教材｜Grammar 2B Ch 5–6: Festivals, Seasons, Gerunds & Question Words",
+     "verified": false,
+     "readAloud": true
+    }
+   ],
+   "lesson": "L11",
+   "verified": false
+  },
+  {
+   "id": "p3e5",
+   "grade": "P3",
+   "subject": "eng",
+   "title": "Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "In Reading 3B Ch 1 ('Amy and Snowy'), why did the other ducks laugh at Snowy at first?",
+     "answer": "Because Snowy was big and grey, not yellow like them.",
+     "options": [
+      "Because Snowy could not swim.",
+      "Because Snowy was big and grey, not yellow like them.",
+      "Because Snowy was a dog.",
+      "Because Snowy ate all their food."
+     ],
+     "explain": "根據 Reading 3B Ch 1 故事，Snowy 起初又大又灰，跟其他黃色小鴨不同，長大後才發現是一隻美麗的白天鵝（swan）。",
+     "id": "ENG-P3-L05-001",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "In Reading 3B Ch 1 ('Amy and Snowy'), why did the other ducks laugh at Snowy at first?",
+     "source": "英文補充教材｜Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "In the Magic Potions advertisement (Reading 3B Ch 1 Text 2), who wrote a review for 'Hair-grow'?",
+     "answer": "Rapunzel",
+     "options": [
+      "Snow White",
+      "The Giant",
+      "The Big Bad Wolf",
+      "Rapunzel"
+     ],
+     "explain": "根據 Reading 3B Ch 1 廣告，長髮公主 Rapunzel 推薦令頭髮變長的魔藥 Hair-grow。",
+     "id": "ENG-P3-L05-002",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "In the Magic Potions advertisement (Reading 3B Ch 1 Text 2), who wrote a review for 'Hair-grow'?",
+     "source": "英文補充教材｜Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "In Reading 3B Ch 2 Text 1, why did Spod pass the Maths test while his friends failed?",
+     "answer": "Because Spod studied hard while his friends played and ate.",
+     "options": [
+      "Because Spod copied his friend's answers.",
+      "Because Spod studied hard while his friends played and ate.",
+      "Because Spod's dad was the teacher.",
+      "Because the test was very easy."
+     ],
+     "explain": "根據 Reading 3B Ch 2 故事，Spod 留在家裏努力溫習數學，而其他朋友只顧玩耍和吃東西。",
+     "id": "ENG-P3-L05-003",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "In Reading 3B Ch 2 Text 1, why did Spod pass the Maths test while his friends failed?",
+     "source": "英文補充教材｜Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "In Reading 3B Ch 2 Text 2 (Sunny Days Children's Centre), what did Paul do with the old people?",
+     "answer": "He visited an old people's home and played games with them.",
+     "options": [
+      "He made magic potions.",
+      "He went bird-watching in Tai Po Kau.",
+      "He visited an old people's home and played games with them.",
+      "He went to Disneyland."
+     ],
+     "explain": "根據 Reading 3B Ch 2 留言板，Paul 探訪老人院並與長者一起玩遊戲。",
+     "id": "ENG-P3-L05-004",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "In Reading 3B Ch 2 Text 2 (Sunny Days Children's Centre), what did Paul do with the old people?",
+     "source": "英文補充教材｜Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Where did Jenny go bird-watching in Reading 3B Ch 2 Text 2?",
+     "answer": "Tai Po Kau",
+     "options": [
+      "Tai Po Kau",
+      "Lantau Island",
+      "Sai Kung",
+      "Causeway Bay"
+     ],
+     "explain": "根據 Reading 3B Ch 2 課文，Jenny 去大埔滘（Tai Po Kau）觀鳥。",
+     "id": "ENG-P3-L05-005",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Where did Jenny go bird-watching in Reading 3B Ch 2 Text 2?",
+     "source": "英文補充教材｜Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "In Reading 3B Ch 1 Text 2, 'Body-power' potion helps the drinker become strong like The Giant.",
+     "answer": true,
+     "explain": "巨人（The Giant）推薦 Body-power 魔藥，讓人變得強壯。",
+     "id": "ENG-P3-L05-006",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "In Reading 3B Ch 1 Text 2, 'Body-power' potion helps the drinker become strong like The Giant.",
+     "source": "英文補充教材｜Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "In 'Amy and Snowy', Snowy grew up into a beautiful white ___.",
+     "answer": [
+      "swan"
+     ],
+     "explain": "Snowy 長大後變成一隻美麗的白天鵝（swan）。",
+     "id": "ENG-P3-L05-007",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "In 'Amy and Snowy', Snowy grew up into a beautiful white ___.",
+     "source": "英文補充教材｜Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages",
+     "verified": false
+    }
+   ],
+   "lesson": "L05",
+   "verified": false
+  },
+  {
+   "id": "p3e6",
+   "grade": "P3",
+   "subject": "eng",
+   "title": "Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "In Reading 3B Ch 3 Text 1, when was the witch's birthday party held at Wendy's house?",
+     "answer": "On 31st October (Halloween)",
+     "options": [
+      "On 1st January",
+      "On 1st May",
+      "On 25th December (Christmas)",
+      "On 31st October (Halloween)"
+     ],
+     "explain": "根據 Reading 3B Ch 3 日記，派對在 10 月 31 日萬聖節（Halloween）舉行。",
+     "id": "ENG-P3-L06-001",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "In Reading 3B Ch 3 Text 1, when was the witch's birthday party held at Wendy's house?",
+     "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "In the play 'Unhappy Birthdays in Storyland' (Reading 3B Ch 3 Text 2), why was the Little Pig unhappy?",
+     "answer": "Because the wolf blew his birthday cake and house away.",
+     "options": [
+      "Because he had no friends.",
+      "Because Snow White ate his apple.",
+      "Because the wolf blew his birthday cake and house away.",
+      "Because he lost his textbook."
+     ],
+     "explain": "根據 Reading 3B Ch 3 戲劇，大灰狼吹走了小豬的生日蛋糕和房子。",
+     "id": "ENG-P3-L06-002",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "In the play 'Unhappy Birthdays in Storyland' (Reading 3B Ch 3 Text 2), why was the Little Pig unhappy?",
+     "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "In Reading 3B Ch 3 Text 2, what happened when the Dragon tried to blow out the candles on his birthday cake?",
+     "answer": "He breathed fire and burnt the birthday cake!",
+     "options": [
+      "He made ice cream.",
+      "The candles did not go out.",
+      "He breathed fire and burnt the birthday cake!",
+      "He fell asleep."
+     ],
+     "explain": "根據 Reading 3B Ch 3 戲劇，龍吹蠟燭時噴出火，把蛋糕燒焦了。",
+     "id": "ENG-P3-L06-003",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "In Reading 3B Ch 3 Text 2, what happened when the Dragon tried to blow out the candles on his birthday cake?",
+     "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "In the fable 'The Stomach and Other Body Parts' (Reading 3B Ch 4 Text 2), why did the hands, mouth and teeth stop working?",
+     "answer": "They thought the stomach was lazy and did nothing.",
+     "options": [
+      "They were broken.",
+      "They thought the stomach was lazy and did nothing.",
+      "The brain told them to sleep.",
+      "They went on holiday."
+     ],
+     "explain": "根據 Reading 3B Ch 4 寓言故事，手、嘴和牙齒以為胃（stomach）很懶惰不工作，所以罷工。",
+     "id": "ENG-P3-L06-004",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "In the fable 'The Stomach and Other Body Parts' (Reading 3B Ch 4 Text 2), why did the hands, mouth and teeth stop working?",
+     "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "What lesson does the fable 'The Stomach and Other Body Parts' teach us?",
+     "answer": "Every part of the body is important and must work together.",
+     "options": [
+      "Only the brain needs food.",
+      "Hands are more important than eyes.",
+      "Every part of the body is important and must work together.",
+      "The stomach is not useful."
+     ],
+     "explain": "當手和嘴不把食物送進胃裏，全身都變得虛弱無力，說明身體各部分必須分工合作。",
+     "id": "ENG-P3-L06-005",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "What lesson does the fable 'The Stomach and Other Body Parts' teach us?",
+     "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "In the comic strip about David, his father and the donkey (Reading 3B Ch 4 Text 1), trying to please everyone made them carry the donkey in the end.",
+     "answer": true,
+     "explain": "父子二人不斷聽別人批評而改變騎驢的方式，最後竟抬着驢走，說明不能盲目討好所有人。",
+     "id": "ENG-P3-L06-006",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "理解",
+     "question": "In the comic strip about David, his father and the donkey (Reading 3B Ch 4 Text 1), trying to please everyone made them carry the donkey in the end.",
+     "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "In the fable, which body part digests food to give energy to the whole body? The ___.",
+     "answer": [
+      "stomach"
+     ],
+     "explain": "胃（stomach）負責消化食物，為全身提供能量。",
+     "id": "ENG-P3-L06-007",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "In the fable, which body part digests food to give energy to the whole body? The ___.",
+     "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
+     "verified": false
+    }
+   ],
+   "lesson": "L06",
+   "verified": false
+  },
+  {
+   "id": "p3e7",
+   "grade": "P3",
+   "subject": "eng",
+   "title": "Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "In the Summer Programme notice (Reading 3B Ch 5 Text 2), on which day do students need swimwear and a towel?",
+     "answer": "Monday",
+     "options": [
+      "Friday",
+      "Monday",
+      "Thursday",
+      "Wednesday"
+     ],
+     "explain": "根據暑期活動時間表，星期一（Monday）下午 2:30 有游泳課（Swimming），因此需要帶泳衣和毛巾。",
+     "id": "ENG-P3-L07-001",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "In the Summer Programme notice (Reading 3B Ch 5 Text 2), on which day do students need swimwear and a towel?",
+     "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Jacky is good at sports and wants to take part in a race. On which day should he join the Mini Olympics?",
+     "answer": "Friday",
+     "options": [
+      "Tuesday",
+      "Wednesday",
+      "Monday",
+      "Friday"
+     ],
+     "explain": "根據暑期活動時間表，星期五（Friday）下午 2:30 舉行小型運動會（Mini Olympics）。",
+     "id": "ENG-P3-L07-002",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "Jacky is good at sports and wants to take part in a race. On which day should he join the Mini Olympics?",
+     "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "According to the Summer Programme notes, what can students get for free?",
+     "answer": "Free drinks",
+     "options": [
+      "Free drinks",
+      "Free computers",
+      "Free swimwear",
+      "Free lunch boxes"
+     ],
+     "explain": "根據注意事項（Notes），學生需自備午餐，但活動會免費提供飲品（get free drinks）。",
+     "id": "ENG-P3-L07-003",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "According to the Summer Programme notes, what can students get for free?",
+     "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "On the webpage 'BOOKS FOR KIDS' (Reading 3B Ch 6 Text 1), why are the tiger cubs afraid in 'Mummy Tiger, Where Are You?'?",
+     "answer": "Because they can't find their mum.",
+     "options": [
+      "Because they can't find Tilly.",
+      "Because Nick fights with them.",
+      "Because Tilly plays a trick on them.",
+      "Because they can't find their mum."
+     ],
+     "explain": "根據 Reading 3B Ch 6 p.21–22，虎媽媽出去找食物沒有回來，小老虎找不到媽媽所以很害怕。",
+     "id": "ENG-P3-L07-004",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "On the webpage 'BOOKS FOR KIDS' (Reading 3B Ch 6 Text 1), why are the tiger cubs afraid in 'Mummy Tiger, Where Are You?'?",
+     "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "In 'Mummy Tiger, Where Are You?', the big sister Tilly is NOT ___.",
+     "answer": "naughty",
+     "options": [
+      "naughty",
+      "helpful",
+      "brave",
+      "kind"
+     ],
+     "explain": "根據 Reading 3B Ch 6 p.22 第 1 題，大姐 Tilly 既勇敢又體貼照顧弟妹，所以她並不頑皮（NOT naughty）。",
+     "id": "ENG-P3-L07-005",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "In 'Mummy Tiger, Where Are You?', the big sister Tilly is NOT ___.",
+     "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "In the magazine article about brave dogs (Reading 3B Ch 6 Text 2), how did Peter's dog Susie save him from the house fire?",
+     "answer": "Susie barked to wake the neighbours and pulled Peter away from the fire.",
+     "options": [
+      "Susie barked to wake the neighbours and pulled Peter away from the fire.",
+      "Susie poured water on the fire.",
+      "Susie jumped on a snake in the garden.",
+      "Susie called the police on the phone."
+     ],
+     "explain": "根據 Reading 3B Ch 6 p.23，Peter 受傷無法走動，小狗 Susie 大聲吠叫喚醒鄰居，並把 Peter 拉離火場。",
+     "id": "ENG-P3-L07-006",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "In the magazine article about brave dogs (Reading 3B Ch 6 Text 2), how did Peter's dog Susie save him from the house fire?",
+     "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "What is the best title for the magazine article about Joe and Susie in Reading 3B Ch 6?",
+     "answer": "More than a best friend",
+     "options": [
+      "Thanks, Susie!",
+      "More than a best friend",
+      "Well done, Joe!",
+      "Joe at the vet's"
+     ],
+     "explain": "文章介紹了 Joe 和 Susie 兩隻勇敢救主人的狗，標題應涵蓋全文，最佳標題是 'More than a best friend'。",
+     "id": "ENG-P3-L07-007",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "What is the best title for the magazine article about Joe and Susie in Reading 3B Ch 6?",
+     "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "In 'Lazy Linda's New School' (the 5th book in the series), how many OTHER Lazy Linda books are there? (Write a number)",
+     "answer": [
+      "4",
+      "four"
+     ],
+     "explain": "這是系列中的第 5 本書（fifth book），所以同系列另外還有 4 本。",
+     "id": "ENG-P3-L07-008",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L07",
+     "level": "應用",
+     "question": "In 'Lazy Linda's New School' (the 5th book in the series), how many OTHER Lazy Linda books are there? (Write a number)",
+     "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
+     "verified": false
+    }
+   ],
+   "lesson": "L07",
+   "verified": false
+  },
+  {
+   "id": "p3e8",
+   "grade": "P3",
+   "subject": "eng",
+   "title": "Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "On the book cover 'All Change for the Chans!' (Booster A), what happens to eight-year-old Eric Chan during a storm?",
+     "answer": "He swaps bodies with his 35-year-old dad, Tony.",
+     "options": [
+      "He turns into a funny dog.",
+      "He swaps bodies with his 35-year-old dad, Tony.",
+      "He writes fifteen children's books.",
+      "He moves to Scotland."
+     ],
+     "explain": "根據 Booster A（p.25），八歲的 Eric 在暴風雨中與 35 歲的爸爸交換了身體，Eric 要去上班，爸爸卻要去返學。",
+     "id": "ENG-P3-L08-001",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "On the book cover 'All Change for the Chans!' (Booster A), what happens to eight-year-old Eric Chan during a storm?",
+     "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "In Booster A, the 'Crown Readers' series is for Primary 4–6 students. Who is the illustrator of the front cover?",
+     "answer": "Glenda Li",
+     "options": [
+      "Glenda Li",
+      "Eric Wong",
+      "Michael Hill",
+      "Tom Smith"
+     ],
+     "explain": "根據 Booster A（p.25），作者是 Michael Hill，而封面插畫師（illustrator）是 Glenda Li。",
+     "id": "ENG-P3-L08-002",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "In Booster A, the 'Crown Readers' series is for Primary 4–6 students. Who is the illustrator of the front cover?",
+     "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "In the notice about after-school classes with 'Clive the Clown' (Booster B), Maggie Lau is in Class 2C. On which day can she have lessons?",
+     "answer": "On Mondays",
+     "options": [
+      "On Fridays",
+      "On Mondays",
+      "On Sundays",
+      "On Wednesdays"
+     ],
+     "explain": "根據 Booster B（p.27–28），小一至小三（Primary 1–3）的課堂在星期一（Mondays 3–4 p.m.），Maggie 讀 2C 班，所以星期一上課。",
+     "id": "ENG-P3-L08-003",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "In the notice about after-school classes with 'Clive the Clown' (Booster B), Maggie Lau is in Class 2C. On which day can she have lessons?",
+     "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "In Booster B, what is Clive the Clown's job?",
+     "answer": "To make people happy with jokes, magic tricks, juggling and balloon toys.",
+     "options": [
+      "To teach Maths and Science.",
+      "To make people happy with jokes, magic tricks, juggling and balloon toys.",
+      "To drive the school bus.",
+      "To look after sick children as a doctor."
+     ],
+     "explain": "根據 Booster B 第 2 題，Clive 是小丑，他的工作是表演魔術、雜耍和扭氣球逗人開心（make people happy）。",
+     "id": "ENG-P3-L08-004",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "In Booster B, what is Clive the Clown's job?",
+     "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "In Booster C ('Bedtime Stories for Children' contents page), Anne reads: 'Oh dear! She dropped her purse again!' Which story is she reading?",
+     "answer": "Careless Cathy",
+     "options": [
+      "Careless Cathy",
+      "George the Clever Robot",
+      "Honest Ollie and the Maths Test",
+      "Brave Baby Bear"
+     ],
+     "explain": "根據 Booster C（p.29–30），經常粗心掉錢包（dropped her purse again）對應故事《Careless Cathy》。",
+     "id": "ENG-P3-L08-005",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "In Booster C ('Bedtime Stories for Children' contents page), Anne reads: 'Oh dear! She dropped her purse again!' Which story is she reading?",
+     "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "In Booster C, Paul reads: 'He could see the test papers on the teacher's desk...' Which story starting on page 35 is he reading?",
+     "answer": "Honest Ollie and the Maths Test",
+     "options": [
+      "Honest Ollie and the Maths Test",
+      "The Day Grandpa Looked After Us",
+      "Why Don't You Play With Me?",
+      "Poor Charlie and the Chocolate Mountain"
+     ],
+     "explain": "看到老師桌上的測驗卷（test papers），對應第 35 頁開始的故事《Honest Ollie and the Maths Test》（因此在第 37 頁）。",
+     "id": "ENG-P3-L08-006",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L08",
+     "level": "應用",
+     "question": "In Booster C, Paul reads: 'He could see the test papers on the teacher's desk...' Which story starting on page 35 is he reading?",
+     "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "In Booster A, 'Book Shop Monthly' is the publisher of the book 'All Change for the Chans!'.",
+     "answer": false,
+     "explain": "Book Shop Monthly 只是撰寫書評的雜誌（Tom Smith, Book Shop Monthly），並非出版社。",
+     "id": "ENG-P3-L08-007",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L08",
+     "level": "理解",
+     "question": "In Booster A, 'Book Shop Monthly' is the publisher of the book 'All Change for the Chans!'.",
+     "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
+     "verified": false
+    }
+   ],
+   "lesson": "L08",
+   "verified": false
+  },
+  {
+   "id": "p3e9",
+   "grade": "P3",
+   "subject": "eng",
+   "title": "Grammar 3A–3B Overview: Simple Past Tense, Connectives & Quantifiers",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "We ___ a magic show at the children's centre yesterday.",
+     "answer": "watched",
+     "options": [
+      "watches",
+      "watched",
+      "watch",
+      "watching"
+     ],
+     "explain": "句末有過去時間詞 yesterday，動詞要用簡單過去式 watched。",
+     "id": "ENG-P3-L09-001",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L09",
+     "level": "應用",
+     "question": "We ___ a magic show at the children's centre yesterday.",
+     "source": "英文補充教材｜Grammar 3A–3B Overview: Simple Past Tense, Connectives & Quantifiers",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "___ you go to the library last Saturday? Yes, I did.",
+     "answer": "Did",
+     "options": [
+      "Does",
+      "Do",
+      "Were",
+      "Did"
+     ],
+     "explain": "last Saturday 表示過去時間，一般過去時疑問句用助動詞 Did。",
+     "id": "ENG-P3-L09-002",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L09",
+     "level": "應用",
+     "question": "___ you go to the library last Saturday? Yes, I did.",
+     "source": "英文補充教材｜Grammar 3A–3B Overview: Simple Past Tense, Connectives & Quantifiers",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Leo was hungry, ___ he ate a big sandwich.",
+     "answer": "so",
+     "options": [
+      "but",
+      "because",
+      "so",
+      "or"
+     ],
+     "explain": "前半句是原因（肚餓），後半句是結果（吃三文治），用連接詞 so（所以）。",
+     "id": "ENG-P3-L09-003",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L09",
+     "level": "應用",
+     "question": "Leo was hungry, ___ he ate a big sandwich.",
+     "source": "英文補充教材｜Grammar 3A–3B Overview: Simple Past Tense, Connectives & Quantifiers",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Are there ___ bananas in the basket? No, there aren't any.",
+     "answer": "any",
+     "options": [
+      "a",
+      "an",
+      "any",
+      "some"
+     ],
+     "explain": "在疑問句和否定句中，表示「一些／任何」通常用 any。",
+     "id": "ENG-P3-L09-004",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L09",
+     "level": "應用",
+     "question": "Are there ___ bananas in the basket? No, there aren't any.",
+     "source": "英文補充教材｜Grammar 3A–3B Overview: Simple Past Tense, Connectives & Quantifiers",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "___ is this backpack? It is eighty-five dollars.",
+     "answer": "How much",
+     "options": [
+      "How old",
+      "What time",
+      "How many",
+      "How much"
+     ],
+     "explain": "詢問價錢（Prices: eighty-five dollars）用疑問詞 How much。",
+     "id": "ENG-P3-L09-005",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L09",
+     "level": "應用",
+     "question": "___ is this backpack? It is eighty-five dollars.",
+     "source": "英文補充教材｜Grammar 3A–3B Overview: Simple Past Tense, Connectives & Quantifiers",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "Fill in the past tense verb: Mum ___ (buy) some strawberries at the market yesterday.",
+     "answer": [
+      "bought"
+     ],
+     "explain": "buy 的不規則過去式是 bought。",
+     "id": "ENG-P3-L09-006",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L09",
+     "level": "應用",
+     "question": "Fill in the past tense verb: Mum ___ (buy) some strawberries at the market yesterday.",
+     "source": "英文補充教材｜Grammar 3A–3B Overview: Simple Past Tense, Connectives & Quantifiers",
+     "verified": false
+    },
+    {
+     "type": "order",
+     "q": "Rearrange the words to form a past tense question.",
+     "items": [
+      "Where",
+      "did",
+      "you go last Sunday"
+     ],
+     "explain": "過去式特殊疑問句：Where did you go last Sunday?",
+     "answer": [
+      "Where",
+      "did",
+      "you go last Sunday"
+     ],
+     "id": "ENG-P3-L09-007",
+     "grade": "P3",
+     "subject": "eng",
+     "lesson": "L09",
+     "level": "應用",
+     "question": "Rearrange the words to form a past tense question.",
+     "source": "英文補充教材｜Grammar 3A–3B Overview: Simple Past Tense, Connectives & Quantifiers",
+     "verified": false
+    }
+   ],
+   "lesson": "L09",
+   "verified": false
+  },
+  {
+   "id": "p4e4",
+   "grade": "P4",
+   "subject": "eng",
+   "title": "Grammar 4A–4B Overview: Future Tense, Modals (Could/Would) & Indefinite Pronouns",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "We ___ going to visit the Science Museum tomorrow afternoon.",
+     "answer": "are",
+     "options": [
+      "will",
+      "are",
+      "is",
+      "do"
+     ],
+     "explain": "表示計劃好的將來動作，用 be going to + 原形動詞，主語 We 配 are。",
+     "id": "ENG-P4-L04-001",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "We ___ going to visit the Science Museum tomorrow afternoon.",
+     "source": "英文補充教材｜Grammar 4A–4B Overview: Future Tense, Modals (Could/Would) & Indefinite Pronouns",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "I think it ___ rain tomorrow. Remember to bring an umbrella.",
+     "answer": "will",
+     "options": [
+      "will",
+      "does",
+      "was",
+      "is"
+     ],
+     "explain": "表示對將來的預測（tomorrow），用助動詞 will + 原形動詞 rain。",
+     "id": "ENG-P4-L04-002",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "I think it ___ rain tomorrow. Remember to bring an umbrella.",
+     "source": "英文補充教材｜Grammar 4A–4B Overview: Future Tense, Modals (Could/Would) & Indefinite Pronouns",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "When I was four years old, I ___ ride a tricycle, but I couldn't ride a bicycle.",
+     "answer": "could",
+     "options": [
+      "will",
+      "could",
+      "can",
+      "must"
+     ],
+     "explain": "描述過去四歲時的能力（When I was four），用 can 的過去式 could。",
+     "id": "ENG-P4-L04-003",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "When I was four years old, I ___ ride a tricycle, but I couldn't ride a bicycle.",
+     "source": "英文補充教材｜Grammar 4A–4B Overview: Future Tense, Modals (Could/Would) & Indefinite Pronouns",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "___ you like a cup of hot chocolate? Yes, please.",
+     "answer": "Would",
+     "options": [
+      "Should",
+      "Must",
+      "Could",
+      "Would"
+     ],
+     "explain": "禮貌地詢問對方想要甚麼用 Would you like ...?",
+     "id": "ENG-P4-L04-004",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "___ you like a cup of hot chocolate? Yes, please.",
+     "source": "英文補充教材｜Grammar 4A–4B Overview: Future Tense, Modals (Could/Would) & Indefinite Pronouns",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Listen! There is ___ knocking at the door.",
+     "answer": "someone",
+     "options": [
+      "someone",
+      "no one",
+      "everything",
+      "anyone"
+     ],
+     "explain": "肯定句中表示「有人」用不定代詞 someone / somebody。",
+     "id": "ENG-P4-L04-005",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "Listen! There is ___ knocking at the door.",
+     "source": "英文補充教材｜Grammar 4A–4B Overview: Future Tense, Modals (Could/Would) & Indefinite Pronouns",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "Fill in the blank: Is there ___ (anyone / someone) in the music room now?",
+     "answer": [
+      "anyone"
+     ],
+     "explain": "疑問句中詢問「有沒有任何人」用 anyone。",
+     "id": "ENG-P4-L04-006",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "Fill in the blank: Is there ___ (anyone / someone) in the music room now?",
+     "source": "英文補充教材｜Grammar 4A–4B Overview: Future Tense, Modals (Could/Would) & Indefinite Pronouns",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "We use 'a few' with plural countable nouns (e.g. a few apples) and 'a little' with uncountable nouns (e.g. a little water).",
+     "answer": true,
+     "explain": "a few 後接可數複數名詞，a little 後接不可數名詞。",
+     "id": "ENG-P4-L04-007",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "理解",
+     "question": "We use 'a few' with plural countable nouns (e.g. a few apples) and 'a little' with uncountable nouns (e.g. a little water).",
+     "source": "英文補充教材｜Grammar 4A–4B Overview: Future Tense, Modals (Could/Would) & Indefinite Pronouns",
+     "verified": false
+    }
+   ],
+   "lesson": "L04",
+   "verified": false
+  },
+  {
+   "id": "p4e5",
+   "grade": "P4",
+   "subject": "eng",
+   "title": "Grammar 4B Overview: Possessive Pronouns, Quantifiers & Partitives",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "This is not my umbrella. Mine is blue. Is this umbrella ___?",
+     "answer": "yours",
+     "options": [
+      "you",
+      "your",
+      "yourself",
+      "yours"
+     ],
+     "explain": "句末不接名詞，表示「你的（雨傘）」要用名詞性物主代詞 yours。",
+     "id": "ENG-P4-L05-001",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "This is not my umbrella. Mine is blue. Is this umbrella ___?",
+     "source": "英文補充教材｜Grammar 4B Overview: Possessive Pronouns, Quantifiers & Partitives",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "These storybooks belong to Ben and Sam. The books are ___.",
+     "answer": "theirs",
+     "options": [
+      "them",
+      "their",
+      "theirs",
+      "they"
+     ],
+     "explain": "代替 their books（他們的書），用名詞性物主代詞 theirs。",
+     "id": "ENG-P4-L05-002",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "These storybooks belong to Ben and Sam. The books are ___.",
+     "source": "英文補充教材｜Grammar 4B Overview: Possessive Pronouns, Quantifiers & Partitives",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Don't eat too ___ sweets. They are bad for your teeth.",
+     "answer": "many",
+     "options": [
+      "much",
+      "little",
+      "lot",
+      "many"
+     ],
+     "explain": "sweets 是可數複數名詞，表示「太多」用 too many。",
+     "id": "ENG-P4-L05-003",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Don't eat too ___ sweets. They are bad for your teeth.",
+     "source": "英文補充教材｜Grammar 4B Overview: Possessive Pronouns, Quantifiers & Partitives",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "There is only a ___ orange juice left in the bottle.",
+     "answer": "little",
+     "options": [
+      "lot",
+      "little",
+      "many",
+      "few"
+     ],
+     "explain": "orange juice 是不可數名詞，表示「少許」用 a little。",
+     "id": "ENG-P4-L05-004",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "There is only a ___ orange juice left in the bottle.",
+     "source": "英文補充教材｜Grammar 4B Overview: Possessive Pronouns, Quantifiers & Partitives",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Mum bought two ___ of bread and a jar of jam at the supermarket.",
+     "answer": "loaves",
+     "options": [
+      "cartons",
+      "loaf",
+      "loaves",
+      "bunches"
+     ],
+     "explain": "bread 的量詞是 loaf，兩條麵包用複數 loaves（two loaves of bread）。",
+     "id": "ENG-P4-L05-005",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Mum bought two ___ of bread and a jar of jam at the supermarket.",
+     "source": "英文補充教材｜Grammar 4B Overview: Possessive Pronouns, Quantifiers & Partitives",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "Change to a possessive pronoun: 'This is her ruler.' -> 'This ruler is ___.'",
+     "answer": [
+      "hers"
+     ],
+     "explain": "her + 名詞 相當於名詞性物主代詞 hers。",
+     "id": "ENG-P4-L05-006",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Change to a possessive pronoun: 'This is her ruler.' -> 'This ruler is ___.'",
+     "source": "英文補充教材｜Grammar 4B Overview: Possessive Pronouns, Quantifiers & Partitives",
+     "verified": false
+    },
+    {
+     "type": "order",
+     "q": "Rearrange the words to make a polite request.",
+     "items": [
+      "Can",
+      "you",
+      "pass me a bottle of water"
+     ],
+     "explain": "正確句序：Can you pass me a bottle of water?",
+     "answer": [
+      "Can",
+      "you",
+      "pass me a bottle of water"
+     ],
+     "id": "ENG-P4-L05-007",
+     "grade": "P4",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Rearrange the words to make a polite request.",
+     "source": "英文補充教材｜Grammar 4B Overview: Possessive Pronouns, Quantifiers & Partitives",
+     "verified": false
+    }
+   ],
+   "lesson": "L05",
+   "verified": false
+  },
+  {
+   "id": "p5e4",
+   "grade": "P5",
+   "subject": "eng",
+   "title": "Grammar 5A–5B Overview: Present Perfect Tense (already/just/yet/ever/for/since)",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "I have ___ finished my homework. Now I can watch TV.",
+     "answer": "already",
+     "options": [
+      "already",
+      "never",
+      "yet",
+      "ever"
+     ],
+     "explain": "肯定句中表示「已經完成」用 already（置於 have/has 與過去分詞之間）。",
+     "id": "ENG-P5-L04-001",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "I have ___ finished my homework. Now I can watch TV.",
+     "source": "英文補充教材｜Grammar 5A–5B Overview: Present Perfect Tense (already/just/yet/ever/for/since)",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Has your sister tidied her bookshelf ___? No, not yet.",
+     "answer": "yet",
+     "options": [
+      "yet",
+      "just",
+      "already",
+      "ever"
+     ],
+     "explain": "現在完成時疑問句尾詢問「……了沒有？」用 yet。",
+     "id": "ENG-P5-L04-002",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "Has your sister tidied her bookshelf ___? No, not yet.",
+     "source": "英文補充教材｜Grammar 5A–5B Overview: Present Perfect Tense (already/just/yet/ever/for/since)",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Have you ___ ridden a camel? No, I have never ridden one.",
+     "answer": "ever",
+     "options": [
+      "ever",
+      "already",
+      "yet",
+      "since"
+     ],
+     "explain": "詢問「曾經有過某經驗嗎？」用 Have you ever + 過去分詞。",
+     "id": "ENG-P5-L04-003",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "Have you ___ ridden a camel? No, I have never ridden one.",
+     "source": "英文補充教材｜Grammar 5A–5B Overview: Present Perfect Tense (already/just/yet/ever/for/since)",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Uncle Ben has lived in Sha Tin ___ ten years.",
+     "answer": "for",
+     "options": [
+      "for",
+      "in",
+      "from",
+      "since"
+     ],
+     "explain": "ten years 是一段時間長度（duration），現在完成時配介詞 for。",
+     "id": "ENG-P5-L04-004",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "Uncle Ben has lived in Sha Tin ___ ten years.",
+     "source": "英文補充教材｜Grammar 5A–5B Overview: Present Perfect Tense (already/just/yet/ever/for/since)",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Aunt Judy has been a nurse ___ 2018.",
+     "answer": "since",
+     "options": [
+      "in",
+      "for",
+      "at",
+      "since"
+     ],
+     "explain": "2018 是過去的起始時間點（point in time），現在完成時配介詞 since。",
+     "id": "ENG-P5-L04-005",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "Aunt Judy has been a nurse ___ 2018.",
+     "source": "英文補充教材｜Grammar 5A–5B Overview: Present Perfect Tense (already/just/yet/ever/for/since)",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "Fill in the past participle: Have you ever ___ (see) a panda in real life?",
+     "answer": [
+      "seen"
+     ],
+     "explain": "see 的過去分詞（past participle）是 seen（see - saw - seen）。",
+     "id": "ENG-P5-L04-006",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "Fill in the past participle: Have you ever ___ (see) a panda in real life?",
+     "source": "英文補充教材｜Grammar 5A–5B Overview: Present Perfect Tense (already/just/yet/ever/for/since)",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "We use 'How long' with the present perfect tense to ask about the duration of an action (e.g. How long have you studied English?).",
+     "answer": true,
+     "explain": "How long 用於詢問動作持續了多久。",
+     "id": "ENG-P5-L04-007",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "理解",
+     "question": "We use 'How long' with the present perfect tense to ask about the duration of an action (e.g. How long have you studied English?).",
+     "source": "英文補充教材｜Grammar 5A–5B Overview: Present Perfect Tense (already/just/yet/ever/for/since)",
+     "verified": false
+    }
+   ],
+   "lesson": "L04",
+   "verified": false
+  },
+  {
+   "id": "p5e5",
+   "grade": "P5",
+   "subject": "eng",
+   "title": "Grammar 5B Overview: Past Continuous, Connectives (when/while/although) & Reflexives",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "I ___ a shower when the telephone rang.",
+     "answer": "was having",
+     "options": [
+      "am having",
+      "have",
+      "had",
+      "was having"
+     ],
+     "explain": "表示電話響起那一刻正在進行的長動作，用過去進行式 was having。",
+     "id": "ENG-P5-L05-001",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "I ___ a shower when the telephone rang.",
+     "source": "英文補充教材｜Grammar 5B Overview: Past Continuous, Connectives (when/while/although) & Reflexives",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "While Mum ___ dinner, Dad was setting the table.",
+     "answer": "was cooking",
+     "options": [
+      "cooks",
+      "is cooking",
+      "was cooking",
+      "cooked"
+     ],
+     "explain": "while 連接兩個同時在過去持續進行的動作，都用過去進行式（was cooking）。",
+     "id": "ENG-P5-L05-002",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "While Mum ___ dinner, Dad was setting the table.",
+     "source": "英文補充教材｜Grammar 5B Overview: Past Continuous, Connectives (when/while/although) & Reflexives",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "___ it was raining heavily, the firemen kept working.",
+     "answer": "Although",
+     "options": [
+      "So",
+      "Because",
+      "However",
+      "Although"
+     ],
+     "explain": "前後兩句意思轉折（「雖然下大雨，但消防員繼續工作」），句首用連接詞 Although。",
+     "id": "ENG-P5-L05-003",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "___ it was raining heavily, the firemen kept working.",
+     "source": "英文補充教材｜Grammar 5B Overview: Past Continuous, Connectives (when/while/although) & Reflexives",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Be careful with the paper cutter! Don't hurt ___.",
+     "answer": "yourself",
+     "options": [
+      "yours",
+      "you",
+      "yourself",
+      "your"
+     ],
+     "explain": "祈使句主語是隱含的 you，反身代詞（reflexive pronoun）用 yourself（別弄傷你自己）。",
+     "id": "ENG-P5-L05-004",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Be careful with the paper cutter! Don't hurt ___.",
+     "source": "英文補充教材｜Grammar 5B Overview: Past Continuous, Connectives (when/while/although) & Reflexives",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "The children enjoyed ___ very much at the Christmas party.",
+     "answer": "themselves",
+     "options": [
+      "themselves",
+      "their",
+      "themself",
+      "them"
+     ],
+     "explain": "enjoy oneself 表示「玩得開心」，複數主語 The children 對應 themselves。",
+     "id": "ENG-P5-L05-005",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "The children enjoyed ___ very much at the Christmas party.",
+     "source": "英文補充教材｜Grammar 5B Overview: Past Continuous, Connectives (when/while/although) & Reflexives",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "Fill in the reflexive pronoun: Leo made this model plane all by ___ (he).",
+     "answer": [
+      "himself"
+     ],
+     "explain": "by himself 表示「靠他自己獨立完成」。",
+     "id": "ENG-P5-L05-006",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Fill in the reflexive pronoun: Leo made this model plane all by ___ (he).",
+     "source": "英文補充教材｜Grammar 5B Overview: Past Continuous, Connectives (when/while/although) & Reflexives",
+     "verified": false
+    },
+    {
+     "type": "order",
+     "q": "Rearrange the words to form a correct sentence.",
+     "items": [
+      "I was",
+      "reading a book",
+      "when the lights went out"
+     ],
+     "explain": "過去進行式長動作 + when + 過去式短動作：I was reading a book when the lights went out.",
+     "answer": [
+      "I was",
+      "reading a book",
+      "when the lights went out"
+     ],
+     "id": "ENG-P5-L05-007",
+     "grade": "P5",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Rearrange the words to form a correct sentence.",
+     "source": "英文補充教材｜Grammar 5B Overview: Past Continuous, Connectives (when/while/although) & Reflexives",
+     "verified": false
+    }
+   ],
+   "lesson": "L05",
+   "verified": false
+  },
+  {
+   "id": "p6e1",
+   "grade": "P6",
+   "subject": "eng",
+   "title": "Grammar 6A Ch 1: First Conditional & Nouns and Gender",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "Sandy ___ fit if she ___ exercise every day.",
+     "answer": "will be, does",
+     "options": [
+      "will be, does",
+      "will be, will do",
+      "be, does",
+      "is, will do"
+     ],
+     "explain": "根據 Grammar 6A p.1：第一類條件句（First conditional），主句用將來式 will be，if 條件子句用簡單現在式 does。",
+     "id": "ENG-P6-L01-001",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "Sandy ___ fit if she ___ exercise every day.",
+     "source": "英文補充教材｜Grammar 6A Ch 1: First Conditional & Nouns and Gender",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "If my brother Ken ___ any homework, he will visit Grandma on Sunday.",
+     "answer": "doesn't have",
+     "options": [
+      "doesn't have",
+      "won't have",
+      "isn't have",
+      "don't have"
+     ],
+     "explain": "根據 Grammar 6A p.1：if 子句中用簡單現在式，第三人稱單數 Ken 的否定式為 doesn't have。",
+     "id": "ENG-P6-L01-002",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "If my brother Ken ___ any homework, he will visit Grandma on Sunday.",
+     "source": "英文補充教材｜Grammar 6A Ch 1: First Conditional & Nouns and Gender",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "We ___ sashimi at the fish market if we ___ up early one day.",
+     "answer": "will eat, wake",
+     "options": [
+      "will eat, will wake",
+      "will eat, wake",
+      "eat, will wake",
+      "ate, woke"
+     ],
+     "explain": "根據 Grammar 6A p.2（Tim 的信）：主句用 will eat，if 子句用簡單現在式 wake。",
+     "id": "ENG-P6-L01-003",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "We ___ sashimi at the fish market if we ___ up early one day.",
+     "source": "英文補充教材｜Grammar 6A Ch 1: First Conditional & Nouns and Gender",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "In the play, Jerry is the king and Sarah is the ___.",
+     "answer": "queen",
+     "options": [
+      "princess",
+      "empress",
+      "witch",
+      "queen"
+     ],
+     "explain": "根據 Grammar 6A p.3（名詞性別）：king（國王）對應的女性名詞（feminine noun）是 queen（王后）。",
+     "id": "ENG-P6-L01-004",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "In the play, Jerry is the king and Sarah is the ___.",
+     "source": "英文補充教材｜Grammar 6A Ch 1: First Conditional & Nouns and Gender",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "The ___ and the empress have a lot of gold and jewels.",
+     "answer": "emperor",
+     "options": [
+      "prince",
+      "emperor",
+      "wizard",
+      "king"
+     ],
+     "explain": "根據 Grammar 6A p.3–4：empress（女皇／皇后）對應的男性名詞（masculine noun）是 emperor（皇帝）。",
+     "id": "ENG-P6-L01-005",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "The ___ and the empress have a lot of gold and jewels.",
+     "source": "英文補充教材｜Grammar 6A Ch 1: First Conditional & Nouns and Gender",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Which of the following is a 'common-gender noun' (can be used for both men and women)?",
+     "answer": "firefighter",
+     "options": [
+      "waitress",
+      "fireman",
+      "firefighter",
+      "actress"
+     ],
+     "explain": "根據 Grammar 6A p.3：firefighter（消防員）、police officer、parent、child 等屬於通性名詞（common-gender nouns）。",
+     "id": "ENG-P6-L01-006",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "Which of the following is a 'common-gender noun' (can be used for both men and women)?",
+     "source": "英文補充教材｜Grammar 6A Ch 1: First Conditional & Nouns and Gender",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "Fill in the feminine noun (Grammar 6A p.3): A man who acts in a film is an actor. A woman who acts in a film is an ___.",
+     "answer": [
+      "actress"
+     ],
+     "explain": "actor（男演員）對應的女性名詞是 actress（女演員）。",
+     "id": "ENG-P6-L01-007",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "Fill in the feminine noun (Grammar 6A p.3): A man who acts in a film is an actor. A woman who acts in a film is an ___.",
+     "source": "英文補充教材｜Grammar 6A Ch 1: First Conditional & Nouns and Gender",
+     "verified": false
+    },
+    {
+     "type": "order",
+     "q": "Rearrange the words to form a first conditional sentence (Grammar 6A p.2).",
+     "items": [
+      "If the weather",
+      "is fine",
+      "Dad will take lots of photos"
+     ],
+     "explain": "If 子句用簡單現在式（If the weather is fine），主句用將來式（Dad will take lots of photos.）。",
+     "answer": [
+      "If the weather",
+      "is fine",
+      "Dad will take lots of photos"
+     ],
+     "id": "ENG-P6-L01-008",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "Rearrange the words to form a first conditional sentence (Grammar 6A p.2).",
+     "source": "英文補充教材｜Grammar 6A Ch 1: First Conditional & Nouns and Gender",
+     "verified": false
+    }
+   ],
+   "lesson": "L01",
+   "verified": false
+  },
+  {
+   "id": "p6e2",
+   "grade": "P6",
+   "subject": "eng",
+   "title": "Grammar 6A Ch 2: Connectives (so that / so / because) & To-infinitives",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "Peter practises the piano every day ___ he can pass the piano exam.",
+     "answer": "so that",
+     "options": [
+      "so",
+      "so that",
+      "because",
+      "however"
+     ],
+     "explain": "根據 Grammar 6A p.5：表示「為了達到某目的」（後接 can / will 子句）用連接詞 so that。",
+     "id": "ENG-P6-L02-001",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "Peter practises the piano every day ___ he can pass the piano exam.",
+     "source": "英文補充教材｜Grammar 6A Ch 2: Connectives (so that / so / because) & To-infinitives",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "The prince wanted to save the princess, ___ he fought the wicked dragon.",
+     "answer": "so",
+     "options": [
+      "so that",
+      "because",
+      "so",
+      "although"
+     ],
+     "explain": "根據 Grammar 6A p.5–6：前半句是原因，後半句是結果（戰鬥），中間用連接詞 so（因此）。",
+     "id": "ENG-P6-L02-002",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "The prince wanted to save the princess, ___ he fought the wicked dragon.",
+     "source": "英文補充教材｜Grammar 6A Ch 2: Connectives (so that / so / because) & To-infinitives",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Candy didn't go to the party ___ she had a bad cold.",
+     "answer": "because",
+     "options": [
+      "because",
+      "but",
+      "so that",
+      "so"
+     ],
+     "explain": "根據 Grammar 6A p.5：後半句說明沒去派對的原因（患了重感冒），用連接詞 because。",
+     "id": "ENG-P6-L02-003",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "Candy didn't go to the party ___ she had a bad cold.",
+     "source": "英文補充教材｜Grammar 6A Ch 2: Connectives (so that / so / because) & To-infinitives",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Remember ___ the windows before you leave the classroom.",
+     "answer": "to close",
+     "options": [
+      "close",
+      "closing",
+      "closed",
+      "to close"
+     ],
+     "explain": "根據 Grammar 6A p.7：remember + to-infinitive（Remember to close）表示「記得要做某事」。",
+     "id": "ENG-P6-L02-004",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "Remember ___ the windows before you leave the classroom.",
+     "source": "英文補充教材｜Grammar 6A Ch 2: Connectives (so that / so / because) & To-infinitives",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "My little brother is learning ___ a bicycle in the park.",
+     "answer": "to ride",
+     "options": [
+      "to ride",
+      "rides",
+      "ride",
+      "riding"
+     ],
+     "explain": "根據 Grammar 6A p.7–8：動詞 learn 後面要接帶 to 的不定式（learn to ride）。",
+     "id": "ENG-P6-L02-005",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "My little brother is learning ___ a bicycle in the park.",
+     "source": "英文補充教材｜Grammar 6A Ch 2: Connectives (so that / so / because) & To-infinitives",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "Complete with 'to' + verb (Grammar 6A p.7): Oh no! I forgot ___ (bring) my English workbook today.",
+     "answer": [
+      "to bring"
+     ],
+     "explain": "forget 後接 to-infinitive：forgot to bring（忘記帶）。",
+     "id": "ENG-P6-L02-006",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "Complete with 'to' + verb (Grammar 6A p.7): Oh no! I forgot ___ (bring) my English workbook today.",
+     "source": "英文補充教材｜Grammar 6A Ch 2: Connectives (so that / so / because) & To-infinitives",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "We often use modal verbs like 'can', 'will', 'could' or 'would' in the clause after 'so that' to show purpose.",
+     "answer": true,
+     "explain": "根據 Grammar 6A p.5，so that 引導的目的狀語從句常配合 can / could / will / would 使用。",
+     "id": "ENG-P6-L02-007",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L02",
+     "level": "理解",
+     "question": "We often use modal verbs like 'can', 'will', 'could' or 'would' in the clause after 'so that' to show purpose.",
+     "source": "英文補充教材｜Grammar 6A Ch 2: Connectives (so that / so / because) & To-infinitives",
+     "verified": false
+    }
+   ],
+   "lesson": "L02",
+   "verified": false
+  },
+  {
+   "id": "p6e3",
+   "grade": "P6",
+   "subject": "eng",
+   "title": "Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "___ it is raining heavily outside, we have to cancel the picnic.",
+     "answer": "Since",
+     "options": [
+      "Since",
+      "So",
+      "However",
+      "So that"
+     ],
+     "explain": "根據 Grammar 6A p.9：Since 放在句首表示「既然／由於」（給出已知原因），相當於 Because。",
+     "id": "ENG-P6-L03-001",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "___ it is raining heavily outside, we have to cancel the picnic.",
+     "source": "英文補充教材｜Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "The box is ___ heavy ___ carry. Can you help me?",
+     "answer": "too, to",
+     "options": [
+      "very, to",
+      "too, to",
+      "too, for",
+      "so, that"
+     ],
+     "explain": "根據 Grammar 6A p.11：too + 形容詞 + to + 動詞原形（too heavy to carry）表示「太……以致不能……」。",
+     "id": "ENG-P6-L03-002",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "The box is ___ heavy ___ carry. Can you help me?",
+     "source": "英文補充教材｜Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "This puzzle is ___ difficult ___ my little sister ___ solve.",
+     "answer": "too, for, to",
+     "options": [
+      "so, for, to",
+      "too, to, for",
+      "too, for, to",
+      "very, for, to"
+     ],
+     "explain": "根據 Grammar 6A p.12：too + 形容詞 + for + 某人 + to + 動詞原形（too difficult for my little sister to solve）。",
+     "id": "ENG-P6-L03-003",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "This puzzle is ___ difficult ___ my little sister ___ solve.",
+     "source": "英文補充教材｜Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "The soup is too hot for the baby ___.",
+     "answer": "to drink",
+     "options": [
+      "drinks",
+      "drinking",
+      "to drink",
+      "drank"
+     ],
+     "explain": "根據 Grammar 6A p.12：too ... for someone 後接 to-infinitive（to drink）。",
+     "id": "ENG-P6-L03-004",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "The soup is too hot for the baby ___.",
+     "source": "英文補充教材｜Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Mum turned on the air conditioner ___ the room would be cool.",
+     "answer": "so that",
+     "options": [
+      "since",
+      "so that",
+      "because",
+      "too"
+     ],
+     "explain": "根據 Grammar 6A p.9–10：開冷氣的目的是令房間涼快（would be cool），用 so that。",
+     "id": "ENG-P6-L03-005",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "Mum turned on the air conditioner ___ the room would be cool.",
+     "source": "英文補充教材｜Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "Rewrite using 'too ... to' (Grammar 6A p.11): Leo is very tired. He cannot walk any further. -> Leo is ___ tired ___ walk any further.",
+     "answer": [
+      "too, to",
+      "too,to",
+      "too to"
+     ],
+     "explain": "too tired to walk 表示「太累而走不動」。",
+     "id": "ENG-P6-L03-006",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "Rewrite using 'too ... to' (Grammar 6A p.11): Leo is very tired. He cannot walk any further. -> Leo is ___ tired ___ walk any further.",
+     "source": "英文補充教材｜Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to",
+     "verified": false
+    },
+    {
+     "type": "order",
+     "q": "Rearrange the words to form a correct sentence (Grammar 6A p.12).",
+     "items": [
+      "The shelf is",
+      "too high",
+      "for Jenny to reach"
+     ],
+     "explain": "結構：too + 形容詞 (high) + for + 人 (Jenny) + to + 動詞 (reach)。",
+     "answer": [
+      "The shelf is",
+      "too high",
+      "for Jenny to reach"
+     ],
+     "id": "ENG-P6-L03-007",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "Rearrange the words to form a correct sentence (Grammar 6A p.12).",
+     "source": "英文補充教材｜Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to",
+     "verified": false
+    }
+   ],
+   "lesson": "L03",
+   "verified": false
+  },
+  {
+   "id": "p6e4",
+   "grade": "P6",
+   "subject": "eng",
+   "title": "Grammar 6A Ch 4: Correlative Conjunctions (either...or / neither...nor / both...and)",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "After lunch, we can ___ go cycling ___ watch a film.",
+     "answer": "either, or",
+     "options": [
+      "either, or",
+      "both, or",
+      "either, and",
+      "neither, nor"
+     ],
+     "explain": "根據 Grammar 6A p.15 & p.27：表示在兩個選擇中「或者……或者……（二選一）」用 either ... or。",
+     "id": "ENG-P6-L04-001",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "After lunch, we can ___ go cycling ___ watch a film.",
+     "source": "英文補充教材｜Grammar 6A Ch 4: Correlative Conjunctions (either...or / neither...nor / both...and)",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "___ Bill ___ I can ride a bike, so let's watch a film instead.",
+     "answer": "Neither, nor",
+     "options": [
+      "Either, or",
+      "Neither, nor",
+      "Neither, or",
+      "Both, and"
+     ],
+     "explain": "根據 Grammar 6A p.16 & p.27：表示「既不……也不……（兩個都不會）」用 Neither ... nor。",
+     "id": "ENG-P6-L04-002",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "___ Bill ___ I can ride a bike, so let's watch a film instead.",
+     "source": "英文補充教材｜Grammar 6A Ch 4: Correlative Conjunctions (either...or / neither...nor / both...and)",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "___ action films ___ romantic films are interesting to me. Let's watch a comedy.",
+     "answer": "Neither, nor",
+     "options": [
+      "Neither, nor",
+      "Neither, and",
+      "Both, or",
+      "Either, or"
+     ],
+     "explain": "根據 Grammar 6A p.27 Section A Q5：否定兩種電影都無趣用 Neither action films nor romantic films。",
+     "id": "ENG-P6-L04-003",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "___ action films ___ romantic films are interesting to me. Let's watch a comedy.",
+     "source": "英文補充教材｜Grammar 6A Ch 4: Correlative Conjunctions (either...or / neither...nor / both...and)",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "___ Jenny ___ her brother like playing badminton. They play together every Saturday.",
+     "answer": "Both, and",
+     "options": [
+      "Neither, nor",
+      "Both, or",
+      "Both, and",
+      "Either, or"
+     ],
+     "explain": "根據 Grammar 6A p.18：表示「兩個都喜歡」用 Both ... and，謂語動詞用複數 like。",
+     "id": "ENG-P6-L04-004",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "___ Jenny ___ her brother like playing badminton. They play together every Saturday.",
+     "source": "英文補充教材｜Grammar 6A Ch 4: Correlative Conjunctions (either...or / neither...nor / both...and)",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Neither the king nor the queen ___ happy about the bad news.",
+     "answer": "is",
+     "options": [
+      "is",
+      "were",
+      "be",
+      "are"
+     ],
+     "explain": "根據 Grammar 6A p.16–18：neither ... nor 連接兩個單數主語時，動詞跟隨鄰近單數主語用 is。",
+     "id": "ENG-P6-L04-005",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "Neither the king nor the queen ___ happy about the bad news.",
+     "source": "英文補充教材｜Grammar 6A Ch 4: Correlative Conjunctions (either...or / neither...nor / both...and)",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "Fill in the blank (Grammar 6A p.15): You can have either apple juice ___ orange juice.",
+     "answer": [
+      "or"
+     ],
+     "explain": "either 與 or 搭配（either ... or）。",
+     "id": "ENG-P6-L04-006",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "Fill in the blank (Grammar 6A p.15): You can have either apple juice ___ orange juice.",
+     "source": "英文補充教材｜Grammar 6A Ch 4: Correlative Conjunctions (either...or / neither...nor / both...and)",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "'Neither Tom or Jerry likes cheese.' uses the correct pair of conjunctions.",
+     "answer": false,
+     "explain": "Neither 必須與 nor 搭配（Neither Tom nor Jerry），不可用 or。",
+     "id": "ENG-P6-L04-007",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L04",
+     "level": "理解",
+     "question": "'Neither Tom or Jerry likes cheese.' uses the correct pair of conjunctions.",
+     "source": "英文補充教材｜Grammar 6A Ch 4: Correlative Conjunctions (either...or / neither...nor / both...and)",
+     "verified": false
+    }
+   ],
+   "lesson": "L04",
+   "verified": false
+  },
+  {
+   "id": "p6e5",
+   "grade": "P6",
+   "subject": "eng",
+   "title": "Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "If I ___ a writer, I ___ write books about animals.",
+     "answer": "were, would",
+     "options": [
+      "were, will",
+      "am, will",
+      "was, will",
+      "were, would"
+     ],
+     "explain": "根據 Grammar 6A p.19 & p.28：第二類條件句（假設現在不可能或相反的情況），if 子句用過去式 were，主句用 would + 原形動詞。",
+     "id": "ENG-P6-L05-001",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "If I ___ a writer, I ___ write books about animals.",
+     "source": "英文補充教材｜Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "If Candy ___ a dragon, she ___ ride on it.",
+     "answer": "met, would",
+     "options": [
+      "meets, will",
+      "met, would",
+      "met, will",
+      "meet, would"
+     ],
+     "explain": "根據 Grammar 6A p.28 Section C Q1：遇見龍是幻想情境（Second conditional），用 If Candy met a dragon, she would ride on it。",
+     "id": "ENG-P6-L05-002",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "If Candy ___ a dragon, she ___ ride on it.",
+     "source": "英文補充教材｜Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Susan is the girl ___ is performing a magic show.",
+     "answer": "who",
+     "options": [
+      "where",
+      "who",
+      "which",
+      "whose"
+     ],
+     "explain": "根據 Grammar 6A p.20 & p.27：先行詞 the girl 是人，關係代詞（relative pronoun）用 who。",
+     "id": "ENG-P6-L05-003",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Susan is the girl ___ is performing a magic show.",
+     "source": "英文補充教材｜Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "This is a wallet ___ is made of soft leather.",
+     "answer": "which",
+     "options": [
+      "whom",
+      "which",
+      "where",
+      "who"
+     ],
+     "explain": "根據 Grammar 6A p.20 & p.27：先行詞 a wallet 是物件，關係代詞用 which。",
+     "id": "ENG-P6-L05-004",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "This is a wallet ___ is made of soft leather.",
+     "source": "英文補充教材｜Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "The clown's jokes were very ___. All the audience felt ___.",
+     "answer": "amusing, amused",
+     "options": [
+      "amusing, amusing",
+      "amused, amused",
+      "amusing, amused",
+      "amused, amusing"
+     ],
+     "explain": "根據 Grammar 6A p.21 & p.28：形容事物「令人發笑的」用 -ing 形容詞 amusing；形容人「感到好笑的」用 -ed 形容詞 amused。",
+     "id": "ENG-P6-L05-005",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "The clown's jokes were very ___. All the audience felt ___.",
+     "source": "英文補充教材｜Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "The prince showed true love to the princess. Everyone was deeply ___.",
+     "answer": "touched",
+     "options": [
+      "touching",
+      "touch",
+      "touches",
+      "touched"
+     ],
+     "explain": "根據 Grammar 6A p.28 Section D Q2：形容人「深受感動」要用 -ed 形容詞 touched（而非 touching）。",
+     "id": "ENG-P6-L05-006",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "The prince showed true love to the princess. Everyone was deeply ___.",
+     "source": "英文補充教材｜Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "Correct the mistake (Grammar 6A p.28 Section D Q4): 'If I am Rapunzel, I would let down my long hair.' -> Change 'am' to:",
+     "answer": [
+      "were"
+     ],
+     "explain": "第二類條件句中，If I 後面用虛擬語氣 were（If I were Rapunzel...）。",
+     "id": "ENG-P6-L05-007",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Correct the mistake (Grammar 6A p.28 Section D Q4): 'If I am Rapunzel, I would let down my long hair.' -> Change 'am' to:",
+     "source": "英文補充教材｜Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives",
+     "verified": false
+    },
+    {
+     "type": "order",
+     "q": "Rearrange the words to form a second conditional sentence (Grammar 6A p.28).",
+     "items": [
+      "If Amy",
+      "saw a fairy",
+      "she would draw a picture of it"
+     ],
+     "explain": "第二類條件句：If Amy saw a fairy, she would draw a picture of it.",
+     "answer": [
+      "If Amy",
+      "saw a fairy",
+      "she would draw a picture of it"
+     ],
+     "id": "ENG-P6-L05-008",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "Rearrange the words to form a second conditional sentence (Grammar 6A p.28).",
+     "source": "英文補充教材｜Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives",
+     "verified": false
+    }
+   ],
+   "lesson": "L05",
+   "verified": false
+  },
+  {
+   "id": "p6e6",
+   "grade": "P6",
+   "subject": "eng",
+   "title": "Grammar 6A Ch 6: Similes (as ... as / be ... like) & Connectives (however / but)",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "The princess's skin is ___ white ___ snow.",
+     "answer": "as, as",
+     "options": [
+      "as, like",
+      "so, as",
+      "as, as",
+      "like, as"
+     ],
+     "explain": "根據 Grammar 6A p.23：明喻結構 as + 形容詞 + as（as white as snow 雪白）。",
+     "id": "ENG-P6-L06-001",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "The princess's skin is ___ white ___ snow.",
+     "source": "英文補充教材｜Grammar 6A Ch 6: Similes (as ... as / be ... like) & Connectives (however / but)",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Sam is ___ proud ___ a peacock.",
+     "answer": "as, as",
+     "options": [
+      "too, to",
+      "as, as",
+      "as, like",
+      "like, as"
+     ],
+     "explain": "根據 Grammar 6A p.28 Section D Q1：as proud as a peacock（像孔雀一樣驕傲），不可寫 proud like a peacock。",
+     "id": "ENG-P6-L06-002",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "Sam is ___ proud ___ a peacock.",
+     "source": "英文補充教材｜Grammar 6A Ch 6: Similes (as ... as / be ... like) & Connectives (however / but)",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "The firefighter is brave ___ a lion.",
+     "answer": "like",
+     "options": [
+      "for",
+      "like",
+      "as",
+      "so"
+     ],
+     "explain": "根據 Grammar 6A p.23–24：be + 形容詞 + like + 名詞（brave like a lion 像獅子一樣勇敢）。",
+     "id": "ENG-P6-L06-003",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "The firefighter is brave ___ a lion.",
+     "source": "英文補充教材｜Grammar 6A Ch 6: Similes (as ... as / be ... like) & Connectives (however / but)",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "After the teacher explained the rule, everything is clear ___ crystal now.",
+     "answer": "like",
+     "options": [
+      "likes",
+      "to",
+      "like",
+      "as"
+     ],
+     "explain": "根據 Grammar 6A p.28 Section D Q8：這裏的 like 是介詞（「像水晶一樣清晰」），不可加 -s 寫成 likes。",
+     "id": "ENG-P6-L06-004",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "After the teacher explained the rule, everything is clear ___ crystal now.",
+     "source": "英文補充教材｜Grammar 6A Ch 6: Similes (as ... as / be ... like) & Connectives (however / but)",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Grandpa is seventy years old, ___ he is still as strong as an ox.",
+     "answer": "but",
+     "options": [
+      "but",
+      "because",
+      "although",
+      "however"
+     ],
+     "explain": "根據 Grammar 6A p.25 & p.28：在同一個句子中間連接兩個轉折分句（前面只有逗號，後無逗號），用連接詞 but。",
+     "id": "ENG-P6-L06-005",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "Grandpa is seventy years old, ___ he is still as strong as an ox.",
+     "source": "英文補充教材｜Grammar 6A Ch 6: Similes (as ... as / be ... like) & Connectives (however / but)",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "Bob is very smart. ___, he is proud and rude to his classmates.",
+     "answer": "However",
+     "options": [
+      "So that",
+      "However",
+      "But",
+      "Although"
+     ],
+     "explain": "根據 Grammar 6A p.25 & p.28 Section D Q5：放在第二句句首並有逗號隔開，表示「然而／可是」用 However,。",
+     "id": "ENG-P6-L06-006",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "Bob is very smart. ___, he is proud and rude to his classmates.",
+     "source": "英文補充教材｜Grammar 6A Ch 6: Similes (as ... as / be ... like) & Connectives (however / but)",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "Complete the simile (Grammar 6A p.23): The old man is as wise as an ___.",
+     "answer": [
+      "owl"
+     ],
+     "explain": "固定比喻搭配：as wise as an owl（像貓頭鷹一樣有智慧）。",
+     "id": "ENG-P6-L06-007",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "應用",
+     "question": "Complete the simile (Grammar 6A p.23): The old man is as wise as an ___.",
+     "source": "英文補充教材｜Grammar 6A Ch 6: Similes (as ... as / be ... like) & Connectives (however / but)",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "In 'The pillows are as soft as clouds', 'as ... as' is used to compare two things that are similar.",
+     "answer": true,
+     "explain": "根據 Grammar 6A p.23，我們用 as ... as 和 be ... like 來作比喻（similes）。",
+     "id": "ENG-P6-L06-008",
+     "grade": "P6",
+     "subject": "eng",
+     "lesson": "L06",
+     "level": "理解",
+     "question": "In 'The pillows are as soft as clouds', 'as ... as' is used to compare two things that are similar.",
+     "source": "英文補充教材｜Grammar 6A Ch 6: Similes (as ... as / be ... like) & Connectives (however / but)",
+     "verified": false
+    }
+   ],
+   "lesson": "L06",
+   "verified": false
+  },
+  {
+   "id": "p1m1",
+   "grade": "P1",
+   "subject": "math",
+   "title": "1至20的認識與順逆數",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "由 11 順着數，14 的下一個數是甚麼？",
+     "answer": "15",
+     "options": [
+      "16",
+      "12",
+      "13",
+      "15"
+     ],
+     "explain": "順着數每次加 1，14 的下一個數是 15。",
+     "id": "MATH-P1-L01-001",
+     "grade": "P1",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "由 11 順着數，14 的下一個數是甚麼？",
+     "source": "課程補充題庫｜1至20的認識與順逆數",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "由 20 倒着數，20 的前一個數是甚麼？",
+     "answer": "19",
+     "options": [
+      "17",
+      "18",
+      "10",
+      "19"
+     ],
+     "explain": "倒着數每次減 1，20 的前一個數是 19。",
+     "id": "MATH-P1-L01-002",
+     "grade": "P1",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "由 20 倒着數，20 的前一個數是甚麼？",
+     "source": "課程補充題庫｜1至20的認識與順逆數",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "1 個十和 7 個一合起來是 ___。",
+     "answer": [
+      "17"
+     ],
+     "explain": "1 個十是 10，加上 7 個一是 17。",
+     "id": "MATH-P1-L01-003",
+     "grade": "P1",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "1 個十和 7 個一合起來是 ___。",
+     "source": "課程補充題庫｜1至20的認識與順逆數",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "在 12、15、9、18 四個數中，最大的數是 ___。",
+     "answer": [
+      "18"
+     ],
+     "explain": "比較各數大小：9 < 12 < 15 < 18，最大是 18。",
+     "id": "MATH-P1-L01-004",
+     "grade": "P1",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "在 12、15、9、18 四個數中，最大的數是 ___。",
+     "source": "課程補充題庫｜1至20的認識與順逆數",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "16 比 13 大，但比 19 小。",
+     "answer": true,
+     "explain": "13 < 16 < 19，敘述正確。",
+     "id": "MATH-P1-L01-005",
+     "grade": "P1",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "16 比 13 大，但比 19 小。",
+     "source": "課程補充題庫｜1至20的認識與順逆數",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "由 10 順着數到 15，一共數了 4 個數。",
+     "answer": false,
+     "explain": "10、11、12、13、14、15 一共是 6 個數。",
+     "id": "MATH-P1-L01-006",
+     "grade": "P1",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "由 10 順着數到 15，一共數了 4 個數。",
+     "source": "課程補充題庫｜1至20的認識與順逆數",
+     "verified": false
+    }
+   ],
+   "lesson": "L01",
+   "verified": false
+  },
+  {
+   "id": "p1m2",
+   "grade": "P1",
+   "subject": "math",
+   "title": "18以內的加減法",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "8 ＋ 7 ＝ ？",
+     "answer": "15",
+     "options": [
+      "14",
+      "16",
+      "15",
+      "13"
+     ],
+     "explain": "用「湊十法」：8＋2＝10，10＋5＝15。",
+     "id": "MATH-P1-L02-001",
+     "grade": "P1",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "8 ＋ 7 ＝ ？",
+     "source": "課程補充題庫｜18以內的加減法",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "16 － 9 ＝ ？",
+     "answer": "7",
+     "options": [
+      "8",
+      "9",
+      "7",
+      "6"
+     ],
+     "explain": "用「破十法」：10－9＝1，1＋6＝7。",
+     "id": "MATH-P1-L02-002",
+     "grade": "P1",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "16 － 9 ＝ ？",
+     "source": "課程補充題庫｜18以內的加減法",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "樹上有 9 隻小鳥，再飛來 6 隻，現在樹上共有小鳥 ___ 隻。",
+     "answer": [
+      "15"
+     ],
+     "explain": "9＋6＝15（隻）。",
+     "id": "MATH-P1-L02-003",
+     "grade": "P1",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "樹上有 9 隻小鳥，再飛來 6 隻，現在樹上共有小鳥 ___ 隻。",
+     "source": "課程補充題庫｜18以內的加減法",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "媽媽買了 17 個蘋果，家人吃了 8 個，還餘蘋果 ___ 個。",
+     "answer": [
+      "9"
+     ],
+     "explain": "17－8＝9（個）。",
+     "id": "MATH-P1-L02-004",
+     "grade": "P1",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "媽媽買了 17 個蘋果，家人吃了 8 個，還餘蘋果 ___ 個。",
+     "source": "課程補充題庫｜18以內的加減法",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "7 ＋ 8 和 8 ＋ 7 的答案相同，都是 15。",
+     "answer": true,
+     "explain": "加法交換位置，和維持不變，都是 15。",
+     "id": "MATH-P1-L02-005",
+     "grade": "P1",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "7 ＋ 8 和 8 ＋ 7 的答案相同，都是 15。",
+     "source": "課程補充題庫｜18以內的加減法",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "14 － 6 的答案是 9。",
+     "answer": false,
+     "explain": "14－6＝8，不是 9。",
+     "id": "MATH-P1-L02-006",
+     "grade": "P1",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "14 － 6 的答案是 9。",
+     "source": "課程補充題庫｜18以內的加減法",
+     "verified": false
+    }
+   ],
+   "lesson": "L02",
+   "verified": false
+  },
+  {
+   "id": "p1m3",
+   "grade": "P1",
+   "subject": "math",
+   "title": "立體圖形、時鐘與長短",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "以下哪一種立體圖形可以向四面八方自由滾動？",
+     "answer": "球體",
+     "options": [
+      "角錐體",
+      "長方體",
+      "正方體",
+      "球體"
+     ],
+     "explain": "球體表面全是曲面，能向任何方向滾動。",
+     "id": "MATH-P1-L03-001",
+     "grade": "P1",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "以下哪一種立體圖形可以向四面八方自由滾動？",
+     "source": "課程補充題庫｜立體圖形、時鐘與長短",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "時鐘的分針指着 12，時針指着 8，現在是幾時？",
+     "answer": "8時正",
+     "options": [
+      "12時正",
+      "8時正",
+      "4時正",
+      "8時半"
+     ],
+     "explain": "分針指着 12、時針指着 8，表示 8 時正。",
+     "id": "MATH-P1-L03-002",
+     "grade": "P1",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "時鐘的分針指着 12，時針指着 8，現在是幾時？",
+     "source": "課程補充題庫｜立體圖形、時鐘與長短",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "時鐘的分針指着 6，時針在 3 和 4 中間，現在是幾時？",
+     "answer": "3時半",
+     "options": [
+      "6時正",
+      "3時正",
+      "3時半",
+      "4時半"
+     ],
+     "explain": "分針指着 6 表示半小時，時針過了 3，即是 3 時半。",
+     "id": "MATH-P1-L03-003",
+     "grade": "P1",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "時鐘的分針指着 6，時針在 3 和 4 中間，現在是幾時？",
+     "source": "課程補充題庫｜立體圖形、時鐘與長短",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "正方體一共有 ___ 個平的面。",
+     "answer": [
+      "6"
+     ],
+     "explain": "正方體有上、下、前、後、左、右共 6 個正方形平面。",
+     "id": "MATH-P1-L03-004",
+     "grade": "P1",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "正方體一共有 ___ 個平的面。",
+     "source": "課程補充題庫｜立體圖形、時鐘與長短",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "比較兩支鉛筆的長短時，先把其中一端對齊，就更容易比較。",
+     "answer": true,
+     "explain": "對齊一端後看另一端，伸出較遠的一支較長。",
+     "id": "MATH-P1-L03-005",
+     "grade": "P1",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "比較兩支鉛筆的長短時，先把其中一端對齊，就更容易比較。",
+     "source": "課程補充題庫｜立體圖形、時鐘與長短",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "圓柱體沒有平的面，只有曲面。",
+     "answer": false,
+     "explain": "圓柱體上下有 2 個圓形的平面，側面才是曲面。",
+     "id": "MATH-P1-L03-006",
+     "grade": "P1",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "圓柱體沒有平的面，只有曲面。",
+     "source": "課程補充題庫｜立體圖形、時鐘與長短",
+     "verified": false
+    }
+   ],
+   "lesson": "L03",
+   "verified": false
+  },
+  {
+   "id": "p1h1",
+   "grade": "P1",
+   "subject": "hum",
+   "title": "我的家庭與學校",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "爸爸的爸爸，我們應該稱呼他做甚麼？",
+     "answer": "爺爺",
+     "options": [
+      "伯父",
+      "舅父",
+      "爺爺",
+      "公公"
+     ],
+     "explain": "爸爸的父親稱為爺爺（祖父）；媽媽的父親稱為公公（外祖父）。",
+     "id": "HUM-P1-L01-001",
+     "grade": "P1",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "爸爸的爸爸，我們應該稱呼他做甚麼？",
+     "source": "課程補充題庫｜我的家庭與學校",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "在學校裏，如果身體感到不舒服，應該立即告訴誰？",
+     "answer": "老師",
+     "options": [
+      "陌生人",
+      "老師",
+      "郵差",
+      "巴士司機"
+     ],
+     "explain": "在校內感到不適，應立即向老師或校務處求助。",
+     "id": "HUM-P1-L01-002",
+     "grade": "P1",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "分析",
+     "question": "在學校裏，如果身體感到不舒服，應該立即告訴誰？",
+     "source": "課程補充題庫｜我的家庭與學校",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "以下哪一項是愛護家庭的表現？",
+     "answer": "主動幫忙收拾玩具",
+     "options": [
+      "主動幫忙收拾玩具",
+      "只顧自己看電視",
+      "對家人大聲呼喝",
+      "把玩具亂扔在地上"
+     ],
+     "explain": "主動收拾玩具能減輕家人負擔，保持家居整潔。",
+     "id": "HUM-P1-L01-003",
+     "grade": "P1",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "以下哪一項是愛護家庭的表現？",
+     "source": "課程補充題庫｜我的家庭與學校",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "在學校圖書館看書時，我們要保持 ___，不可大聲喧嘩。",
+     "answer": [
+      "安靜"
+     ],
+     "explain": "圖書館是閱讀的地方，需要保持安靜。",
+     "id": "HUM-P1-L01-004",
+     "grade": "P1",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "在學校圖書館看書時，我們要保持 ___，不可大聲喧嘩。",
+     "source": "課程補充題庫｜我的家庭與學校",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "家人互相照顧和關心，能令家庭更溫暖和睦。",
+     "answer": true,
+     "explain": "相親相愛是和睦家庭的基礎。",
+     "id": "HUM-P1-L01-005",
+     "grade": "P1",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "家人互相照顧和關心，能令家庭更溫暖和睦。",
+     "source": "課程補充題庫｜我的家庭與學校",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "在學校裏，只有班長才需要遵守校規。",
+     "answer": false,
+     "explain": "每一位同學都應該遵守校規。",
+     "id": "HUM-P1-L01-006",
+     "grade": "P1",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "在學校裏，只有班長才需要遵守校規。",
+     "source": "課程補充題庫｜我的家庭與學校",
+     "verified": false
+    }
+   ],
+   "lesson": "L01",
+   "verified": false
+  },
+  {
+   "id": "p1h2",
+   "grade": "P1",
+   "subject": "hum",
+   "title": "禮貌與安全",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "別人幫助了我們，我們應該說甚麼禮貌說話？",
+     "answer": "謝謝",
+     "options": [
+      "謝謝",
+      "不用客氣",
+      "對不起",
+      "再見"
+     ],
+     "explain": "接受別人幫助後應說「謝謝」表示感謝。",
+     "id": "HUM-P1-L02-001",
+     "grade": "P1",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "別人幫助了我們，我們應該說甚麼禮貌說話？",
+     "source": "課程補充題庫｜禮貌與安全",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "過馬路時，行人交通燈亮起「紅公仔」，我們應該怎樣做？",
+     "answer": "停在行人路上等候",
+     "options": [
+      "停在行人路上等候",
+      "閉上眼睛走過去",
+      "立即衝過馬路",
+      "在馬路中間玩耍"
+     ],
+     "explain": "紅燈代表禁止通行，必須停在行人路上等候綠燈。",
+     "id": "HUM-P1-L02-002",
+     "grade": "P1",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "過馬路時，行人交通燈亮起「紅公仔」，我們應該怎樣做？",
+     "source": "課程補充題庫｜禮貌與安全",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "早上見到老師和同學時，應該說甚麼？",
+     "answer": "早安",
+     "options": [
+      "早安",
+      "沒關係",
+      "晚安",
+      "對不起"
+     ],
+     "explain": "早上見面打招呼應說「早安」。",
+     "id": "HUM-P1-L02-003",
+     "grade": "P1",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "早上見到老師和同學時，應該說甚麼？",
+     "source": "課程補充題庫｜禮貌與安全",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "不小心撞倒別人，我們應該有禮貌地說「___」。",
+     "answer": [
+      "對不起"
+     ],
+     "explain": "做錯事或撞倒別人時，應主動說「對不起」。",
+     "id": "HUM-P1-L02-004",
+     "grade": "P1",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "理解",
+     "question": "不小心撞倒別人，我們應該有禮貌地說「___」。",
+     "source": "課程補充題庫｜禮貌與安全",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "留在家中時，不可以隨便替陌生人開門。",
+     "answer": true,
+     "explain": "為了個人及家居安全，不應替陌生人開門。",
+     "id": "HUM-P1-L02-005",
+     "grade": "P1",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "留在家中時，不可以隨便替陌生人開門。",
+     "source": "課程補充題庫｜禮貌與安全",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "手濕的時候去觸摸電掣是十分安全的。",
+     "answer": false,
+     "explain": "水能導電，濕手觸摸電掣會有觸電危險。",
+     "id": "HUM-P1-L02-006",
+     "grade": "P1",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "手濕的時候去觸摸電掣是十分安全的。",
+     "source": "課程補充題庫｜禮貌與安全",
+     "verified": false
+    }
+   ],
+   "lesson": "L02",
+   "verified": false
+  },
+  {
+   "id": "p1s8",
+   "grade": "P1",
+   "subject": "sci",
+   "title": "五官與身體健康",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "我們用哪一個感覺器官來分辨花朵的香味？",
+     "answer": "鼻子",
+     "options": [
+      "舌頭",
+      "耳朵",
+      "眼睛",
+      "鼻子"
+     ],
+     "explain": "鼻子負責嗅覺，用來聞氣味。",
+     "id": "SCI-P1-L08-001",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "我們用哪一個感覺器官來分辨花朵的香味？",
+     "source": "課程補充題庫｜五官與身體健康",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "想要保護眼睛，以下哪一種做法是正確的？",
+     "answer": "在光線充足的地方看書",
+     "options": [
+      "用骯髒的手揉眼睛",
+      "在光線充足的地方看書",
+      "躺在床上看書",
+      "在黑暗的房間玩手機"
+     ],
+     "explain": "光線充足並保持適當距離才能保護視力。",
+     "id": "SCI-P1-L08-002",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "想要保護眼睛，以下哪一種做法是正確的？",
+     "source": "課程補充題庫｜五官與身體健康",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "以下哪一種習慣有助預防病菌傳播？",
+     "answer": "進食前和如廁後徹底洗手",
+     "options": [
+      "打噴嚏時不掩着口鼻",
+      "每天不刷牙",
+      "進食前和如廁後徹底洗手",
+      "不洗手就拿食物吃"
+     ],
+     "explain": "勤洗手能有效清除手上的病菌。",
+     "id": "SCI-P1-L08-003",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "以下哪一種習慣有助預防病菌傳播？",
+     "source": "課程補充題庫｜五官與身體健康",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "我們每天早晚都要用牙刷和牙膏 ___，保護牙齒健康。",
+     "answer": [
+      "刷牙"
+     ],
+     "explain": "早晚刷牙可以清除牙菌膜和食物殘渣，預防蛀牙。",
+     "id": "SCI-P1-L08-004",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L08",
+     "level": "理解",
+     "question": "我們每天早晚都要用牙刷和牙膏 ___，保護牙齒健康。",
+     "source": "課程補充題庫｜五官與身體健康",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "充足的睡眠和適量的運動，能令身體健康強壯。",
+     "answer": true,
+     "explain": "休息與運動對兒童成長非常重要。",
+     "id": "SCI-P1-L08-005",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "充足的睡眠和適量的運動，能令身體健康強壯。",
+     "source": "課程補充題庫｜五官與身體健康",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "舌頭是用來聽聲音的感覺器官。",
+     "answer": false,
+     "explain": "舌頭負責味覺（嚐味道），耳朵才是用來聽聲音的。",
+     "id": "SCI-P1-L08-006",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L08",
+     "level": "記憶",
+     "question": "舌頭是用來聽聲音的感覺器官。",
+     "source": "課程補充題庫｜五官與身體健康",
+     "verified": false
+    }
+   ],
+   "lesson": "L08",
+   "verified": false
+  },
+  {
+   "id": "p1s9",
+   "grade": "P1",
+   "subject": "sci",
+   "title": "動植物與四季",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "植物生長需要陽光、空氣和甚麼？",
+     "answer": "水",
+     "options": [
+      "水",
+      "玩具",
+      "石頭",
+      "糖果"
+     ],
+     "explain": "植物需要陽光、空氣、水和養分才能健康生長。",
+     "id": "SCI-P1-L09-001",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L09",
+     "level": "記憶",
+     "question": "植物生長需要陽光、空氣和甚麼？",
+     "source": "課程補充題庫｜動植物與四季",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "以下哪一種動物會在水裏游，而且用鰓呼吸？",
+     "answer": "魚",
+     "options": [
+      "蝴蝶",
+      "小狗",
+      "魚",
+      "小鳥"
+     ],
+     "explain": "魚類生活在水中，用鰭游泳，用鰓呼吸。",
+     "id": "SCI-P1-L09-002",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L09",
+     "level": "記憶",
+     "question": "以下哪一種動物會在水裏游，而且用鰓呼吸？",
+     "source": "課程補充題庫｜動植物與四季",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "香港的哪一個季節天氣最寒冷，大家要穿厚外套？",
+     "answer": "冬季",
+     "options": [
+      "春季",
+      "冬季",
+      "夏季",
+      "秋季"
+     ],
+     "explain": "冬季氣溫較低，天氣寒冷乾燥。",
+     "id": "SCI-P1-L09-003",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L09",
+     "level": "記憶",
+     "question": "香港的哪一個季節天氣最寒冷，大家要穿厚外套？",
+     "source": "課程補充題庫｜動植物與四季",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "夏天陽光猛烈，天氣十分 ___，外出時要多喝水。",
+     "answer": [
+      "炎熱"
+     ],
+     "explain": "香港夏季天氣炎熱潮濕，要注意補充水分防中暑。",
+     "id": "SCI-P1-L09-004",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L09",
+     "level": "理解",
+     "question": "夏天陽光猛烈，天氣十分 ___，外出時要多喝水。",
+     "source": "課程補充題庫｜動植物與四季",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "狗、貓和兔子都是有生命的動物，需要食物和水。",
+     "answer": true,
+     "explain": "動物屬於生物，需要水和食物維持生命。",
+     "id": "SCI-P1-L09-005",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L09",
+     "level": "記憶",
+     "question": "狗、貓和兔子都是有生命的動物，需要食物和水。",
+     "source": "課程補充題庫｜動植物與四季",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "塑膠花會自己長大和開花，所以它是植物。",
+     "answer": false,
+     "explain": "塑膠花沒有生命，不會生長，不是真正的植物。",
+     "id": "SCI-P1-L09-006",
+     "grade": "P1",
+     "subject": "sci",
+     "lesson": "L09",
+     "level": "記憶",
+     "question": "塑膠花會自己長大和開花，所以它是植物。",
+     "source": "課程補充題庫｜動植物與四季",
+     "verified": false
+    }
+   ],
+   "lesson": "L09",
+   "verified": false
+  },
+  {
+   "id": "p3c1",
+   "grade": "P3",
+   "subject": "chi",
+   "title": "四字詞語與校園生活",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "運動會上，同學們在跑道旁大聲為健兒打氣，場面十分（ ）。",
+     "answer": "熱鬧非凡",
+     "options": [
+      "半途而廢",
+      "熱鬧非凡",
+      "鴉雀無聲",
+      "冷冷清清"
+     ],
+     "explain": "「熱鬧非凡」形容場面非常熱鬧、充滿活力。",
+     "id": "CHI-P3-L01-001",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "運動會上，同學們在跑道旁大聲為健兒打氣，場面十分（ ）。",
+     "source": "課程補充題庫｜四字詞語與校園生活",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "做功課時必須（ ），才不會常常寫錯字。",
+     "answer": "專心致志",
+     "options": [
+      "東張西望",
+      "專心致志",
+      "馬馬虎虎",
+      "三心兩意"
+     ],
+     "explain": "「專心致志」形容注意力高度集中、非常專心。",
+     "id": "CHI-P3-L01-002",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "做功課時必須（ ），才不會常常寫錯字。",
+     "source": "課程補充題庫｜四字詞語與校園生活",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "遇到不懂的問題，我們應該（ ）地向老師請教。",
+     "answer": "虛心",
+     "options": [
+      "驕傲",
+      "粗心",
+      "虛心",
+      "貪心"
+     ],
+     "explain": "虛心請教是良好的學習態度。",
+     "id": "CHI-P3-L01-003",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "遇到不懂的問題，我們應該（ ）地向老師請教。",
+     "source": "課程補充題庫｜四字詞語與校園生活",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "看到同學跌倒了，小美（ ）走上前扶起他。（填二字詞語：急忙、立刻的意思）",
+     "answer": [
+      "連忙",
+      "急忙",
+      "立刻"
+     ],
+     "explain": "「連忙」、「急忙」或「立刻」都表示立即行動。",
+     "id": "CHI-P3-L01-004",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "看到同學跌倒了，小美（ ）走上前扶起他。（填二字詞語：急忙、立刻的意思）",
+     "source": "課程補充題庫｜四字詞語與校園生活",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "「守望相助」的意思是大家互相幫助、互相照顧。",
+     "answer": true,
+     "explain": "鄰里或同學之間互相幫助稱為守望相助。",
+     "id": "CHI-P3-L01-005",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「守望相助」的意思是大家互相幫助、互相照顧。",
+     "source": "課程補充題庫｜四字詞語與校園生活",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "「半途而廢」是讚賞別人做事非常有恆心、堅持到底。",
+     "answer": false,
+     "explain": "「半途而廢」指做事中途放棄，未能堅持到底。",
+     "id": "CHI-P3-L01-006",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「半途而廢」是讚賞別人做事非常有恆心、堅持到底。",
+     "source": "課程補充題庫｜四字詞語與校園生活",
+     "verified": false
+    }
+   ],
+   "lesson": "L01",
+   "verified": false
+  },
+  {
+   "id": "p3c2",
+   "grade": "P3",
+   "subject": "chi",
+   "title": "結構助詞「的、地、得」",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "選出正確的助詞：「小鳥在藍天上自由自在（ ）飛翔。」",
+     "answer": "地",
+     "options": [
+      "得",
+      "的",
+      "地",
+      "着"
+     ],
+     "explain": "動詞「飛翔」前面的修飾語，應配結構助詞「地」。",
+     "id": "CHI-P3-L02-001",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "選出正確的助詞：「小鳥在藍天上自由自在（ ）飛翔。」",
+     "source": "課程補充題庫｜結構助詞「的、地、得」",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "選出正確的助詞：「這朵紅花開（ ）真美麗！」",
+     "answer": "得",
+     "options": [
+      "的",
+      "得",
+      "了",
+      "地"
+     ],
+     "explain": "動詞「開」後面補充說明程度，應配結構助詞「得」。",
+     "id": "CHI-P3-L02-002",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "選出正確的助詞：「這朵紅花開（ ）真美麗！」",
+     "source": "課程補充題庫｜結構助詞「的、地、得」",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "選出正確的助詞：「媽媽買了一個香甜（ ）大西瓜。」",
+     "answer": "的",
+     "options": [
+      "得",
+      "過",
+      "的",
+      "地"
+     ],
+     "explain": "名詞「大西瓜」前面的形容詞，應配結構助詞「的」。",
+     "id": "CHI-P3-L02-003",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "選出正確的助詞：「媽媽買了一個香甜（ ）大西瓜。」",
+     "source": "課程補充題庫｜結構助詞「的、地、得」",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "請填上「的、地、得」：弟弟跑（ ）很快，轉眼就到了終點。",
+     "answer": [
+      "得"
+     ],
+     "explain": "動詞「跑」後面補充說明快慢程度，用「得」。",
+     "id": "CHI-P3-L02-004",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "理解",
+     "question": "請填上「的、地、得」：弟弟跑（ ）很快，轉眼就到了終點。",
+     "source": "課程補充題庫｜結構助詞「的、地、得」",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "「溫暖的陽光」中，因為「陽光」是名詞，所以前面用「的」。",
+     "answer": true,
+     "explain": "「形容詞＋的＋名詞」是正確用法。",
+     "id": "CHI-P3-L02-005",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "「溫暖的陽光」中，因為「陽光」是名詞，所以前面用「的」。",
+     "source": "課程補充題庫｜結構助詞「的、地、得」",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "「他高興得跳了起來」中的「得」應該改為「的」。",
+     "answer": false,
+     "explain": "「高興得跳了起來」是用「得」連接後面的程度補語，原句正確。",
+     "id": "CHI-P3-L02-006",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "「他高興得跳了起來」中的「得」應該改為「的」。",
+     "source": "課程補充題庫｜結構助詞「的、地、得」",
+     "verified": false
+    }
+   ],
+   "lesson": "L02",
+   "verified": false
+  },
+  {
+   "id": "p3c3",
+   "grade": "P3",
+   "subject": "chi",
+   "title": "標點符號與反義詞",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "「節儉」的反義詞是甚麼？",
+     "answer": "浪費",
+     "options": [
+      "珍惜",
+      "吝嗇",
+      "勤勞",
+      "浪費"
+     ],
+     "explain": "節儉指愛惜物力不胡亂花費，相反詞是「浪費」。",
+     "id": "CHI-P3-L03-001",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "「節儉」的反義詞是甚麼？",
+     "source": "課程補充題庫｜標點符號與反義詞",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "「謙虛」的反義詞是甚麼？",
+     "answer": "驕傲",
+     "options": [
+      "驕傲",
+      "誠實",
+      "禮貌",
+      "勇敢"
+     ],
+     "explain": "謙虛的相反詞是「驕傲」或「自滿」。",
+     "id": "CHI-P3-L03-002",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "「謙虛」的反義詞是甚麼？",
+     "source": "課程補充題庫｜標點符號與反義詞",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "選出標點符號完全正確的一句：",
+     "answer": "媽媽問：「你今天做完功課了嗎？」",
+     "options": [
+      "媽媽問：「你今天做完功課了嗎？」",
+      "媽媽問：「你今天做完功課了嗎。」",
+      "媽媽問。「你今天做完功課了嗎！」",
+      "媽媽問，「你今天做完功課了嗎」"
+     ],
+     "explain": "提示語「媽媽問」後用冒號和引號，疑問句句末用問號。",
+     "id": "CHI-P3-L03-003",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "選出標點符號完全正確的一句：",
+     "source": "課程補充題庫｜標點符號與反義詞",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "「整齊」的反義詞是（ ）。",
+     "answer": [
+      "凌亂",
+      "雜亂",
+      "混亂"
+     ],
+     "explain": "整齊的相反詞是「凌亂」或「雜亂」。",
+     "id": "CHI-P3-L03-004",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "「整齊」的反義詞是（ ）。",
+     "source": "課程補充題庫｜標點符號與反義詞",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "用於並列詞語之間的標點符號「、」叫做頓號。",
+     "answer": true,
+     "explain": "例如「蘋果、橙和香蕉」中的「、」是頓號。",
+     "id": "CHI-P3-L03-005",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "用於並列詞語之間的標點符號「、」叫做頓號。",
+     "source": "課程補充題庫｜標點符號與反義詞",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "感嘆句的句末應該使用問號「？」。",
+     "answer": false,
+     "explain": "感嘆句句末應使用感嘆號「！」，疑問句才用問號「？」。",
+     "id": "CHI-P3-L03-006",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "感嘆句的句末應該使用問號「？」。",
+     "source": "課程補充題庫｜標點符號與反義詞",
+     "verified": false
+    }
+   ],
+   "lesson": "L03",
+   "verified": false
+  },
+  {
+   "id": "p3c4",
+   "grade": "P3",
+   "subject": "chi",
+   "title": "比喻句與擬人句",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "「圓圓的月亮像一個銀色的大玉盤。」這句話運用了甚麼修辭手法？",
+     "answer": "比喻",
+     "options": [
+      "排比",
+      "擬人",
+      "反問",
+      "比喻"
+     ],
+     "explain": "把「月亮」比作「大玉盤」，有喻詞「像」，屬於比喻句。",
+     "id": "CHI-P3-L04-001",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "「圓圓的月亮像一個銀色的大玉盤。」這句話運用了甚麼修辭手法？",
+     "source": "課程補充題庫｜比喻句與擬人句",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "「春風溫柔地撫摸着小草的臉龐。」這句話運用了甚麼修辭手法？",
+     "answer": "擬人",
+     "options": [
+      "誇張",
+      "設問",
+      "比喻",
+      "擬人"
+     ],
+     "explain": "把「春風」和「小草」當作人來寫（溫柔地撫摸、臉龐），屬於擬人句。",
+     "id": "CHI-P3-L04-002",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "「春風溫柔地撫摸着小草的臉龐。」這句話運用了甚麼修辭手法？",
+     "source": "課程補充題庫｜比喻句與擬人句",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "以下哪一句是比喻句？",
+     "answer": "紅通通的太陽像一個大火球。",
+     "options": [
+      "紅通通的太陽像一個大火球。",
+      "他長得像他爸爸一樣高。",
+      "小鳥在樹枝上快樂地唱歌。",
+      "今天好像快要下雨了。"
+     ],
+     "explain": "把太陽比作大火球是比喻；「像爸爸」是同類比較，「好像下雨」是推測。",
+     "id": "CHI-P3-L04-003",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "以下哪一句是比喻句？",
+     "source": "課程補充題庫｜比喻句與擬人句",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "「小溪在山谷裏快樂地唱歌。」這句把小溪當作人來寫，運用了（ ）修辭手法。",
+     "answer": [
+      "擬人"
+     ],
+     "explain": "賦予小溪人的動作「快樂地唱歌」，是擬人法。",
+     "id": "CHI-P3-L04-004",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "理解",
+     "question": "「小溪在山谷裏快樂地唱歌。」這句把小溪當作人來寫，運用了（ ）修辭手法。",
+     "source": "課程補充題庫｜比喻句與擬人句",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "比喻句通常由「本體」、「喻詞」和「喻體」三部分組成。",
+     "answer": true,
+     "explain": "例如「太陽（本體）像（喻詞）大火球（喻體）」。",
+     "id": "CHI-P3-L04-005",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "比喻句通常由「本體」、「喻詞」和「喻體」三部分組成。",
+     "source": "課程補充題庫｜比喻句與擬人句",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "「花兒在風中向我們點頭微笑」是比喻句。",
+     "answer": false,
+     "explain": "「點頭微笑」是人的動作，這是擬人句，不是比喻句。",
+     "id": "CHI-P3-L04-006",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "「花兒在風中向我們點頭微笑」是比喻句。",
+     "source": "課程補充題庫｜比喻句與擬人句",
+     "verified": false
+    }
+   ],
+   "lesson": "L04",
+   "verified": false
+  },
+  {
+   "id": "p3c5",
+   "grade": "P3",
+   "subject": "chi",
+   "title": "關聯詞與重組句子",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "選出適當的關聯詞：「（ ）今天下着大雨，（ ）運動會改期舉行。」",
+     "answer": "因為……所以……",
+     "options": [
+      "雖然……但是……",
+      "因為……所以……",
+      "不但……而且……",
+      "如果……就……"
+     ],
+     "explain": "前半句是原因，後半句是結果，應用因果關聯詞「因為……所以……」。",
+     "id": "CHI-P3-L05-001",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "選出適當的關聯詞：「（ ）今天下着大雨，（ ）運動會改期舉行。」",
+     "source": "課程補充題庫｜關聯詞與重組句子",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "選出適當的關聯詞：「（ ）這道數學題很難，小強（ ）沒有放棄。」",
+     "answer": "雖然……但是……",
+     "options": [
+      "因為……所以……",
+      "只要……就……",
+      "雖然……但是……",
+      "與其……不如……"
+     ],
+     "explain": "前後分句意思轉折，應用「雖然……但是……」。",
+     "id": "CHI-P3-L05-002",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "選出適當的關聯詞：「（ ）這道數學題很難，小強（ ）沒有放棄。」",
+     "source": "課程補充題庫｜關聯詞與重組句子",
+     "verified": false
+    },
+    {
+     "type": "order",
+     "q": "請把詞語重組成通順的句子",
+     "items": [
+      "同學們",
+      "在操場上",
+      "高興地",
+      "做早操"
+     ],
+     "explain": "按「人物＋地點＋狀語＋動作」排列：同學們在操場上高興地做早操。",
+     "answer": [
+      "同學們",
+      "在操場上",
+      "高興地",
+      "做早操"
+     ],
+     "id": "CHI-P3-L05-003",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "請把詞語重組成通順的句子",
+     "source": "課程補充題庫｜關聯詞與重組句子",
+     "verified": false
+    },
+    {
+     "type": "order",
+     "q": "請把詞語重組成通順的句子",
+     "items": [
+      "圖書館裏",
+      "擺放着",
+      "各式各樣的",
+      "圖書"
+     ],
+     "explain": "按「地點＋動作＋形容詞＋名詞」排列：圖書館裏擺放着各式各樣的圖書。",
+     "answer": [
+      "圖書館裏",
+      "擺放着",
+      "各式各樣的",
+      "圖書"
+     ],
+     "id": "CHI-P3-L05-004",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "請把詞語重組成通順的句子",
+     "source": "課程補充題庫｜關聯詞與重組句子",
+     "verified": false
+    },
+    {
+     "type": "order",
+     "q": "請把詞語重組成通順的句子",
+     "items": [
+      "只要我們",
+      "努力學習",
+      "就一定會",
+      "取得進步"
+     ],
+     "explain": "條件複句：只要我們努力學習，就一定會取得進步。",
+     "answer": [
+      "只要我們",
+      "努力學習",
+      "就一定會",
+      "取得進步"
+     ],
+     "id": "CHI-P3-L05-005",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "請把詞語重組成通順的句子",
+     "source": "課程補充題庫｜關聯詞與重組句子",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "「他不但成績好，而且樂於助人。」這是一句遞進複句。",
+     "answer": true,
+     "explain": "「不但……而且……」表示更進一層的遞進關係。",
+     "id": "CHI-P3-L05-006",
+     "grade": "P3",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "「他不但成績好，而且樂於助人。」這是一句遞進複句。",
+     "source": "課程補充題庫｜關聯詞與重組句子",
+     "verified": false
+    }
+   ],
+   "lesson": "L05",
+   "verified": false
+  },
+  {
+   "id": "p3m1",
+   "grade": "P3",
+   "subject": "math",
+   "title": "五位數與位值",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "在五位數「58 329」中，數字「8」是在哪一個位？",
+     "answer": "千位",
+     "options": [
+      "萬位",
+      "千位",
+      "百位",
+      "十位"
+     ],
+     "explain": "由右至左依次是個、十、百、千、萬位，8 在千位，代表 8000。",
+     "id": "MATH-P3-L01-001",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "在五位數「58 329」中，數字「8」是在哪一個位？",
+     "source": "課程補充題庫｜五位數與位值",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "「三萬四千零五十六」寫作阿拉伯數字是多少？",
+     "answer": "34056",
+     "options": [
+      "30456",
+      "340056",
+      "34056",
+      "34560"
+     ],
+     "explain": "30000＋4000＋50＋6＝34056。",
+     "id": "MATH-P3-L01-002",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "「三萬四千零五十六」寫作阿拉伯數字是多少？",
+     "source": "課程補充題庫｜五位數與位值",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "在「72 614」中，萬位數字是 7，代表 ___。",
+     "answer": [
+      "70000"
+     ],
+     "explain": "萬位上的 7 代表 7 個一萬，即 70000。",
+     "id": "MATH-P3-L01-003",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "在「72 614」中，萬位數字是 7，代表 ___。",
+     "source": "課程補充題庫｜五位數與位值",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "用 0、2、5、8、9 五個數字組成最小的五位數（數字不可重複），答案是 ___。",
+     "answer": [
+      "20589"
+     ],
+     "explain": "萬位不可為 0，最小選 2，其餘由小至大排列：20589。",
+     "id": "MATH-P3-L01-004",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "用 0、2、5、8、9 五個數字組成最小的五位數（數字不可重複），答案是 ___。",
+     "source": "課程補充題庫｜五位數與位值",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "最大的四位數是 9999，加 1 後就變成最小的五位數 10000。",
+     "answer": true,
+     "explain": "9999＋1＝10000。",
+     "id": "MATH-P3-L01-005",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "最大的四位數是 9999，加 1 後就變成最小的五位數 10000。",
+     "source": "課程補充題庫｜五位數與位值",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "在「40 500」中，百位上的「5」代表 5000。",
+     "answer": false,
+     "explain": "百位上的 5 代表 500，不是 5000。",
+     "id": "MATH-P3-L01-006",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "在「40 500」中，百位上的「5」代表 5000。",
+     "source": "課程補充題庫｜五位數與位值",
+     "verified": false
+    }
+   ],
+   "lesson": "L01",
+   "verified": false
+  },
+  {
+   "id": "p3m2",
+   "grade": "P3",
+   "subject": "math",
+   "title": "三位數乘除與餘數",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "245 × 3 ＝ ？",
+     "answer": "735",
+     "options": [
+      "735",
+      "725",
+      "635",
+      "745"
+     ],
+     "explain": "200×3＝600，40×3＝120，5×3＝15；600＋120＋15＝735。",
+     "id": "MATH-P3-L02-001",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "245 × 3 ＝ ？",
+     "source": "課程補充題庫｜三位數乘除與餘數",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "85 ÷ 6 的商和餘數是多少？",
+     "answer": "14 … 1",
+     "options": [
+      "14 … 1",
+      "14 … 2",
+      "15 … 1",
+      "13 … 7"
+     ],
+     "explain": "6×14＝84，85－84＝1，所以商是 14，餘數是 1。",
+     "id": "MATH-P3-L02-002",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "85 ÷ 6 的商和餘數是多少？",
+     "source": "課程補充題庫｜三位數乘除與餘數",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "每盒朱古力有 108 粒，買 6 盒共有朱古力 ___ 粒。",
+     "answer": [
+      "648"
+     ],
+     "explain": "108×6＝648（粒）。",
+     "id": "MATH-P3-L02-003",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "每盒朱古力有 108 粒，買 6 盒共有朱古力 ___ 粒。",
+     "source": "課程補充題庫｜三位數乘除與餘數",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "把 432 本圖書平均分給 4 個班別，每班可分得圖書 ___ 本。",
+     "answer": [
+      "108"
+     ],
+     "explain": "432÷4＝108（本）。",
+     "id": "MATH-P3-L02-004",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "把 432 本圖書平均分給 4 個班別，每班可分得圖書 ___ 本。",
+     "source": "課程補充題庫｜三位數乘除與餘數",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "在有餘數的除法中，餘數一定要比除數小。",
+     "answer": true,
+     "explain": "如果餘數大於或等於除數，表示商還可以再加。",
+     "id": "MATH-P3-L02-005",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "在有餘數的除法中，餘數一定要比除數小。",
+     "source": "課程補充題庫｜三位數乘除與餘數",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "0 乘以任何數都等於原來的數。",
+     "answer": false,
+     "explain": "0 乘以任何數都等於 0。",
+     "id": "MATH-P3-L02-006",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "理解",
+     "question": "0 乘以任何數都等於原來的數。",
+     "source": "課程補充題庫｜三位數乘除與餘數",
+     "verified": false
+    }
+   ],
+   "lesson": "L02",
+   "verified": false
+  },
+  {
+   "id": "p3m3",
+   "grade": "P3",
+   "subject": "math",
+   "title": "四則混合計算",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "計算：25 ＋ 15 × 4 ＝ ？",
+     "answer": "85",
+     "options": [
+      "85",
+      "95",
+      "75",
+      "160"
+     ],
+     "explain": "先乘後加：15×4＝60，25＋60＝85。",
+     "id": "MATH-P3-L03-001",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "計算：25 ＋ 15 × 4 ＝ ？",
+     "source": "課程補充題庫｜四則混合計算",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "計算：(72 － 24) ÷ 6 ＝ ？",
+     "answer": "8",
+     "options": [
+      "12",
+      "9",
+      "8",
+      "68"
+     ],
+     "explain": "先算括號內：72－24＝48，再算 48÷6＝8。",
+     "id": "MATH-P3-L03-002",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "計算：(72 － 24) ÷ 6 ＝ ？",
+     "source": "課程補充題庫｜四則混合計算",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "計算：120 － 18 × 5 ＝ ___。",
+     "answer": [
+      "30"
+     ],
+     "explain": "先算乘法 18×5＝90，再算 120－90＝30。",
+     "id": "MATH-P3-L03-003",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "計算：120 － 18 × 5 ＝ ___。",
+     "source": "課程補充題庫｜四則混合計算",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "計算：36 ÷ (9 － 3) ＝ ___。",
+     "answer": [
+      "6"
+     ],
+     "explain": "先算括號內 9－3＝6，再算 36÷6＝6。",
+     "id": "MATH-P3-L03-004",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "計算：36 ÷ (9 － 3) ＝ ___。",
+     "source": "課程補充題庫｜四則混合計算",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "四則混合計算時，如果有括號，要先計算括號裏面的部分。",
+     "answer": true,
+     "explain": "括號具有優先計算權。",
+     "id": "MATH-P3-L03-005",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "分析",
+     "question": "四則混合計算時，如果有括號，要先計算括號裏面的部分。",
+     "source": "課程補充題庫｜四則混合計算",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "計算 40 － 16 ÷ 4 時，應該先算 40 － 16 ＝ 24，再除以 4 得 6。",
+     "answer": false,
+     "explain": "應先除後減：16÷4＝4，40－4＝36。",
+     "id": "MATH-P3-L03-006",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "計算 40 － 16 ÷ 4 時，應該先算 40 － 16 ＝ 24，再除以 4 得 6。",
+     "source": "課程補充題庫｜四則混合計算",
+     "verified": false
+    }
+   ],
+   "lesson": "L03",
+   "verified": false
+  },
+  {
+   "id": "p3m4",
+   "grade": "P3",
+   "subject": "math",
+   "title": "長度(毫米與公里)與時間(秒)",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "量度一枚硬幣的厚度，最適合使用哪一個長度單位？",
+     "answer": "毫米 (mm)",
+     "options": [
+      "毫米 (mm)",
+      "米 (m)",
+      "厘米 (cm)",
+      "公里 (km)"
+     ],
+     "explain": "硬幣很薄，用毫米 (mm) 最準確。",
+     "id": "MATH-P3-L04-001",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "分析",
+     "question": "量度一枚硬幣的厚度，最適合使用哪一個長度單位？",
+     "source": "課程補充題庫｜長度(毫米與公里)與時間(秒)",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "由香港島到九龍的距離，最適合使用哪一個長度單位？",
+     "answer": "公里 (km)",
+     "options": [
+      "毫米 (mm)",
+      "厘米 (cm)",
+      "公里 (km)",
+      "分米"
+     ],
+     "explain": "較遠的地理距離用公里 (km)。",
+     "id": "MATH-P3-L04-002",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "分析",
+     "question": "由香港島到九龍的距離，最適合使用哪一個長度單位？",
+     "source": "課程補充題庫｜長度(毫米與公里)與時間(秒)",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "3 公里 ＝ ___ 米。",
+     "answer": [
+      "3000"
+     ],
+     "explain": "1 公里 ＝ 1000 米，3 公里 ＝ 3000 米。",
+     "id": "MATH-P3-L04-003",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "3 公里 ＝ ___ 米。",
+     "source": "課程補充題庫｜長度(毫米與公里)與時間(秒)",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "2 分鐘 15 秒 ＝ ___ 秒。",
+     "answer": [
+      "135"
+     ],
+     "explain": "2 分鐘 ＝ 2×60 ＝ 120 秒，120＋15＝135 秒。",
+     "id": "MATH-P3-L04-004",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "2 分鐘 15 秒 ＝ ___ 秒。",
+     "source": "課程補充題庫｜長度(毫米與公里)與時間(秒)",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "1 厘米等於 10 毫米，所以 50 毫米等於 5 厘米。",
+     "answer": true,
+     "explain": "1 cm ＝ 10 mm，50 mm ＝ 5 cm。",
+     "id": "MATH-P3-L04-005",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "理解",
+     "question": "1 厘米等於 10 毫米，所以 50 毫米等於 5 厘米。",
+     "source": "課程補充題庫｜長度(毫米與公里)與時間(秒)",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "秒針在鐘面上走一圈是 1 小時。",
+     "answer": false,
+     "explain": "秒針走一圈是 60 秒，即 1 分鐘。",
+     "id": "MATH-P3-L04-006",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "理解",
+     "question": "秒針在鐘面上走一圈是 1 小時。",
+     "source": "課程補充題庫｜長度(毫米與公里)與時間(秒)",
+     "verified": false
+    }
+   ],
+   "lesson": "L04",
+   "verified": false
+  },
+  {
+   "id": "p3m5",
+   "grade": "P3",
+   "subject": "math",
+   "title": "分數初階與長方形周界",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "把一個蛋糕平均分成 8 份，吃了其中的 3 份，即吃了全個蛋糕的幾分之幾？",
+     "answer": "3/8",
+     "options": [
+      "3/5",
+      "5/8",
+      "8/3",
+      "3/8"
+     ],
+     "explain": "平均分成 8 份，分母是 8；取 3 份，分子是 3，即 3/8。",
+     "id": "MATH-P3-L05-001",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "把一個蛋糕平均分成 8 份，吃了其中的 3 份，即吃了全個蛋糕的幾分之幾？",
+     "source": "課程補充題庫｜分數初階與長方形周界",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "比較同分母分數的大小：2/7、5/7、4/7，哪一個最大？",
+     "answer": "5/7",
+     "options": [
+      "一樣大",
+      "4/7",
+      "2/7",
+      "5/7"
+     ],
+     "explain": "分母相同時，分子越大，分數越大，所以 5/7 最大。",
+     "id": "MATH-P3-L05-002",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "比較同分母分數的大小：2/7、5/7、4/7，哪一個最大？",
+     "source": "課程補充題庫｜分數初階與長方形周界",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "一個長方形長 12 厘米，闊 8 厘米，它的周界是 ___ 厘米。",
+     "answer": [
+      "40"
+     ],
+     "explain": "長方形周界 ＝ (長＋闊)×2 ＝ (12＋8)×2 ＝ 40 厘米。",
+     "id": "MATH-P3-L05-003",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "一個長方形長 12 厘米，闊 8 厘米，它的周界是 ___ 厘米。",
+     "source": "課程補充題庫｜分數初階與長方形周界",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "一個正方形的邊長是 9 厘米，它的周界是 ___ 厘米。",
+     "answer": [
+      "36"
+     ],
+     "explain": "正方形周界 ＝ 邊長×4 ＝ 9×4 ＝ 36 厘米。",
+     "id": "MATH-P3-L05-004",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "一個正方形的邊長是 9 厘米，它的周界是 ___ 厘米。",
+     "source": "課程補充題庫｜分數初階與長方形周界",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "1 可以寫成分子與分母相同的分數，例如 4/4 或 6/6。",
+     "answer": true,
+     "explain": "把整體平均分成若干份並取全部，數值等於 1。",
+     "id": "MATH-P3-L05-005",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "1 可以寫成分子與分母相同的分數，例如 4/4 或 6/6。",
+     "source": "課程補充題庫｜分數初階與長方形周界",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "1/5 比 1/2 大，因為 5 比 2 大。",
+     "answer": false,
+     "explain": "分子相同時，分母越大，每份越小，所以 1/5 比 1/2 小。",
+     "id": "MATH-P3-L05-006",
+     "grade": "P3",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "1/5 比 1/2 大，因為 5 比 2 大。",
+     "source": "課程補充題庫｜分數初階與長方形周界",
+     "verified": false
+    }
+   ],
+   "lesson": "L05",
+   "verified": false
+  },
+  {
+   "id": "p3h1",
+   "grade": "P3",
+   "subject": "hum",
+   "title": "香港十八區與地圖",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "香港一共分為多少個行政區？",
+     "answer": "18區",
+     "options": [
+      "12區",
+      "9區",
+      "20區",
+      "18區"
+     ],
+     "explain": "香港全境共分為 18 個行政區（港島 4 區、九龍 5 區、新界 9 區）。",
+     "id": "HUM-P3-L01-001",
+     "grade": "P3",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "香港一共分為多少個行政區？",
+     "source": "課程補充題庫｜香港十八區與地圖",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "香港國際機場位於哪一個島嶼附近（赤鱲角）？",
+     "answer": "大嶼山",
+     "options": [
+      "香港島",
+      "大嶼山",
+      "南丫島",
+      "長洲"
+     ],
+     "explain": "香港國際機場位於大嶼山以北的赤鱲角，屬離島區。",
+     "id": "HUM-P3-L01-002",
+     "grade": "P3",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "香港國際機場位於哪一個島嶼附近（赤鱲角）？",
+     "source": "課程補充題庫｜香港十八區與地圖",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "閱讀地圖時，如果沒有特別標示方向標，地圖的上方通常代表哪個方向？",
+     "answer": "北方",
+     "options": [
+      "東方",
+      "西方",
+      "北方",
+      "南方"
+     ],
+     "explain": "一般地圖按「上北、下南、左西、右東」繪製。",
+     "id": "HUM-P3-L01-003",
+     "grade": "P3",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "分析",
+     "question": "閱讀地圖時，如果沒有特別標示方向標，地圖的上方通常代表哪個方向？",
+     "source": "課程補充題庫｜香港十八區與地圖",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "地圖上用來解釋各種符號代表甚麼景物的說明表，稱為（ ）。",
+     "answer": [
+      "圖例"
+     ],
+     "explain": "圖例（Legend）用來說明地圖符號的含義。",
+     "id": "HUM-P3-L01-004",
+     "grade": "P3",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "地圖上用來解釋各種符號代表甚麼景物的說明表，稱為（ ）。",
+     "source": "課程補充題庫｜香港十八區與地圖",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "沙田區、元朗區和大埔區都位於新界。",
+     "answer": true,
+     "explain": "新界共有 9 個行政區，包括沙田、元朗、大埔等。",
+     "id": "HUM-P3-L01-005",
+     "grade": "P3",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "沙田區、元朗區和大埔區都位於新界。",
+     "source": "課程補充題庫｜香港十八區與地圖",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "中西區和灣仔區都位於九龍半島。",
+     "answer": false,
+     "explain": "中西區和灣仔區位於香港島，不是九龍半島。",
+     "id": "HUM-P3-L01-006",
+     "grade": "P3",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "中西區和灣仔區都位於九龍半島。",
+     "source": "課程補充題庫｜香港十八區與地圖",
+     "verified": false
+    }
+   ],
+   "lesson": "L01",
+   "verified": false
+  },
+  {
+   "id": "p3h2",
+   "grade": "P3",
+   "subject": "hum",
+   "title": "精明消費者與社區",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "購買預先包裝食物時，我們應該查看包裝上的甚麼資料，確保食物沒有過期？",
+     "answer": "食用期限（此日期前最佳／此日期或之前食用）",
+     "options": [
+      "食用期限（此日期前最佳／此日期或之前食用）",
+      "廣告明星的名字",
+      "店舖的招牌",
+      "包裝盒的顏色"
+     ],
+     "explain": "查看食用期限才能確保食物安全新鮮。",
+     "id": "HUM-P3-L02-001",
+     "grade": "P3",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "購買預先包裝食物時，我們應該查看包裝上的甚麼資料，確保食物沒有過期？",
+     "source": "課程補充題庫｜精明消費者與社區",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "以下哪一項是「需要」（生活必需品），而不是「想要」（非必需品）？",
+     "answer": "每天飲用的清水和健康正餐",
+     "options": [
+      "最新款的電子遊戲機",
+      "名牌裝飾品",
+      "每天飲用的清水和健康正餐",
+      "昂貴的限量版玩具"
+     ],
+     "explain": "水、食物、衣物和住所是維持基本生活的「需要」。",
+     "id": "HUM-P3-L02-002",
+     "grade": "P3",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "以下哪一項是「需要」（生活必需品），而不是「想要」（非必需品）？",
+     "source": "課程補充題庫｜精明消費者與社區",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "社區內的消防局主要為市民提供甚麼服務？",
+     "answer": "滅火及救援服務",
+     "options": [
+      "借閱圖書服務",
+      "售賣蔬菜水果",
+      "派遞信件服務",
+      "滅火及救援服務"
+     ],
+     "explain": "消防處負責滅火、救援及防火宣傳工作。",
+     "id": "HUM-P3-L02-003",
+     "grade": "P3",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "社區內的消防局主要為市民提供甚麼服務？",
+     "source": "課程補充題庫｜精明消費者與社區",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "香港市民在遇到緊急火警或有人嚴重受傷時，可致電緊急求助電話（ ）。",
+     "answer": [
+      "999"
+     ],
+     "explain": "香港緊急求助電話是 999。",
+     "id": "HUM-P3-L02-004",
+     "grade": "P3",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "理解",
+     "question": "香港市民在遇到緊急火警或有人嚴重受傷時，可致電緊急求助電話（ ）。",
+     "source": "課程補充題庫｜精明消費者與社區",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "購物時自備環保袋，減少使用膠袋，是愛護環境的精明表現。",
+     "answer": true,
+     "explain": "自備購物袋符合環保「減廢」原則。",
+     "id": "HUM-P3-L02-005",
+     "grade": "P3",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "購物時自備環保袋，減少使用膠袋，是愛護環境的精明表現。",
+     "source": "課程補充題庫｜精明消費者與社區",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "精明消費者購物時只需要看廣告宣傳，不需要比較價錢和品質。",
+     "answer": false,
+     "explain": "精明消費者應貨比三家，考慮實際需要、品質與價錢。",
+     "id": "HUM-P3-L02-006",
+     "grade": "P3",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "精明消費者購物時只需要看廣告宣傳，不需要比較價錢和品質。",
+     "source": "課程補充題庫｜精明消費者與社區",
+     "verified": false
+    }
+   ],
+   "lesson": "L02",
+   "verified": false
+  },
+  {
+   "id": "p3h3",
+   "grade": "P3",
+   "subject": "hum",
+   "title": "香港歷史與古蹟",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "昔日香港還未發展成現代化都市之前，主要從事甚麼行業？",
+     "answer": "漁業和農業（捕魚和耕種）",
+     "options": [
+      "汽車製造業",
+      "漁業和農業（捕魚和耕種）",
+      "太空科技業",
+      "大型軟件開發"
+     ],
+     "explain": "早期香港居民多以捕魚、耕種、製鹽等為生。",
+     "id": "HUM-P3-L03-001",
+     "grade": "P3",
+     "subject": "hum",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "昔日香港還未發展成現代化都市之前，主要從事甚麼行業？",
+     "source": "課程補充題庫｜香港歷史與古蹟",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "位於九龍城區宋皇臺公園內的「宋皇臺」石刻，與哪一個朝代的歷史有關？",
+     "answer": "宋朝",
+     "options": [
+      "明朝",
+      "宋朝",
+      "漢朝",
+      "唐朝"
+     ],
+     "explain": "相傳南宋末年宋帝昺與宋端宗曾逃難至此，後人刻「宋皇臺」紀念。",
+     "id": "HUM-P3-L03-002",
+     "grade": "P3",
+     "subject": "hum",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "位於九龍城區宋皇臺公園內的「宋皇臺」石刻，與哪一個朝代的歷史有關？",
+     "source": "課程補充題庫｜香港歷史與古蹟",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "新界不少傳統圍村四周築有高牆和圍門，當年主要是為了甚麼用途？",
+     "answer": "防禦盜賊和野獸，保護村民安全",
+     "options": [
+      "用來遮擋陽光",
+      "方便停泊飛機",
+      "防禦盜賊和野獸，保護村民安全",
+      "用來舉辦游泳比賽"
+     ],
+     "explain": "圍村的圍牆、更樓和護城河具有防禦盜賊、保障安全的功能。",
+     "id": "HUM-P3-L03-003",
+     "grade": "P3",
+     "subject": "hum",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "新界不少傳統圍村四周築有高牆和圍門，當年主要是為了甚麼用途？",
+     "source": "課程補充題庫｜香港歷史與古蹟",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "參觀法定古蹟或博物館時，我們應該（ ）文物，不可胡亂塗鴉或破壞。",
+     "answer": [
+      "愛護"
+     ],
+     "explain": "愛護文物古蹟是每位市民的責任。",
+     "id": "HUM-P3-L03-004",
+     "grade": "P3",
+     "subject": "hum",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "參觀法定古蹟或博物館時，我們應該（ ）文物，不可胡亂塗鴉或破壞。",
+     "source": "課程補充題庫｜香港歷史與古蹟",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "香港尖沙咀鐘樓（前九廣鐵路鐘樓）是香港著名的法定古蹟之一。",
+     "answer": true,
+     "explain": "尖沙咀鐘樓建於 1915 年，已被列為香港法定古蹟。",
+     "id": "HUM-P3-L03-005",
+     "grade": "P3",
+     "subject": "hum",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "香港尖沙咀鐘樓（前九廣鐵路鐘樓）是香港著名的法定古蹟之一。",
+     "source": "課程補充題庫｜香港歷史與古蹟",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "法定古蹟已經很舊，全部拆掉改建商場會更有歷史價值。",
+     "answer": false,
+     "explain": "古蹟見證香港歷史發展，具有珍貴文化價值，必須妥善保育。",
+     "id": "HUM-P3-L03-006",
+     "grade": "P3",
+     "subject": "hum",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "法定古蹟已經很舊，全部拆掉改建商場會更有歷史價值。",
+     "source": "課程補充題庫｜香港歷史與古蹟",
+     "verified": false
+    }
+   ],
+   "lesson": "L03",
+   "verified": false
+  },
+  {
+   "id": "p3s1",
+   "grade": "P3",
+   "subject": "sci",
+   "title": "健康飲食與牙齒護理",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "根據「健康飲食金字塔」，我們每天應該吃最多的是哪一類食物？",
+     "answer": "穀物類（如飯、粉、麵、麵包）",
+     "options": [
+      "奶類及代替品",
+      "穀物類（如飯、粉、麵、麵包）",
+      "油、鹽、糖類",
+      "肉、魚、蛋及代替品"
+     ],
+     "explain": "穀物類位於金字塔底層，提供身體所需能量，應吃最多。",
+     "id": "SCI-P3-L01-001",
+     "grade": "P3",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "根據「健康飲食金字塔」，我們每天應該吃最多的是哪一類食物？",
+     "source": "課程補充題庫｜健康飲食與牙齒護理",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "人的一生中會有兩副牙齒，幼兒時期長出的第一副牙齒叫甚麼？",
+     "answer": "乳齒",
+     "options": [
+      "乳齒",
+      "智慧齒",
+      "恆齒",
+      "假牙"
+     ],
+     "explain": "第一副牙齒稱為乳齒（共20顆），換牙後長出的是恆齒。",
+     "id": "SCI-P3-L01-002",
+     "grade": "P3",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "人的一生中會有兩副牙齒，幼兒時期長出的第一副牙齒叫甚麼？",
+     "source": "課程補充題庫｜健康飲食與牙齒護理",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "在各類牙齒中，形狀像小鏟子、主要用來切斷食物的是哪一種牙齒？",
+     "answer": "門齒",
+     "options": [
+      "犬齒",
+      "門齒",
+      "智齒",
+      "臼齒"
+     ],
+     "explain": "門齒位於口腔前方，負責切斷食物；犬齒負責撕裂；臼齒負責磨碎。",
+     "id": "SCI-P3-L01-003",
+     "grade": "P3",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "在各類牙齒中，形狀像小鏟子、主要用來切斷食物的是哪一種牙齒？",
+     "source": "課程補充題庫｜健康飲食與牙齒護理",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "我們吃得太多甜食又沒有清潔牙齒，口腔內的細菌會產生酸性物質，引致（ ）。",
+     "answer": [
+      "蛀牙"
+     ],
+     "explain": "細菌分解糖分產生酸，侵蝕牙齒表面形成蛀牙。",
+     "id": "SCI-P3-L01-004",
+     "grade": "P3",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "我們吃得太多甜食又沒有清潔牙齒，口腔內的細菌會產生酸性物質，引致（ ）。",
+     "source": "課程補充題庫｜健康飲食與牙齒護理",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "蔬菜和水果含有豐富的膳食纖維和維生素，有助保持腸道健康。",
+     "answer": true,
+     "explain": "多吃蔬果能預防便秘及補充維生素。",
+     "id": "SCI-P3-L01-005",
+     "grade": "P3",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "蔬菜和水果含有豐富的膳食纖維和維生素，有助保持腸道健康。",
+     "source": "課程補充題庫｜健康飲食與牙齒護理",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "油、鹽和糖味道很好，所以在健康飲食金字塔中應該吃最多。",
+     "answer": false,
+     "explain": "油、鹽、糖位於金字塔頂層，吃得太多會損害健康，應吃最少。",
+     "id": "SCI-P3-L01-006",
+     "grade": "P3",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "油、鹽和糖味道很好，所以在健康飲食金字塔中應該吃最多。",
+     "source": "課程補充題庫｜健康飲食與牙齒護理",
+     "verified": false
+    }
+   ],
+   "lesson": "L01",
+   "verified": false
+  },
+  {
+   "id": "p3s2",
+   "grade": "P3",
+   "subject": "sci",
+   "title": "植物與動物分類",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "以下哪一種動物屬於「哺乳類」（大多是胎生，幼崽喝母乳長大）？",
+     "answer": "海豚",
+     "options": [
+      "金魚",
+      "海豚",
+      "青蛙",
+      "企鵝"
+     ],
+     "explain": "海豚用肺呼吸、胎生並以母乳哺育幼崽，屬於哺乳類。",
+     "id": "SCI-P3-L02-001",
+     "grade": "P3",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "以下哪一種動物屬於「哺乳類」（大多是胎生，幼崽喝母乳長大）？",
+     "source": "課程補充題庫｜植物與動物分類",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "鳥類身體表面有羽毛，並且有甚麼特徵？",
+     "answer": "有翅膀、有喙，並且是卵生",
+     "options": [
+      "全身長滿鱗片並終生生活在水裏",
+      "沒有脊椎骨",
+      "用鰓呼吸",
+      "有翅膀、有喙，並且是卵生"
+     ],
+     "explain": "鳥類特徵是體表被覆羽毛、有翼、有喙、卵生及恆溫。",
+     "id": "SCI-P3-L02-002",
+     "grade": "P3",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "鳥類身體表面有羽毛，並且有甚麼特徵？",
+     "source": "課程補充題庫｜植物與動物分類",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "植物根部的主要功能是固定植物，以及從泥土中吸收甚麼？",
+     "answer": "水分和養分（礦物質）",
+     "options": [
+      "水分和養分（礦物質）",
+      "二氧化碳",
+      "花蜜",
+      "陽光"
+     ],
+     "explain": "植物的根負責固定植株並吸收泥土中的水分與養分。",
+     "id": "SCI-P3-L02-003",
+     "grade": "P3",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "植物根部的主要功能是固定植物，以及從泥土中吸收甚麼？",
+     "source": "課程補充題庫｜植物與動物分類",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "昆蟲的身體分為頭、胸、腹三部分，而且胸部生有（ ）對足（即 6 隻腳）。",
+     "answer": [
+      "3"
+     ],
+     "explain": "昆蟲的共同特徵是頭、胸、腹三節及 3 對足（6 隻腳）。",
+     "id": "SCI-P3-L02-004",
+     "grade": "P3",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "理解",
+     "question": "昆蟲的身體分為頭、胸、腹三部分，而且胸部生有（ ）對足（即 6 隻腳）。",
+     "source": "課程補充題庫｜植物與動物分類",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "植物葉片在陽光下能進行光合作用，製造養分並釋放氧氣。",
+     "answer": true,
+     "explain": "葉片含葉綠素，利用陽光、水和二氧化碳進行光合作用。",
+     "id": "SCI-P3-L02-005",
+     "grade": "P3",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "植物葉片在陽光下能進行光合作用，製造養分並釋放氧氣。",
+     "source": "課程補充題庫｜植物與動物分類",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "蜘蛛有 8 隻腳，所以蜘蛛也屬於昆蟲類。",
+     "answer": false,
+     "explain": "昆蟲只有 6 隻腳，蜘蛛有 8 隻腳，屬於蛛形綱，不是昆蟲。",
+     "id": "SCI-P3-L02-006",
+     "grade": "P3",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "蜘蛛有 8 隻腳，所以蜘蛛也屬於昆蟲類。",
+     "source": "課程補充題庫｜植物與動物分類",
+     "verified": false
+    }
+   ],
+   "lesson": "L02",
+   "verified": false
+  },
+  {
+   "id": "p3s3",
+   "grade": "P3",
+   "subject": "sci",
+   "title": "空氣、水與天氣變化",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "空氣中含有多種氣體，人和動物呼吸時需要吸入空氣中的哪一種氣體來維持生命？",
+     "answer": "氧氣",
+     "options": [
+      "氦氣",
+      "氧氣",
+      "二氧化碳",
+      "水蒸氣"
+     ],
+     "explain": "人類和動物呼吸需要氧氣。",
+     "id": "SCI-P3-L03-001",
+     "grade": "P3",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "空氣中含有多種氣體，人和動物呼吸時需要吸入空氣中的哪一種氣體來維持生命？",
+     "source": "課程補充題庫｜空氣、水與天氣變化",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "純淨的水在正常情況下具有甚麼特性？",
+     "answer": "無色、無味、無臭、透明",
+     "options": [
+      "藍色、鹹味",
+      "有固定形狀的固體",
+      "白色、甜味",
+      "無色、無味、無臭、透明"
+     ],
+     "explain": "純水是無色、無味、無臭的透明液體。",
+     "id": "SCI-P3-L03-002",
+     "grade": "P3",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "純淨的水在正常情況下具有甚麼特性？",
+     "source": "課程補充題庫｜空氣、水與天氣變化",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "地面和海面的水受熱後變成水蒸氣升上天空，遇冷凝結成小水點，聚集在一起就形成甚麼？",
+     "answer": "雲",
+     "options": [
+      "雲",
+      "彩虹",
+      "雷電",
+      "陽光"
+     ],
+     "explain": "水蒸氣升上高空遇冷凝結成無數小水滴或小冰晶，形成雲。",
+     "id": "SCI-P3-L03-003",
+     "grade": "P3",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "地面和海面的水受熱後變成水蒸氣升上天空，遇冷凝結成小水點，聚集在一起就形成甚麼？",
+     "source": "課程補充題庫｜空氣、水與天氣變化",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "水在 0°C 或以下會凝結成固態的（ ）；加熱沸騰時會變成氣態的水蒸氣。",
+     "answer": [
+      "冰"
+     ],
+     "explain": "水有三態：固態（冰）、液態（水）、氣態（水蒸氣）。",
+     "id": "SCI-P3-L03-004",
+     "grade": "P3",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "水在 0°C 或以下會凝結成固態的（ ）；加熱沸騰時會變成氣態的水蒸氣。",
+     "source": "課程補充題庫｜空氣、水與天氣變化",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "風是由空氣流動所產生的現象。",
+     "answer": true,
+     "explain": "冷熱空氣流動形成風。",
+     "id": "SCI-P3-L03-005",
+     "grade": "P3",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "風是由空氣流動所產生的現象。",
+     "source": "課程補充題庫｜空氣、水與天氣變化",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "燃燒蠟燭時不需要空氣，把玻璃杯蓋住蠟燭，蠟燭會燒得更旺。",
+     "answer": false,
+     "explain": "燃燒需要氧氣，用杯蓋住蠟燭耗盡氧氣後，蠟燭便會熄滅。",
+     "id": "SCI-P3-L03-006",
+     "grade": "P3",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "燃燒蠟燭時不需要空氣，把玻璃杯蓋住蠟燭，蠟燭會燒得更旺。",
+     "source": "課程補充題庫｜空氣、水與天氣變化",
+     "verified": false
+    }
+   ],
+   "lesson": "L03",
+   "verified": false
+  },
+  {
+   "id": "p6c1",
+   "grade": "P6",
+   "subject": "chi",
+   "title": "成語運用與褒貶義",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "以下哪一個成語屬於「褒義詞」（帶有讚揚、肯定的感情色彩）？",
+     "answer": "見義勇為",
+     "options": [
+      "處心積慮",
+      "守株待兔",
+      "狐假虎威",
+      "見義勇為"
+     ],
+     "explain": "「見義勇為」指看到合乎正義的事就勇敢去做，屬褒義詞；其餘均帶貶義。",
+     "id": "CHI-P6-L01-001",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "以下哪一個成語屬於「褒義詞」（帶有讚揚、肯定的感情色彩）？",
+     "source": "課程補充題庫｜成語運用與褒貶義",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "「消防員（ ）地衝進火場救出受困市民，令人敬佩。」括號內應填入哪個成語？",
+     "answer": "奮不顧身",
+     "options": [
+      "袖手旁觀",
+      "驚慌失措",
+      "奮不顧身",
+      "半途而廢"
+     ],
+     "explain": "「奮不顧身」形容振作勇氣，不顧自身安危，最合句意。",
+     "id": "CHI-P6-L01-002",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「消防員（ ）地衝進火場救出受困市民，令人敬佩。」括號內應填入哪個成語？",
+     "source": "課程補充題庫｜成語運用與褒貶義",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "以下哪一個成語屬於「貶義詞」（帶有批評、否定的感情色彩）？",
+     "answer": "弄虛作假",
+     "options": [
+      "雪中送炭",
+      "精益求精",
+      "弄虛作假",
+      "鍥而不捨"
+     ],
+     "explain": "「弄虛作假」指製造假象欺騙別人，屬貶義詞。",
+     "id": "CHI-P6-L01-003",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "以下哪一個成語屬於「貶義詞」（帶有批評、否定的感情色彩）？",
+     "source": "課程補充題庫｜成語運用與褒貶義",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "這件工藝品雕刻得十分精細，真是（ ）！（填形容技藝極高超、宛如天成的成語）",
+     "answer": [
+      "巧奪天工"
+     ],
+     "explain": "「巧奪天工」形容人工的精巧勝過天然。",
+     "id": "CHI-P6-L01-004",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "這件工藝品雕刻得十分精細，真是（ ）！（填形容技藝極高超、宛如天成的成語）",
+     "source": "課程補充題庫｜成語運用與褒貶義",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "「同舟共濟」比喻大家團結一致，共同渡過難關，屬於褒義成語。",
+     "answer": true,
+     "explain": "同坐一條船渡河，比喻同心協力戰勝困難。",
+     "id": "CHI-P6-L01-005",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「同舟共濟」比喻大家團結一致，共同渡過難關，屬於褒義成語。",
+     "source": "課程補充題庫｜成語運用與褒貶義",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "「畫蛇添足」是用來讚賞別人做事非常細心、考慮周全。",
+     "answer": false,
+     "explain": "「畫蛇添足」比喻做了多餘的事，反而不恰當，屬貶義。",
+     "id": "CHI-P6-L01-006",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "「畫蛇添足」是用來讚賞別人做事非常細心、考慮周全。",
+     "source": "課程補充題庫｜成語運用與褒貶義",
+     "verified": false
+    }
+   ],
+   "lesson": "L01",
+   "verified": false
+  },
+  {
+   "id": "p6c2",
+   "grade": "P6",
+   "subject": "chi",
+   "title": "複句關聯詞（既然、即使、無論）",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "選出適當的關聯詞：「（ ）你已經答應了別人，（ ）應該守信用把事情做好。」",
+     "answer": "既然……就……",
+     "options": [
+      "與其……不如……",
+      "無論……都……",
+      "即使……也……",
+      "既然……就……"
+     ],
+     "explain": "前半句提出既定事實，後半句推論應有做法，用「既然……就……」。",
+     "id": "CHI-P6-L02-001",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "選出適當的關聯詞：「（ ）你已經答應了別人，（ ）應該守信用把事情做好。」",
+     "source": "課程補充題庫｜複句關聯詞（既然、即使、無論）",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "選出適當的關聯詞：「（ ）遇到多大的風浪，救援人員（ ）堅持繼續搜尋。」",
+     "answer": "無論……都……",
+     "options": [
+      "因為……所以……",
+      "不但……反而……",
+      "如果……就……",
+      "無論……都……"
+     ],
+     "explain": "「無論……都……」表示在任何條件下結果都不改變（無條件複句）。",
+     "id": "CHI-P6-L02-002",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "選出適當的關聯詞：「（ ）遇到多大的風浪，救援人員（ ）堅持繼續搜尋。」",
+     "source": "課程補充題庫｜複句關聯詞（既然、即使、無論）",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "選出適當的關聯詞：「（ ）明天下大雨，我們的義工探訪活動（ ）會如期室內進行。」",
+     "answer": "即使……也……",
+     "options": [
+      "因為……所以……",
+      "只要……就……",
+      "即使……也……",
+      "既然……就……"
+     ],
+     "explain": "「即使……也……」表示假設讓步關係。",
+     "id": "CHI-P6-L02-003",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "選出適當的關聯詞：「（ ）明天下大雨，我們的義工探訪活動（ ）會如期室內進行。」",
+     "source": "課程補充題庫｜複句關聯詞（既然、即使、無論）",
+     "verified": false
+    },
+    {
+     "type": "order",
+     "q": "請把詞語重組成通順的取捨複句",
+     "items": [
+      "與其在家裏",
+      "浪費時間",
+      "不如到圖書館",
+      "閱讀課外書"
+     ],
+     "explain": "「與其……不如……」表示比較後作出取捨：與其在家裏浪費時間，不如到圖書館閱讀課外書。",
+     "answer": [
+      "與其在家裏",
+      "浪費時間",
+      "不如到圖書館",
+      "閱讀課外書"
+     ],
+     "id": "CHI-P6-L02-004",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "理解",
+     "question": "請把詞語重組成通順的取捨複句",
+     "source": "課程補充題庫｜複句關聯詞（既然、即使、無論）",
+     "verified": false
+    },
+    {
+     "type": "order",
+     "q": "請把詞語重組成通順的條件複句",
+     "items": [
+      "無論學習上",
+      "遇到甚麼困難",
+      "我們都不應該",
+      "輕易放棄"
+     ],
+     "explain": "「無論……都……」無條件複句：無論學習上遇到甚麼困難，我們都不應該輕易放棄。",
+     "answer": [
+      "無論學習上",
+      "遇到甚麼困難",
+      "我們都不應該",
+      "輕易放棄"
+     ],
+     "id": "CHI-P6-L02-005",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "理解",
+     "question": "請把詞語重組成通順的條件複句",
+     "source": "課程補充題庫｜複句關聯詞（既然、即使、無論）",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "「只有平時努力溫習，考試時才能取得理想成績。」這是必要條件複句。",
+     "answer": true,
+     "explain": "「只有……才……」強調缺少該條件就不能產生後面的結果。",
+     "id": "CHI-P6-L02-006",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "「只有平時努力溫習，考試時才能取得理想成績。」這是必要條件複句。",
+     "source": "課程補充題庫｜複句關聯詞（既然、即使、無論）",
+     "verified": false
+    }
+   ],
+   "lesson": "L02",
+   "verified": false
+  },
+  {
+   "id": "p6c3",
+   "grade": "P6",
+   "subject": "chi",
+   "title": "修辭辨析（排比、反問、設問、誇張）",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "「難道我們不應該愛護自己的地球嗎？」這句話運用了甚麼修辭手法？",
+     "answer": "反問",
+     "options": [
+      "比喻",
+      "設問",
+      "反問",
+      "排比"
+     ],
+     "explain": "用疑問的形式表達確定的意思（我們應該愛護地球），只問不答，是反問。",
+     "id": "CHI-P6-L03-001",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "「難道我們不應該愛護自己的地球嗎？」這句話運用了甚麼修辭手法？",
+     "source": "課程補充題庫｜修辭辨析（排比、反問、設問、誇張）",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "「是誰在默默為社會服務？是辛勤的清潔工人。」這句話運用了甚麼修辭手法？",
+     "answer": "設問",
+     "options": [
+      "反問",
+      "擬人",
+      "設問",
+      "誇張"
+     ],
+     "explain": "自問自答，以引起讀者注意和思考，屬於設問。",
+     "id": "CHI-P6-L03-002",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "「是誰在默默為社會服務？是辛勤的清潔工人。」這句話運用了甚麼修辭手法？",
+     "source": "課程補充題庫｜修辭辨析（排比、反問、設問、誇張）",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "「那裏的瀑布從高處傾瀉而下，聲音震耳欲聾，幾十里外都震動起來。」這句話運用了甚麼修辭手法？",
+     "answer": "誇張",
+     "options": [
+      "誇張",
+      "對偶",
+      "設問",
+      "排比"
+     ],
+     "explain": "故意把瀑布的聲勢擴大（「震耳欲聾、幾十里外都震動」），屬於誇張。",
+     "id": "CHI-P6-L03-003",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "「那裏的瀑布從高處傾瀉而下，聲音震耳欲聾，幾十里外都震動起來。」這句話運用了甚麼修辭手法？",
+     "source": "課程補充題庫｜修辭辨析（排比、反問、設問、誇張）",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "「時間就是生命，時間就是知識，時間就是力量。」把三個結構相同、語氣一致的句子排列在一起，這種修辭手法稱為（ ）。",
+     "answer": [
+      "排比"
+     ],
+     "explain": "三個或以上結構相同、字數相近的句子並排，稱為排比。",
+     "id": "CHI-P6-L03-004",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "「時間就是生命，時間就是知識，時間就是力量。」把三個結構相同、語氣一致的句子排列在一起，這種修辭手法稱為（ ）。",
+     "source": "課程補充題庫｜修辭辨析（排比、反問、設問、誇張）",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "反問句雖然句末用問號，但答案已經包含在問句之中，不需要別人回答。",
+     "answer": true,
+     "explain": "反問是用疑問句式加強肯定或否定語氣。",
+     "id": "CHI-P6-L03-005",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "反問句雖然句末用問號，但答案已經包含在問句之中，不需要別人回答。",
+     "source": "課程補充題庫｜修辭辨析（排比、反問、設問、誇張）",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "「教室裏安靜得連一根針掉在地上也聽得見。」這句話運用了擬人修辭手法。",
+     "answer": false,
+     "explain": "這是故意縮小聲響來突顯安靜的「誇張」手法，不是擬人。",
+     "id": "CHI-P6-L03-006",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "「教室裏安靜得連一根針掉在地上也聽得見。」這句話運用了擬人修辭手法。",
+     "source": "課程補充題庫｜修辭辨析（排比、反問、設問、誇張）",
+     "verified": false
+    }
+   ],
+   "lesson": "L03",
+   "verified": false
+  },
+  {
+   "id": "p6c4",
+   "grade": "P6",
+   "subject": "chi",
+   "title": "病句修改與標點符號",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "「經過老師耐心的教導，使我明白了這個道理。」這句病句有甚麼毛病？",
+     "answer": "成分殘缺（缺少主語，應刪去「經過」或「使」）",
+     "options": [
+      "前後矛盾",
+      "用詞不當",
+      "成分殘缺（缺少主語，應刪去「經過」或「使」）",
+      "次序顛倒"
+     ],
+     "explain": "同時用「經過……」和「使……」會令句子失去主語，刪去其一即可。",
+     "id": "CHI-P6-L04-001",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "「經過老師耐心的教導，使我明白了這個道理。」這句病句有甚麼毛病？",
+     "source": "課程補充題庫｜病句修改與標點符號",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "「昨天全班同學基本上都全部交齊了功課。」這句病句有甚麼毛病？",
+     "answer": "前後矛盾（「基本上」與「全部」矛盾）",
+     "options": [
+      "主賓不配",
+      "缺少謂語",
+      "褒貶顛倒",
+      "前後矛盾（「基本上」與「全部」矛盾）"
+     ],
+     "explain": "「基本上」表示大多數，「全部」表示無一例外，兩者自相矛盾。",
+     "id": "CHI-P6-L04-002",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "「昨天全班同學基本上都全部交齊了功課。」這句病句有甚麼毛病？",
+     "source": "課程補充題庫｜病句修改與標點符號",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "選出書名號用法完全正確的一句：",
+     "answer": "我最喜歡閱讀《西遊記》這部古典小說。",
+     "options": [
+      "我最喜歡閱讀「西遊記」這部古典小說。",
+      "我最喜歡閱讀《西遊記》這部古典小說。",
+      "我最喜歡閱讀（西遊記）這部古典小說。",
+      "我最喜歡閱讀《西遊記這部古典小說》。"
+     ],
+     "explain": "書名、篇名、報刊名應使用書名號《 》，且只括住書名本身。",
+     "id": "CHI-P6-L04-003",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "選出書名號用法完全正確的一句：",
+     "source": "課程補充題庫｜病句修改與標點符號",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "修改病句：「我們在公園裏看見五顏六色的紅花。」應刪去「（ ）」一詞，避免前後矛盾。",
+     "answer": [
+      "五顏六色"
+     ],
+     "explain": "「五顏六色」指多種顏色，與「紅花」矛盾（或刪去「紅」字改為「鮮花」）。",
+     "id": "CHI-P6-L04-004",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "理解",
+     "question": "修改病句：「我們在公園裏看見五顏六色的紅花。」應刪去「（ ）」一詞，避免前後矛盾。",
+     "source": "課程補充題庫｜病句修改與標點符號",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "破折號「——」可以用來表示解釋說明，或者表示聲音的延長。",
+     "answer": true,
+     "explain": "破折號常見作用包括解釋說明、話題轉折和聲音延長。",
+     "id": "CHI-P6-L04-005",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "破折號「——」可以用來表示解釋說明，或者表示聲音的延長。",
+     "source": "課程補充題庫｜病句修改與標點符號",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "「他穿着一件白色上衣和一頂藍色帽子。」這句話沒有語病。",
+     "answer": false,
+     "explain": "動詞「穿着」不能配「帽子」，應改為「他穿着一件白色上衣，戴着一頂藍色帽子」。",
+     "id": "CHI-P6-L04-006",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L04",
+     "level": "記憶",
+     "question": "「他穿着一件白色上衣和一頂藍色帽子。」這句話沒有語病。",
+     "source": "課程補充題庫｜病句修改與標點符號",
+     "verified": false
+    }
+   ],
+   "lesson": "L04",
+   "verified": false
+  },
+  {
+   "id": "p6c5",
+   "grade": "P6",
+   "subject": "chi",
+   "title": "閱讀理解與書信公函格式",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "撰寫中文傳統書信時，給長輩（如父母、老師）的「祝頌語」，以下哪一個最恰當？",
+     "answer": "敬祝 安康",
+     "options": [
+      "祝 學業進步",
+      "祝 生意興隆",
+      "敬祝 安康",
+      "此致 敬禮"
+     ],
+     "explain": "對長輩祝頌語可用「敬祝 安康」或「敬請 福安」；「學業進步」用於同輩或晚輩。",
+     "id": "CHI-P6-L05-001",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "撰寫中文傳統書信時，給長輩（如父母、老師）的「祝頌語」，以下哪一個最恰當？",
+     "source": "課程補充題庫｜閱讀理解與書信公函格式",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "在中文書信格式中，「稱謂」（收信人稱呼）應該寫在信紙的哪個位置？",
+     "answer": "第一行頂格（最左方不留空格），後加冒號",
+     "options": [
+      "信紙正中央",
+      "第一行頂格（最左方不留空格），後加冒號",
+      "第一行空兩格",
+      "信末右下角"
+     ],
+     "explain": "書信稱謂必須在第一行頂格書寫，後面加上冒號「：」。",
+     "id": "CHI-P6-L05-002",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "在中文書信格式中，「稱謂」（收信人稱呼）應該寫在信紙的哪個位置？",
+     "source": "課程補充題庫｜閱讀理解與書信公函格式",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "閱讀文章時，如果某一段落在文章中間，既總結上文內容，又引出下文內容，這段落在結構上起甚麼作用？",
+     "answer": "承上啟下（過渡）",
+     "options": [
+      "開門見山",
+      "首尾呼應",
+      "承上啟下（過渡）",
+      "點明主題"
+     ],
+     "explain": "連接上文並引出下文的段落稱為「過渡段」，作用是承上啟下。",
+     "id": "CHI-P6-L05-003",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "分析",
+     "question": "閱讀文章時，如果某一段落在文章中間，既總結上文內容，又引出下文內容，這段落在結構上起甚麼作用？",
+     "source": "課程補充題庫｜閱讀理解與書信公函格式",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "書信結尾寫完祝頌語後，在信紙右下方寫上寄信人自己的名字，這部分稱為（ ）。",
+     "answer": [
+      "署名"
+     ],
+     "explain": "寫信人自己的姓名稱為「署名」，署名下再寫日期。",
+     "id": "CHI-P6-L05-004",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "書信結尾寫完祝頌語後，在信紙右下方寫上寄信人自己的名字，這部分稱為（ ）。",
+     "source": "課程補充題庫｜閱讀理解與書信公函格式",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "議論文的三要素是「論點」、「論據」和「論證」。",
+     "answer": true,
+     "explain": "論點是作者的主張，論據是證明論點的事實或道理，論證是推理過程。",
+     "id": "CHI-P6-L05-005",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "議論文的三要素是「論點」、「論據」和「論證」。",
+     "source": "課程補充題庫｜閱讀理解與書信公函格式",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "寫信給老師時，在自己名字前面可以自稱「貴校學生」。",
+     "answer": false,
+     "explain": "「貴」是敬辭，用來稱呼對方，不可用來稱呼自己；應自稱「學生」。",
+     "id": "CHI-P6-L05-006",
+     "grade": "P6",
+     "subject": "chi",
+     "lesson": "L05",
+     "level": "記憶",
+     "question": "寫信給老師時，在自己名字前面可以自稱「貴校學生」。",
+     "source": "課程補充題庫｜閱讀理解與書信公函格式",
+     "verified": false
+    }
+   ],
+   "lesson": "L05",
+   "verified": false
+  },
+  {
+   "id": "p6m1",
+   "grade": "P6",
+   "subject": "math",
+   "title": "小數除法與四則混合",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "計算：7.2 ÷ 0.8 ＝ ？",
+     "answer": "9",
+     "options": [
+      "9",
+      "0.9",
+      "8",
+      "90"
+     ],
+     "explain": "把被除數和除數同時乘以 10：72 ÷ 8 ＝ 9。",
+     "id": "MATH-P6-L01-001",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "計算：7.2 ÷ 0.8 ＝ ？",
+     "source": "課程補充題庫｜小數除法與四則混合",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "計算：12.5 × 0.4 ＋ 3.2 ＝ ？",
+     "answer": "8.2",
+     "options": [
+      "45",
+      "7.2",
+      "8.2",
+      "53.2"
+     ],
+     "explain": "先乘後加：12.5 × 0.4 ＝ 5，5 ＋ 3.2 ＝ 8.2。",
+     "id": "MATH-P6-L01-002",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "計算：12.5 × 0.4 ＋ 3.2 ＝ ？",
+     "source": "課程補充題庫｜小數除法與四則混合",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "計算：15.6 ÷ 1.2 ＝ ___。",
+     "answer": [
+      "13"
+     ],
+     "explain": "同時乘以 10：156 ÷ 12 ＝ 13。",
+     "id": "MATH-P6-L01-003",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "計算：15.6 ÷ 1.2 ＝ ___。",
+     "source": "課程補充題庫｜小數除法與四則混合",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "計算：(9.6 － 2.4) ÷ 0.6 ＝ ___。",
+     "answer": [
+      "12"
+     ],
+     "explain": "先算括號內 9.6 － 2.4 ＝ 7.2，再算 7.2 ÷ 0.6 ＝ 12。",
+     "id": "MATH-P6-L01-004",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "計算：(9.6 － 2.4) ÷ 0.6 ＝ ___。",
+     "source": "課程補充題庫｜小數除法與四則混合",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "計算小數除法時，可以先把除數擴大成整數，被除數也同時擴大相同的倍數，商維持不變。",
+     "answer": true,
+     "explain": "這是商不變性質。",
+     "id": "MATH-P6-L01-005",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "計算小數除法時，可以先把除數擴大成整數，被除數也同時擴大相同的倍數，商維持不變。",
+     "source": "課程補充題庫｜小數除法與四則混合",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "3.5 ÷ 0.5 的答案是 0.7。",
+     "answer": false,
+     "explain": "3.5 ÷ 0.5 ＝ 35 ÷ 5 ＝ 7，不是 0.7。",
+     "id": "MATH-P6-L01-006",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L01",
+     "level": "應用",
+     "question": "3.5 ÷ 0.5 的答案是 0.7。",
+     "source": "課程補充題庫｜小數除法與四則混合",
+     "verified": false
+    }
+   ],
+   "lesson": "L01",
+   "verified": false
+  },
+  {
+   "id": "p6m2",
+   "grade": "P6",
+   "subject": "math",
+   "title": "小數、分數與百分數互化",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "把分數 3/8 化為百分數是多少？",
+     "answer": "37.5%",
+     "options": [
+      "37.5%",
+      "38%",
+      "3.75%",
+      "75%"
+     ],
+     "explain": "3 ÷ 8 ＝ 0.375 ＝ 37.5%。",
+     "id": "MATH-P6-L02-001",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "理解",
+     "question": "把分數 3/8 化為百分數是多少？",
+     "source": "課程補充題庫｜小數、分數與百分數互化",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "把百分數 75% 化為最簡分數是多少？",
+     "answer": "3/4",
+     "options": [
+      "7/5",
+      "15/20",
+      "4/5",
+      "3/4"
+     ],
+     "explain": "75% ＝ 75/100，分子分母同時除以 25 得 3/4。",
+     "id": "MATH-P6-L02-002",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "理解",
+     "question": "把百分數 75% 化為最簡分數是多少？",
+     "source": "課程補充題庫｜小數、分數與百分數互化",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "把小數 0.45 化為最簡分數（以 a/b 格式作答），答案是 ___。",
+     "answer": [
+      "9/20"
+     ],
+     "explain": "0.45 ＝ 45/100，分子分母同時除以 5 得 9/20。",
+     "id": "MATH-P6-L02-003",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "把小數 0.45 化為最簡分數（以 a/b 格式作答），答案是 ___。",
+     "source": "課程補充題庫｜小數、分數與百分數互化",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "把分數 4/5 化為百分數，答案是 ___%。",
+     "answer": [
+      "80"
+     ],
+     "explain": "4/5 ＝ 0.8 ＝ 80%。",
+     "id": "MATH-P6-L02-004",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "應用",
+     "question": "把分數 4/5 化為百分數，答案是 ___%。",
+     "source": "課程補充題庫｜小數、分數與百分數互化",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "1.25 化為百分數是 125%，化為帶分數是 1 又 1/4。",
+     "answer": true,
+     "explain": "1.25 × 100% ＝ 125%，0.25 ＝ 1/4。",
+     "id": "MATH-P6-L02-005",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "理解",
+     "question": "1.25 化為百分數是 125%，化為帶分數是 1 又 1/4。",
+     "source": "課程補充題庫｜小數、分數與百分數互化",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "把 6% 化為小數是 0.6。",
+     "answer": false,
+     "explain": "6% ＝ 6/100 ＝ 0.06，0.6 是 60%。",
+     "id": "MATH-P6-L02-006",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L02",
+     "level": "理解",
+     "question": "把 6% 化為小數是 0.6。",
+     "source": "課程補充題庫｜小數、分數與百分數互化",
+     "verified": false
+    }
+   ],
+   "lesson": "L02",
+   "verified": false
+  },
+  {
+   "id": "p6m3",
+   "grade": "P6",
+   "subject": "math",
+   "title": "百分數應用與折扣問題",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "一件外套原價 250 元，現以「八折」發售，售價是多少元？",
+     "answer": "200元",
+     "options": [
+      "180元",
+      "200元",
+      "220元",
+      "50元"
+     ],
+     "explain": "八折即原價的 80%：250 × 80% ＝ 200（元）。",
+     "id": "MATH-P6-L03-001",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "一件外套原價 250 元，現以「八折」發售，售價是多少元？",
+     "source": "課程補充題庫｜百分數應用與折扣問題",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "全班有學生 40 人，今天有 15% 的學生參加校外比賽，留在學校的有多少人？",
+     "answer": "34人",
+     "options": [
+      "34人",
+      "35人",
+      "25人",
+      "6人"
+     ],
+     "explain": "40 × (1 － 15%) ＝ 40 × 85% ＝ 34（人）。",
+     "id": "MATH-P6-L03-002",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "全班有學生 40 人，今天有 15% 的學生參加校外比賽，留在學校的有多少人？",
+     "source": "課程補充題庫｜百分數應用與折扣問題",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "一個書包原價 300 元，減價後售 240 元，書包減價了百分之幾？答案：___%。",
+     "answer": [
+      "20"
+     ],
+     "explain": "減價金額 ＝ 300 － 240 ＝ 60 元；減價百分率 ＝ 60 ÷ 300 × 100% ＝ 20%。",
+     "id": "MATH-P6-L03-003",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "一個書包原價 300 元，減價後售 240 元，書包減價了百分之幾？答案：___%。",
+     "source": "課程補充題庫｜百分數應用與折扣問題",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "運動鞋原價 500 元，「六折」發售時的售價是 ___ 元。",
+     "answer": [
+      "300"
+     ],
+     "explain": "六折即 60%：500 × 60% ＝ 300（元）。",
+     "id": "MATH-P6-L03-004",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "應用",
+     "question": "運動鞋原價 500 元，「六折」發售時的售價是 ___ 元。",
+     "source": "課程補充題庫｜百分數應用與折扣問題",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "「九五折」的意思是售價是原價的 95%，即比原價便宜了 5%。",
+     "answer": true,
+     "explain": "九五折 ＝ 95%，折扣率為 5%。",
+     "id": "MATH-P6-L03-005",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "「九五折」的意思是售價是原價的 95%，即比原價便宜了 5%。",
+     "source": "課程補充題庫｜百分數應用與折扣問題",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "某商品先加價 10%，再減價 10%，最後售價與原價完全相同。",
+     "answer": false,
+     "explain": "設原價 100 元，加 10% 後是 110 元，再減 10% 是 110 × 0.9 ＝ 99 元，比原價低。",
+     "id": "MATH-P6-L03-006",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "某商品先加價 10%，再減價 10%，最後售價與原價完全相同。",
+     "source": "課程補充題庫｜百分數應用與折扣問題",
+     "verified": false
+    }
+   ],
+   "lesson": "L03",
+   "verified": false
+  },
+  {
+   "id": "p6m4",
+   "grade": "P6",
+   "subject": "math",
+   "title": "圓周與圓面積（π取3.14或22/7）",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "一個圓的半徑是 7 厘米，它的圓周是多少厘米？（取 π ＝ 22/7）",
+     "answer": "44厘米",
+     "options": [
+      "22厘米",
+      "88厘米",
+      "154厘米",
+      "44厘米"
+     ],
+     "explain": "圓周 ＝ 2 × π × r ＝ 2 × (22/7) × 7 ＝ 44（厘米）。",
+     "id": "MATH-P6-L04-001",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "理解",
+     "question": "一個圓的半徑是 7 厘米，它的圓周是多少厘米？（取 π ＝ 22/7）",
+     "source": "課程補充題庫｜圓周與圓面積（π取3.14或22/7）",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "一個圓的直徑是 10 厘米，它的圓周是多少厘米？（取 π ＝ 3.14）",
+     "answer": "31.4厘米",
+     "options": [
+      "314厘米",
+      "62.8厘米",
+      "78.5厘米",
+      "31.4厘米"
+     ],
+     "explain": "圓周 ＝ π × d ＝ 3.14 × 10 ＝ 31.4（厘米）。",
+     "id": "MATH-P6-L04-002",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "理解",
+     "question": "一個圓的直徑是 10 厘米，它的圓周是多少厘米？（取 π ＝ 3.14）",
+     "source": "課程補充題庫｜圓周與圓面積（π取3.14或22/7）",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "一個圓的半徑是 5 厘米，它的面積是 ___ 平方厘米。（取 π ＝ 3.14）",
+     "answer": [
+      "78.5"
+     ],
+     "explain": "圓面積 ＝ π × r² ＝ 3.14 × 5 × 5 ＝ 78.5（平方厘米）。",
+     "id": "MATH-P6-L04-003",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "一個圓的半徑是 5 厘米，它的面積是 ___ 平方厘米。（取 π ＝ 3.14）",
+     "source": "課程補充題庫｜圓周與圓面積（π取3.14或22/7）",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "一個圓的半徑是 7 米，它的面積是 ___ 平方米。（取 π ＝ 22/7）",
+     "answer": [
+      "154"
+     ],
+     "explain": "圓面積 ＝ (22/7) × 7 × 7 ＝ 154（平方米）。",
+     "id": "MATH-P6-L04-004",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "一個圓的半徑是 7 米，它的面積是 ___ 平方米。（取 π ＝ 22/7）",
+     "source": "課程補充題庫｜圓周與圓面積（π取3.14或22/7）",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "同一個圓內，直徑的長度永遠是半徑的 2 倍。",
+     "answer": true,
+     "explain": "d ＝ 2r。",
+     "id": "MATH-P6-L04-005",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "理解",
+     "question": "同一個圓內，直徑的長度永遠是半徑的 2 倍。",
+     "source": "課程補充題庫｜圓周與圓面積（π取3.14或22/7）",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "圓的半徑擴大為原來的 2 倍，圓面積也只會擴大為原來的 2 倍。",
+     "answer": false,
+     "explain": "面積與半徑的平方成正比，半徑擴大 2 倍，面積會擴大為 2×2＝4 倍。",
+     "id": "MATH-P6-L04-006",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L04",
+     "level": "應用",
+     "question": "圓的半徑擴大為原來的 2 倍，圓面積也只會擴大為原來的 2 倍。",
+     "source": "課程補充題庫｜圓周與圓面積（π取3.14或22/7）",
+     "verified": false
+    }
+   ],
+   "lesson": "L04",
+   "verified": false
+  },
+  {
+   "id": "p6m5",
+   "grade": "P6",
+   "subject": "math",
+   "title": "速率、長方體體積與簡易方程",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "一輛汽車在 3 小時內行駛了 240 公里，它的平均速率是多少？",
+     "answer": "80 公里/小時",
+     "options": [
+      "720 公里/小時",
+      "80 公里/小時",
+      "60 公里/小時",
+      "90 公里/小時"
+     ],
+     "explain": "速率 ＝ 距離 ÷ 時間 ＝ 240 ÷ 3 ＝ 80（公里/小時）。",
+     "id": "MATH-P6-L05-001",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "一輛汽車在 3 小時內行駛了 240 公里，它的平均速率是多少？",
+     "source": "課程補充題庫｜速率、長方體體積與簡易方程",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "一個長方體水箱長 8 厘米、闊 5 厘米、高 4 厘米，它的體積是多少立方厘米？",
+     "answer": "160 立方厘米",
+     "options": [
+      "80 立方厘米",
+      "120 立方厘米",
+      "160 立方厘米",
+      "17 立方厘米"
+     ],
+     "explain": "長方體體積 ＝ 長 × 闊 × 高 ＝ 8 × 5 × 4 ＝ 160（立方厘米）。",
+     "id": "MATH-P6-L05-002",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "一個長方體水箱長 8 厘米、闊 5 厘米、高 4 厘米，它的體積是多少立方厘米？",
+     "source": "課程補充題庫｜速率、長方體體積與簡易方程",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "解方程：3x ＋ 5 ＝ 29，x ＝ ___。",
+     "answer": [
+      "8"
+     ],
+     "explain": "3x ＝ 29 － 5 ＝ 24，x ＝ 24 ÷ 3 ＝ 8。",
+     "id": "MATH-P6-L05-003",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "解方程：3x ＋ 5 ＝ 29，x ＝ ___。",
+     "source": "課程補充題庫｜速率、長方體體積與簡易方程",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "小巴的平均速率是 65 公里/小時，行駛 4 小時共走了 ___ 公里。",
+     "answer": [
+      "260"
+     ],
+     "explain": "距離 ＝ 速率 × 時間 ＝ 65 × 4 ＝ 260（公里）。",
+     "id": "MATH-P6-L05-004",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "小巴的平均速率是 65 公里/小時，行駛 4 小時共走了 ___ 公里。",
+     "source": "課程補充題庫｜速率、長方體體積與簡易方程",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "1 升（L）的水體積等於 1000 立方厘米（cm³）。",
+     "answer": true,
+     "explain": "1 L ＝ 1000 mL ＝ 1000 cm³。",
+     "id": "MATH-P6-L05-005",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "理解",
+     "question": "1 升（L）的水體積等於 1000 立方厘米（cm³）。",
+     "source": "課程補充題庫｜速率、長方體體積與簡易方程",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "解方程「2y － 6 ＝ 10」時，移項後得到 2y ＝ 10 － 6，所以 y ＝ 2。",
+     "answer": false,
+     "explain": "移項後應為 2y ＝ 10 ＋ 6 ＝ 16，所以 y ＝ 8。",
+     "id": "MATH-P6-L05-006",
+     "grade": "P6",
+     "subject": "math",
+     "lesson": "L05",
+     "level": "應用",
+     "question": "解方程「2y － 6 ＝ 10」時，移項後得到 2y ＝ 10 － 6，所以 y ＝ 2。",
+     "source": "課程補充題庫｜速率、長方體體積與簡易方程",
+     "verified": false
+    }
+   ],
+   "lesson": "L05",
+   "verified": false
+  },
+  {
+   "id": "p6h1",
+   "grade": "P6",
+   "subject": "hum",
+   "title": "中國近代歷史與國家發展",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "1911 年爆發、推翻清朝帝制並建立中華民國的歷史事件是甚麼？",
+     "answer": "辛亥革命",
+     "options": [
+      "鴉片戰爭",
+      "洋務運動",
+      "辛亥革命",
+      "五四運動"
+     ],
+     "explain": "1911 年孫中山先生等領導辛亥革命，結束中國二千多年封建帝制。",
+     "id": "HUM-P6-L01-001",
+     "grade": "P6",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "1911 年爆發、推翻清朝帝制並建立中華民國的歷史事件是甚麼？",
+     "source": "課程補充題庫｜中國近代歷史與國家發展",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "中國古代四大發明中，哪一項發明對世界航海事業的發展貢獻最大？",
+     "answer": "指南針",
+     "options": [
+      "印刷術",
+      "造紙術",
+      "指南針",
+      "火藥"
+     ],
+     "explain": "指南針用於航海辨別方向，促進了世界航海與貿易發展。",
+     "id": "HUM-P6-L01-002",
+     "grade": "P6",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "中國古代四大發明中，哪一項發明對世界航海事業的發展貢獻最大？",
+     "source": "課程補充題庫｜中國近代歷史與國家發展",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "近年中國積極建設、連接大灣區三個城市（香港、珠海、澳門）的大型跨海基建是甚麼？",
+     "answer": "港珠澳大橋",
+     "options": [
+      "昂船洲大橋",
+      "港珠澳大橋",
+      "青馬大橋",
+      "汀九橋"
+     ],
+     "explain": "港珠澳大橋連接香港、珠海和澳門，是世界最長的跨海大橋之一。",
+     "id": "HUM-P6-L01-003",
+     "grade": "P6",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "近年中國積極建設、連接大灣區三個城市（香港、珠海、澳門）的大型跨海基建是甚麼？",
+     "source": "課程補充題庫｜中國近代歷史與國家發展",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "中華人民共和國的國歌是《___》。",
+     "answer": [
+      "義勇軍進行曲"
+     ],
+     "explain": "《義勇軍進行曲》由田漢作詞、聶耳作曲。",
+     "id": "HUM-P6-L01-004",
+     "grade": "P6",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "中華人民共和國的國歌是《___》。",
+     "source": "課程補充題庫｜中國近代歷史與國家發展",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "改革開放政策自 1978 年推行以來，中國的經濟、科技和人民生活水平都取得了巨大發展。",
+     "answer": true,
+     "explain": "深圳等經濟特區及全國經濟在改革開放後迅速騰飛。",
+     "id": "HUM-P6-L01-005",
+     "grade": "P6",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "改革開放政策自 1978 年推行以來，中國的經濟、科技和人民生活水平都取得了巨大發展。",
+     "source": "課程補充題庫｜中國近代歷史與國家發展",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "造紙術和活字印刷術都是由外國傳入中國的發明。",
+     "answer": false,
+     "explain": "造紙術（蔡倫改進）與活字印刷術（畢昇發明）均為中國古代四大發明。",
+     "id": "HUM-P6-L01-006",
+     "grade": "P6",
+     "subject": "hum",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "造紙術和活字印刷術都是由外國傳入中國的發明。",
+     "source": "課程補充題庫｜中國近代歷史與國家發展",
+     "verified": false
+    }
+   ],
+   "lesson": "L01",
+   "verified": false
+  },
+  {
+   "id": "p6h2",
+   "grade": "P6",
+   "subject": "hum",
+   "title": "基本法與香港國際聯繫",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "香港特別行政區於哪一年 7 月 1 日正式成立，回歸祖國？",
+     "answer": "1997年",
+     "options": [
+      "1997年",
+      "2000年",
+      "1999年",
+      "1984年"
+     ],
+     "explain": "1997 年 7 月 1 日香港回歸祖國，成立香港特別行政區。",
+     "id": "HUM-P6-L02-001",
+     "grade": "P6",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "香港特別行政區於哪一年 7 月 1 日正式成立，回歸祖國？",
+     "source": "課程補充題庫｜基本法與香港國際聯繫",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "根據《基本法》，香港特別行政區實行甚麼方針，保持原有的資本主義制度和生活方式五十年不變？",
+     "answer": "一國兩制、港人治港、高度自治",
+     "options": [
+      "閉關自守制度",
+      "一國兩制、港人治港、高度自治",
+      "完全獨立制度",
+      "農業自給自足制度"
+     ],
+     "explain": "《基本法》落實「一國兩制」、「港人治港」、高度自治方針。",
+     "id": "HUM-P6-L02-002",
+     "grade": "P6",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "根據《基本法》，香港特別行政區實行甚麼方針，保持原有的資本主義制度和生活方式五十年不變？",
+     "source": "課程補充題庫｜基本法與香港國際聯繫",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "香港是國際著名的金融、貿易和航運中心，以下哪一項是香港的優勢？",
+     "answer": "地理位置優越、資訊流通自由及健全的法律制度",
+     "options": [
+      "全境都是大片沙漠",
+      "只允許使用單一語言",
+      "擁有豐富的石油和煤礦資源",
+      "地理位置優越、資訊流通自由及健全的法律制度"
+     ],
+     "explain": "香港具備優良海港、自由港政策、普通法制度及兩文三語優勢。",
+     "id": "HUM-P6-L02-003",
+     "grade": "P6",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "香港是國際著名的金融、貿易和航運中心，以下哪一項是香港的優勢？",
+     "source": "課程補充題庫｜基本法與香港國際聯繫",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "香港特別行政區區旗上的圖案是一朵白色的動態五瓣（ ）花。",
+     "answer": [
+      "紫荊"
+     ],
+     "explain": "香港區旗和區徽均以五瓣紫荊花及五顆星為核心圖案。",
+     "id": "HUM-P6-L02-004",
+     "grade": "P6",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "理解",
+     "question": "香港特別行政區區旗上的圖案是一朵白色的動態五瓣（ ）花。",
+     "source": "課程補充題庫｜基本法與香港國際聯繫",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "《中華人民共和國憲法》和《基本法》共同構成香港特別行政區的憲制基礎。",
+     "answer": true,
+     "explain": "憲法是國家根本大法，基本法根據憲法制定。",
+     "id": "HUM-P6-L02-005",
+     "grade": "P6",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "《中華人民共和國憲法》和《基本法》共同構成香港特別行政區的憲制基礎。",
+     "source": "課程補充題庫｜基本法與香港國際聯繫",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "根據《基本法》，香港特別行政區的外交和國防事務由香港自行負責，與中央人民政府無關。",
+     "answer": false,
+     "explain": "根據《基本法》，中央人民政府負責管理與香港特區有關的外交事務和防務。",
+     "id": "HUM-P6-L02-006",
+     "grade": "P6",
+     "subject": "hum",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "根據《基本法》，香港特別行政區的外交和國防事務由香港自行負責，與中央人民政府無關。",
+     "source": "課程補充題庫｜基本法與香港國際聯繫",
+     "verified": false
+    }
+   ],
+   "lesson": "L02",
+   "verified": false
+  },
+  {
+   "id": "p6h3",
+   "grade": "P6",
+   "subject": "hum",
+   "title": "地球村與可持續發展",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "隨着温室氣體排放增加，地球平均氣溫上升，這種全球環境問題稱為甚麼？",
+     "answer": "全球暖化（氣候變化）",
+     "options": [
+      "地震海嘯",
+      "日食現象",
+      "全球暖化（氣候變化）",
+      "火山爆發"
+     ],
+     "explain": "二氧化碳等温室氣體過多導致温室效應加劇，引發全球暖化。",
+     "id": "HUM-P6-L03-001",
+     "grade": "P6",
+     "subject": "hum",
+     "lesson": "L03",
+     "level": "分析",
+     "question": "隨着温室氣體排放增加，地球平均氣溫上升，這種全球環境問題稱為甚麼？",
+     "source": "課程補充題庫｜地球村與可持續發展",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "以下哪一項能源屬於「可再生能源」（取之不盡，且較清潔環保）？",
+     "answer": "太陽能和風能",
+     "options": [
+      "石油",
+      "太陽能和風能",
+      "天然氣",
+      "煤"
+     ],
+     "explain": "太陽能、風能、水力能屬於可再生能源；煤、石油、天然氣屬化石燃料（不可再生）。",
+     "id": "HUM-P6-L03-002",
+     "grade": "P6",
+     "subject": "hum",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "以下哪一項能源屬於「可再生能源」（取之不盡，且較清潔環保）？",
+     "source": "課程補充題庫｜地球村與可持續發展",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "負責維護國際和平與安全、促進國際合作的全球性政府間組織是甚麼？",
+     "answer": "聯合國 (UN)",
+     "options": [
+      "童軍總會",
+      "聯合國 (UN)",
+      "奧林匹克委員會",
+      "街坊福利會"
+     ],
+     "explain": "聯合國（United Nations）致力維護世界和平、推動可持續發展與人道救援。",
+     "id": "HUM-P6-L03-003",
+     "grade": "P6",
+     "subject": "hum",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "負責維護國際和平與安全、促進國際合作的全球性政府間組織是甚麼？",
+     "source": "課程補充題庫｜地球村與可持續發展",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "環保「4R」原則包括：減少使用（Reduce）、物盡其用（Reuse）、循環再造（Recycle）和（ ）（Replace）。",
+     "answer": [
+      "替代使用",
+      "替代"
+     ],
+     "explain": "4R 為 Reduce、Reuse、Recycle、Replace（替代使用）。",
+     "id": "HUM-P6-L03-004",
+     "grade": "P6",
+     "subject": "hum",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "環保「4R」原則包括：減少使用（Reduce）、物盡其用（Reuse）、循環再造（Recycle）和（ ）（Replace）。",
+     "source": "課程補充題庫｜地球村與可持續發展",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "「可持續發展」是指在滿足當代人需要的同時，不損害後代人滿足其需要的能力。",
+     "answer": true,
+     "explain": "兼顧經濟發展、社會進步與環境保育是可持續發展的核心。",
+     "id": "HUM-P6-L03-005",
+     "grade": "P6",
+     "subject": "hum",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "「可持續發展」是指在滿足當代人需要的同時，不損害後代人滿足其需要的能力。",
+     "source": "課程補充題庫｜地球村與可持續發展",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "地球上的淡水資源非常豐富，完全不需要節約用水。",
+     "answer": false,
+     "explain": "地球上絕大部分是鹹水，可供人類直接使用的淡水資源十分有限，必須珍惜。",
+     "id": "HUM-P6-L03-006",
+     "grade": "P6",
+     "subject": "hum",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "地球上的淡水資源非常豐富，完全不需要節約用水。",
+     "source": "課程補充題庫｜地球村與可持續發展",
+     "verified": false
+    }
+   ],
+   "lesson": "L03",
+   "verified": false
+  },
+  {
+   "id": "p6s1",
+   "grade": "P6",
+   "subject": "sci",
+   "title": "生物的適應與食物鏈",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "沙漠氣候炎熱乾旱，仙人掌的葉片演化成甚麼形狀，以減少水分蒸發？",
+     "answer": "針狀（刺）",
+     "options": [
+      "針狀（刺）",
+      "闊大的荷葉狀",
+      "花朵狀",
+      "長條絲帶狀"
+     ],
+     "explain": "仙人掌的葉退化成針刺，減少水分流失，莖部肥厚可儲水。",
+     "id": "SCI-P6-L01-001",
+     "grade": "P6",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "沙漠氣候炎熱乾旱，仙人掌的葉片演化成甚麼形狀，以減少水分蒸發？",
+     "source": "課程補充題庫｜生物的適應與食物鏈",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "北極熊生活在嚴寒的極地，牠身體有甚麼特徵幫助牠適應環境？",
+     "answer": "厚厚的脂肪層和濃密的白色毛皮",
+     "options": [
+      "用鰓在水底呼吸",
+      "全身長滿羽毛",
+      "皮膚表面沒有毛髮",
+      "厚厚的脂肪層和濃密的白色毛皮"
+     ],
+     "explain": "厚脂肪和密毛能保暖，白色毛皮亦起保護色作用。",
+     "id": "SCI-P6-L01-002",
+     "grade": "P6",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "北極熊生活在嚴寒的極地，牠身體有甚麼特徵幫助牠適應環境？",
+     "source": "課程補充題庫｜生物的適應與食物鏈",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "在「草 → 兔子 → 狐狸」這條食物鏈中，「草」扮演甚麼角色？",
+     "answer": "生產者",
+     "options": [
+      "分解者",
+      "生產者",
+      "次級消費者",
+      "初級消費者"
+     ],
+     "explain": "綠色植物能透過光合作用自己製造食物，是食物鏈的「生產者」。",
+     "id": "SCI-P6-L01-003",
+     "grade": "P6",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "在「草 → 兔子 → 狐狸」這條食物鏈中，「草」扮演甚麼角色？",
+     "source": "課程補充題庫｜生物的適應與食物鏈",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "變色龍和竹節蟲能夠改變體色或外形，令自己與周圍環境相似以避開天敵，這種適應方式稱為（ ）色或擬態。",
+     "answer": [
+      "保護"
+     ],
+     "explain": "與環境顏色相似以隱藏自己的顏色稱為「保護色」。",
+     "id": "SCI-P6-L01-004",
+     "grade": "P6",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "理解",
+     "question": "變色龍和竹節蟲能夠改變體色或外形，令自己與周圍環境相似以避開天敵，這種適應方式稱為（ ）色或擬態。",
+     "source": "課程補充題庫｜生物的適應與食物鏈",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "食物鏈通常由綠色植物（生產者）開始，能量沿着食物鏈傳遞給消費者。",
+     "answer": true,
+     "explain": "所有動物直接或間接依賴植物製造的養分生存。",
+     "id": "SCI-P6-L01-005",
+     "grade": "P6",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "記憶",
+     "question": "食物鏈通常由綠色植物（生產者）開始，能量沿着食物鏈傳遞給消費者。",
+     "source": "課程補充題庫｜生物的適應與食物鏈",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "如果森林裏的樹木被大量砍伐，只會影響植物，對棲息在森林裏的動物完全沒有影響。",
+     "answer": false,
+     "explain": "森林是動物的棲息地和食物來源，濫伐林木會破壞生態平衡，甚至令物種滅絕。",
+     "id": "SCI-P6-L01-006",
+     "grade": "P6",
+     "subject": "sci",
+     "lesson": "L01",
+     "level": "分析",
+     "question": "如果森林裏的樹木被大量砍伐，只會影響植物，對棲息在森林裏的動物完全沒有影響。",
+     "source": "課程補充題庫｜生物的適應與食物鏈",
+     "verified": false
+    }
+   ],
+   "lesson": "L01",
+   "verified": false
+  },
+  {
+   "id": "p6s2",
+   "grade": "P6",
+   "subject": "sci",
+   "title": "能量轉換與簡單機械",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "開動電風扇時，主要是將「電能」轉換成甚麼能量？",
+     "answer": "動能（機械能）",
+     "options": [
+      "光能",
+      "化學能",
+      "核能",
+      "動能（機械能）"
+     ],
+     "explain": "電風扇通電後扇葉轉動，主要是電能轉換成動能。",
+     "id": "SCI-P6-L02-001",
+     "grade": "P6",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "開動電風扇時，主要是將「電能」轉換成甚麼能量？",
+     "source": "課程補充題庫｜能量轉換與簡單機械",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "升旗禮時，旗杆頂部用來改變用力方向、把國旗拉上去的簡單機械是甚麼？",
+     "answer": "定滑輪",
+     "options": [
+      "螺旋",
+      "劈（楔）",
+      "斜面",
+      "定滑輪"
+     ],
+     "explain": "旗杆頂部的滑輪位置固定，屬於「定滑輪」，能改變施力方向。",
+     "id": "SCI-P6-L02-002",
+     "grade": "P6",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "升旗禮時，旗杆頂部用來改變用力方向、把國旗拉上去的簡單機械是甚麼？",
+     "source": "課程補充題庫｜能量轉換與簡單機械",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "使用剪刀剪東西或用撬棍撬起大石頭，這是應用了哪一種簡單機械的原理？",
+     "answer": "槓桿原理",
+     "options": [
+      "滑輪原理",
+      "斜面原理",
+      "槓桿原理",
+      "齒輪原理"
+     ],
+     "explain": "剪刀和撬棍都有支點、施力點和抗力點，屬於槓桿。",
+     "id": "SCI-P6-L02-003",
+     "grade": "P6",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "使用剪刀剪東西或用撬棍撬起大石頭，這是應用了哪一種簡單機械的原理？",
+     "source": "課程補充題庫｜能量轉換與簡單機械",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "植物進行光合作用時，把太陽的「光能」轉換並儲存在植物體內，變成（ ）能。",
+     "answer": [
+      "化學"
+     ],
+     "explain": "食物和植物體內儲存的能量屬於「化學能」。",
+     "id": "SCI-P6-L02-004",
+     "grade": "P6",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "理解",
+     "question": "植物進行光合作用時，把太陽的「光能」轉換並儲存在植物體內，變成（ ）能。",
+     "source": "課程補充題庫｜能量轉換與簡單機械",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "在斜面上推重物上車，比直接垂直搬上去更省力，但移動的距離較長。",
+     "answer": true,
+     "explain": "斜面是一種省力但費距離的簡單機械。",
+     "id": "SCI-P6-L02-005",
+     "grade": "P6",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "在斜面上推重物上車，比直接垂直搬上去更省力，但移動的距離較長。",
+     "source": "課程補充題庫｜能量轉換與簡單機械",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "定滑輪不但可以改變用力的方向，還可以省一半的力。",
+     "answer": false,
+     "explain": "定滑輪只能改變用力方向，不能省力；動滑輪才能省力。",
+     "id": "SCI-P6-L02-006",
+     "grade": "P6",
+     "subject": "sci",
+     "lesson": "L02",
+     "level": "記憶",
+     "question": "定滑輪不但可以改變用力的方向，還可以省一半的力。",
+     "source": "課程補充題庫｜能量轉換與簡單機械",
+     "verified": false
+    }
+   ],
+   "lesson": "L02",
+   "verified": false
+  },
+  {
+   "id": "p6s3",
+   "grade": "P6",
+   "subject": "sci",
+   "title": "太空探索與環境保護",
+   "questions": [
+    {
+     "type": "mc",
+     "q": "太陽系八大行星中，我們居住的「地球」距離太陽由近至遠排在第幾位？",
+     "answer": "第三位",
+     "options": [
+      "第三位",
+      "第一位",
+      "第五位",
+      "第八位"
+     ],
+     "explain": "由近至遠依次為：水星、金星、地球、火星、木星、土星、天王星、海王星。",
+     "id": "SCI-P6-L03-001",
+     "grade": "P6",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "太陽系八大行星中，我們居住的「地球」距離太陽由近至遠排在第幾位？",
+     "source": "課程補充題庫｜太空探索與環境保護",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "月球本身不會發光，我們在夜空中看到明亮的月光，是因為甚麼原因？",
+     "answer": "月球反射了太陽的光",
+     "options": [
+      "月球表面有大量火山在燃燒",
+      "月球反射了太陽的光",
+      "地球照亮了月球",
+      "月球裝滿了電燈"
+     ],
+     "explain": "月球是地球的天然衛星，本身不發光，靠反射太陽光而發亮。",
+     "id": "SCI-P6-L03-002",
+     "grade": "P6",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "分析",
+     "question": "月球本身不會發光，我們在夜空中看到明亮的月光，是因為甚麼原因？",
+     "source": "課程補充題庫｜太空探索與環境保護",
+     "verified": false
+    },
+    {
+     "type": "mc",
+     "q": "地球自西向東不停地「自轉」，自轉一圈大約需要多少時間，並形成甚麼現象？",
+     "answer": "約 24 小時（一天），形成晝夜交替現象",
+     "options": [
+      "約 24 小時（一天），形成晝夜交替現象",
+      "約 30 天，形成月相變化",
+      "約 365 天（一年），形成四季更替",
+      "約 1 小時，形成潮汐"
+     ],
+     "explain": "地球自轉一圈約 24 小時（一天），向着太陽的一面是白晝，背着的是黑夜。",
+     "id": "SCI-P6-L03-003",
+     "grade": "P6",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "地球自西向東不停地「自轉」，自轉一圈大約需要多少時間，並形成甚麼現象？",
+     "source": "課程補充題庫｜太空探索與環境保護",
+     "verified": false
+    },
+    {
+     "type": "fill",
+     "q": "中國自主研發並成功將航天員送入太空的載人飛船系列，命名為「（ ）」號（例如五號、六號）。",
+     "answer": [
+      "神舟"
+     ],
+     "explain": "中國載人飛船系列為「神舟」號（如神舟五號楊利偉首次進入太空），月球探測工程則為「嫦娥」工程。",
+     "id": "SCI-P6-L03-004",
+     "grade": "P6",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "理解",
+     "question": "中國自主研發並成功將航天員送入太空的載人飛船系列，命名為「（ ）」號（例如五號、六號）。",
+     "source": "課程補充題庫｜太空探索與環境保護",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "地球除了自轉外，還會圍繞太陽「公轉」，公轉一周約需一年，並產生四季變化。",
+     "answer": true,
+     "explain": "地球傾斜着自轉軸繞太陽公轉，形成四季更替。",
+     "id": "SCI-P6-L03-005",
+     "grade": "P6",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "地球除了自轉外，還會圍繞太陽「公轉」，公轉一周約需一年，並產生四季變化。",
+     "source": "課程補充題庫｜太空探索與環境保護",
+     "verified": false
+    },
+    {
+     "type": "tf",
+     "q": "太陽系中體積最大的行星是水星。",
+     "answer": false,
+     "explain": "太陽系中體積最大的行星是「木星」，最小的是「水星」。",
+     "id": "SCI-P6-L03-006",
+     "grade": "P6",
+     "subject": "sci",
+     "lesson": "L03",
+     "level": "記憶",
+     "question": "太陽系中體積最大的行星是水星。",
+     "source": "課程補充題庫｜太空探索與環境保護",
+     "verified": false
+    }
+   ],
+   "lesson": "L03",
+   "verified": false
+  },
+  {
    "id": "p2m1",
    "grade": "P2",
    "subject": "math",

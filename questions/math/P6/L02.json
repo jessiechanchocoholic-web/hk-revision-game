@@ -1,0 +1,110 @@
+{
+ "levelId": "p6m2",
+ "grade": "P6",
+ "subject": "math",
+ "lesson": "L02",
+ "title": "小數、分數與百分數互化",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "把分數 3/8 化為百分數是多少？",
+   "answer": "37.5%",
+   "options": [
+    "37.5%",
+    "38%",
+    "3.75%",
+    "75%"
+   ],
+   "explain": "3 ÷ 8 ＝ 0.375 ＝ 37.5%。",
+   "id": "MATH-P6-L02-001",
+   "grade": "P6",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "理解",
+   "question": "把分數 3/8 化為百分數是多少？",
+   "source": "課程補充題庫｜小數、分數與百分數互化",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "把百分數 75% 化為最簡分數是多少？",
+   "answer": "3/4",
+   "options": [
+    "7/5",
+    "15/20",
+    "4/5",
+    "3/4"
+   ],
+   "explain": "75% ＝ 75/100，分子分母同時除以 25 得 3/4。",
+   "id": "MATH-P6-L02-002",
+   "grade": "P6",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "理解",
+   "question": "把百分數 75% 化為最簡分數是多少？",
+   "source": "課程補充題庫｜小數、分數與百分數互化",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "把小數 0.45 化為最簡分數（以 a/b 格式作答），答案是 ___。",
+   "answer": [
+    "9/20"
+   ],
+   "explain": "0.45 ＝ 45/100，分子分母同時除以 5 得 9/20。",
+   "id": "MATH-P6-L02-003",
+   "grade": "P6",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "把小數 0.45 化為最簡分數（以 a/b 格式作答），答案是 ___。",
+   "source": "課程補充題庫｜小數、分數與百分數互化",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "把分數 4/5 化為百分數，答案是 ___%。",
+   "answer": [
+    "80"
+   ],
+   "explain": "4/5 ＝ 0.8 ＝ 80%。",
+   "id": "MATH-P6-L02-004",
+   "grade": "P6",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "把分數 4/5 化為百分數，答案是 ___%。",
+   "source": "課程補充題庫｜小數、分數與百分數互化",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "1.25 化為百分數是 125%，化為帶分數是 1 又 1/4。",
+   "answer": true,
+   "explain": "1.25 × 100% ＝ 125%，0.25 ＝ 1/4。",
+   "id": "MATH-P6-L02-005",
+   "grade": "P6",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "理解",
+   "question": "1.25 化為百分數是 125%，化為帶分數是 1 又 1/4。",
+   "source": "課程補充題庫｜小數、分數與百分數互化",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "把 6% 化為小數是 0.6。",
+   "answer": false,
+   "explain": "6% ＝ 6/100 ＝ 0.06，0.6 是 60%。",
+   "id": "MATH-P6-L02-006",
+   "grade": "P6",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "理解",
+   "question": "把 6% 化為小數是 0.6。",
+   "source": "課程補充題庫｜小數、分數與百分數互化",
+   "verified": false
+  }
+ ]
+}

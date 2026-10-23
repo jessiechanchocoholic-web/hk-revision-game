@@ -1,0 +1,177 @@
+{
+ "levelId": "p2e8",
+ "grade": "P2",
+ "subject": "eng",
+ "lesson": "L08",
+ "title": "Grammar 2A Ch 6: Jobs, Simple Present, Possessives & And/Or",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Gigi's father is a fireman. He ___ out fires.",
+   "answer": "puts",
+   "options": [
+    "putting",
+    "put",
+    "is put",
+    "puts"
+   ],
+   "explain": "第三人稱單數 He 描述職業工作（事實）用簡單現在式 puts out fires。",
+   "id": "ENG-P2-L08-001",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L08",
+   "level": "應用",
+   "question": "Gigi's father is a fireman. He ___ out fires.",
+   "source": "英文補充教材｜Grammar 2A Ch 6: Jobs, Simple Present, Possessives & And/Or",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "Wendy is a policewoman. She ___ bad people.",
+   "answer": "catches",
+   "options": [
+    "catches",
+    "catching",
+    "catchs",
+    "catch"
+   ],
+   "explain": "catch 以 ch 結尾，第三人稱單數 She 後面要加 -es（catches）。",
+   "id": "ENG-P2-L08-002",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L08",
+   "level": "應用",
+   "question": "Wendy is a policewoman. She ___ bad people.",
+   "source": "英文補充教材｜Grammar 2A Ch 6: Jobs, Simple Present, Possessives & And/Or",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "What is your ___ job? She is a nurse. She looks after sick people.",
+   "answer": "mother's",
+   "options": [
+    "mothers",
+    "mother's",
+    "mother",
+    "mothers'"
+   ],
+   "explain": "表示「媽媽的職業」要用所有格名詞 mother's（加 's）。",
+   "id": "ENG-P2-L08-003",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L08",
+   "level": "應用",
+   "question": "What is your ___ job? She is a nurse. She looks after sick people.",
+   "source": "英文補充教材｜Grammar 2A Ch 6: Jobs, Simple Present, Possessives & And/Or",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "Do you have any brothers ___ sisters?",
+   "answer": "or",
+   "options": [
+    "or",
+    "because",
+    "and",
+    "but"
+   ],
+   "explain": "在疑問句（Do you have any ...?）中連接兩個並列名詞時用 or。",
+   "id": "ENG-P2-L08-004",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L08",
+   "level": "應用",
+   "question": "Do you have any brothers ___ sisters?",
+   "source": "英文補充教材｜Grammar 2A Ch 6: Jobs, Simple Present, Possessives & And/Or",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "No, I have no brothers ___ sisters. I am an only child.",
+   "answer": "or",
+   "options": [
+    "and",
+    "because",
+    "or",
+    "too"
+   ],
+   "explain": "在否定句（have no ...）中連接兩個並列項目時用 or。",
+   "id": "ENG-P2-L08-005",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L08",
+   "level": "應用",
+   "question": "No, I have no brothers ___ sisters. I am an only child.",
+   "source": "英文補充教材｜Grammar 2A Ch 6: Jobs, Simple Present, Possessives & And/Or",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "Yes, I have one brother ___ two sisters.",
+   "answer": "and",
+   "options": [
+    "but",
+    "so",
+    "or",
+    "and"
+   ],
+   "explain": "在肯定句中連接兩個並列名詞時用 and。",
+   "id": "ENG-P2-L08-006",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L08",
+   "level": "應用",
+   "question": "Yes, I have one brother ___ two sisters.",
+   "source": "英文補充教材｜Grammar 2A Ch 6: Jobs, Simple Present, Possessives & And/Or",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "Fill in the correct verb form: Alan is a postman. He ___ (bring) letters to people.",
+   "answer": [
+    "brings"
+   ],
+   "explain": "主語 He 是第三人稱單數，bring 加 -s 變成 brings。",
+   "id": "ENG-P2-L08-007",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L08",
+   "level": "應用",
+   "question": "Fill in the correct verb form: Alan is a postman. He ___ (bring) letters to people.",
+   "source": "英文補充教材｜Grammar 2A Ch 6: Jobs, Simple Present, Possessives & And/Or",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "order",
+   "q": "Rearrange the words to form a question.",
+   "items": [
+    "What",
+    "is",
+    "your father's job"
+   ],
+   "explain": "詢問別人爸爸的職業：What is your father's job?",
+   "answer": [
+    "What",
+    "is",
+    "your father's job"
+   ],
+   "id": "ENG-P2-L08-008",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L08",
+   "level": "應用",
+   "question": "Rearrange the words to form a question.",
+   "source": "英文補充教材｜Grammar 2A Ch 6: Jobs, Simple Present, Possessives & And/Or",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "levelId": "p3c3",
+ "grade": "P3",
+ "subject": "chi",
+ "lesson": "L03",
+ "title": "標點符號與反義詞",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "「節儉」的反義詞是甚麼？",
+   "answer": "浪費",
+   "options": [
+    "珍惜",
+    "吝嗇",
+    "勤勞",
+    "浪費"
+   ],
+   "explain": "節儉指愛惜物力不胡亂花費，相反詞是「浪費」。",
+   "id": "CHI-P3-L03-001",
+   "grade": "P3",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "「節儉」的反義詞是甚麼？",
+   "source": "課程補充題庫｜標點符號與反義詞",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「謙虛」的反義詞是甚麼？",
+   "answer": "驕傲",
+   "options": [
+    "驕傲",
+    "誠實",
+    "禮貌",
+    "勇敢"
+   ],
+   "explain": "謙虛的相反詞是「驕傲」或「自滿」。",
+   "id": "CHI-P3-L03-002",
+   "grade": "P3",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "「謙虛」的反義詞是甚麼？",
+   "source": "課程補充題庫｜標點符號與反義詞",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "選出標點符號完全正確的一句：",
+   "answer": "媽媽問：「你今天做完功課了嗎？」",
+   "options": [
+    "媽媽問：「你今天做完功課了嗎？」",
+    "媽媽問：「你今天做完功課了嗎。」",
+    "媽媽問。「你今天做完功課了嗎！」",
+    "媽媽問，「你今天做完功課了嗎」"
+   ],
+   "explain": "提示語「媽媽問」後用冒號和引號，疑問句句末用問號。",
+   "id": "CHI-P3-L03-003",
+   "grade": "P3",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "選出標點符號完全正確的一句：",
+   "source": "課程補充題庫｜標點符號與反義詞",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "「整齊」的反義詞是（ ）。",
+   "answer": [
+    "凌亂",
+    "雜亂",
+    "混亂"
+   ],
+   "explain": "整齊的相反詞是「凌亂」或「雜亂」。",
+   "id": "CHI-P3-L03-004",
+   "grade": "P3",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "理解",
+   "question": "「整齊」的反義詞是（ ）。",
+   "source": "課程補充題庫｜標點符號與反義詞",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "用於並列詞語之間的標點符號「、」叫做頓號。",
+   "answer": true,
+   "explain": "例如「蘋果、橙和香蕉」中的「、」是頓號。",
+   "id": "CHI-P3-L03-005",
+   "grade": "P3",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "用於並列詞語之間的標點符號「、」叫做頓號。",
+   "source": "課程補充題庫｜標點符號與反義詞",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "感嘆句的句末應該使用問號「？」。",
+   "answer": false,
+   "explain": "感嘆句句末應使用感嘆號「！」，疑問句才用問號「？」。",
+   "id": "CHI-P3-L03-006",
+   "grade": "P3",
+   "subject": "chi",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "感嘆句的句末應該使用問號「？」。",
+   "source": "課程補充題庫｜標點符號與反義詞",
+   "verified": false
+  }
+ ]
+}

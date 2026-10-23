@@ -1,0 +1,110 @@
+{
+ "levelId": "p6m1",
+ "grade": "P6",
+ "subject": "math",
+ "lesson": "L01",
+ "title": "小數除法與四則混合",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "計算：7.2 ÷ 0.8 ＝ ？",
+   "answer": "9",
+   "options": [
+    "9",
+    "0.9",
+    "8",
+    "90"
+   ],
+   "explain": "把被除數和除數同時乘以 10：72 ÷ 8 ＝ 9。",
+   "id": "MATH-P6-L01-001",
+   "grade": "P6",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "計算：7.2 ÷ 0.8 ＝ ？",
+   "source": "課程補充題庫｜小數除法與四則混合",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "計算：12.5 × 0.4 ＋ 3.2 ＝ ？",
+   "answer": "8.2",
+   "options": [
+    "45",
+    "7.2",
+    "8.2",
+    "53.2"
+   ],
+   "explain": "先乘後加：12.5 × 0.4 ＝ 5，5 ＋ 3.2 ＝ 8.2。",
+   "id": "MATH-P6-L01-002",
+   "grade": "P6",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "計算：12.5 × 0.4 ＋ 3.2 ＝ ？",
+   "source": "課程補充題庫｜小數除法與四則混合",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "計算：15.6 ÷ 1.2 ＝ ___。",
+   "answer": [
+    "13"
+   ],
+   "explain": "同時乘以 10：156 ÷ 12 ＝ 13。",
+   "id": "MATH-P6-L01-003",
+   "grade": "P6",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "計算：15.6 ÷ 1.2 ＝ ___。",
+   "source": "課程補充題庫｜小數除法與四則混合",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "計算：(9.6 － 2.4) ÷ 0.6 ＝ ___。",
+   "answer": [
+    "12"
+   ],
+   "explain": "先算括號內 9.6 － 2.4 ＝ 7.2，再算 7.2 ÷ 0.6 ＝ 12。",
+   "id": "MATH-P6-L01-004",
+   "grade": "P6",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "計算：(9.6 － 2.4) ÷ 0.6 ＝ ___。",
+   "source": "課程補充題庫｜小數除法與四則混合",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "計算小數除法時，可以先把除數擴大成整數，被除數也同時擴大相同的倍數，商維持不變。",
+   "answer": true,
+   "explain": "這是商不變性質。",
+   "id": "MATH-P6-L01-005",
+   "grade": "P6",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "計算小數除法時，可以先把除數擴大成整數，被除數也同時擴大相同的倍數，商維持不變。",
+   "source": "課程補充題庫｜小數除法與四則混合",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "3.5 ÷ 0.5 的答案是 0.7。",
+   "answer": false,
+   "explain": "3.5 ÷ 0.5 ＝ 35 ÷ 5 ＝ 7，不是 0.7。",
+   "id": "MATH-P6-L01-006",
+   "grade": "P6",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "3.5 ÷ 0.5 的答案是 0.7。",
+   "source": "課程補充題庫｜小數除法與四則混合",
+   "verified": false
+  }
+ ]
+}

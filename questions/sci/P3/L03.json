@@ -1,0 +1,114 @@
+{
+ "levelId": "p3s3",
+ "grade": "P3",
+ "subject": "sci",
+ "lesson": "L03",
+ "title": "空氣、水與天氣變化",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "空氣中含有多種氣體，人和動物呼吸時需要吸入空氣中的哪一種氣體來維持生命？",
+   "answer": "氧氣",
+   "options": [
+    "氦氣",
+    "氧氣",
+    "二氧化碳",
+    "水蒸氣"
+   ],
+   "explain": "人類和動物呼吸需要氧氣。",
+   "id": "SCI-P3-L03-001",
+   "grade": "P3",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "空氣中含有多種氣體，人和動物呼吸時需要吸入空氣中的哪一種氣體來維持生命？",
+   "source": "課程補充題庫｜空氣、水與天氣變化",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "純淨的水在正常情況下具有甚麼特性？",
+   "answer": "無色、無味、無臭、透明",
+   "options": [
+    "藍色、鹹味",
+    "有固定形狀的固體",
+    "白色、甜味",
+    "無色、無味、無臭、透明"
+   ],
+   "explain": "純水是無色、無味、無臭的透明液體。",
+   "id": "SCI-P3-L03-002",
+   "grade": "P3",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "純淨的水在正常情況下具有甚麼特性？",
+   "source": "課程補充題庫｜空氣、水與天氣變化",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "地面和海面的水受熱後變成水蒸氣升上天空，遇冷凝結成小水點，聚集在一起就形成甚麼？",
+   "answer": "雲",
+   "options": [
+    "雲",
+    "彩虹",
+    "雷電",
+    "陽光"
+   ],
+   "explain": "水蒸氣升上高空遇冷凝結成無數小水滴或小冰晶，形成雲。",
+   "id": "SCI-P3-L03-003",
+   "grade": "P3",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "地面和海面的水受熱後變成水蒸氣升上天空，遇冷凝結成小水點，聚集在一起就形成甚麼？",
+   "source": "課程補充題庫｜空氣、水與天氣變化",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "水在 0°C 或以下會凝結成固態的（ ）；加熱沸騰時會變成氣態的水蒸氣。",
+   "answer": [
+    "冰"
+   ],
+   "explain": "水有三態：固態（冰）、液態（水）、氣態（水蒸氣）。",
+   "id": "SCI-P3-L03-004",
+   "grade": "P3",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "理解",
+   "question": "水在 0°C 或以下會凝結成固態的（ ）；加熱沸騰時會變成氣態的水蒸氣。",
+   "source": "課程補充題庫｜空氣、水與天氣變化",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "風是由空氣流動所產生的現象。",
+   "answer": true,
+   "explain": "冷熱空氣流動形成風。",
+   "id": "SCI-P3-L03-005",
+   "grade": "P3",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "風是由空氣流動所產生的現象。",
+   "source": "課程補充題庫｜空氣、水與天氣變化",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "燃燒蠟燭時不需要空氣，把玻璃杯蓋住蠟燭，蠟燭會燒得更旺。",
+   "answer": false,
+   "explain": "燃燒需要氧氣，用杯蓋住蠟燭耗盡氧氣後，蠟燭便會熄滅。",
+   "id": "SCI-P3-L03-006",
+   "grade": "P3",
+   "subject": "sci",
+   "lesson": "L03",
+   "level": "記憶",
+   "question": "燃燒蠟燭時不需要空氣，把玻璃杯蓋住蠟燭，蠟燭會燒得更旺。",
+   "source": "課程補充題庫｜空氣、水與天氣變化",
+   "verified": false
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "levelId": "p4e5",
+ "grade": "P4",
+ "subject": "eng",
+ "lesson": "L05",
+ "title": "Grammar 4B Overview: Possessive Pronouns, Quantifiers & Partitives",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "This is not my umbrella. Mine is blue. Is this umbrella ___?",
+   "answer": "yours",
+   "options": [
+    "you",
+    "your",
+    "yourself",
+    "yours"
+   ],
+   "explain": "句末不接名詞，表示「你的（雨傘）」要用名詞性物主代詞 yours。",
+   "id": "ENG-P4-L05-001",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "This is not my umbrella. Mine is blue. Is this umbrella ___?",
+   "source": "英文補充教材｜Grammar 4B Overview: Possessive Pronouns, Quantifiers & Partitives",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "These storybooks belong to Ben and Sam. The books are ___.",
+   "answer": "theirs",
+   "options": [
+    "them",
+    "their",
+    "theirs",
+    "they"
+   ],
+   "explain": "代替 their books（他們的書），用名詞性物主代詞 theirs。",
+   "id": "ENG-P4-L05-002",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "These storybooks belong to Ben and Sam. The books are ___.",
+   "source": "英文補充教材｜Grammar 4B Overview: Possessive Pronouns, Quantifiers & Partitives",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Don't eat too ___ sweets. They are bad for your teeth.",
+   "answer": "many",
+   "options": [
+    "much",
+    "little",
+    "lot",
+    "many"
+   ],
+   "explain": "sweets 是可數複數名詞，表示「太多」用 too many。",
+   "id": "ENG-P4-L05-003",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "Don't eat too ___ sweets. They are bad for your teeth.",
+   "source": "英文補充教材｜Grammar 4B Overview: Possessive Pronouns, Quantifiers & Partitives",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "There is only a ___ orange juice left in the bottle.",
+   "answer": "little",
+   "options": [
+    "lot",
+    "little",
+    "many",
+    "few"
+   ],
+   "explain": "orange juice 是不可數名詞，表示「少許」用 a little。",
+   "id": "ENG-P4-L05-004",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "There is only a ___ orange juice left in the bottle.",
+   "source": "英文補充教材｜Grammar 4B Overview: Possessive Pronouns, Quantifiers & Partitives",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Mum bought two ___ of bread and a jar of jam at the supermarket.",
+   "answer": "loaves",
+   "options": [
+    "cartons",
+    "loaf",
+    "loaves",
+    "bunches"
+   ],
+   "explain": "bread 的量詞是 loaf，兩條麵包用複數 loaves（two loaves of bread）。",
+   "id": "ENG-P4-L05-005",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "Mum bought two ___ of bread and a jar of jam at the supermarket.",
+   "source": "英文補充教材｜Grammar 4B Overview: Possessive Pronouns, Quantifiers & Partitives",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "Change to a possessive pronoun: 'This is her ruler.' -> 'This ruler is ___.'",
+   "answer": [
+    "hers"
+   ],
+   "explain": "her + 名詞 相當於名詞性物主代詞 hers。",
+   "id": "ENG-P4-L05-006",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "Change to a possessive pronoun: 'This is her ruler.' -> 'This ruler is ___.'",
+   "source": "英文補充教材｜Grammar 4B Overview: Possessive Pronouns, Quantifiers & Partitives",
+   "verified": false
+  },
+  {
+   "type": "order",
+   "q": "Rearrange the words to make a polite request.",
+   "items": [
+    "Can",
+    "you",
+    "pass me a bottle of water"
+   ],
+   "explain": "正確句序：Can you pass me a bottle of water?",
+   "answer": [
+    "Can",
+    "you",
+    "pass me a bottle of water"
+   ],
+   "id": "ENG-P4-L05-007",
+   "grade": "P4",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "Rearrange the words to make a polite request.",
+   "source": "英文補充教材｜Grammar 4B Overview: Possessive Pronouns, Quantifiers & Partitives",
+   "verified": false
+  }
+ ]
+}

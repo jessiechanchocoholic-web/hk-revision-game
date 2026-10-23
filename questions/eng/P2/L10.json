@@ -1,0 +1,147 @@
+{
+ "levelId": "p2e10",
+ "grade": "P2",
+ "subject": "eng",
+ "lesson": "L10",
+ "title": "Grammar 2B Ch 3–4: Time Prepositions, Tenses & What time",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Mandy goes to Brownies ___ Mondays.",
+   "answer": "on",
+   "options": [
+    "by",
+    "on",
+    "in",
+    "at"
+   ],
+   "explain": "星期幾（on Mondays = every Monday）前面用介詞 on。",
+   "id": "ENG-P2-L10-001",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L10",
+   "level": "應用",
+   "question": "Mandy goes to Brownies ___ Mondays.",
+   "source": "英文補充教材｜Grammar 2B Ch 3–4: Time Prepositions, Tenses & What time",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "Look! Alan ___ his bicycle in the park right now.",
+   "answer": "is riding",
+   "options": [
+    "is riding",
+    "ride",
+    "riding",
+    "rides"
+   ],
+   "explain": "看到 Look! 和 right now 表示此刻正在發生，用現在進行式 is riding。",
+   "id": "ENG-P2-L10-002",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L10",
+   "level": "應用",
+   "question": "Look! Alan ___ his bicycle in the park right now.",
+   "source": "英文補充教材｜Grammar 2B Ch 3–4: Time Prepositions, Tenses & What time",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "Cathy has lunch ___ twelve fifty-five ___ the afternoon.",
+   "answer": "at, in",
+   "options": [
+    "at, on",
+    "in, at",
+    "on, in",
+    "at, in"
+   ],
+   "explain": "具體時間點用 at（at twelve fifty-five）；早上／下午／晚上用 in（in the afternoon）。",
+   "id": "ENG-P2-L10-003",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L10",
+   "level": "應用",
+   "question": "Cathy has lunch ___ twelve fifty-five ___ the afternoon.",
+   "source": "英文補充教材｜Grammar 2B Ch 3–4: Time Prepositions, Tenses & What time",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "Mr Lam goes to bed ___ ten thirty ___ night.",
+   "answer": "at, at",
+   "options": [
+    "on, at",
+    "in, at",
+    "at, in",
+    "at, at"
+   ],
+   "explain": "具體時刻用 at ten thirty；「在晚上（night）」固定用 at night。",
+   "id": "ENG-P2-L10-004",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L10",
+   "level": "應用",
+   "question": "Mr Lam goes to bed ___ ten thirty ___ night.",
+   "source": "英文補充教材｜Grammar 2B Ch 3–4: Time Prepositions, Tenses & What time",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "___ does Betty do her homework? She does her homework at four forty-five.",
+   "answer": "What time",
+   "options": [
+    "Where",
+    "Which",
+    "Who",
+    "What time"
+   ],
+   "explain": "回答是具體時間（at four forty-five），問句用 What time（幾點）。",
+   "id": "ENG-P2-L10-005",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L10",
+   "level": "應用",
+   "question": "___ does Betty do her homework? She does her homework at four forty-five.",
+   "source": "英文補充教材｜Grammar 2B Ch 3–4: Time Prepositions, Tenses & What time",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "Correct the mistake: 'Amy sweeps the floor on every Sunday.' -> Write the correct time phrase without preposition:",
+   "answer": [
+    "every Sunday"
+   ],
+   "explain": "every / this / today 前面不可加介詞 on，直接寫 every Sunday。",
+   "id": "ENG-P2-L10-006",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L10",
+   "level": "應用",
+   "question": "Correct the mistake: 'Amy sweeps the floor on every Sunday.' -> Write the correct time phrase without preposition:",
+   "source": "英文補充教材｜Grammar 2B Ch 3–4: Time Prepositions, Tenses & What time",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "'What do Sally do on Fridays?' is grammatically correct.",
+   "answer": false,
+   "explain": "Sally 是第三人稱單數，助動詞必須用 does（What does Sally do on Fridays?）。",
+   "id": "ENG-P2-L10-007",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L10",
+   "level": "理解",
+   "question": "'What do Sally do on Fridays?' is grammatically correct.",
+   "source": "英文補充教材｜Grammar 2B Ch 3–4: Time Prepositions, Tenses & What time",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}

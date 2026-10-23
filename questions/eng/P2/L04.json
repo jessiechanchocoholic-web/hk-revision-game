@@ -1,0 +1,168 @@
+{
+ "levelId": "p2e4",
+ "grade": "P2",
+ "subject": "eng",
+ "lesson": "L04",
+ "title": "Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "In the story of Sally and Sam the squirrels, where is the art room?",
+   "answer": "On the first floor",
+   "options": [
+    "On the fifth floor",
+    "In the garden",
+    "On the first floor",
+    "On the ground floor"
+   ],
+   "explain": "根據 2A Ch 1 課文，美勞室（art room）在一樓（on the first floor），可以在裏面畫畫和做手偶。",
+   "id": "ENG-P2-L04-001",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "In the story of Sally and Sam the squirrels, where is the art room?",
+   "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "What can Sally and Sam do in the library on the second floor?",
+   "answer": "Borrow books",
+   "options": [
+    "Play hopscotch",
+    "Make puppets",
+    "Buy snacks",
+    "Borrow books"
+   ],
+   "explain": "根據 2A Ch 1 課文，圖書館在二樓，學生可以在那裏借書（borrow books）。",
+   "id": "ENG-P2-L04-002",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "What can Sally and Sam do in the library on the second floor?",
+   "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "In the 2A Ch 2 pamphlet, what does the word 'huge' mean in 'The library is huge'?",
+   "answer": "big",
+   "options": [
+    "new",
+    "big",
+    "quiet",
+    "small"
+   ],
+   "explain": "根據 2A Ch 2 閱讀練習第 3 題，huge 的意思是 big（巨大／很大）。",
+   "id": "ENG-P2-L04-003",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "In the 2A Ch 2 pamphlet, what does the word 'huge' mean in 'The library is huge'?",
+   "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "What is the rule in the garden? You ___ pick the flowers.",
+   "answer": "mustn't",
+   "options": [
+    "mustn't",
+    "must",
+    "are",
+    "can"
+   ],
+   "explain": "在花園裏絕對不可以摘花，要用 mustn't（不可）。",
+   "id": "ENG-P2-L04-004",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "What is the rule in the garden? You ___ pick the flowers.",
+   "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "In the story 'Hansel and Gretel' (2A Ch 3), why do they eat some biscuits?",
+   "answer": "Because they are hungry.",
+   "options": [
+    "Because they are cold.",
+    "Because they are bored.",
+    "Because it is morning.",
+    "Because they are hungry."
+   ],
+   "explain": "根據 2A Ch 3 故事，Hansel 和 Gretel 因為肚餓（hungry），所以提議吃餅乾（Let's eat some biscuits）。",
+   "id": "ENG-P2-L04-005",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "In the story 'Hansel and Gretel' (2A Ch 3), why do they eat some biscuits?",
+   "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "In 'Hansel and Gretel', what happens when they wake up from their nap?",
+   "answer": "It is dark and they are lost.",
+   "options": [
+    "It is dark and they are lost.",
+    "They meet a giraffe.",
+    "They find a library.",
+    "They go swimming."
+   ],
+   "explain": "根據 2A Ch 3 故事第 4 格，他們午睡醒來時天黑了（It's dark!），而且迷路了（We're lost!）。",
+   "id": "ENG-P2-L04-006",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "In 'Hansel and Gretel', what happens when they wake up from their nap?",
+   "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "Complete the suggestion from Hansel: 'I'm tired.' 'Me too. ___ take a short rest.'",
+   "answer": [
+    "Let's"
+   ],
+   "explain": "提議一起休息用 Let's（Let's take a short rest.）。",
+   "id": "ENG-P2-L04-007",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "應用",
+   "question": "Complete the suggestion from Hansel: 'I'm tired.' 'Me too. ___ take a short rest.'",
+   "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "We use 'in' for a room (e.g. in the music room) and 'on' for a floor (e.g. on the first floor).",
+   "answer": true,
+   "explain": "房間用 in（in the art room / library），樓層用 on（on the first / ground floor）。",
+   "id": "ENG-P2-L04-008",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L04",
+   "level": "理解",
+   "question": "We use 'in' for a room (e.g. in the music room) and 'on' for a floor (e.g. on the first floor).",
+   "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}

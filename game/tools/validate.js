@@ -1,7 +1,7 @@
 // node tools/validate.js — checks questions.js schema
 const fs=require('fs'),path=require('path');global.window={};eval(fs.readFileSync(path.join(__dirname,'..','questions.js'),'utf8'));
 const B=window.QUESTION_BANK;let err=0;const e=m=>{err++;console.error('ERR',m)};const ids=new Set();const count={};
-const G=['P1','P2','P4','P5'],S=['chi','eng','math','hum','sci'];
+const G=['P1','P2','P3','P4','P5','P6'],S=['chi','eng','math','hum','sci'];
 for(const l of B.levels){if(ids.has(l.id))e('dup id '+l.id);ids.add(l.id);if(!G.includes(l.grade)||!S.includes(l.subject))e('bad grade/subj '+l.id);
  if(l.questions.length<5)e(l.id+' has <5 questions');const k=l.grade+' '+l.subject;count[k]=count[k]||{levels:0,q:0};count[k].levels++;count[k].q+=l.questions.length;
  l.questions.forEach((q,i)=>{const w=l.id+'#'+i;for(const f of ['id','grade','subject','lesson','type','level','question','answer','source','verified'])if(q[f]===undefined)e(w+' missing '+f);if(ids.has(q.id))e('dup qid '+q.id);ids.add(q.id);if(!['記憶','理解','應用','分析'].includes(q.level))e(w+' bad level');if(q.grade==='P2'&&q.readAloud!==true)e(w+' P2 needs readAloud');if(!q.q||!q.explain)e(w+' missing q/explain');

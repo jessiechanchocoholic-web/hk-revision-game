@@ -6,7 +6,26 @@ const shuffle=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=ri(0,i);[a[i
 const gcd=(a,b)=>b?gcd(b,a%b):a;
 const frac=(n,d)=>{const g=gcd(Math.abs(n),d);n/=g;d/=g;return d===1?String(n):n+'/'+d};
 // 關卡級來源覆寫：老師工作紙改寫題（B4-DEV-01），一律 verified:false（唔加入 VERIFIED）
-const SRC_LEVEL={p1c3:'老師工作紙',p1c4:'老師工作紙'};
+const SRC_LEVEL={
+  p1c3:'老師工作紙',p1c4:'老師工作紙',
+  p1e5:'英文補充教材',p1e6:'英文補充教材',
+  p2e4:'英文補充教材',p2e5:'英文補充教材',p2e6:'英文補充教材',p2e7:'英文補充教材',p2e8:'英文補充教材',p2e9:'英文補充教材',p2e10:'英文補充教材',p2e11:'英文補充教材',
+  p3e5:'英文補充教材',p3e6:'英文補充教材',p3e7:'英文補充教材',p3e8:'英文補充教材',p3e9:'英文補充教材',
+  p4e4:'英文補充教材',p4e5:'英文補充教材',
+  p5e4:'英文補充教材',p5e5:'英文補充教材',
+  p6e1:'英文補充教材',p6e2:'英文補充教材',p6e3:'英文補充教材',p6e4:'英文補充教材',p6e5:'英文補充教材',p6e6:'英文補充教材',
+  p1m1:'課程補充題庫',p1m2:'課程補充題庫',p1m3:'課程補充題庫',
+  p1h1:'課程補充題庫',p1h2:'課程補充題庫',
+  p1s8:'課程補充題庫',p1s9:'課程補充題庫',
+  p3c1:'課程補充題庫',p3c2:'課程補充題庫',p3c3:'課程補充題庫',p3c4:'課程補充題庫',p3c5:'課程補充題庫',
+  p3m1:'課程補充題庫',p3m2:'課程補充題庫',p3m3:'課程補充題庫',p3m4:'課程補充題庫',p3m5:'課程補充題庫',
+  p3h1:'課程補充題庫',p3h2:'課程補充題庫',p3h3:'課程補充題庫',
+  p3s1:'課程補充題庫',p3s2:'課程補充題庫',p3s3:'課程補充題庫',
+  p6c1:'課程補充題庫',p6c2:'課程補充題庫',p6c3:'課程補充題庫',p6c4:'課程補充題庫',p6c5:'課程補充題庫',
+  p6m1:'課程補充題庫',p6m2:'課程補充題庫',p6m3:'課程補充題庫',p6m4:'課程補充題庫',p6m5:'課程補充題庫',
+  p6h1:'課程補充題庫',p6h2:'課程補充題庫',p6h3:'課程補充題庫',
+  p6s1:'課程補充題庫',p6s2:'課程補充題庫',p6s3:'課程補充題庫'
+};
 // 新關卡用獨立 seed 洗牌，避免改動其他關卡選項次序
 let seed2=20261022;const shuffle2=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){seed2=(seed2*1103515245+12345)%2147483648;const j=Math.floor(seed2/2147483648*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
 const levels=[];let cur;
@@ -16,7 +35,7 @@ for(const line of fs.readFileSync(path.join(__dirname,'content.txt'),'utf8').spl
   const k=line[0],b=line.slice(2).split('|');
   if(k==='M')cur.questions.push({type:'mc',q:b[0],answer:b[1],options:(SRC_LEVEL[cur.id]?shuffle2:shuffle)(b.slice(1,5)),explain:b[5]});
   else if(k==='T'||k==='F')cur.questions.push({type:'tf',q:b[0],answer:k==='T',explain:b[1]});
-  else if(k==='S')cur.questions.push({type:'fill',q:b[0],answer:b[1].split('/'),explain:b[2]});
+  else if(k==='S')cur.questions.push({type:'fill',q:b[0],answer:/^\d+\/\d+$/.test(b[1])?[b[1]]:b[1].split(/(?<!\\)\//).map(x=>x.replace(/\\\//g,'/')),explain:b[2]});
   else if(k==='O')cur.questions.push({type:'order',q:b[1],items:b[0].split('>'),explain:b[2]});
 }
 // --- math helpers

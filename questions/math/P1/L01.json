@@ -1,0 +1,110 @@
+{
+ "levelId": "p1m1",
+ "grade": "P1",
+ "subject": "math",
+ "lesson": "L01",
+ "title": "1至20的認識與順逆數",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "由 11 順着數，14 的下一個數是甚麼？",
+   "answer": "15",
+   "options": [
+    "16",
+    "12",
+    "13",
+    "15"
+   ],
+   "explain": "順着數每次加 1，14 的下一個數是 15。",
+   "id": "MATH-P1-L01-001",
+   "grade": "P1",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "由 11 順着數，14 的下一個數是甚麼？",
+   "source": "課程補充題庫｜1至20的認識與順逆數",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "由 20 倒着數，20 的前一個數是甚麼？",
+   "answer": "19",
+   "options": [
+    "17",
+    "18",
+    "10",
+    "19"
+   ],
+   "explain": "倒着數每次減 1，20 的前一個數是 19。",
+   "id": "MATH-P1-L01-002",
+   "grade": "P1",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "由 20 倒着數，20 的前一個數是甚麼？",
+   "source": "課程補充題庫｜1至20的認識與順逆數",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "1 個十和 7 個一合起來是 ___。",
+   "answer": [
+    "17"
+   ],
+   "explain": "1 個十是 10，加上 7 個一是 17。",
+   "id": "MATH-P1-L01-003",
+   "grade": "P1",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "1 個十和 7 個一合起來是 ___。",
+   "source": "課程補充題庫｜1至20的認識與順逆數",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "在 12、15、9、18 四個數中，最大的數是 ___。",
+   "answer": [
+    "18"
+   ],
+   "explain": "比較各數大小：9 < 12 < 15 < 18，最大是 18。",
+   "id": "MATH-P1-L01-004",
+   "grade": "P1",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "在 12、15、9、18 四個數中，最大的數是 ___。",
+   "source": "課程補充題庫｜1至20的認識與順逆數",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "16 比 13 大，但比 19 小。",
+   "answer": true,
+   "explain": "13 < 16 < 19，敘述正確。",
+   "id": "MATH-P1-L01-005",
+   "grade": "P1",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "16 比 13 大，但比 19 小。",
+   "source": "課程補充題庫｜1至20的認識與順逆數",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "由 10 順着數到 15，一共數了 4 個數。",
+   "answer": false,
+   "explain": "10、11、12、13、14、15 一共是 6 個數。",
+   "id": "MATH-P1-L01-006",
+   "grade": "P1",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "由 10 順着數到 15，一共數了 4 個數。",
+   "source": "課程補充題庫｜1至20的認識與順逆數",
+   "verified": false
+  }
+ ]
+}

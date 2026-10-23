@@ -1,0 +1,110 @@
+{
+ "levelId": "p1m2",
+ "grade": "P1",
+ "subject": "math",
+ "lesson": "L02",
+ "title": "18以內的加減法",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "8 ＋ 7 ＝ ？",
+   "answer": "15",
+   "options": [
+    "14",
+    "16",
+    "15",
+    "13"
+   ],
+   "explain": "用「湊十法」：8＋2＝10，10＋5＝15。",
+   "id": "MATH-P1-L02-001",
+   "grade": "P1",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "8 ＋ 7 ＝ ？",
+   "source": "課程補充題庫｜18以內的加減法",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "16 － 9 ＝ ？",
+   "answer": "7",
+   "options": [
+    "8",
+    "9",
+    "7",
+    "6"
+   ],
+   "explain": "用「破十法」：10－9＝1，1＋6＝7。",
+   "id": "MATH-P1-L02-002",
+   "grade": "P1",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "16 － 9 ＝ ？",
+   "source": "課程補充題庫｜18以內的加減法",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "樹上有 9 隻小鳥，再飛來 6 隻，現在樹上共有小鳥 ___ 隻。",
+   "answer": [
+    "15"
+   ],
+   "explain": "9＋6＝15（隻）。",
+   "id": "MATH-P1-L02-003",
+   "grade": "P1",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "樹上有 9 隻小鳥，再飛來 6 隻，現在樹上共有小鳥 ___ 隻。",
+   "source": "課程補充題庫｜18以內的加減法",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "媽媽買了 17 個蘋果，家人吃了 8 個，還餘蘋果 ___ 個。",
+   "answer": [
+    "9"
+   ],
+   "explain": "17－8＝9（個）。",
+   "id": "MATH-P1-L02-004",
+   "grade": "P1",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "媽媽買了 17 個蘋果，家人吃了 8 個，還餘蘋果 ___ 個。",
+   "source": "課程補充題庫｜18以內的加減法",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "7 ＋ 8 和 8 ＋ 7 的答案相同，都是 15。",
+   "answer": true,
+   "explain": "加法交換位置，和維持不變，都是 15。",
+   "id": "MATH-P1-L02-005",
+   "grade": "P1",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "7 ＋ 8 和 8 ＋ 7 的答案相同，都是 15。",
+   "source": "課程補充題庫｜18以內的加減法",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "14 － 6 的答案是 9。",
+   "answer": false,
+   "explain": "14－6＝8，不是 9。",
+   "id": "MATH-P1-L02-006",
+   "grade": "P1",
+   "subject": "math",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "14 － 6 的答案是 9。",
+   "source": "課程補充題庫｜18以內的加減法",
+   "verified": false
+  }
+ ]
+}

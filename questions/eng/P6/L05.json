@@ -1,0 +1,169 @@
+{
+ "levelId": "p6e5",
+ "grade": "P6",
+ "subject": "eng",
+ "lesson": "L05",
+ "title": "Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "If I ___ a writer, I ___ write books about animals.",
+   "answer": "were, would",
+   "options": [
+    "were, will",
+    "am, will",
+    "was, will",
+    "were, would"
+   ],
+   "explain": "根據 Grammar 6A p.19 & p.28：第二類條件句（假設現在不可能或相反的情況），if 子句用過去式 were，主句用 would + 原形動詞。",
+   "id": "ENG-P6-L05-001",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "If I ___ a writer, I ___ write books about animals.",
+   "source": "英文補充教材｜Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "If Candy ___ a dragon, she ___ ride on it.",
+   "answer": "met, would",
+   "options": [
+    "meets, will",
+    "met, would",
+    "met, will",
+    "meet, would"
+   ],
+   "explain": "根據 Grammar 6A p.28 Section C Q1：遇見龍是幻想情境（Second conditional），用 If Candy met a dragon, she would ride on it。",
+   "id": "ENG-P6-L05-002",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "If Candy ___ a dragon, she ___ ride on it.",
+   "source": "英文補充教材｜Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Susan is the girl ___ is performing a magic show.",
+   "answer": "who",
+   "options": [
+    "where",
+    "who",
+    "which",
+    "whose"
+   ],
+   "explain": "根據 Grammar 6A p.20 & p.27：先行詞 the girl 是人，關係代詞（relative pronoun）用 who。",
+   "id": "ENG-P6-L05-003",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "Susan is the girl ___ is performing a magic show.",
+   "source": "英文補充教材｜Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "This is a wallet ___ is made of soft leather.",
+   "answer": "which",
+   "options": [
+    "whom",
+    "which",
+    "where",
+    "who"
+   ],
+   "explain": "根據 Grammar 6A p.20 & p.27：先行詞 a wallet 是物件，關係代詞用 which。",
+   "id": "ENG-P6-L05-004",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "This is a wallet ___ is made of soft leather.",
+   "source": "英文補充教材｜Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "The clown's jokes were very ___. All the audience felt ___.",
+   "answer": "amusing, amused",
+   "options": [
+    "amusing, amusing",
+    "amused, amused",
+    "amusing, amused",
+    "amused, amusing"
+   ],
+   "explain": "根據 Grammar 6A p.21 & p.28：形容事物「令人發笑的」用 -ing 形容詞 amusing；形容人「感到好笑的」用 -ed 形容詞 amused。",
+   "id": "ENG-P6-L05-005",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "The clown's jokes were very ___. All the audience felt ___.",
+   "source": "英文補充教材｜Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "The prince showed true love to the princess. Everyone was deeply ___.",
+   "answer": "touched",
+   "options": [
+    "touching",
+    "touch",
+    "touches",
+    "touched"
+   ],
+   "explain": "根據 Grammar 6A p.28 Section D Q2：形容人「深受感動」要用 -ed 形容詞 touched（而非 touching）。",
+   "id": "ENG-P6-L05-006",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "The prince showed true love to the princess. Everyone was deeply ___.",
+   "source": "英文補充教材｜Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "Correct the mistake (Grammar 6A p.28 Section D Q4): 'If I am Rapunzel, I would let down my long hair.' -> Change 'am' to:",
+   "answer": [
+    "were"
+   ],
+   "explain": "第二類條件句中，If I 後面用虛擬語氣 were（If I were Rapunzel...）。",
+   "id": "ENG-P6-L05-007",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "Correct the mistake (Grammar 6A p.28 Section D Q4): 'If I am Rapunzel, I would let down my long hair.' -> Change 'am' to:",
+   "source": "英文補充教材｜Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives",
+   "verified": false
+  },
+  {
+   "type": "order",
+   "q": "Rearrange the words to form a second conditional sentence (Grammar 6A p.28).",
+   "items": [
+    "If Amy",
+    "saw a fairy",
+    "she would draw a picture of it"
+   ],
+   "explain": "第二類條件句：If Amy saw a fairy, she would draw a picture of it.",
+   "answer": [
+    "If Amy",
+    "saw a fairy",
+    "she would draw a picture of it"
+   ],
+   "id": "ENG-P6-L05-008",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L05",
+   "level": "應用",
+   "question": "Rearrange the words to form a second conditional sentence (Grammar 6A p.28).",
+   "source": "英文補充教材｜Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives",
+   "verified": false
+  }
+ ]
+}

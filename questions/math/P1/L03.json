@@ -1,0 +1,114 @@
+{
+ "levelId": "p1m3",
+ "grade": "P1",
+ "subject": "math",
+ "lesson": "L03",
+ "title": "立體圖形、時鐘與長短",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "以下哪一種立體圖形可以向四面八方自由滾動？",
+   "answer": "球體",
+   "options": [
+    "角錐體",
+    "長方體",
+    "正方體",
+    "球體"
+   ],
+   "explain": "球體表面全是曲面，能向任何方向滾動。",
+   "id": "MATH-P1-L03-001",
+   "grade": "P1",
+   "subject": "math",
+   "lesson": "L03",
+   "level": "理解",
+   "question": "以下哪一種立體圖形可以向四面八方自由滾動？",
+   "source": "課程補充題庫｜立體圖形、時鐘與長短",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "時鐘的分針指着 12，時針指着 8，現在是幾時？",
+   "answer": "8時正",
+   "options": [
+    "12時正",
+    "8時正",
+    "4時正",
+    "8時半"
+   ],
+   "explain": "分針指着 12、時針指着 8，表示 8 時正。",
+   "id": "MATH-P1-L03-002",
+   "grade": "P1",
+   "subject": "math",
+   "lesson": "L03",
+   "level": "理解",
+   "question": "時鐘的分針指着 12，時針指着 8，現在是幾時？",
+   "source": "課程補充題庫｜立體圖形、時鐘與長短",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "時鐘的分針指着 6，時針在 3 和 4 中間，現在是幾時？",
+   "answer": "3時半",
+   "options": [
+    "6時正",
+    "3時正",
+    "3時半",
+    "4時半"
+   ],
+   "explain": "分針指着 6 表示半小時，時針過了 3，即是 3 時半。",
+   "id": "MATH-P1-L03-003",
+   "grade": "P1",
+   "subject": "math",
+   "lesson": "L03",
+   "level": "理解",
+   "question": "時鐘的分針指着 6，時針在 3 和 4 中間，現在是幾時？",
+   "source": "課程補充題庫｜立體圖形、時鐘與長短",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "正方體一共有 ___ 個平的面。",
+   "answer": [
+    "6"
+   ],
+   "explain": "正方體有上、下、前、後、左、右共 6 個正方形平面。",
+   "id": "MATH-P1-L03-004",
+   "grade": "P1",
+   "subject": "math",
+   "lesson": "L03",
+   "level": "應用",
+   "question": "正方體一共有 ___ 個平的面。",
+   "source": "課程補充題庫｜立體圖形、時鐘與長短",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "比較兩支鉛筆的長短時，先把其中一端對齊，就更容易比較。",
+   "answer": true,
+   "explain": "對齊一端後看另一端，伸出較遠的一支較長。",
+   "id": "MATH-P1-L03-005",
+   "grade": "P1",
+   "subject": "math",
+   "lesson": "L03",
+   "level": "理解",
+   "question": "比較兩支鉛筆的長短時，先把其中一端對齊，就更容易比較。",
+   "source": "課程補充題庫｜立體圖形、時鐘與長短",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "圓柱體沒有平的面，只有曲面。",
+   "answer": false,
+   "explain": "圓柱體上下有 2 個圓形的平面，側面才是曲面。",
+   "id": "MATH-P1-L03-006",
+   "grade": "P1",
+   "subject": "math",
+   "lesson": "L03",
+   "level": "理解",
+   "question": "圓柱體沒有平的面，只有曲面。",
+   "source": "課程補充題庫｜立體圖形、時鐘與長短",
+   "verified": false
+  }
+ ]
+}

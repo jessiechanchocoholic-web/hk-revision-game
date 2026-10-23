@@ -1,0 +1,149 @@
+{
+ "levelId": "p3e9",
+ "grade": "P3",
+ "subject": "eng",
+ "lesson": "L09",
+ "title": "Grammar 3A–3B Overview: Simple Past Tense, Connectives & Quantifiers",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "We ___ a magic show at the children's centre yesterday.",
+   "answer": "watched",
+   "options": [
+    "watches",
+    "watched",
+    "watch",
+    "watching"
+   ],
+   "explain": "句末有過去時間詞 yesterday，動詞要用簡單過去式 watched。",
+   "id": "ENG-P3-L09-001",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L09",
+   "level": "應用",
+   "question": "We ___ a magic show at the children's centre yesterday.",
+   "source": "英文補充教材｜Grammar 3A–3B Overview: Simple Past Tense, Connectives & Quantifiers",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "___ you go to the library last Saturday? Yes, I did.",
+   "answer": "Did",
+   "options": [
+    "Does",
+    "Do",
+    "Were",
+    "Did"
+   ],
+   "explain": "last Saturday 表示過去時間，一般過去時疑問句用助動詞 Did。",
+   "id": "ENG-P3-L09-002",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L09",
+   "level": "應用",
+   "question": "___ you go to the library last Saturday? Yes, I did.",
+   "source": "英文補充教材｜Grammar 3A–3B Overview: Simple Past Tense, Connectives & Quantifiers",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Leo was hungry, ___ he ate a big sandwich.",
+   "answer": "so",
+   "options": [
+    "but",
+    "because",
+    "so",
+    "or"
+   ],
+   "explain": "前半句是原因（肚餓），後半句是結果（吃三文治），用連接詞 so（所以）。",
+   "id": "ENG-P3-L09-003",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L09",
+   "level": "應用",
+   "question": "Leo was hungry, ___ he ate a big sandwich.",
+   "source": "英文補充教材｜Grammar 3A–3B Overview: Simple Past Tense, Connectives & Quantifiers",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Are there ___ bananas in the basket? No, there aren't any.",
+   "answer": "any",
+   "options": [
+    "a",
+    "an",
+    "any",
+    "some"
+   ],
+   "explain": "在疑問句和否定句中，表示「一些／任何」通常用 any。",
+   "id": "ENG-P3-L09-004",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L09",
+   "level": "應用",
+   "question": "Are there ___ bananas in the basket? No, there aren't any.",
+   "source": "英文補充教材｜Grammar 3A–3B Overview: Simple Past Tense, Connectives & Quantifiers",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "___ is this backpack? It is eighty-five dollars.",
+   "answer": "How much",
+   "options": [
+    "How old",
+    "What time",
+    "How many",
+    "How much"
+   ],
+   "explain": "詢問價錢（Prices: eighty-five dollars）用疑問詞 How much。",
+   "id": "ENG-P3-L09-005",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L09",
+   "level": "應用",
+   "question": "___ is this backpack? It is eighty-five dollars.",
+   "source": "英文補充教材｜Grammar 3A–3B Overview: Simple Past Tense, Connectives & Quantifiers",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "Fill in the past tense verb: Mum ___ (buy) some strawberries at the market yesterday.",
+   "answer": [
+    "bought"
+   ],
+   "explain": "buy 的不規則過去式是 bought。",
+   "id": "ENG-P3-L09-006",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L09",
+   "level": "應用",
+   "question": "Fill in the past tense verb: Mum ___ (buy) some strawberries at the market yesterday.",
+   "source": "英文補充教材｜Grammar 3A–3B Overview: Simple Past Tense, Connectives & Quantifiers",
+   "verified": false
+  },
+  {
+   "type": "order",
+   "q": "Rearrange the words to form a past tense question.",
+   "items": [
+    "Where",
+    "did",
+    "you go last Sunday"
+   ],
+   "explain": "過去式特殊疑問句：Where did you go last Sunday?",
+   "answer": [
+    "Where",
+    "did",
+    "you go last Sunday"
+   ],
+   "id": "ENG-P3-L09-007",
+   "grade": "P3",
+   "subject": "eng",
+   "lesson": "L09",
+   "level": "應用",
+   "question": "Rearrange the words to form a past tense question.",
+   "source": "英文補充教材｜Grammar 3A–3B Overview: Simple Past Tense, Connectives & Quantifiers",
+   "verified": false
+  }
+ ]
+}

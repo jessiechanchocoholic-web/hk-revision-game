@@ -1,0 +1,114 @@
+{
+ "levelId": "p1h1",
+ "grade": "P1",
+ "subject": "hum",
+ "lesson": "L01",
+ "title": "我的家庭與學校",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "爸爸的爸爸，我們應該稱呼他做甚麼？",
+   "answer": "爺爺",
+   "options": [
+    "伯父",
+    "舅父",
+    "爺爺",
+    "公公"
+   ],
+   "explain": "爸爸的父親稱為爺爺（祖父）；媽媽的父親稱為公公（外祖父）。",
+   "id": "HUM-P1-L01-001",
+   "grade": "P1",
+   "subject": "hum",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "爸爸的爸爸，我們應該稱呼他做甚麼？",
+   "source": "課程補充題庫｜我的家庭與學校",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "在學校裏，如果身體感到不舒服，應該立即告訴誰？",
+   "answer": "老師",
+   "options": [
+    "陌生人",
+    "老師",
+    "郵差",
+    "巴士司機"
+   ],
+   "explain": "在校內感到不適，應立即向老師或校務處求助。",
+   "id": "HUM-P1-L01-002",
+   "grade": "P1",
+   "subject": "hum",
+   "lesson": "L01",
+   "level": "分析",
+   "question": "在學校裏，如果身體感到不舒服，應該立即告訴誰？",
+   "source": "課程補充題庫｜我的家庭與學校",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "以下哪一項是愛護家庭的表現？",
+   "answer": "主動幫忙收拾玩具",
+   "options": [
+    "主動幫忙收拾玩具",
+    "只顧自己看電視",
+    "對家人大聲呼喝",
+    "把玩具亂扔在地上"
+   ],
+   "explain": "主動收拾玩具能減輕家人負擔，保持家居整潔。",
+   "id": "HUM-P1-L01-003",
+   "grade": "P1",
+   "subject": "hum",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "以下哪一項是愛護家庭的表現？",
+   "source": "課程補充題庫｜我的家庭與學校",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "在學校圖書館看書時，我們要保持 ___，不可大聲喧嘩。",
+   "answer": [
+    "安靜"
+   ],
+   "explain": "圖書館是閱讀的地方，需要保持安靜。",
+   "id": "HUM-P1-L01-004",
+   "grade": "P1",
+   "subject": "hum",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "在學校圖書館看書時，我們要保持 ___，不可大聲喧嘩。",
+   "source": "課程補充題庫｜我的家庭與學校",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "家人互相照顧和關心，能令家庭更溫暖和睦。",
+   "answer": true,
+   "explain": "相親相愛是和睦家庭的基礎。",
+   "id": "HUM-P1-L01-005",
+   "grade": "P1",
+   "subject": "hum",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "家人互相照顧和關心，能令家庭更溫暖和睦。",
+   "source": "課程補充題庫｜我的家庭與學校",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "在學校裏，只有班長才需要遵守校規。",
+   "answer": false,
+   "explain": "每一位同學都應該遵守校規。",
+   "id": "HUM-P1-L01-006",
+   "grade": "P1",
+   "subject": "hum",
+   "lesson": "L01",
+   "level": "記憶",
+   "question": "在學校裏，只有班長才需要遵守校規。",
+   "source": "課程補充題庫｜我的家庭與學校",
+   "verified": false
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "levelId": "p3m1",
+ "grade": "P3",
+ "subject": "math",
+ "lesson": "L01",
+ "title": "五位數與位值",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "在五位數「58 329」中，數字「8」是在哪一個位？",
+   "answer": "千位",
+   "options": [
+    "萬位",
+    "千位",
+    "百位",
+    "十位"
+   ],
+   "explain": "由右至左依次是個、十、百、千、萬位，8 在千位，代表 8000。",
+   "id": "MATH-P3-L01-001",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "在五位數「58 329」中，數字「8」是在哪一個位？",
+   "source": "課程補充題庫｜五位數與位值",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "「三萬四千零五十六」寫作阿拉伯數字是多少？",
+   "answer": "34056",
+   "options": [
+    "30456",
+    "340056",
+    "34056",
+    "34560"
+   ],
+   "explain": "30000＋4000＋50＋6＝34056。",
+   "id": "MATH-P3-L01-002",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "「三萬四千零五十六」寫作阿拉伯數字是多少？",
+   "source": "課程補充題庫｜五位數與位值",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "在「72 614」中，萬位數字是 7，代表 ___。",
+   "answer": [
+    "70000"
+   ],
+   "explain": "萬位上的 7 代表 7 個一萬，即 70000。",
+   "id": "MATH-P3-L01-003",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "在「72 614」中，萬位數字是 7，代表 ___。",
+   "source": "課程補充題庫｜五位數與位值",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "用 0、2、5、8、9 五個數字組成最小的五位數（數字不可重複），答案是 ___。",
+   "answer": [
+    "20589"
+   ],
+   "explain": "萬位不可為 0，最小選 2，其餘由小至大排列：20589。",
+   "id": "MATH-P3-L01-004",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "用 0、2、5、8、9 五個數字組成最小的五位數（數字不可重複），答案是 ___。",
+   "source": "課程補充題庫｜五位數與位值",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "最大的四位數是 9999，加 1 後就變成最小的五位數 10000。",
+   "answer": true,
+   "explain": "9999＋1＝10000。",
+   "id": "MATH-P3-L01-005",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "最大的四位數是 9999，加 1 後就變成最小的五位數 10000。",
+   "source": "課程補充題庫｜五位數與位值",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "在「40 500」中，百位上的「5」代表 5000。",
+   "answer": false,
+   "explain": "百位上的 5 代表 500，不是 5000。",
+   "id": "MATH-P3-L01-006",
+   "grade": "P3",
+   "subject": "math",
+   "lesson": "L01",
+   "level": "理解",
+   "question": "在「40 500」中，百位上的「5」代表 5000。",
+   "source": "課程補充題庫｜五位數與位值",
+   "verified": false
+  }
+ ]
+}

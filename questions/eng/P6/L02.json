@@ -1,0 +1,140 @@
+{
+ "levelId": "p6e2",
+ "grade": "P6",
+ "subject": "eng",
+ "lesson": "L02",
+ "title": "Grammar 6A Ch 2: Connectives (so that / so / because) & To-infinitives",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Peter practises the piano every day ___ he can pass the piano exam.",
+   "answer": "so that",
+   "options": [
+    "so",
+    "so that",
+    "because",
+    "however"
+   ],
+   "explain": "根據 Grammar 6A p.5：表示「為了達到某目的」（後接 can / will 子句）用連接詞 so that。",
+   "id": "ENG-P6-L02-001",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "Peter practises the piano every day ___ he can pass the piano exam.",
+   "source": "英文補充教材｜Grammar 6A Ch 2: Connectives (so that / so / because) & To-infinitives",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "The prince wanted to save the princess, ___ he fought the wicked dragon.",
+   "answer": "so",
+   "options": [
+    "so that",
+    "because",
+    "so",
+    "although"
+   ],
+   "explain": "根據 Grammar 6A p.5–6：前半句是原因，後半句是結果（戰鬥），中間用連接詞 so（因此）。",
+   "id": "ENG-P6-L02-002",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "The prince wanted to save the princess, ___ he fought the wicked dragon.",
+   "source": "英文補充教材｜Grammar 6A Ch 2: Connectives (so that / so / because) & To-infinitives",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Candy didn't go to the party ___ she had a bad cold.",
+   "answer": "because",
+   "options": [
+    "because",
+    "but",
+    "so that",
+    "so"
+   ],
+   "explain": "根據 Grammar 6A p.5：後半句說明沒去派對的原因（患了重感冒），用連接詞 because。",
+   "id": "ENG-P6-L02-003",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "Candy didn't go to the party ___ she had a bad cold.",
+   "source": "英文補充教材｜Grammar 6A Ch 2: Connectives (so that / so / because) & To-infinitives",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Remember ___ the windows before you leave the classroom.",
+   "answer": "to close",
+   "options": [
+    "close",
+    "closing",
+    "closed",
+    "to close"
+   ],
+   "explain": "根據 Grammar 6A p.7：remember + to-infinitive（Remember to close）表示「記得要做某事」。",
+   "id": "ENG-P6-L02-004",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "Remember ___ the windows before you leave the classroom.",
+   "source": "英文補充教材｜Grammar 6A Ch 2: Connectives (so that / so / because) & To-infinitives",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "My little brother is learning ___ a bicycle in the park.",
+   "answer": "to ride",
+   "options": [
+    "to ride",
+    "rides",
+    "ride",
+    "riding"
+   ],
+   "explain": "根據 Grammar 6A p.7–8：動詞 learn 後面要接帶 to 的不定式（learn to ride）。",
+   "id": "ENG-P6-L02-005",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "My little brother is learning ___ a bicycle in the park.",
+   "source": "英文補充教材｜Grammar 6A Ch 2: Connectives (so that / so / because) & To-infinitives",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "Complete with 'to' + verb (Grammar 6A p.7): Oh no! I forgot ___ (bring) my English workbook today.",
+   "answer": [
+    "to bring"
+   ],
+   "explain": "forget 後接 to-infinitive：forgot to bring（忘記帶）。",
+   "id": "ENG-P6-L02-006",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "應用",
+   "question": "Complete with 'to' + verb (Grammar 6A p.7): Oh no! I forgot ___ (bring) my English workbook today.",
+   "source": "英文補充教材｜Grammar 6A Ch 2: Connectives (so that / so / because) & To-infinitives",
+   "verified": false
+  },
+  {
+   "type": "tf",
+   "q": "We often use modal verbs like 'can', 'will', 'could' or 'would' in the clause after 'so that' to show purpose.",
+   "answer": true,
+   "explain": "根據 Grammar 6A p.5，so that 引導的目的狀語從句常配合 can / could / will / would 使用。",
+   "id": "ENG-P6-L02-007",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L02",
+   "level": "理解",
+   "question": "We often use modal verbs like 'can', 'will', 'could' or 'would' in the clause after 'so that' to show purpose.",
+   "source": "英文補充教材｜Grammar 6A Ch 2: Connectives (so that / so / because) & To-infinitives",
+   "verified": false
+  }
+ ]
+}

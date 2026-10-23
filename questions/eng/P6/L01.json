@@ -1,0 +1,169 @@
+{
+ "levelId": "p6e1",
+ "grade": "P6",
+ "subject": "eng",
+ "lesson": "L01",
+ "title": "Grammar 6A Ch 1: First Conditional & Nouns and Gender",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "Sandy ___ fit if she ___ exercise every day.",
+   "answer": "will be, does",
+   "options": [
+    "will be, does",
+    "will be, will do",
+    "be, does",
+    "is, will do"
+   ],
+   "explain": "根據 Grammar 6A p.1：第一類條件句（First conditional），主句用將來式 will be，if 條件子句用簡單現在式 does。",
+   "id": "ENG-P6-L01-001",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "Sandy ___ fit if she ___ exercise every day.",
+   "source": "英文補充教材｜Grammar 6A Ch 1: First Conditional & Nouns and Gender",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "If my brother Ken ___ any homework, he will visit Grandma on Sunday.",
+   "answer": "doesn't have",
+   "options": [
+    "doesn't have",
+    "won't have",
+    "isn't have",
+    "don't have"
+   ],
+   "explain": "根據 Grammar 6A p.1：if 子句中用簡單現在式，第三人稱單數 Ken 的否定式為 doesn't have。",
+   "id": "ENG-P6-L01-002",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "If my brother Ken ___ any homework, he will visit Grandma on Sunday.",
+   "source": "英文補充教材｜Grammar 6A Ch 1: First Conditional & Nouns and Gender",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "We ___ sashimi at the fish market if we ___ up early one day.",
+   "answer": "will eat, wake",
+   "options": [
+    "will eat, will wake",
+    "will eat, wake",
+    "eat, will wake",
+    "ate, woke"
+   ],
+   "explain": "根據 Grammar 6A p.2（Tim 的信）：主句用 will eat，if 子句用簡單現在式 wake。",
+   "id": "ENG-P6-L01-003",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "We ___ sashimi at the fish market if we ___ up early one day.",
+   "source": "英文補充教材｜Grammar 6A Ch 1: First Conditional & Nouns and Gender",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "In the play, Jerry is the king and Sarah is the ___.",
+   "answer": "queen",
+   "options": [
+    "princess",
+    "empress",
+    "witch",
+    "queen"
+   ],
+   "explain": "根據 Grammar 6A p.3（名詞性別）：king（國王）對應的女性名詞（feminine noun）是 queen（王后）。",
+   "id": "ENG-P6-L01-004",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "In the play, Jerry is the king and Sarah is the ___.",
+   "source": "英文補充教材｜Grammar 6A Ch 1: First Conditional & Nouns and Gender",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "The ___ and the empress have a lot of gold and jewels.",
+   "answer": "emperor",
+   "options": [
+    "prince",
+    "emperor",
+    "wizard",
+    "king"
+   ],
+   "explain": "根據 Grammar 6A p.3–4：empress（女皇／皇后）對應的男性名詞（masculine noun）是 emperor（皇帝）。",
+   "id": "ENG-P6-L01-005",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "The ___ and the empress have a lot of gold and jewels.",
+   "source": "英文補充教材｜Grammar 6A Ch 1: First Conditional & Nouns and Gender",
+   "verified": false
+  },
+  {
+   "type": "mc",
+   "q": "Which of the following is a 'common-gender noun' (can be used for both men and women)?",
+   "answer": "firefighter",
+   "options": [
+    "waitress",
+    "fireman",
+    "firefighter",
+    "actress"
+   ],
+   "explain": "根據 Grammar 6A p.3：firefighter（消防員）、police officer、parent、child 等屬於通性名詞（common-gender nouns）。",
+   "id": "ENG-P6-L01-006",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "Which of the following is a 'common-gender noun' (can be used for both men and women)?",
+   "source": "英文補充教材｜Grammar 6A Ch 1: First Conditional & Nouns and Gender",
+   "verified": false
+  },
+  {
+   "type": "fill",
+   "q": "Fill in the feminine noun (Grammar 6A p.3): A man who acts in a film is an actor. A woman who acts in a film is an ___.",
+   "answer": [
+    "actress"
+   ],
+   "explain": "actor（男演員）對應的女性名詞是 actress（女演員）。",
+   "id": "ENG-P6-L01-007",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "Fill in the feminine noun (Grammar 6A p.3): A man who acts in a film is an actor. A woman who acts in a film is an ___.",
+   "source": "英文補充教材｜Grammar 6A Ch 1: First Conditional & Nouns and Gender",
+   "verified": false
+  },
+  {
+   "type": "order",
+   "q": "Rearrange the words to form a first conditional sentence (Grammar 6A p.2).",
+   "items": [
+    "If the weather",
+    "is fine",
+    "Dad will take lots of photos"
+   ],
+   "explain": "If 子句用簡單現在式（If the weather is fine），主句用將來式（Dad will take lots of photos.）。",
+   "answer": [
+    "If the weather",
+    "is fine",
+    "Dad will take lots of photos"
+   ],
+   "id": "ENG-P6-L01-008",
+   "grade": "P6",
+   "subject": "eng",
+   "lesson": "L01",
+   "level": "應用",
+   "question": "Rearrange the words to form a first conditional sentence (Grammar 6A p.2).",
+   "source": "英文補充教材｜Grammar 6A Ch 1: First Conditional & Nouns and Gender",
+   "verified": false
+  }
+ ]
+}

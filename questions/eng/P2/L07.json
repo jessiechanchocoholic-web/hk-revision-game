@@ -1,0 +1,168 @@
+{
+ "levelId": "p2e7",
+ "grade": "P2",
+ "subject": "eng",
+ "lesson": "L07",
+ "title": "Grammar 2A Ch 5: Where & How, Transport & Prepositions",
+ "verified": false,
+ "questions": [
+  {
+   "type": "mc",
+   "q": "I live in Causeway Bay. It is ___ Hong Kong Island.",
+   "answer": "on",
+   "options": [
+    "at",
+    "on",
+    "in",
+    "by"
+   ],
+   "explain": "島嶼（Hong Kong Island, Lantau Island, Lamma Island, Cheung Chau）前面用介詞 on。",
+   "id": "ENG-P2-L07-001",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "I live in Causeway Bay. It is ___ Hong Kong Island.",
+   "source": "英文補充教材｜Grammar 2A Ch 5: Where & How, Transport & Prepositions",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "Mr Smith lives ___ Tuen Mun. It is in the New Territories.",
+   "answer": "in",
+   "options": [
+    "on",
+    "at",
+    "in",
+    "by"
+   ],
+   "explain": "地區名稱（如 Tuen Mun, Sha Tin, Kwun Tong, Kowloon）前面用介詞 in。",
+   "id": "ENG-P2-L07-002",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "Mr Smith lives ___ Tuen Mun. It is in the New Territories.",
+   "source": "英文補充教材｜Grammar 2A Ch 5: Where & How, Transport & Prepositions",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "___ do you come to school? I come to school by school bus.",
+   "answer": "How",
+   "options": [
+    "How",
+    "Where",
+    "What",
+    "Who"
+   ],
+   "explain": "詢問上學的交通方式（by school bus）用疑問詞 How。",
+   "id": "ENG-P2-L07-003",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "___ do you come to school? I come to school by school bus.",
+   "source": "英文補充教材｜Grammar 2A Ch 5: Where & How, Transport & Prepositions",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "Jerry lives near his school. He comes to school ___ foot.",
+   "answer": "on",
+   "options": [
+    "on",
+    "by",
+    "in",
+    "with"
+   ],
+   "explain": "步行上學固定用 on foot（不可說 by foot）。",
+   "id": "ENG-P2-L07-004",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "Jerry lives near his school. He comes to school ___ foot.",
+   "source": "英文補充教材｜Grammar 2A Ch 5: Where & How, Transport & Prepositions",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "Meg comes to school ___ MTR every morning.",
+   "answer": "by",
+   "options": [
+    "at",
+    "in",
+    "on",
+    "by"
+   ],
+   "explain": "乘搭交通工具（by bus / by car / by MTR / by ferry / by tram）用介詞 by，中間不加 the。",
+   "id": "ENG-P2-L07-005",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "Meg comes to school ___ MTR every morning.",
+   "source": "英文補充教材｜Grammar 2A Ch 5: Where & How, Transport & Prepositions",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "mc",
+   "q": "'___ here, Rocky!' says Bob to his dog.",
+   "answer": "Come",
+   "options": [
+    "Go",
+    "Come",
+    "Comes",
+    "Going"
+   ],
+   "explain": "叫對方朝向說話者走過來用 Come here（Go 表示離開說話者去別處）。",
+   "id": "ENG-P2-L07-006",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "'___ here, Rocky!' says Bob to his dog.",
+   "source": "英文補充教材｜Grammar 2A Ch 5: Where & How, Transport & Prepositions",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "fill",
+   "q": "Fill in the preposition: My aunt lives ___ Lantau Island.",
+   "answer": [
+    "on"
+   ],
+   "explain": "Lantau Island 是島嶼，介詞用 on。",
+   "id": "ENG-P2-L07-007",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L07",
+   "level": "應用",
+   "question": "Fill in the preposition: My aunt lives ___ Lantau Island.",
+   "source": "英文補充教材｜Grammar 2A Ch 5: Where & How, Transport & Prepositions",
+   "verified": false,
+   "readAloud": true
+  },
+  {
+   "type": "tf",
+   "q": "'How you come to school?' is a grammatically correct question.",
+   "answer": false,
+   "explain": "一般現在時疑問句不能漏掉助動詞 do，應為：How do you come to school?",
+   "id": "ENG-P2-L07-008",
+   "grade": "P2",
+   "subject": "eng",
+   "lesson": "L07",
+   "level": "理解",
+   "question": "'How you come to school?' is a grammatically correct question.",
+   "source": "英文補充教材｜Grammar 2A Ch 5: Where & How, Transport & Prepositions",
+   "verified": false,
+   "readAloud": true
+  }
+ ]
+}
