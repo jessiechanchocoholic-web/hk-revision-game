@@ -83,3 +83,7 @@ P1 中文一上單元一二、英文 1A Ch1–4、科學一上。
 - 2026-10-22 B4-DEV-01 審查中：小一中文老師工作紙關卡 p1c3「工作紙：數數和認字」（15 題）、p1c4「工作紙：句子練習」（21 題），全部 verified:false，source「老師工作紙｜…」；冇學生姓名、校名、原圖（圖用 emoji）；bundle.js 外部引用檢查改用 `/\b(src|href)\s*=\s*(?!["']?data:image\/)/i`；validate ALL OK 105 關／627 題。
 - 2026-10-22 B5-DEV-01 審查中：主頁加「🎲 隨機」掣（轉盤式抽籤動畫，純 CSS/inline）；兩個模式「全部隨機」「固定年級、隨機科目」。規則：喺有關卡嘅（年級,科目）組合（已套用 verifiedOnly 過濾）平均抽一個，再喺該組合普通關卡（唔含 Boss）平均抽一關，約 1.6 秒後自動入關；prefers-reduced-motion 跳過轉動即時顯示結果；結果 role=status aria-live=polite；唔寫入 localStorage、進度格式不變；validate ALL OK 105 關／627 題。
 - 2026-10-23 B6-DEV-01 審查中：新增三年級（P3）及六年級（P6）支援（GRADES 排 P1–P6；GTHEME 加 P3 畫家帽配金星、P6 博士披肩配獎盃，共 115 個角色動畫組合）＋合入 64 個新關卡共 421 題（25 關／187 題 P1–P6 英文 Reading & Grammar 補充教材，及 39 關／234 題 P1 數/人/科補充與 P3、P6 中/數/人/科補充題庫；全部標 verified:false，用獨立 shuffle2 保持舊關卡題目及選項次序零變動）。全庫現為 169 關／1048 題；validate ALL OK、bundle 通過、headless Chrome（375px／768px、隨機抽關、離線單檔）0 console error。
+
+## B7-DEV-01 手機撳一下就入到＋WhatsApp 預覽空白（開發 Bot，2026-10-23，PR 待 QA）
+- 根因：冇 `touch-action:manipulation`（iOS 連續快撳被當雙擊縮放食咗第二下，重組句子最明顯）；填充題自動 focus 彈鍵盤，撳「確定」第一下只係收鍵盤、版面移位令 click 落空；轉頁唔 scroll 返頂，長關卡列表撳完好似冇反應；隨機轉盤計時器喺轉頁後仍會觸發；`button:active` 位移只限滑鼠。
+- WhatsApp 內置預覽唔執行 JS → 加 `<noscript>`、載入失敗提示（4 秒未出主頁或 onerror 就顯示「請用 Safari 或 Chrome 開啟」＋網上版連結）、初始化 try/catch。storage 已有 try/catch；speechSynthesis 已有檢查；全 ES5 語法。
