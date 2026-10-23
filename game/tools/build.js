@@ -35,7 +35,7 @@ for(const line of fs.readFileSync(path.join(__dirname,'content.txt'),'utf8').spl
   const k=line[0],b=line.slice(2).split('|');
   if(k==='M')cur.questions.push({type:'mc',q:b[0],answer:b[1],options:(SRC_LEVEL[cur.id]?shuffle2:shuffle)(b.slice(1,5)),explain:b[5]});
   else if(k==='T'||k==='F')cur.questions.push({type:'tf',q:b[0],answer:k==='T',explain:b[1]});
-  else if(k==='S')cur.questions.push({type:'fill',q:b[0],answer:b[1].split('/'),explain:b[2]});
+  else if(k==='S')cur.questions.push({type:'fill',q:b[0],answer:/^\d+\/\d+$/.test(b[1])?[b[1]]:b[1].split(/(?<!\\)\//).map(x=>x.replace(/\\\//g,'/')),explain:b[2]});
   else if(k==='O')cur.questions.push({type:'order',q:b[1],items:b[0].split('>'),explain:b[2]});
 }
 // --- math helpers
