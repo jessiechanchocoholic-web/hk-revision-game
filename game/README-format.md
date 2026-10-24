@@ -25,3 +25,6 @@ window.QUESTION_BANK = { version: "2026-10-21", levels: [
 - **只顯示已核實題目**：`game.js` 頂部 `VERIFIED_ONLY_DEFAULT`（現預設 `true`＝只顯示 `verified:true`；改 `false` 即顯示全部）。網址參數 `?verifiedOnly=1` 開／`?verifiedOnly=0` 關，優先於預設。開啟時冇已核實題目嘅關卡同世界會隱藏（現時 28 關／167 題）。
 - P2 讀題：每題有「🔊 讀題」掣，用瀏覽器內置 speechSynthesis；中文揀 zh-HK／yue（粵語）聲，冇就用其他中文聲；英文用 en-GB／en 聲；唔支援就顯示提示。
 - 題目可加 `equation`（算式）、`working`（逐步運算，直式用等寬字）、`calc`（validate.js 獨立覆核用）；答啱後顯示算式同步驟。
+
+## 短文（B8-DEV-01）
+`P:短文內容` 行之後嘅題目會喺題目上面顯示呢段（`\n` 代表換行），直至下一個 `P:`、`P:-` 或新關卡。短文要短、自己改寫、唔可以有校名或真實姓名。

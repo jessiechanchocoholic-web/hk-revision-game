@@ -16,7 +16,7 @@
     "as, as",
     "like, as"
    ],
-   "explain": "根據 Grammar 6A p.23：明喻結構 as + 形容詞 + as（as white as snow 雪白）。",
+   "explain": "明喻結構 as + 形容詞 + as（as white as snow 雪白）。",
    "id": "ENG-P6-L06-001",
    "grade": "P6",
    "subject": "eng",
@@ -36,7 +36,7 @@
     "as, like",
     "like, as"
    ],
-   "explain": "根據 Grammar 6A p.28 Section D Q1：as proud as a peacock（像孔雀一樣驕傲），不可寫 proud like a peacock。",
+   "explain": "as proud as a peacock（像孔雀一樣驕傲），不可寫 proud like a peacock。",
    "id": "ENG-P6-L06-002",
    "grade": "P6",
    "subject": "eng",
@@ -56,7 +56,7 @@
     "as",
     "so"
    ],
-   "explain": "根據 Grammar 6A p.23–24：be + 形容詞 + like + 名詞（brave like a lion 像獅子一樣勇敢）。",
+   "explain": "be + 形容詞 + like + 名詞（brave like a lion 像獅子一樣勇敢）。",
    "id": "ENG-P6-L06-003",
    "grade": "P6",
    "subject": "eng",
@@ -76,7 +76,7 @@
     "like",
     "as"
    ],
-   "explain": "根據 Grammar 6A p.28 Section D Q8：這裏的 like 是介詞（「像水晶一樣清晰」），不可加 -s 寫成 likes。",
+   "explain": "這裏的 like 是介詞（「像水晶一樣清晰」），不可加 -s 寫成 likes。",
    "id": "ENG-P6-L06-004",
    "grade": "P6",
    "subject": "eng",
@@ -96,7 +96,7 @@
     "although",
     "however"
    ],
-   "explain": "根據 Grammar 6A p.25 & p.28：在同一個句子中間連接兩個轉折分句（前面只有逗號，後無逗號），用連接詞 but。",
+   "explain": "在同一個句子中間連接兩個轉折分句（前面只有逗號，後無逗號），用連接詞 but。",
    "id": "ENG-P6-L06-005",
    "grade": "P6",
    "subject": "eng",
@@ -116,7 +116,7 @@
     "But",
     "Although"
    ],
-   "explain": "根據 Grammar 6A p.25 & p.28 Section D Q5：放在第二句句首並有逗號隔開，表示「然而／可是」用 However,。",
+   "explain": "放在第二句句首並有逗號隔開，表示「然而／可是」用 However,。",
    "id": "ENG-P6-L06-006",
    "grade": "P6",
    "subject": "eng",
@@ -128,7 +128,7 @@
   },
   {
    "type": "fill",
-   "q": "Complete the simile (Grammar 6A p.23): The old man is as wise as an ___.",
+   "q": "Complete the simile: The old man is as wise as an ___.",
    "answer": [
     "owl"
    ],
@@ -138,7 +138,7 @@
    "subject": "eng",
    "lesson": "L06",
    "level": "應用",
-   "question": "Complete the simile (Grammar 6A p.23): The old man is as wise as an ___.",
+   "question": "Complete the simile: The old man is as wise as an ___.",
    "source": "英文補充教材｜Grammar 6A Ch 6: Similes (as ... as / be ... like) & Connectives (however / but)",
    "verified": false
   },
@@ -146,7 +146,7 @@
    "type": "tf",
    "q": "In 'The pillows are as soft as clouds', 'as ... as' is used to compare two things that are similar.",
    "answer": true,
-   "explain": "根據 Grammar 6A p.23，我們用 as ... as 和 be ... like 來作比喻（similes）。",
+   "explain": "我們用 as ... as 和 be ... like 來作比喻（similes）。",
    "id": "ENG-P6-L06-008",
    "grade": "P6",
    "subject": "eng",

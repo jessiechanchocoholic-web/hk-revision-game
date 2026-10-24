@@ -16,7 +16,7 @@
     "either, and",
     "neither, nor"
    ],
-   "explain": "根據 Grammar 6A p.15 & p.27：表示在兩個選擇中「或者……或者……（二選一）」用 either ... or。",
+   "explain": "表示在兩個選擇中「或者……或者……（二選一）」用 either ... or。",
    "id": "ENG-P6-L04-001",
    "grade": "P6",
    "subject": "eng",
@@ -36,7 +36,7 @@
     "Neither, or",
     "Both, and"
    ],
-   "explain": "根據 Grammar 6A p.16 & p.27：表示「既不……也不……（兩個都不會）」用 Neither ... nor。",
+   "explain": "表示「既不……也不……（兩個都不會）」用 Neither ... nor。",
    "id": "ENG-P6-L04-002",
    "grade": "P6",
    "subject": "eng",
@@ -56,7 +56,7 @@
     "Both, or",
     "Either, or"
    ],
-   "explain": "根據 Grammar 6A p.27 Section A Q5：否定兩種電影都無趣用 Neither action films nor romantic films。",
+   "explain": "否定兩種電影都無趣用 Neither action films nor romantic films。",
    "id": "ENG-P6-L04-003",
    "grade": "P6",
    "subject": "eng",
@@ -76,7 +76,7 @@
     "Both, and",
     "Either, or"
    ],
-   "explain": "根據 Grammar 6A p.18：表示「兩個都喜歡」用 Both ... and，謂語動詞用複數 like。",
+   "explain": "表示「兩個都喜歡」用 Both ... and，謂語動詞用複數 like。",
    "id": "ENG-P6-L04-004",
    "grade": "P6",
    "subject": "eng",
@@ -96,7 +96,7 @@
     "be",
     "are"
    ],
-   "explain": "根據 Grammar 6A p.16–18：neither ... nor 連接兩個單數主語時，動詞跟隨鄰近單數主語用 is。",
+   "explain": "neither ... nor 連接兩個單數主語時，動詞跟隨鄰近單數主語用 is。",
    "id": "ENG-P6-L04-005",
    "grade": "P6",
    "subject": "eng",
@@ -108,7 +108,7 @@
   },
   {
    "type": "fill",
-   "q": "Fill in the blank (Grammar 6A p.15): You can have either apple juice ___ orange juice.",
+   "q": "Fill in the blank: You can have either apple juice ___ orange juice.",
    "answer": [
     "or"
    ],
@@ -118,7 +118,7 @@
    "subject": "eng",
    "lesson": "L04",
    "level": "應用",
-   "question": "Fill in the blank (Grammar 6A p.15): You can have either apple juice ___ orange juice.",
+   "question": "Fill in the blank: You can have either apple juice ___ orange juice.",
    "source": "英文補充教材｜Grammar 6A Ch 4: Correlative Conjunctions (either...or / neither...nor / both...and)",
    "verified": false
   },

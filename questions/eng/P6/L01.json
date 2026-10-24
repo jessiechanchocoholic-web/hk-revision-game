@@ -16,7 +16,7 @@
     "be, does",
     "is, will do"
    ],
-   "explain": "根據 Grammar 6A p.1：第一類條件句（First conditional），主句用將來式 will be，if 條件子句用簡單現在式 does。",
+   "explain": "第一類條件句（First conditional），主句用將來式 will be，if 條件子句用簡單現在式 does。",
    "id": "ENG-P6-L01-001",
    "grade": "P6",
    "subject": "eng",
@@ -36,7 +36,7 @@
     "isn't have",
     "don't have"
    ],
-   "explain": "根據 Grammar 6A p.1：if 子句中用簡單現在式，第三人稱單數 Ken 的否定式為 doesn't have。",
+   "explain": "if 子句中用簡單現在式，第三人稱單數 Ken 的否定式為 doesn't have。",
    "id": "ENG-P6-L01-002",
    "grade": "P6",
    "subject": "eng",
@@ -56,7 +56,7 @@
     "eat, will wake",
     "ate, woke"
    ],
-   "explain": "根據 Grammar 6A p.2（Tim 的信）：主句用 will eat，if 子句用簡單現在式 wake。",
+   "explain": "主句用 will eat，if 子句用簡單現在式 wake。",
    "id": "ENG-P6-L01-003",
    "grade": "P6",
    "subject": "eng",
@@ -76,7 +76,7 @@
     "witch",
     "queen"
    ],
-   "explain": "根據 Grammar 6A p.3（名詞性別）：king（國王）對應的女性名詞（feminine noun）是 queen（王后）。",
+   "explain": "king（國王）對應的女性名詞（feminine noun）是 queen（王后）。",
    "id": "ENG-P6-L01-004",
    "grade": "P6",
    "subject": "eng",
@@ -96,7 +96,7 @@
     "wizard",
     "king"
    ],
-   "explain": "根據 Grammar 6A p.3–4：empress（女皇／皇后）對應的男性名詞（masculine noun）是 emperor（皇帝）。",
+   "explain": "empress（女皇／皇后）對應的男性名詞（masculine noun）是 emperor（皇帝）。",
    "id": "ENG-P6-L01-005",
    "grade": "P6",
    "subject": "eng",
@@ -116,7 +116,7 @@
     "firefighter",
     "actress"
    ],
-   "explain": "根據 Grammar 6A p.3：firefighter（消防員）、police officer、parent、child 等屬於通性名詞（common-gender nouns）。",
+   "explain": "firefighter（消防員）、police officer、parent、child 等屬於通性名詞（common-gender nouns）。",
    "id": "ENG-P6-L01-006",
    "grade": "P6",
    "subject": "eng",
@@ -128,7 +128,7 @@
   },
   {
    "type": "fill",
-   "q": "Fill in the feminine noun (Grammar 6A p.3): A man who acts in a film is an actor. A woman who acts in a film is an ___.",
+   "q": "Fill in the feminine noun: A man who acts in a film is an actor. A woman who acts in a film is an ___.",
    "answer": [
     "actress"
    ],
@@ -138,13 +138,13 @@
    "subject": "eng",
    "lesson": "L01",
    "level": "應用",
-   "question": "Fill in the feminine noun (Grammar 6A p.3): A man who acts in a film is an actor. A woman who acts in a film is an ___.",
+   "question": "Fill in the feminine noun: A man who acts in a film is an actor. A woman who acts in a film is an ___.",
    "source": "英文補充教材｜Grammar 6A Ch 1: First Conditional & Nouns and Gender",
    "verified": false
   },
   {
    "type": "order",
-   "q": "Rearrange the words to form a first conditional sentence (Grammar 6A p.2).",
+   "q": "Rearrange the words to form a first conditional sentence.",
    "items": [
     "If the weather",
     "is fine",
@@ -161,7 +161,7 @@
    "subject": "eng",
    "lesson": "L01",
    "level": "應用",
-   "question": "Rearrange the words to form a first conditional sentence (Grammar 6A p.2).",
+   "question": "Rearrange the words to form a first conditional sentence.",
    "source": "英文補充教材｜Grammar 6A Ch 1: First Conditional & Nouns and Gender",
    "verified": false
   }

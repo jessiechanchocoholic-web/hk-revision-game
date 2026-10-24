@@ -8,7 +8,7 @@
  "questions": [
   {
    "type": "mc",
-   "q": "On the book cover 'All Change for the Chans!' (Booster A), what happens to eight-year-old Eric Chan during a storm?",
+   "q": "On the book cover 'All Change for the Chans!', what happens to eight-year-old Eric Chan during a storm?",
    "answer": "He swaps bodies with his 35-year-old dad, Tony.",
    "options": [
     "He turns into a funny dog.",
@@ -16,19 +16,20 @@
     "He writes fifteen children's books.",
     "He moves to Scotland."
    ],
-   "explain": "根據 Booster A（p.25），八歲的 Eric 在暴風雨中與 35 歲的爸爸交換了身體，Eric 要去上班，爸爸卻要去返學。",
+   "explain": "根據書本封面，八歲的 Eric 在暴風雨中與 35 歲的爸爸交換了身體，Eric 要去上班，爸爸卻要去返學。",
+   "passage": "Book cover: All Change for the Chans! (Crown Readers, for Primary 4–6)\nWritten by Michael Hill. Cover illustrated by Glenda Li.\nDuring a storm, eight-year-old Eric Chan swaps bodies with his 35-year-old dad, Tony! Now Eric has to go to work and Dad has to go to school.\n'A very funny book!' – Tom Smith, Book Shop Monthly",
    "id": "ENG-P3-L08-001",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L08",
    "level": "應用",
-   "question": "On the book cover 'All Change for the Chans!' (Booster A), what happens to eight-year-old Eric Chan during a storm?",
+   "question": "On the book cover 'All Change for the Chans!', what happens to eight-year-old Eric Chan during a storm?",
    "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
    "verified": false
   },
   {
    "type": "mc",
-   "q": "In Booster A, the 'Crown Readers' series is for Primary 4–6 students. Who is the illustrator of the front cover?",
+   "q": "The book is in the 'Crown Readers' series for Primary 4–6 students. Who is the illustrator of the front cover?",
    "answer": "Glenda Li",
    "options": [
     "Glenda Li",
@@ -36,19 +37,20 @@
     "Michael Hill",
     "Tom Smith"
    ],
-   "explain": "根據 Booster A（p.25），作者是 Michael Hill，而封面插畫師（illustrator）是 Glenda Li。",
+   "explain": "根據書本封面，作者是 Michael Hill，而封面插畫師（illustrator）是 Glenda Li。",
+   "passage": "Book cover: All Change for the Chans! (Crown Readers, for Primary 4–6)\nWritten by Michael Hill. Cover illustrated by Glenda Li.\nDuring a storm, eight-year-old Eric Chan swaps bodies with his 35-year-old dad, Tony! Now Eric has to go to work and Dad has to go to school.\n'A very funny book!' – Tom Smith, Book Shop Monthly",
    "id": "ENG-P3-L08-002",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L08",
    "level": "應用",
-   "question": "In Booster A, the 'Crown Readers' series is for Primary 4–6 students. Who is the illustrator of the front cover?",
+   "question": "The book is in the 'Crown Readers' series for Primary 4–6 students. Who is the illustrator of the front cover?",
    "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
    "verified": false
   },
   {
    "type": "mc",
-   "q": "In the notice about after-school classes with 'Clive the Clown' (Booster B), Maggie Lau is in Class 2C. On which day can she have lessons?",
+   "q": "In the notice about after-school classes with 'Clive the Clown', Maggie Lau is in Class 2C. On which day can she have lessons?",
    "answer": "On Mondays",
    "options": [
     "On Fridays",
@@ -56,19 +58,20 @@
     "On Sundays",
     "On Wednesdays"
    ],
-   "explain": "根據 Booster B（p.27–28），小一至小三（Primary 1–3）的課堂在星期一（Mondays 3–4 p.m.），Maggie 讀 2C 班，所以星期一上課。",
+   "explain": "根據通告，小一至小三（Primary 1–3）的課堂在星期一（Mondays 3–4 p.m.），Maggie 讀 2C 班，所以星期一上課。",
+   "passage": "After-school classes with Clive the Clown!\nClive is a clown. He makes people happy with jokes, magic tricks, juggling and balloon toys.\nPrimary 1–3: Mondays, 3–4 p.m.\nPrimary 4–6: Wednesdays, 3–4 p.m.",
    "id": "ENG-P3-L08-003",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L08",
    "level": "應用",
-   "question": "In the notice about after-school classes with 'Clive the Clown' (Booster B), Maggie Lau is in Class 2C. On which day can she have lessons?",
+   "question": "In the notice about after-school classes with 'Clive the Clown', Maggie Lau is in Class 2C. On which day can she have lessons?",
    "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
    "verified": false
   },
   {
    "type": "mc",
-   "q": "In Booster B, what is Clive the Clown's job?",
+   "q": "In the notice, what is Clive the Clown's job?",
    "answer": "To make people happy with jokes, magic tricks, juggling and balloon toys.",
    "options": [
     "To teach Maths and Science.",
@@ -76,19 +79,20 @@
     "To drive the school bus.",
     "To look after sick children as a doctor."
    ],
-   "explain": "根據 Booster B 第 2 題，Clive 是小丑，他的工作是表演魔術、雜耍和扭氣球逗人開心（make people happy）。",
+   "explain": "根據通告，Clive 是小丑，他的工作是表演魔術、雜耍和扭氣球逗人開心（make people happy）。",
+   "passage": "After-school classes with Clive the Clown!\nClive is a clown. He makes people happy with jokes, magic tricks, juggling and balloon toys.\nPrimary 1–3: Mondays, 3–4 p.m.\nPrimary 4–6: Wednesdays, 3–4 p.m.",
    "id": "ENG-P3-L08-004",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L08",
    "level": "應用",
-   "question": "In Booster B, what is Clive the Clown's job?",
+   "question": "In the notice, what is Clive the Clown's job?",
    "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
    "verified": false
   },
   {
    "type": "mc",
-   "q": "In Booster C ('Bedtime Stories for Children' contents page), Anne reads: 'Oh dear! She dropped her purse again!' Which story is she reading?",
+   "q": "Look at the contents page of 'Bedtime Stories for Children'. Anne reads: 'Oh dear! She dropped her purse again!' Which story is she reading?",
    "answer": "Careless Cathy",
    "options": [
     "Careless Cathy",
@@ -96,19 +100,20 @@
     "Honest Ollie and the Maths Test",
     "Brave Baby Bear"
    ],
-   "explain": "根據 Booster C（p.29–30），經常粗心掉錢包（dropped her purse again）對應故事《Careless Cathy》。",
+   "explain": "根據目錄簡介，經常粗心掉錢包（dropped her purse again）對應故事《Careless Cathy》。",
+   "passage": "Bedtime Stories for Children – Contents\nBrave Baby Bear (a little bear is not afraid of the dark) … page 5\nCareless Cathy (a girl who always loses her things) … page 13\nGeorge the Clever Robot (a robot helps a family) … page 21\nHonest Ollie and the Maths Test (a boy sees the test papers on the teacher's desk) … page 35\nPoor Charlie and the Chocolate Mountain (a boy eats too much chocolate) … page 43",
    "id": "ENG-P3-L08-005",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L08",
    "level": "應用",
-   "question": "In Booster C ('Bedtime Stories for Children' contents page), Anne reads: 'Oh dear! She dropped her purse again!' Which story is she reading?",
+   "question": "Look at the contents page of 'Bedtime Stories for Children'. Anne reads: 'Oh dear! She dropped her purse again!' Which story is she reading?",
    "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
    "verified": false
   },
   {
    "type": "mc",
-   "q": "In Booster C, Paul reads: 'He could see the test papers on the teacher's desk...' Which story starting on page 35 is he reading?",
+   "q": "Look at the contents page. Paul reads: 'He could see the test papers on the teacher's desk...' Which story starting on page 35 is he reading?",
    "answer": "Honest Ollie and the Maths Test",
    "options": [
     "Honest Ollie and the Maths Test",
@@ -117,26 +122,28 @@
     "Poor Charlie and the Chocolate Mountain"
    ],
    "explain": "看到老師桌上的測驗卷（test papers），對應第 35 頁開始的故事《Honest Ollie and the Maths Test》（因此在第 37 頁）。",
+   "passage": "Bedtime Stories for Children – Contents\nBrave Baby Bear (a little bear is not afraid of the dark) … page 5\nCareless Cathy (a girl who always loses her things) … page 13\nGeorge the Clever Robot (a robot helps a family) … page 21\nHonest Ollie and the Maths Test (a boy sees the test papers on the teacher's desk) … page 35\nPoor Charlie and the Chocolate Mountain (a boy eats too much chocolate) … page 43",
    "id": "ENG-P3-L08-006",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L08",
    "level": "應用",
-   "question": "In Booster C, Paul reads: 'He could see the test papers on the teacher's desk...' Which story starting on page 35 is he reading?",
+   "question": "Look at the contents page. Paul reads: 'He could see the test papers on the teacher's desk...' Which story starting on page 35 is he reading?",
    "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
    "verified": false
   },
   {
    "type": "tf",
-   "q": "In Booster A, 'Book Shop Monthly' is the publisher of the book 'All Change for the Chans!'.",
+   "q": "On the book cover, 'Book Shop Monthly' is the publisher of the book 'All Change for the Chans!'.",
    "answer": false,
    "explain": "Book Shop Monthly 只是撰寫書評的雜誌（Tom Smith, Book Shop Monthly），並非出版社。",
+   "passage": "Book cover: All Change for the Chans! (Crown Readers, for Primary 4–6)\nWritten by Michael Hill. Cover illustrated by Glenda Li.\nDuring a storm, eight-year-old Eric Chan swaps bodies with his 35-year-old dad, Tony! Now Eric has to go to work and Dad has to go to school.\n'A very funny book!' – Tom Smith, Book Shop Monthly",
    "id": "ENG-P3-L08-007",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L08",
    "level": "理解",
-   "question": "In Booster A, 'Book Shop Monthly' is the publisher of the book 'All Change for the Chans!'.",
+   "question": "On the book cover, 'Book Shop Monthly' is the publisher of the book 'All Change for the Chans!'.",
    "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
    "verified": false
   }

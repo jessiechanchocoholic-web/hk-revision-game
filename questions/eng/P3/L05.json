@@ -8,7 +8,7 @@
  "questions": [
   {
    "type": "mc",
-   "q": "In Reading 3B Ch 1 ('Amy and Snowy'), why did the other ducks laugh at Snowy at first?",
+   "q": "In the story 'Amy and Snowy', why did the other ducks laugh at Snowy at first?",
    "answer": "Because Snowy was big and grey, not yellow like them.",
    "options": [
     "Because Snowy could not swim.",
@@ -16,19 +16,20 @@
     "Because Snowy was a dog.",
     "Because Snowy ate all their food."
    ],
-   "explain": "根據 Reading 3B Ch 1 故事，Snowy 起初又大又灰，跟其他黃色小鴨不同，長大後才發現是一隻美麗的白天鵝（swan）。",
+   "explain": "根據故事，Snowy 起初又大又灰，跟其他黃色小鴨不同，長大後才發現是一隻美麗的白天鵝（swan）。",
+   "passage": "Amy lives near a pond. One spring, five baby ducks hatch. Four are small and yellow. One is big and grey. The other ducks laugh at him. Amy calls him Snowy and is kind to him. Months later, Snowy grows up into a beautiful white swan.",
    "id": "ENG-P3-L05-001",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L05",
    "level": "應用",
-   "question": "In Reading 3B Ch 1 ('Amy and Snowy'), why did the other ducks laugh at Snowy at first?",
+   "question": "In the story 'Amy and Snowy', why did the other ducks laugh at Snowy at first?",
    "source": "英文補充教材｜Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages",
    "verified": false
   },
   {
    "type": "mc",
-   "q": "In the Magic Potions advertisement (Reading 3B Ch 1 Text 2), who wrote a review for 'Hair-grow'?",
+   "q": "In the Magic Potions advertisement, who wrote a review for 'Hair-grow'?",
    "answer": "Rapunzel",
    "options": [
     "Snow White",
@@ -36,19 +37,20 @@
     "The Big Bad Wolf",
     "Rapunzel"
    ],
-   "explain": "根據 Reading 3B Ch 1 廣告，長髮公主 Rapunzel 推薦令頭髮變長的魔藥 Hair-grow。",
+   "explain": "根據廣告，長髮公主 Rapunzel 推薦令頭髮變長的魔藥 Hair-grow。",
+   "passage": "MAGIC POTIONS – try our best potions!\nHair-grow: Make your hair long and shiny. 'I love it!' – Rapunzel\nBody-power: Be strong like a giant. 'I feel so strong!' – The Giant",
    "id": "ENG-P3-L05-002",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L05",
    "level": "應用",
-   "question": "In the Magic Potions advertisement (Reading 3B Ch 1 Text 2), who wrote a review for 'Hair-grow'?",
+   "question": "In the Magic Potions advertisement, who wrote a review for 'Hair-grow'?",
    "source": "英文補充教材｜Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages",
    "verified": false
   },
   {
    "type": "mc",
-   "q": "In Reading 3B Ch 2 Text 1, why did Spod pass the Maths test while his friends failed?",
+   "q": "In the story, why did Spod pass the Maths test while his friends failed?",
    "answer": "Because Spod studied hard while his friends played and ate.",
    "options": [
     "Because Spod copied his friend's answers.",
@@ -56,19 +58,20 @@
     "Because Spod's dad was the teacher.",
     "Because the test was very easy."
    ],
-   "explain": "根據 Reading 3B Ch 2 故事，Spod 留在家裏努力溫習數學，而其他朋友只顧玩耍和吃東西。",
+   "explain": "根據故事，Spod 留在家裏努力溫習數學，而其他朋友只顧玩耍和吃東西。",
+   "passage": "Spod and his friends have a Maths test on Monday. At the weekend, his friends play games and eat snacks. Spod stays at home and studies hard. On Monday, Spod passes the test, but his friends fail.",
    "id": "ENG-P3-L05-003",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L05",
    "level": "應用",
-   "question": "In Reading 3B Ch 2 Text 1, why did Spod pass the Maths test while his friends failed?",
+   "question": "In the story, why did Spod pass the Maths test while his friends failed?",
    "source": "英文補充教材｜Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages",
    "verified": false
   },
   {
    "type": "mc",
-   "q": "In Reading 3B Ch 2 Text 2 (Sunny Days Children's Centre), what did Paul do with the old people?",
+   "q": "On the Sunny Days Children's Centre message board, what did Paul do with the old people?",
    "answer": "He visited an old people's home and played games with them.",
    "options": [
     "He made magic potions.",
@@ -76,19 +79,20 @@
     "He visited an old people's home and played games with them.",
     "He went to Disneyland."
    ],
-   "explain": "根據 Reading 3B Ch 2 留言板，Paul 探訪老人院並與長者一起玩遊戲。",
+   "explain": "根據留言板，Paul 探訪老人院並與長者一起玩遊戲。",
+   "passage": "Sunny Days Children's Centre – Message Board\nPaul: Last Saturday I visited an old people's home. I played games with the old people. It was fun!\nJenny: I went bird-watching in Tai Po Kau. I saw many birds.",
    "id": "ENG-P3-L05-004",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L05",
    "level": "應用",
-   "question": "In Reading 3B Ch 2 Text 2 (Sunny Days Children's Centre), what did Paul do with the old people?",
+   "question": "On the Sunny Days Children's Centre message board, what did Paul do with the old people?",
    "source": "英文補充教材｜Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages",
    "verified": false
   },
   {
    "type": "mc",
-   "q": "Where did Jenny go bird-watching in Reading 3B Ch 2 Text 2?",
+   "q": "Where did Jenny go bird-watching according to the message board?",
    "answer": "Tai Po Kau",
    "options": [
     "Tai Po Kau",
@@ -96,27 +100,29 @@
     "Sai Kung",
     "Causeway Bay"
    ],
-   "explain": "根據 Reading 3B Ch 2 課文，Jenny 去大埔滘（Tai Po Kau）觀鳥。",
+   "explain": "根據留言板，Jenny 去大埔滘（Tai Po Kau）觀鳥。",
+   "passage": "Sunny Days Children's Centre – Message Board\nPaul: Last Saturday I visited an old people's home. I played games with the old people. It was fun!\nJenny: I went bird-watching in Tai Po Kau. I saw many birds.",
    "id": "ENG-P3-L05-005",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L05",
    "level": "應用",
-   "question": "Where did Jenny go bird-watching in Reading 3B Ch 2 Text 2?",
+   "question": "Where did Jenny go bird-watching according to the message board?",
    "source": "英文補充教材｜Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages",
    "verified": false
   },
   {
    "type": "tf",
-   "q": "In Reading 3B Ch 1 Text 2, 'Body-power' potion helps the drinker become strong like The Giant.",
+   "q": "In the Magic Potions advertisement, 'Body-power' potion helps the drinker become strong like The Giant.",
    "answer": true,
    "explain": "巨人（The Giant）推薦 Body-power 魔藥，讓人變得強壯。",
+   "passage": "MAGIC POTIONS – try our best potions!\nHair-grow: Make your hair long and shiny. 'I love it!' – Rapunzel\nBody-power: Be strong like a giant. 'I feel so strong!' – The Giant",
    "id": "ENG-P3-L05-006",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L05",
    "level": "理解",
-   "question": "In Reading 3B Ch 1 Text 2, 'Body-power' potion helps the drinker become strong like The Giant.",
+   "question": "In the Magic Potions advertisement, 'Body-power' potion helps the drinker become strong like The Giant.",
    "source": "英文補充教材｜Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages",
    "verified": false
   },
@@ -127,6 +133,7 @@
     "swan"
    ],
    "explain": "Snowy 長大後變成一隻美麗的白天鵝（swan）。",
+   "passage": "Amy lives near a pond. One spring, five baby ducks hatch. Four are small and yellow. One is big and grey. The other ducks laugh at him. Amy calls him Snowy and is kind to him. Months later, Snowy grows up into a beautiful white swan.",
    "id": "ENG-P3-L05-007",
    "grade": "P3",
    "subject": "eng",

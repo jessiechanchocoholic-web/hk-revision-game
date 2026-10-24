@@ -8,7 +8,7 @@
  "questions": [
   {
    "type": "mc",
-   "q": "In Reading 3B Ch 3 Text 1, when was the witch's birthday party held at Wendy's house?",
+   "q": "In the diary, when was the witch's birthday party held at Wendy's house?",
    "answer": "On 31st October (Halloween)",
    "options": [
     "On 1st January",
@@ -16,19 +16,20 @@
     "On 25th December (Christmas)",
     "On 31st October (Halloween)"
    ],
-   "explain": "根據 Reading 3B Ch 3 日記，派對在 10 月 31 日萬聖節（Halloween）舉行。",
+   "explain": "根據日記，派對在 10 月 31 日萬聖節（Halloween）舉行。",
+   "passage": "Diary – 31st October\nToday was Halloween. There was a birthday party for a witch at Wendy's house. We wore costumes and played games.",
    "id": "ENG-P3-L06-001",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L06",
    "level": "應用",
-   "question": "In Reading 3B Ch 3 Text 1, when was the witch's birthday party held at Wendy's house?",
+   "question": "In the diary, when was the witch's birthday party held at Wendy's house?",
    "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
    "verified": false
   },
   {
    "type": "mc",
-   "q": "In the play 'Unhappy Birthdays in Storyland' (Reading 3B Ch 3 Text 2), why was the Little Pig unhappy?",
+   "q": "In the play 'Unhappy Birthdays in Storyland', why was the Little Pig unhappy?",
    "answer": "Because the wolf blew his birthday cake and house away.",
    "options": [
     "Because he had no friends.",
@@ -36,19 +37,20 @@
     "Because the wolf blew his birthday cake and house away.",
     "Because he lost his textbook."
    ],
-   "explain": "根據 Reading 3B Ch 3 戲劇，大灰狼吹走了小豬的生日蛋糕和房子。",
+   "explain": "根據戲劇，大灰狼吹走了小豬的生日蛋糕和房子。",
+   "passage": "Unhappy Birthdays in Storyland (a short play)\nLittle Pig: It's my birthday, but I'm so sad. The wolf came. He blew and blew. He blew my birthday cake and my house away!\nDragon: I'm sad too. I tried to blow out the candles on my cake, but I breathed fire and burnt my birthday cake!",
    "id": "ENG-P3-L06-002",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L06",
    "level": "應用",
-   "question": "In the play 'Unhappy Birthdays in Storyland' (Reading 3B Ch 3 Text 2), why was the Little Pig unhappy?",
+   "question": "In the play 'Unhappy Birthdays in Storyland', why was the Little Pig unhappy?",
    "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
    "verified": false
   },
   {
    "type": "mc",
-   "q": "In Reading 3B Ch 3 Text 2, what happened when the Dragon tried to blow out the candles on his birthday cake?",
+   "q": "In the play, what happened when the Dragon tried to blow out the candles on his birthday cake?",
    "answer": "He breathed fire and burnt the birthday cake!",
    "options": [
     "He made ice cream.",
@@ -56,19 +58,20 @@
     "He breathed fire and burnt the birthday cake!",
     "He fell asleep."
    ],
-   "explain": "根據 Reading 3B Ch 3 戲劇，龍吹蠟燭時噴出火，把蛋糕燒焦了。",
+   "explain": "根據戲劇，龍吹蠟燭時噴出火，把蛋糕燒焦了。",
+   "passage": "Unhappy Birthdays in Storyland (a short play)\nLittle Pig: It's my birthday, but I'm so sad. The wolf came. He blew and blew. He blew my birthday cake and my house away!\nDragon: I'm sad too. I tried to blow out the candles on my cake, but I breathed fire and burnt my birthday cake!",
    "id": "ENG-P3-L06-003",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L06",
    "level": "應用",
-   "question": "In Reading 3B Ch 3 Text 2, what happened when the Dragon tried to blow out the candles on his birthday cake?",
+   "question": "In the play, what happened when the Dragon tried to blow out the candles on his birthday cake?",
    "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
    "verified": false
   },
   {
    "type": "mc",
-   "q": "In the fable 'The Stomach and Other Body Parts' (Reading 3B Ch 4 Text 2), why did the hands, mouth and teeth stop working?",
+   "q": "In the fable 'The Stomach and Other Body Parts', why did the hands, mouth and teeth stop working?",
    "answer": "They thought the stomach was lazy and did nothing.",
    "options": [
     "They were broken.",
@@ -76,13 +79,14 @@
     "The brain told them to sleep.",
     "They went on holiday."
    ],
-   "explain": "根據 Reading 3B Ch 4 寓言故事，手、嘴和牙齒以為胃（stomach）很懶惰不工作，所以罷工。",
+   "explain": "根據寓言故事，手、嘴和牙齒以為胃（stomach）很懶惰不工作，所以罷工。",
+   "passage": "The Stomach and Other Body Parts\nThe hands, the mouth and the teeth were angry. 'The stomach is lazy. It does nothing!' they said. So they stopped working, and no food went into the stomach. Soon the whole body felt weak and tired. They learnt that the stomach digests food and gives energy to the whole body. Every part of the body is important, and they must work together.",
    "id": "ENG-P3-L06-004",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L06",
    "level": "應用",
-   "question": "In the fable 'The Stomach and Other Body Parts' (Reading 3B Ch 4 Text 2), why did the hands, mouth and teeth stop working?",
+   "question": "In the fable 'The Stomach and Other Body Parts', why did the hands, mouth and teeth stop working?",
    "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
    "verified": false
   },
@@ -97,6 +101,7 @@
     "The stomach is not useful."
    ],
    "explain": "當手和嘴不把食物送進胃裏，全身都變得虛弱無力，說明身體各部分必須分工合作。",
+   "passage": "The Stomach and Other Body Parts\nThe hands, the mouth and the teeth were angry. 'The stomach is lazy. It does nothing!' they said. So they stopped working, and no food went into the stomach. Soon the whole body felt weak and tired. They learnt that the stomach digests food and gives energy to the whole body. Every part of the body is important, and they must work together.",
    "id": "ENG-P3-L06-005",
    "grade": "P3",
    "subject": "eng",
@@ -108,15 +113,16 @@
   },
   {
    "type": "tf",
-   "q": "In the comic strip about David, his father and the donkey (Reading 3B Ch 4 Text 1), trying to please everyone made them carry the donkey in the end.",
+   "q": "In the comic strip about David, his father and the donkey, trying to please everyone made them carry the donkey in the end.",
    "answer": true,
    "explain": "父子二人不斷聽別人批評而改變騎驢的方式，最後竟抬着驢走，說明不能盲目討好所有人。",
+   "passage": "David and his father walk to the market with their donkey. People say, 'Why don't you ride it?' So David rides. Others say, 'Poor father!' Then the father rides. Later they both ride. People say, 'Poor donkey!' They try to please everyone. In the end, David and his father carry the donkey.",
    "id": "ENG-P3-L06-006",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L06",
    "level": "理解",
-   "question": "In the comic strip about David, his father and the donkey (Reading 3B Ch 4 Text 1), trying to please everyone made them carry the donkey in the end.",
+   "question": "In the comic strip about David, his father and the donkey, trying to please everyone made them carry the donkey in the end.",
    "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
    "verified": false
   },
@@ -127,6 +133,7 @@
     "stomach"
    ],
    "explain": "胃（stomach）負責消化食物，為全身提供能量。",
+   "passage": "The Stomach and Other Body Parts\nThe hands, the mouth and the teeth were angry. 'The stomach is lazy. It does nothing!' they said. So they stopped working, and no food went into the stomach. Soon the whole body felt weak and tired. They learnt that the stomach digests food and gives energy to the whole body. Every part of the body is important, and they must work together.",
    "id": "ENG-P3-L06-007",
    "grade": "P3",
    "subject": "eng",

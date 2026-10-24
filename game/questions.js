@@ -231,6 +231,7 @@ window.QUESTION_BANK = {
      "q": "「小羊數數」會用到數字。",
      "answer": true,
      "explain": "數數就是數一、二、三……",
+     "passage": "小羊數數：小羊在草地上數一數，一朵花、兩棵樹、三隻小鳥。",
      "id": "CHI-P1-L02-006",
      "grade": "P1",
      "subject": "chi",
@@ -1961,6 +1962,7 @@ window.QUESTION_BANK = {
       "雨傘"
      ],
      "explain": "傳說盤古用大斧劈開天地。",
+     "passage": "（故事改寫）很久很久以前，天和地還沒有分開，到處黑漆漆的。盤古醒來，拿起大斧頭用力一劈，輕而清的東西慢慢上升，變成了天；重而濁的東西慢慢下沉，變成了地。盤古死後，他的雙眼變成了太陽和月亮，身體變成了高山和河流。",
      "id": "CHI-P4-L08-002",
      "grade": "P4",
      "subject": "chi",
@@ -1981,6 +1983,7 @@ window.QUESTION_BANK = {
       "樹木"
      ],
      "explain": "神話說他的雙眼變成日月。",
+     "passage": "（故事改寫）很久很久以前，天和地還沒有分開，到處黑漆漆的。盤古醒來，拿起大斧頭用力一劈，輕而清的東西慢慢上升，變成了天；重而濁的東西慢慢下沉，變成了地。盤古死後，他的雙眼變成了太陽和月亮，身體變成了高山和河流。",
      "id": "CHI-P4-L08-003",
      "grade": "P4",
      "subject": "chi",
@@ -2021,6 +2024,7 @@ window.QUESTION_BANK = {
       "海"
      ],
      "explain": "輕清的上升為天，重濁的下沉為地。",
+     "passage": "（故事改寫）很久很久以前，天和地還沒有分開，到處黑漆漆的。盤古醒來，拿起大斧頭用力一劈，輕而清的東西慢慢上升，變成了天；重而濁的東西慢慢下沉，變成了地。盤古死後，他的雙眼變成了太陽和月亮，身體變成了高山和河流。",
      "id": "CHI-P4-L08-005",
      "grade": "P4",
      "subject": "chi",
@@ -2105,6 +2109,7 @@ window.QUESTION_BANK = {
       "黃、急、濁"
      ],
      "explain": "桂林的水又靜又清又綠。",
+     "passage": "（短文改寫）漓江的水很靜，靜得好像沒有流動；水很清，可以看見江底的小石子；水很綠，像一塊綠色的寶石。桂林的山形狀奇特，一座座從平地升起；山上長滿綠樹，十分秀麗；有些山峰又高又陡，看起來很險。",
      "id": "CHI-P4-L13-003",
      "grade": "P4",
      "subject": "chi",
@@ -2125,6 +2130,7 @@ window.QUESTION_BANK = {
       "平、矮、圓"
      ],
      "explain": "桂林的山奇、秀、險。",
+     "passage": "（短文改寫）漓江的水很靜，靜得好像沒有流動；水很清，可以看見江底的小石子；水很綠，像一塊綠色的寶石。桂林的山形狀奇特，一座座從平地升起；山上長滿綠樹，十分秀麗；有些山峰又高又陡，看起來很險。",
      "id": "CHI-P4-L13-004",
      "grade": "P4",
      "subject": "chi",
@@ -2358,6 +2364,7 @@ window.QUESTION_BANK = {
       "自豪"
      ],
      "explain": "陰暗的景物配合鬱悶的心情——借景抒情。",
+     "passage": "（短文）早上，天空灰濛濛的，濃霧把陽光都遮蔽了。我望着窗外，心裏好像壓着一塊大石頭，悶得透不過氣來。",
      "id": "CHI-P5-L01-004",
      "grade": "P5",
      "subject": "chi",
@@ -2790,6 +2797,7 @@ window.QUESTION_BANK = {
       "買新衣服"
      ],
      "explain": "勸人把握時機，珍惜少年時光。",
+     "passage": "《金縷衣》（唐詩）\n勸君莫惜金縷衣，\n勸君惜取少年時。\n花開堪折直須折，\n莫待無花空折枝。",
      "id": "CHI-P5-L08-002",
      "grade": "P5",
      "subject": "chi",
@@ -2810,6 +2818,7 @@ window.QUESTION_BANK = {
       "一本書"
      ],
      "explain": "金縷衣是用金線縫製的衣服，代表財富。",
+     "passage": "《金縷衣》（唐詩）\n勸君莫惜金縷衣，\n勸君惜取少年時。\n花開堪折直須折，\n莫待無花空折枝。",
      "id": "CHI-P5-L08-003",
      "grade": "P5",
      "subject": "chi",
@@ -2850,6 +2859,7 @@ window.QUESTION_BANK = {
       "年輕的時光"
      ],
      "explain": "少年時就是年輕的時候。",
+     "passage": "《金縷衣》（唐詩）\n勸君莫惜金縷衣，\n勸君惜取少年時。\n花開堪折直須折，\n莫待無花空折枝。",
      "id": "CHI-P5-L08-005",
      "grade": "P5",
      "subject": "chi",
@@ -2900,6 +2910,7 @@ window.QUESTION_BANK = {
       "很重"
      ],
      "explain": "舊物承載了回憶和感情。",
+     "passage": "（短文）客廳角落有一張舊藤椅。小時候，爺爺常常坐在上面給我講故事。爺爺離開後，藤椅還在，每次看見它，我就想起和爺爺一起的日子。",
      "id": "CHI-P5-L14-002",
      "grade": "P5",
      "subject": "chi",
@@ -3004,6 +3015,7 @@ window.QUESTION_BANK = {
       "桂花味的雨水"
      ],
      "explain": "桂花紛紛落下，好像下雨。",
+     "passage": "（短文）秋天，家鄉院子裏的桂花開了，香氣撲鼻。我們抱着樹幹用力搖，桂花紛紛落下，好像下了一場雨，我們叫它「桂花雨」。長大後離開了家鄉，每到秋天，我總會想起家鄉的桂花雨。",
      "id": "CHI-P5-L15-002",
      "grade": "P5",
      "subject": "chi",
@@ -3058,6 +3070,7 @@ window.QUESTION_BANK = {
      "q": "作者寫桂花雨，也表達了對家鄉的懷念。",
      "answer": true,
      "explain": "寫童年搖桂花，表達思鄉之情。",
+     "passage": "（短文）秋天，家鄉院子裏的桂花開了，香氣撲鼻。我們抱着樹幹用力搖，桂花紛紛落下，好像下了一場雨，我們叫它「桂花雨」。長大後離開了家鄉，每到秋天，我總會想起家鄉的桂花雨。",
      "id": "CHI-P5-L15-005",
      "grade": "P5",
      "subject": "chi",
@@ -8035,7 +8048,7 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "mc",
-     "q": "In the story of Sally and Sam the squirrels, where is the art room?",
+     "q": "In the story, where is the art room?",
      "answer": "On the first floor",
      "options": [
       "On the fifth floor",
@@ -8043,13 +8056,14 @@ window.QUESTION_BANK = {
       "On the first floor",
       "On the ground floor"
      ],
-     "explain": "根據 2A Ch 1 課文，美勞室（art room）在一樓（on the first floor），可以在裏面畫畫和做手偶。",
+     "explain": "根據短文，美勞室（art room）在一樓（on the first floor），可以在裏面畫畫和做手偶。",
+     "passage": "Sally and Sam are squirrels. They are at their new school.\nSally: Look! This is the art room. It's on the first floor. We can draw pictures and make puppets here.\nSam: Where is the library?\nSally: It's on the second floor. We can borrow books there.",
      "id": "ENG-P2-L04-001",
      "grade": "P2",
      "subject": "eng",
      "lesson": "L04",
      "level": "應用",
-     "question": "In the story of Sally and Sam the squirrels, where is the art room?",
+     "question": "In the story, where is the art room?",
      "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
      "verified": false,
      "readAloud": true
@@ -8064,7 +8078,8 @@ window.QUESTION_BANK = {
       "Buy snacks",
       "Borrow books"
      ],
-     "explain": "根據 2A Ch 1 課文，圖書館在二樓，學生可以在那裏借書（borrow books）。",
+     "explain": "根據短文，圖書館在二樓，學生可以在那裏借書（borrow books）。",
+     "passage": "Sally and Sam are squirrels. They are at their new school.\nSally: Look! This is the art room. It's on the first floor. We can draw pictures and make puppets here.\nSam: Where is the library?\nSally: It's on the second floor. We can borrow books there.",
      "id": "ENG-P2-L04-002",
      "grade": "P2",
      "subject": "eng",
@@ -8077,7 +8092,7 @@ window.QUESTION_BANK = {
     },
     {
      "type": "mc",
-     "q": "In the 2A Ch 2 pamphlet, what does the word 'huge' mean in 'The library is huge'?",
+     "q": "In the school pamphlet, what does the word 'huge' mean in 'The library is huge'?",
      "answer": "big",
      "options": [
       "new",
@@ -8085,13 +8100,14 @@ window.QUESTION_BANK = {
       "quiet",
       "small"
      ],
-     "explain": "根據 2A Ch 2 閱讀練習第 3 題，huge 的意思是 big（巨大／很大）。",
+     "explain": "根據短文，huge 的意思是 big（巨大／很大）。",
+     "passage": "School pamphlet: Welcome to our school! The library is huge. It has lots of books. The hall is big too.",
      "id": "ENG-P2-L04-003",
      "grade": "P2",
      "subject": "eng",
      "lesson": "L04",
      "level": "應用",
-     "question": "In the 2A Ch 2 pamphlet, what does the word 'huge' mean in 'The library is huge'?",
+     "question": "In the school pamphlet, what does the word 'huge' mean in 'The library is huge'?",
      "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
      "verified": false,
      "readAloud": true
@@ -8119,7 +8135,7 @@ window.QUESTION_BANK = {
     },
     {
      "type": "mc",
-     "q": "In the story 'Hansel and Gretel' (2A Ch 3), why do they eat some biscuits?",
+     "q": "In the story 'Hansel and Gretel', why do they eat some biscuits?",
      "answer": "Because they are hungry.",
      "options": [
       "Because they are cold.",
@@ -8127,13 +8143,14 @@ window.QUESTION_BANK = {
       "Because it is morning.",
       "Because they are hungry."
      ],
-     "explain": "根據 2A Ch 3 故事，Hansel 和 Gretel 因為肚餓（hungry），所以提議吃餅乾（Let's eat some biscuits）。",
+     "explain": "根據故事，Hansel 和 Gretel 因為肚餓（hungry），所以提議吃餅乾（Let's eat some biscuits）。",
+     "passage": "Hansel and Gretel walk in the forest.\nHansel: I'm hungry.\nGretel: Me too. Let's eat some biscuits.\nThey eat and then take a nap under a tree. When they wake up…\nGretel: Oh no! It's dark!\nHansel: We're lost!",
      "id": "ENG-P2-L04-005",
      "grade": "P2",
      "subject": "eng",
      "lesson": "L04",
      "level": "應用",
-     "question": "In the story 'Hansel and Gretel' (2A Ch 3), why do they eat some biscuits?",
+     "question": "In the story 'Hansel and Gretel', why do they eat some biscuits?",
      "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
      "verified": false,
      "readAloud": true
@@ -8148,7 +8165,8 @@ window.QUESTION_BANK = {
       "They find a library.",
       "They go swimming."
      ],
-     "explain": "根據 2A Ch 3 故事第 4 格，他們午睡醒來時天黑了（It's dark!），而且迷路了（We're lost!）。",
+     "explain": "根據故事，他們午睡醒來時天黑了（It's dark!），而且迷路了（We're lost!）。",
+     "passage": "Hansel and Gretel walk in the forest.\nHansel: I'm hungry.\nGretel: Me too. Let's eat some biscuits.\nThey eat and then take a nap under a tree. When they wake up…\nGretel: Oh no! It's dark!\nHansel: We're lost!",
      "id": "ENG-P2-L04-006",
      "grade": "P2",
      "subject": "eng",
@@ -9391,7 +9409,7 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "mc",
-     "q": "In Reading 3B Ch 1 ('Amy and Snowy'), why did the other ducks laugh at Snowy at first?",
+     "q": "In the story 'Amy and Snowy', why did the other ducks laugh at Snowy at first?",
      "answer": "Because Snowy was big and grey, not yellow like them.",
      "options": [
       "Because Snowy could not swim.",
@@ -9399,19 +9417,20 @@ window.QUESTION_BANK = {
       "Because Snowy was a dog.",
       "Because Snowy ate all their food."
      ],
-     "explain": "根據 Reading 3B Ch 1 故事，Snowy 起初又大又灰，跟其他黃色小鴨不同，長大後才發現是一隻美麗的白天鵝（swan）。",
+     "explain": "根據故事，Snowy 起初又大又灰，跟其他黃色小鴨不同，長大後才發現是一隻美麗的白天鵝（swan）。",
+     "passage": "Amy lives near a pond. One spring, five baby ducks hatch. Four are small and yellow. One is big and grey. The other ducks laugh at him. Amy calls him Snowy and is kind to him. Months later, Snowy grows up into a beautiful white swan.",
      "id": "ENG-P3-L05-001",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L05",
      "level": "應用",
-     "question": "In Reading 3B Ch 1 ('Amy and Snowy'), why did the other ducks laugh at Snowy at first?",
+     "question": "In the story 'Amy and Snowy', why did the other ducks laugh at Snowy at first?",
      "source": "英文補充教材｜Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages",
      "verified": false
     },
     {
      "type": "mc",
-     "q": "In the Magic Potions advertisement (Reading 3B Ch 1 Text 2), who wrote a review for 'Hair-grow'?",
+     "q": "In the Magic Potions advertisement, who wrote a review for 'Hair-grow'?",
      "answer": "Rapunzel",
      "options": [
       "Snow White",
@@ -9419,19 +9438,20 @@ window.QUESTION_BANK = {
       "The Big Bad Wolf",
       "Rapunzel"
      ],
-     "explain": "根據 Reading 3B Ch 1 廣告，長髮公主 Rapunzel 推薦令頭髮變長的魔藥 Hair-grow。",
+     "explain": "根據廣告，長髮公主 Rapunzel 推薦令頭髮變長的魔藥 Hair-grow。",
+     "passage": "MAGIC POTIONS – try our best potions!\nHair-grow: Make your hair long and shiny. 'I love it!' – Rapunzel\nBody-power: Be strong like a giant. 'I feel so strong!' – The Giant",
      "id": "ENG-P3-L05-002",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L05",
      "level": "應用",
-     "question": "In the Magic Potions advertisement (Reading 3B Ch 1 Text 2), who wrote a review for 'Hair-grow'?",
+     "question": "In the Magic Potions advertisement, who wrote a review for 'Hair-grow'?",
      "source": "英文補充教材｜Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages",
      "verified": false
     },
     {
      "type": "mc",
-     "q": "In Reading 3B Ch 2 Text 1, why did Spod pass the Maths test while his friends failed?",
+     "q": "In the story, why did Spod pass the Maths test while his friends failed?",
      "answer": "Because Spod studied hard while his friends played and ate.",
      "options": [
       "Because Spod copied his friend's answers.",
@@ -9439,19 +9459,20 @@ window.QUESTION_BANK = {
       "Because Spod's dad was the teacher.",
       "Because the test was very easy."
      ],
-     "explain": "根據 Reading 3B Ch 2 故事，Spod 留在家裏努力溫習數學，而其他朋友只顧玩耍和吃東西。",
+     "explain": "根據故事，Spod 留在家裏努力溫習數學，而其他朋友只顧玩耍和吃東西。",
+     "passage": "Spod and his friends have a Maths test on Monday. At the weekend, his friends play games and eat snacks. Spod stays at home and studies hard. On Monday, Spod passes the test, but his friends fail.",
      "id": "ENG-P3-L05-003",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L05",
      "level": "應用",
-     "question": "In Reading 3B Ch 2 Text 1, why did Spod pass the Maths test while his friends failed?",
+     "question": "In the story, why did Spod pass the Maths test while his friends failed?",
      "source": "英文補充教材｜Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages",
      "verified": false
     },
     {
      "type": "mc",
-     "q": "In Reading 3B Ch 2 Text 2 (Sunny Days Children's Centre), what did Paul do with the old people?",
+     "q": "On the Sunny Days Children's Centre message board, what did Paul do with the old people?",
      "answer": "He visited an old people's home and played games with them.",
      "options": [
       "He made magic potions.",
@@ -9459,19 +9480,20 @@ window.QUESTION_BANK = {
       "He visited an old people's home and played games with them.",
       "He went to Disneyland."
      ],
-     "explain": "根據 Reading 3B Ch 2 留言板，Paul 探訪老人院並與長者一起玩遊戲。",
+     "explain": "根據留言板，Paul 探訪老人院並與長者一起玩遊戲。",
+     "passage": "Sunny Days Children's Centre – Message Board\nPaul: Last Saturday I visited an old people's home. I played games with the old people. It was fun!\nJenny: I went bird-watching in Tai Po Kau. I saw many birds.",
      "id": "ENG-P3-L05-004",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L05",
      "level": "應用",
-     "question": "In Reading 3B Ch 2 Text 2 (Sunny Days Children's Centre), what did Paul do with the old people?",
+     "question": "On the Sunny Days Children's Centre message board, what did Paul do with the old people?",
      "source": "英文補充教材｜Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages",
      "verified": false
     },
     {
      "type": "mc",
-     "q": "Where did Jenny go bird-watching in Reading 3B Ch 2 Text 2?",
+     "q": "Where did Jenny go bird-watching according to the message board?",
      "answer": "Tai Po Kau",
      "options": [
       "Tai Po Kau",
@@ -9479,27 +9501,29 @@ window.QUESTION_BANK = {
       "Sai Kung",
       "Causeway Bay"
      ],
-     "explain": "根據 Reading 3B Ch 2 課文，Jenny 去大埔滘（Tai Po Kau）觀鳥。",
+     "explain": "根據留言板，Jenny 去大埔滘（Tai Po Kau）觀鳥。",
+     "passage": "Sunny Days Children's Centre – Message Board\nPaul: Last Saturday I visited an old people's home. I played games with the old people. It was fun!\nJenny: I went bird-watching in Tai Po Kau. I saw many birds.",
      "id": "ENG-P3-L05-005",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L05",
      "level": "應用",
-     "question": "Where did Jenny go bird-watching in Reading 3B Ch 2 Text 2?",
+     "question": "Where did Jenny go bird-watching according to the message board?",
      "source": "英文補充教材｜Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages",
      "verified": false
     },
     {
      "type": "tf",
-     "q": "In Reading 3B Ch 1 Text 2, 'Body-power' potion helps the drinker become strong like The Giant.",
+     "q": "In the Magic Potions advertisement, 'Body-power' potion helps the drinker become strong like The Giant.",
      "answer": true,
      "explain": "巨人（The Giant）推薦 Body-power 魔藥，讓人變得強壯。",
+     "passage": "MAGIC POTIONS – try our best potions!\nHair-grow: Make your hair long and shiny. 'I love it!' – Rapunzel\nBody-power: Be strong like a giant. 'I feel so strong!' – The Giant",
      "id": "ENG-P3-L05-006",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L05",
      "level": "理解",
-     "question": "In Reading 3B Ch 1 Text 2, 'Body-power' potion helps the drinker become strong like The Giant.",
+     "question": "In the Magic Potions advertisement, 'Body-power' potion helps the drinker become strong like The Giant.",
      "source": "英文補充教材｜Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages",
      "verified": false
     },
@@ -9510,6 +9534,7 @@ window.QUESTION_BANK = {
       "swan"
      ],
      "explain": "Snowy 長大後變成一隻美麗的白天鵝（swan）。",
+     "passage": "Amy lives near a pond. One spring, five baby ducks hatch. Four are small and yellow. One is big and grey. The other ducks laugh at him. Amy calls him Snowy and is kind to him. Months later, Snowy grows up into a beautiful white swan.",
      "id": "ENG-P3-L05-007",
      "grade": "P3",
      "subject": "eng",
@@ -9531,7 +9556,7 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "mc",
-     "q": "In Reading 3B Ch 3 Text 1, when was the witch's birthday party held at Wendy's house?",
+     "q": "In the diary, when was the witch's birthday party held at Wendy's house?",
      "answer": "On 31st October (Halloween)",
      "options": [
       "On 1st January",
@@ -9539,19 +9564,20 @@ window.QUESTION_BANK = {
       "On 25th December (Christmas)",
       "On 31st October (Halloween)"
      ],
-     "explain": "根據 Reading 3B Ch 3 日記，派對在 10 月 31 日萬聖節（Halloween）舉行。",
+     "explain": "根據日記，派對在 10 月 31 日萬聖節（Halloween）舉行。",
+     "passage": "Diary – 31st October\nToday was Halloween. There was a birthday party for a witch at Wendy's house. We wore costumes and played games.",
      "id": "ENG-P3-L06-001",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L06",
      "level": "應用",
-     "question": "In Reading 3B Ch 3 Text 1, when was the witch's birthday party held at Wendy's house?",
+     "question": "In the diary, when was the witch's birthday party held at Wendy's house?",
      "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
      "verified": false
     },
     {
      "type": "mc",
-     "q": "In the play 'Unhappy Birthdays in Storyland' (Reading 3B Ch 3 Text 2), why was the Little Pig unhappy?",
+     "q": "In the play 'Unhappy Birthdays in Storyland', why was the Little Pig unhappy?",
      "answer": "Because the wolf blew his birthday cake and house away.",
      "options": [
       "Because he had no friends.",
@@ -9559,19 +9585,20 @@ window.QUESTION_BANK = {
       "Because the wolf blew his birthday cake and house away.",
       "Because he lost his textbook."
      ],
-     "explain": "根據 Reading 3B Ch 3 戲劇，大灰狼吹走了小豬的生日蛋糕和房子。",
+     "explain": "根據戲劇，大灰狼吹走了小豬的生日蛋糕和房子。",
+     "passage": "Unhappy Birthdays in Storyland (a short play)\nLittle Pig: It's my birthday, but I'm so sad. The wolf came. He blew and blew. He blew my birthday cake and my house away!\nDragon: I'm sad too. I tried to blow out the candles on my cake, but I breathed fire and burnt my birthday cake!",
      "id": "ENG-P3-L06-002",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L06",
      "level": "應用",
-     "question": "In the play 'Unhappy Birthdays in Storyland' (Reading 3B Ch 3 Text 2), why was the Little Pig unhappy?",
+     "question": "In the play 'Unhappy Birthdays in Storyland', why was the Little Pig unhappy?",
      "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
      "verified": false
     },
     {
      "type": "mc",
-     "q": "In Reading 3B Ch 3 Text 2, what happened when the Dragon tried to blow out the candles on his birthday cake?",
+     "q": "In the play, what happened when the Dragon tried to blow out the candles on his birthday cake?",
      "answer": "He breathed fire and burnt the birthday cake!",
      "options": [
       "He made ice cream.",
@@ -9579,19 +9606,20 @@ window.QUESTION_BANK = {
       "He breathed fire and burnt the birthday cake!",
       "He fell asleep."
      ],
-     "explain": "根據 Reading 3B Ch 3 戲劇，龍吹蠟燭時噴出火，把蛋糕燒焦了。",
+     "explain": "根據戲劇，龍吹蠟燭時噴出火，把蛋糕燒焦了。",
+     "passage": "Unhappy Birthdays in Storyland (a short play)\nLittle Pig: It's my birthday, but I'm so sad. The wolf came. He blew and blew. He blew my birthday cake and my house away!\nDragon: I'm sad too. I tried to blow out the candles on my cake, but I breathed fire and burnt my birthday cake!",
      "id": "ENG-P3-L06-003",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L06",
      "level": "應用",
-     "question": "In Reading 3B Ch 3 Text 2, what happened when the Dragon tried to blow out the candles on his birthday cake?",
+     "question": "In the play, what happened when the Dragon tried to blow out the candles on his birthday cake?",
      "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
      "verified": false
     },
     {
      "type": "mc",
-     "q": "In the fable 'The Stomach and Other Body Parts' (Reading 3B Ch 4 Text 2), why did the hands, mouth and teeth stop working?",
+     "q": "In the fable 'The Stomach and Other Body Parts', why did the hands, mouth and teeth stop working?",
      "answer": "They thought the stomach was lazy and did nothing.",
      "options": [
       "They were broken.",
@@ -9599,13 +9627,14 @@ window.QUESTION_BANK = {
       "The brain told them to sleep.",
       "They went on holiday."
      ],
-     "explain": "根據 Reading 3B Ch 4 寓言故事，手、嘴和牙齒以為胃（stomach）很懶惰不工作，所以罷工。",
+     "explain": "根據寓言故事，手、嘴和牙齒以為胃（stomach）很懶惰不工作，所以罷工。",
+     "passage": "The Stomach and Other Body Parts\nThe hands, the mouth and the teeth were angry. 'The stomach is lazy. It does nothing!' they said. So they stopped working, and no food went into the stomach. Soon the whole body felt weak and tired. They learnt that the stomach digests food and gives energy to the whole body. Every part of the body is important, and they must work together.",
      "id": "ENG-P3-L06-004",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L06",
      "level": "應用",
-     "question": "In the fable 'The Stomach and Other Body Parts' (Reading 3B Ch 4 Text 2), why did the hands, mouth and teeth stop working?",
+     "question": "In the fable 'The Stomach and Other Body Parts', why did the hands, mouth and teeth stop working?",
      "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
      "verified": false
     },
@@ -9620,6 +9649,7 @@ window.QUESTION_BANK = {
       "The stomach is not useful."
      ],
      "explain": "當手和嘴不把食物送進胃裏，全身都變得虛弱無力，說明身體各部分必須分工合作。",
+     "passage": "The Stomach and Other Body Parts\nThe hands, the mouth and the teeth were angry. 'The stomach is lazy. It does nothing!' they said. So they stopped working, and no food went into the stomach. Soon the whole body felt weak and tired. They learnt that the stomach digests food and gives energy to the whole body. Every part of the body is important, and they must work together.",
      "id": "ENG-P3-L06-005",
      "grade": "P3",
      "subject": "eng",
@@ -9631,15 +9661,16 @@ window.QUESTION_BANK = {
     },
     {
      "type": "tf",
-     "q": "In the comic strip about David, his father and the donkey (Reading 3B Ch 4 Text 1), trying to please everyone made them carry the donkey in the end.",
+     "q": "In the comic strip about David, his father and the donkey, trying to please everyone made them carry the donkey in the end.",
      "answer": true,
      "explain": "父子二人不斷聽別人批評而改變騎驢的方式，最後竟抬着驢走，說明不能盲目討好所有人。",
+     "passage": "David and his father walk to the market with their donkey. People say, 'Why don't you ride it?' So David rides. Others say, 'Poor father!' Then the father rides. Later they both ride. People say, 'Poor donkey!' They try to please everyone. In the end, David and his father carry the donkey.",
      "id": "ENG-P3-L06-006",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L06",
      "level": "理解",
-     "question": "In the comic strip about David, his father and the donkey (Reading 3B Ch 4 Text 1), trying to please everyone made them carry the donkey in the end.",
+     "question": "In the comic strip about David, his father and the donkey, trying to please everyone made them carry the donkey in the end.",
      "source": "英文補充教材｜Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable",
      "verified": false
     },
@@ -9650,6 +9681,7 @@ window.QUESTION_BANK = {
       "stomach"
      ],
      "explain": "胃（stomach）負責消化食物，為全身提供能量。",
+     "passage": "The Stomach and Other Body Parts\nThe hands, the mouth and the teeth were angry. 'The stomach is lazy. It does nothing!' they said. So they stopped working, and no food went into the stomach. Soon the whole body felt weak and tired. They learnt that the stomach digests food and gives energy to the whole body. Every part of the body is important, and they must work together.",
      "id": "ENG-P3-L06-007",
      "grade": "P3",
      "subject": "eng",
@@ -9671,7 +9703,7 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "mc",
-     "q": "In the Summer Programme notice (Reading 3B Ch 5 Text 2), on which day do students need swimwear and a towel?",
+     "q": "In the Summer Programme notice, on which day do students need swimwear and a towel?",
      "answer": "Monday",
      "options": [
       "Friday",
@@ -9680,12 +9712,13 @@ window.QUESTION_BANK = {
       "Wednesday"
      ],
      "explain": "根據暑期活動時間表，星期一（Monday）下午 2:30 有游泳課（Swimming），因此需要帶泳衣和毛巾。",
+     "passage": "Summer Programme (2:30–4:30 p.m.)\nMonday: Swimming – bring swimwear and a towel\nTuesday: Art and craft\nWednesday: Cooking\nThursday: Drama\nFriday: Mini Olympics – races and games\nNotes: Bring your own lunch. You can get free drinks.",
      "id": "ENG-P3-L07-001",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L07",
      "level": "應用",
-     "question": "In the Summer Programme notice (Reading 3B Ch 5 Text 2), on which day do students need swimwear and a towel?",
+     "question": "In the Summer Programme notice, on which day do students need swimwear and a towel?",
      "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
      "verified": false
     },
@@ -9700,6 +9733,7 @@ window.QUESTION_BANK = {
       "Friday"
      ],
      "explain": "根據暑期活動時間表，星期五（Friday）下午 2:30 舉行小型運動會（Mini Olympics）。",
+     "passage": "Summer Programme (2:30–4:30 p.m.)\nMonday: Swimming – bring swimwear and a towel\nTuesday: Art and craft\nWednesday: Cooking\nThursday: Drama\nFriday: Mini Olympics – races and games\nNotes: Bring your own lunch. You can get free drinks.",
      "id": "ENG-P3-L07-002",
      "grade": "P3",
      "subject": "eng",
@@ -9720,6 +9754,7 @@ window.QUESTION_BANK = {
       "Free lunch boxes"
      ],
      "explain": "根據注意事項（Notes），學生需自備午餐，但活動會免費提供飲品（get free drinks）。",
+     "passage": "Summer Programme (2:30–4:30 p.m.)\nMonday: Swimming – bring swimwear and a towel\nTuesday: Art and craft\nWednesday: Cooking\nThursday: Drama\nFriday: Mini Olympics – races and games\nNotes: Bring your own lunch. You can get free drinks.",
      "id": "ENG-P3-L07-003",
      "grade": "P3",
      "subject": "eng",
@@ -9731,7 +9766,7 @@ window.QUESTION_BANK = {
     },
     {
      "type": "mc",
-     "q": "On the webpage 'BOOKS FOR KIDS' (Reading 3B Ch 6 Text 1), why are the tiger cubs afraid in 'Mummy Tiger, Where Are You?'?",
+     "q": "On the webpage 'BOOKS FOR KIDS', why are the tiger cubs afraid in 'Mummy Tiger, Where Are You?'?",
      "answer": "Because they can't find their mum.",
      "options": [
       "Because they can't find Tilly.",
@@ -9739,13 +9774,14 @@ window.QUESTION_BANK = {
       "Because Tilly plays a trick on them.",
       "Because they can't find their mum."
      ],
-     "explain": "根據 Reading 3B Ch 6 p.21–22，虎媽媽出去找食物沒有回來，小老虎找不到媽媽所以很害怕。",
+     "explain": "根據網頁介紹，虎媽媽出去找食物沒有回來，小老虎找不到媽媽所以很害怕。",
+     "passage": "BOOKS FOR KIDS\n'Mummy Tiger, Where Are You?' – Mummy Tiger goes out to find food, but she does not come back. The tiger cubs can't find their mum, so they are afraid. Their big sister Tilly is brave and kind. She looks after Nick and the other little cubs.\n'Lazy Linda's New School' – This is the fifth book in the Lazy Linda series.",
      "id": "ENG-P3-L07-004",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L07",
      "level": "應用",
-     "question": "On the webpage 'BOOKS FOR KIDS' (Reading 3B Ch 6 Text 1), why are the tiger cubs afraid in 'Mummy Tiger, Where Are You?'?",
+     "question": "On the webpage 'BOOKS FOR KIDS', why are the tiger cubs afraid in 'Mummy Tiger, Where Are You?'?",
      "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
      "verified": false
     },
@@ -9759,7 +9795,8 @@ window.QUESTION_BANK = {
       "brave",
       "kind"
      ],
-     "explain": "根據 Reading 3B Ch 6 p.22 第 1 題，大姐 Tilly 既勇敢又體貼照顧弟妹，所以她並不頑皮（NOT naughty）。",
+     "explain": "根據網頁介紹，大姐 Tilly 既勇敢又體貼照顧弟妹，所以她並不頑皮（NOT naughty）。",
+     "passage": "BOOKS FOR KIDS\n'Mummy Tiger, Where Are You?' – Mummy Tiger goes out to find food, but she does not come back. The tiger cubs can't find their mum, so they are afraid. Their big sister Tilly is brave and kind. She looks after Nick and the other little cubs.\n'Lazy Linda's New School' – This is the fifth book in the Lazy Linda series.",
      "id": "ENG-P3-L07-005",
      "grade": "P3",
      "subject": "eng",
@@ -9771,7 +9808,7 @@ window.QUESTION_BANK = {
     },
     {
      "type": "mc",
-     "q": "In the magazine article about brave dogs (Reading 3B Ch 6 Text 2), how did Peter's dog Susie save him from the house fire?",
+     "q": "In the magazine article about brave dogs, how did Peter's dog Susie save him from the house fire?",
      "answer": "Susie barked to wake the neighbours and pulled Peter away from the fire.",
      "options": [
       "Susie barked to wake the neighbours and pulled Peter away from the fire.",
@@ -9779,19 +9816,20 @@ window.QUESTION_BANK = {
       "Susie jumped on a snake in the garden.",
       "Susie called the police on the phone."
      ],
-     "explain": "根據 Reading 3B Ch 6 p.23，Peter 受傷無法走動，小狗 Susie 大聲吠叫喚醒鄰居，並把 Peter 拉離火場。",
+     "explain": "根據文章，Peter 受傷無法走動，小狗 Susie 大聲吠叫喚醒鄰居，並把 Peter 拉離火場。",
+     "passage": "Brave Dogs\nJoe: An old man fell into a river. His dog Joe jumped in and pulled him out.\nSusie: One night, there was a fire in Peter's house. Peter was hurt and could not walk. His dog Susie barked loudly and woke up the neighbours. Then she pulled Peter away from the fire.",
      "id": "ENG-P3-L07-006",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L07",
      "level": "應用",
-     "question": "In the magazine article about brave dogs (Reading 3B Ch 6 Text 2), how did Peter's dog Susie save him from the house fire?",
+     "question": "In the magazine article about brave dogs, how did Peter's dog Susie save him from the house fire?",
      "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
      "verified": false
     },
     {
      "type": "mc",
-     "q": "What is the best title for the magazine article about Joe and Susie in Reading 3B Ch 6?",
+     "q": "What is the best title for the magazine article about Joe and Susie?",
      "answer": "More than a best friend",
      "options": [
       "Thanks, Susie!",
@@ -9800,12 +9838,13 @@ window.QUESTION_BANK = {
       "Joe at the vet's"
      ],
      "explain": "文章介紹了 Joe 和 Susie 兩隻勇敢救主人的狗，標題應涵蓋全文，最佳標題是 'More than a best friend'。",
+     "passage": "Brave Dogs\nJoe: An old man fell into a river. His dog Joe jumped in and pulled him out.\nSusie: One night, there was a fire in Peter's house. Peter was hurt and could not walk. His dog Susie barked loudly and woke up the neighbours. Then she pulled Peter away from the fire.",
      "id": "ENG-P3-L07-007",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L07",
      "level": "應用",
-     "question": "What is the best title for the magazine article about Joe and Susie in Reading 3B Ch 6?",
+     "question": "What is the best title for the magazine article about Joe and Susie?",
      "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
      "verified": false
     },
@@ -9817,6 +9856,7 @@ window.QUESTION_BANK = {
       "four"
      ],
      "explain": "這是系列中的第 5 本書（fifth book），所以同系列另外還有 4 本。",
+     "passage": "BOOKS FOR KIDS\n'Mummy Tiger, Where Are You?' – Mummy Tiger goes out to find food, but she does not come back. The tiger cubs can't find their mum, so they are afraid. Their big sister Tilly is brave and kind. She looks after Nick and the other little cubs.\n'Lazy Linda's New School' – This is the fifth book in the Lazy Linda series.",
      "id": "ENG-P3-L07-008",
      "grade": "P3",
      "subject": "eng",
@@ -9838,7 +9878,7 @@ window.QUESTION_BANK = {
    "questions": [
     {
      "type": "mc",
-     "q": "On the book cover 'All Change for the Chans!' (Booster A), what happens to eight-year-old Eric Chan during a storm?",
+     "q": "On the book cover 'All Change for the Chans!', what happens to eight-year-old Eric Chan during a storm?",
      "answer": "He swaps bodies with his 35-year-old dad, Tony.",
      "options": [
       "He turns into a funny dog.",
@@ -9846,19 +9886,20 @@ window.QUESTION_BANK = {
       "He writes fifteen children's books.",
       "He moves to Scotland."
      ],
-     "explain": "根據 Booster A（p.25），八歲的 Eric 在暴風雨中與 35 歲的爸爸交換了身體，Eric 要去上班，爸爸卻要去返學。",
+     "explain": "根據書本封面，八歲的 Eric 在暴風雨中與 35 歲的爸爸交換了身體，Eric 要去上班，爸爸卻要去返學。",
+     "passage": "Book cover: All Change for the Chans! (Crown Readers, for Primary 4–6)\nWritten by Michael Hill. Cover illustrated by Glenda Li.\nDuring a storm, eight-year-old Eric Chan swaps bodies with his 35-year-old dad, Tony! Now Eric has to go to work and Dad has to go to school.\n'A very funny book!' – Tom Smith, Book Shop Monthly",
      "id": "ENG-P3-L08-001",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L08",
      "level": "應用",
-     "question": "On the book cover 'All Change for the Chans!' (Booster A), what happens to eight-year-old Eric Chan during a storm?",
+     "question": "On the book cover 'All Change for the Chans!', what happens to eight-year-old Eric Chan during a storm?",
      "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
      "verified": false
     },
     {
      "type": "mc",
-     "q": "In Booster A, the 'Crown Readers' series is for Primary 4–6 students. Who is the illustrator of the front cover?",
+     "q": "The book is in the 'Crown Readers' series for Primary 4–6 students. Who is the illustrator of the front cover?",
      "answer": "Glenda Li",
      "options": [
       "Glenda Li",
@@ -9866,19 +9907,20 @@ window.QUESTION_BANK = {
       "Michael Hill",
       "Tom Smith"
      ],
-     "explain": "根據 Booster A（p.25），作者是 Michael Hill，而封面插畫師（illustrator）是 Glenda Li。",
+     "explain": "根據書本封面，作者是 Michael Hill，而封面插畫師（illustrator）是 Glenda Li。",
+     "passage": "Book cover: All Change for the Chans! (Crown Readers, for Primary 4–6)\nWritten by Michael Hill. Cover illustrated by Glenda Li.\nDuring a storm, eight-year-old Eric Chan swaps bodies with his 35-year-old dad, Tony! Now Eric has to go to work and Dad has to go to school.\n'A very funny book!' – Tom Smith, Book Shop Monthly",
      "id": "ENG-P3-L08-002",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L08",
      "level": "應用",
-     "question": "In Booster A, the 'Crown Readers' series is for Primary 4–6 students. Who is the illustrator of the front cover?",
+     "question": "The book is in the 'Crown Readers' series for Primary 4–6 students. Who is the illustrator of the front cover?",
      "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
      "verified": false
     },
     {
      "type": "mc",
-     "q": "In the notice about after-school classes with 'Clive the Clown' (Booster B), Maggie Lau is in Class 2C. On which day can she have lessons?",
+     "q": "In the notice about after-school classes with 'Clive the Clown', Maggie Lau is in Class 2C. On which day can she have lessons?",
      "answer": "On Mondays",
      "options": [
       "On Fridays",
@@ -9886,19 +9928,20 @@ window.QUESTION_BANK = {
       "On Sundays",
       "On Wednesdays"
      ],
-     "explain": "根據 Booster B（p.27–28），小一至小三（Primary 1–3）的課堂在星期一（Mondays 3–4 p.m.），Maggie 讀 2C 班，所以星期一上課。",
+     "explain": "根據通告，小一至小三（Primary 1–3）的課堂在星期一（Mondays 3–4 p.m.），Maggie 讀 2C 班，所以星期一上課。",
+     "passage": "After-school classes with Clive the Clown!\nClive is a clown. He makes people happy with jokes, magic tricks, juggling and balloon toys.\nPrimary 1–3: Mondays, 3–4 p.m.\nPrimary 4–6: Wednesdays, 3–4 p.m.",
      "id": "ENG-P3-L08-003",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L08",
      "level": "應用",
-     "question": "In the notice about after-school classes with 'Clive the Clown' (Booster B), Maggie Lau is in Class 2C. On which day can she have lessons?",
+     "question": "In the notice about after-school classes with 'Clive the Clown', Maggie Lau is in Class 2C. On which day can she have lessons?",
      "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
      "verified": false
     },
     {
      "type": "mc",
-     "q": "In Booster B, what is Clive the Clown's job?",
+     "q": "In the notice, what is Clive the Clown's job?",
      "answer": "To make people happy with jokes, magic tricks, juggling and balloon toys.",
      "options": [
       "To teach Maths and Science.",
@@ -9906,19 +9949,20 @@ window.QUESTION_BANK = {
       "To drive the school bus.",
       "To look after sick children as a doctor."
      ],
-     "explain": "根據 Booster B 第 2 題，Clive 是小丑，他的工作是表演魔術、雜耍和扭氣球逗人開心（make people happy）。",
+     "explain": "根據通告，Clive 是小丑，他的工作是表演魔術、雜耍和扭氣球逗人開心（make people happy）。",
+     "passage": "After-school classes with Clive the Clown!\nClive is a clown. He makes people happy with jokes, magic tricks, juggling and balloon toys.\nPrimary 1–3: Mondays, 3–4 p.m.\nPrimary 4–6: Wednesdays, 3–4 p.m.",
      "id": "ENG-P3-L08-004",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L08",
      "level": "應用",
-     "question": "In Booster B, what is Clive the Clown's job?",
+     "question": "In the notice, what is Clive the Clown's job?",
      "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
      "verified": false
     },
     {
      "type": "mc",
-     "q": "In Booster C ('Bedtime Stories for Children' contents page), Anne reads: 'Oh dear! She dropped her purse again!' Which story is she reading?",
+     "q": "Look at the contents page of 'Bedtime Stories for Children'. Anne reads: 'Oh dear! She dropped her purse again!' Which story is she reading?",
      "answer": "Careless Cathy",
      "options": [
       "Careless Cathy",
@@ -9926,19 +9970,20 @@ window.QUESTION_BANK = {
       "Honest Ollie and the Maths Test",
       "Brave Baby Bear"
      ],
-     "explain": "根據 Booster C（p.29–30），經常粗心掉錢包（dropped her purse again）對應故事《Careless Cathy》。",
+     "explain": "根據目錄簡介，經常粗心掉錢包（dropped her purse again）對應故事《Careless Cathy》。",
+     "passage": "Bedtime Stories for Children – Contents\nBrave Baby Bear (a little bear is not afraid of the dark) … page 5\nCareless Cathy (a girl who always loses her things) … page 13\nGeorge the Clever Robot (a robot helps a family) … page 21\nHonest Ollie and the Maths Test (a boy sees the test papers on the teacher's desk) … page 35\nPoor Charlie and the Chocolate Mountain (a boy eats too much chocolate) … page 43",
      "id": "ENG-P3-L08-005",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L08",
      "level": "應用",
-     "question": "In Booster C ('Bedtime Stories for Children' contents page), Anne reads: 'Oh dear! She dropped her purse again!' Which story is she reading?",
+     "question": "Look at the contents page of 'Bedtime Stories for Children'. Anne reads: 'Oh dear! She dropped her purse again!' Which story is she reading?",
      "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
      "verified": false
     },
     {
      "type": "mc",
-     "q": "In Booster C, Paul reads: 'He could see the test papers on the teacher's desk...' Which story starting on page 35 is he reading?",
+     "q": "Look at the contents page. Paul reads: 'He could see the test papers on the teacher's desk...' Which story starting on page 35 is he reading?",
      "answer": "Honest Ollie and the Maths Test",
      "options": [
       "Honest Ollie and the Maths Test",
@@ -9947,26 +9992,28 @@ window.QUESTION_BANK = {
       "Poor Charlie and the Chocolate Mountain"
      ],
      "explain": "看到老師桌上的測驗卷（test papers），對應第 35 頁開始的故事《Honest Ollie and the Maths Test》（因此在第 37 頁）。",
+     "passage": "Bedtime Stories for Children – Contents\nBrave Baby Bear (a little bear is not afraid of the dark) … page 5\nCareless Cathy (a girl who always loses her things) … page 13\nGeorge the Clever Robot (a robot helps a family) … page 21\nHonest Ollie and the Maths Test (a boy sees the test papers on the teacher's desk) … page 35\nPoor Charlie and the Chocolate Mountain (a boy eats too much chocolate) … page 43",
      "id": "ENG-P3-L08-006",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L08",
      "level": "應用",
-     "question": "In Booster C, Paul reads: 'He could see the test papers on the teacher's desk...' Which story starting on page 35 is he reading?",
+     "question": "Look at the contents page. Paul reads: 'He could see the test papers on the teacher's desk...' Which story starting on page 35 is he reading?",
      "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
      "verified": false
     },
     {
      "type": "tf",
-     "q": "In Booster A, 'Book Shop Monthly' is the publisher of the book 'All Change for the Chans!'.",
+     "q": "On the book cover, 'Book Shop Monthly' is the publisher of the book 'All Change for the Chans!'.",
      "answer": false,
      "explain": "Book Shop Monthly 只是撰寫書評的雜誌（Tom Smith, Book Shop Monthly），並非出版社。",
+     "passage": "Book cover: All Change for the Chans! (Crown Readers, for Primary 4–6)\nWritten by Michael Hill. Cover illustrated by Glenda Li.\nDuring a storm, eight-year-old Eric Chan swaps bodies with his 35-year-old dad, Tony! Now Eric has to go to work and Dad has to go to school.\n'A very funny book!' – Tom Smith, Book Shop Monthly",
      "id": "ENG-P3-L08-007",
      "grade": "P3",
      "subject": "eng",
      "lesson": "L08",
      "level": "理解",
-     "question": "In Booster A, 'Book Shop Monthly' is the publisher of the book 'All Change for the Chans!'.",
+     "question": "On the book cover, 'Book Shop Monthly' is the publisher of the book 'All Change for the Chans!'.",
      "source": "英文補充教材｜Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages",
      "verified": false
     }
@@ -10717,7 +10764,7 @@ window.QUESTION_BANK = {
       "be, does",
       "is, will do"
      ],
-     "explain": "根據 Grammar 6A p.1：第一類條件句（First conditional），主句用將來式 will be，if 條件子句用簡單現在式 does。",
+     "explain": "第一類條件句（First conditional），主句用將來式 will be，if 條件子句用簡單現在式 does。",
      "id": "ENG-P6-L01-001",
      "grade": "P6",
      "subject": "eng",
@@ -10737,7 +10784,7 @@ window.QUESTION_BANK = {
       "isn't have",
       "don't have"
      ],
-     "explain": "根據 Grammar 6A p.1：if 子句中用簡單現在式，第三人稱單數 Ken 的否定式為 doesn't have。",
+     "explain": "if 子句中用簡單現在式，第三人稱單數 Ken 的否定式為 doesn't have。",
      "id": "ENG-P6-L01-002",
      "grade": "P6",
      "subject": "eng",
@@ -10757,7 +10804,7 @@ window.QUESTION_BANK = {
       "eat, will wake",
       "ate, woke"
      ],
-     "explain": "根據 Grammar 6A p.2（Tim 的信）：主句用 will eat，if 子句用簡單現在式 wake。",
+     "explain": "主句用 will eat，if 子句用簡單現在式 wake。",
      "id": "ENG-P6-L01-003",
      "grade": "P6",
      "subject": "eng",
@@ -10777,7 +10824,7 @@ window.QUESTION_BANK = {
       "witch",
       "queen"
      ],
-     "explain": "根據 Grammar 6A p.3（名詞性別）：king（國王）對應的女性名詞（feminine noun）是 queen（王后）。",
+     "explain": "king（國王）對應的女性名詞（feminine noun）是 queen（王后）。",
      "id": "ENG-P6-L01-004",
      "grade": "P6",
      "subject": "eng",
@@ -10797,7 +10844,7 @@ window.QUESTION_BANK = {
       "wizard",
       "king"
      ],
-     "explain": "根據 Grammar 6A p.3–4：empress（女皇／皇后）對應的男性名詞（masculine noun）是 emperor（皇帝）。",
+     "explain": "empress（女皇／皇后）對應的男性名詞（masculine noun）是 emperor（皇帝）。",
      "id": "ENG-P6-L01-005",
      "grade": "P6",
      "subject": "eng",
@@ -10817,7 +10864,7 @@ window.QUESTION_BANK = {
       "firefighter",
       "actress"
      ],
-     "explain": "根據 Grammar 6A p.3：firefighter（消防員）、police officer、parent、child 等屬於通性名詞（common-gender nouns）。",
+     "explain": "firefighter（消防員）、police officer、parent、child 等屬於通性名詞（common-gender nouns）。",
      "id": "ENG-P6-L01-006",
      "grade": "P6",
      "subject": "eng",
@@ -10829,7 +10876,7 @@ window.QUESTION_BANK = {
     },
     {
      "type": "fill",
-     "q": "Fill in the feminine noun (Grammar 6A p.3): A man who acts in a film is an actor. A woman who acts in a film is an ___.",
+     "q": "Fill in the feminine noun: A man who acts in a film is an actor. A woman who acts in a film is an ___.",
      "answer": [
       "actress"
      ],
@@ -10839,13 +10886,13 @@ window.QUESTION_BANK = {
      "subject": "eng",
      "lesson": "L01",
      "level": "應用",
-     "question": "Fill in the feminine noun (Grammar 6A p.3): A man who acts in a film is an actor. A woman who acts in a film is an ___.",
+     "question": "Fill in the feminine noun: A man who acts in a film is an actor. A woman who acts in a film is an ___.",
      "source": "英文補充教材｜Grammar 6A Ch 1: First Conditional & Nouns and Gender",
      "verified": false
     },
     {
      "type": "order",
-     "q": "Rearrange the words to form a first conditional sentence (Grammar 6A p.2).",
+     "q": "Rearrange the words to form a first conditional sentence.",
      "items": [
       "If the weather",
       "is fine",
@@ -10862,7 +10909,7 @@ window.QUESTION_BANK = {
      "subject": "eng",
      "lesson": "L01",
      "level": "應用",
-     "question": "Rearrange the words to form a first conditional sentence (Grammar 6A p.2).",
+     "question": "Rearrange the words to form a first conditional sentence.",
      "source": "英文補充教材｜Grammar 6A Ch 1: First Conditional & Nouns and Gender",
      "verified": false
     }
@@ -10886,7 +10933,7 @@ window.QUESTION_BANK = {
       "because",
       "however"
      ],
-     "explain": "根據 Grammar 6A p.5：表示「為了達到某目的」（後接 can / will 子句）用連接詞 so that。",
+     "explain": "表示「為了達到某目的」（後接 can / will 子句）用連接詞 so that。",
      "id": "ENG-P6-L02-001",
      "grade": "P6",
      "subject": "eng",
@@ -10906,7 +10953,7 @@ window.QUESTION_BANK = {
       "so",
       "although"
      ],
-     "explain": "根據 Grammar 6A p.5–6：前半句是原因，後半句是結果（戰鬥），中間用連接詞 so（因此）。",
+     "explain": "前半句是原因，後半句是結果（戰鬥），中間用連接詞 so（因此）。",
      "id": "ENG-P6-L02-002",
      "grade": "P6",
      "subject": "eng",
@@ -10926,7 +10973,7 @@ window.QUESTION_BANK = {
       "so that",
       "so"
      ],
-     "explain": "根據 Grammar 6A p.5：後半句說明沒去派對的原因（患了重感冒），用連接詞 because。",
+     "explain": "後半句說明沒去派對的原因（患了重感冒），用連接詞 because。",
      "id": "ENG-P6-L02-003",
      "grade": "P6",
      "subject": "eng",
@@ -10946,7 +10993,7 @@ window.QUESTION_BANK = {
       "closed",
       "to close"
      ],
-     "explain": "根據 Grammar 6A p.7：remember + to-infinitive（Remember to close）表示「記得要做某事」。",
+     "explain": "remember + to-infinitive（Remember to close）表示「記得要做某事」。",
      "id": "ENG-P6-L02-004",
      "grade": "P6",
      "subject": "eng",
@@ -10966,7 +11013,7 @@ window.QUESTION_BANK = {
       "ride",
       "riding"
      ],
-     "explain": "根據 Grammar 6A p.7–8：動詞 learn 後面要接帶 to 的不定式（learn to ride）。",
+     "explain": "動詞 learn 後面要接帶 to 的不定式（learn to ride）。",
      "id": "ENG-P6-L02-005",
      "grade": "P6",
      "subject": "eng",
@@ -10978,7 +11025,7 @@ window.QUESTION_BANK = {
     },
     {
      "type": "fill",
-     "q": "Complete with 'to' + verb (Grammar 6A p.7): Oh no! I forgot ___ (bring) my English workbook today.",
+     "q": "Complete with 'to' + verb: Oh no! I forgot ___ (bring) my English workbook today.",
      "answer": [
       "to bring"
      ],
@@ -10988,7 +11035,7 @@ window.QUESTION_BANK = {
      "subject": "eng",
      "lesson": "L02",
      "level": "應用",
-     "question": "Complete with 'to' + verb (Grammar 6A p.7): Oh no! I forgot ___ (bring) my English workbook today.",
+     "question": "Complete with 'to' + verb: Oh no! I forgot ___ (bring) my English workbook today.",
      "source": "英文補充教材｜Grammar 6A Ch 2: Connectives (so that / so / because) & To-infinitives",
      "verified": false
     },
@@ -10996,7 +11043,7 @@ window.QUESTION_BANK = {
      "type": "tf",
      "q": "We often use modal verbs like 'can', 'will', 'could' or 'would' in the clause after 'so that' to show purpose.",
      "answer": true,
-     "explain": "根據 Grammar 6A p.5，so that 引導的目的狀語從句常配合 can / could / will / would 使用。",
+     "explain": "so that 引導的目的狀語從句常配合 can / could / will / would 使用。",
      "id": "ENG-P6-L02-007",
      "grade": "P6",
      "subject": "eng",
@@ -11026,7 +11073,7 @@ window.QUESTION_BANK = {
       "However",
       "So that"
      ],
-     "explain": "根據 Grammar 6A p.9：Since 放在句首表示「既然／由於」（給出已知原因），相當於 Because。",
+     "explain": "Since 放在句首表示「既然／由於」（給出已知原因），相當於 Because。",
      "id": "ENG-P6-L03-001",
      "grade": "P6",
      "subject": "eng",
@@ -11046,7 +11093,7 @@ window.QUESTION_BANK = {
       "too, for",
       "so, that"
      ],
-     "explain": "根據 Grammar 6A p.11：too + 形容詞 + to + 動詞原形（too heavy to carry）表示「太……以致不能……」。",
+     "explain": "too + 形容詞 + to + 動詞原形（too heavy to carry）表示「太……以致不能……」。",
      "id": "ENG-P6-L03-002",
      "grade": "P6",
      "subject": "eng",
@@ -11066,7 +11113,7 @@ window.QUESTION_BANK = {
       "too, for, to",
       "very, for, to"
      ],
-     "explain": "根據 Grammar 6A p.12：too + 形容詞 + for + 某人 + to + 動詞原形（too difficult for my little sister to solve）。",
+     "explain": "too + 形容詞 + for + 某人 + to + 動詞原形（too difficult for my little sister to solve）。",
      "id": "ENG-P6-L03-003",
      "grade": "P6",
      "subject": "eng",
@@ -11086,7 +11133,7 @@ window.QUESTION_BANK = {
       "to drink",
       "drank"
      ],
-     "explain": "根據 Grammar 6A p.12：too ... for someone 後接 to-infinitive（to drink）。",
+     "explain": "too ... for someone 後接 to-infinitive（to drink）。",
      "id": "ENG-P6-L03-004",
      "grade": "P6",
      "subject": "eng",
@@ -11106,7 +11153,7 @@ window.QUESTION_BANK = {
       "because",
       "too"
      ],
-     "explain": "根據 Grammar 6A p.9–10：開冷氣的目的是令房間涼快（would be cool），用 so that。",
+     "explain": "開冷氣的目的是令房間涼快（would be cool），用 so that。",
      "id": "ENG-P6-L03-005",
      "grade": "P6",
      "subject": "eng",
@@ -11118,7 +11165,7 @@ window.QUESTION_BANK = {
     },
     {
      "type": "fill",
-     "q": "Rewrite using 'too ... to' (Grammar 6A p.11): Leo is very tired. He cannot walk any further. -> Leo is ___ tired ___ walk any further.",
+     "q": "Rewrite using 'too ... to': Leo is very tired. He cannot walk any further. -> Leo is ___ tired ___ walk any further.",
      "answer": [
       "too, to",
       "too,to",
@@ -11130,13 +11177,13 @@ window.QUESTION_BANK = {
      "subject": "eng",
      "lesson": "L03",
      "level": "應用",
-     "question": "Rewrite using 'too ... to' (Grammar 6A p.11): Leo is very tired. He cannot walk any further. -> Leo is ___ tired ___ walk any further.",
+     "question": "Rewrite using 'too ... to': Leo is very tired. He cannot walk any further. -> Leo is ___ tired ___ walk any further.",
      "source": "英文補充教材｜Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to",
      "verified": false
     },
     {
      "type": "order",
-     "q": "Rearrange the words to form a correct sentence (Grammar 6A p.12).",
+     "q": "Rearrange the words to form a correct sentence.",
      "items": [
       "The shelf is",
       "too high",
@@ -11153,7 +11200,7 @@ window.QUESTION_BANK = {
      "subject": "eng",
      "lesson": "L03",
      "level": "應用",
-     "question": "Rearrange the words to form a correct sentence (Grammar 6A p.12).",
+     "question": "Rearrange the words to form a correct sentence.",
      "source": "英文補充教材｜Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to",
      "verified": false
     }
@@ -11177,7 +11224,7 @@ window.QUESTION_BANK = {
       "either, and",
       "neither, nor"
      ],
-     "explain": "根據 Grammar 6A p.15 & p.27：表示在兩個選擇中「或者……或者……（二選一）」用 either ... or。",
+     "explain": "表示在兩個選擇中「或者……或者……（二選一）」用 either ... or。",
      "id": "ENG-P6-L04-001",
      "grade": "P6",
      "subject": "eng",
@@ -11197,7 +11244,7 @@ window.QUESTION_BANK = {
       "Neither, or",
       "Both, and"
      ],
-     "explain": "根據 Grammar 6A p.16 & p.27：表示「既不……也不……（兩個都不會）」用 Neither ... nor。",
+     "explain": "表示「既不……也不……（兩個都不會）」用 Neither ... nor。",
      "id": "ENG-P6-L04-002",
      "grade": "P6",
      "subject": "eng",
@@ -11217,7 +11264,7 @@ window.QUESTION_BANK = {
       "Both, or",
       "Either, or"
      ],
-     "explain": "根據 Grammar 6A p.27 Section A Q5：否定兩種電影都無趣用 Neither action films nor romantic films。",
+     "explain": "否定兩種電影都無趣用 Neither action films nor romantic films。",
      "id": "ENG-P6-L04-003",
      "grade": "P6",
      "subject": "eng",
@@ -11237,7 +11284,7 @@ window.QUESTION_BANK = {
       "Both, and",
       "Either, or"
      ],
-     "explain": "根據 Grammar 6A p.18：表示「兩個都喜歡」用 Both ... and，謂語動詞用複數 like。",
+     "explain": "表示「兩個都喜歡」用 Both ... and，謂語動詞用複數 like。",
      "id": "ENG-P6-L04-004",
      "grade": "P6",
      "subject": "eng",
@@ -11257,7 +11304,7 @@ window.QUESTION_BANK = {
       "be",
       "are"
      ],
-     "explain": "根據 Grammar 6A p.16–18：neither ... nor 連接兩個單數主語時，動詞跟隨鄰近單數主語用 is。",
+     "explain": "neither ... nor 連接兩個單數主語時，動詞跟隨鄰近單數主語用 is。",
      "id": "ENG-P6-L04-005",
      "grade": "P6",
      "subject": "eng",
@@ -11269,7 +11316,7 @@ window.QUESTION_BANK = {
     },
     {
      "type": "fill",
-     "q": "Fill in the blank (Grammar 6A p.15): You can have either apple juice ___ orange juice.",
+     "q": "Fill in the blank: You can have either apple juice ___ orange juice.",
      "answer": [
       "or"
      ],
@@ -11279,7 +11326,7 @@ window.QUESTION_BANK = {
      "subject": "eng",
      "lesson": "L04",
      "level": "應用",
-     "question": "Fill in the blank (Grammar 6A p.15): You can have either apple juice ___ orange juice.",
+     "question": "Fill in the blank: You can have either apple juice ___ orange juice.",
      "source": "英文補充教材｜Grammar 6A Ch 4: Correlative Conjunctions (either...or / neither...nor / both...and)",
      "verified": false
     },
@@ -11317,7 +11364,7 @@ window.QUESTION_BANK = {
       "was, will",
       "were, would"
      ],
-     "explain": "根據 Grammar 6A p.19 & p.28：第二類條件句（假設現在不可能或相反的情況），if 子句用過去式 were，主句用 would + 原形動詞。",
+     "explain": "第二類條件句（假設現在不可能或相反的情況），if 子句用過去式 were，主句用 would + 原形動詞。",
      "id": "ENG-P6-L05-001",
      "grade": "P6",
      "subject": "eng",
@@ -11337,7 +11384,7 @@ window.QUESTION_BANK = {
       "met, will",
       "meet, would"
      ],
-     "explain": "根據 Grammar 6A p.28 Section C Q1：遇見龍是幻想情境（Second conditional），用 If Candy met a dragon, she would ride on it。",
+     "explain": "遇見龍是幻想情境（Second conditional），用 If Candy met a dragon, she would ride on it。",
      "id": "ENG-P6-L05-002",
      "grade": "P6",
      "subject": "eng",
@@ -11357,7 +11404,7 @@ window.QUESTION_BANK = {
       "which",
       "whose"
      ],
-     "explain": "根據 Grammar 6A p.20 & p.27：先行詞 the girl 是人，關係代詞（relative pronoun）用 who。",
+     "explain": "先行詞 the girl 是人，關係代詞（relative pronoun）用 who。",
      "id": "ENG-P6-L05-003",
      "grade": "P6",
      "subject": "eng",
@@ -11377,7 +11424,7 @@ window.QUESTION_BANK = {
       "where",
       "who"
      ],
-     "explain": "根據 Grammar 6A p.20 & p.27：先行詞 a wallet 是物件，關係代詞用 which。",
+     "explain": "先行詞 a wallet 是物件，關係代詞用 which。",
      "id": "ENG-P6-L05-004",
      "grade": "P6",
      "subject": "eng",
@@ -11397,7 +11444,7 @@ window.QUESTION_BANK = {
       "amusing, amused",
       "amused, amusing"
      ],
-     "explain": "根據 Grammar 6A p.21 & p.28：形容事物「令人發笑的」用 -ing 形容詞 amusing；形容人「感到好笑的」用 -ed 形容詞 amused。",
+     "explain": "形容事物「令人發笑的」用 -ing 形容詞 amusing；形容人「感到好笑的」用 -ed 形容詞 amused。",
      "id": "ENG-P6-L05-005",
      "grade": "P6",
      "subject": "eng",
@@ -11417,7 +11464,7 @@ window.QUESTION_BANK = {
       "touches",
       "touched"
      ],
-     "explain": "根據 Grammar 6A p.28 Section D Q2：形容人「深受感動」要用 -ed 形容詞 touched（而非 touching）。",
+     "explain": "形容人「深受感動」要用 -ed 形容詞 touched（而非 touching）。",
      "id": "ENG-P6-L05-006",
      "grade": "P6",
      "subject": "eng",
@@ -11429,7 +11476,7 @@ window.QUESTION_BANK = {
     },
     {
      "type": "fill",
-     "q": "Correct the mistake (Grammar 6A p.28 Section D Q4): 'If I am Rapunzel, I would let down my long hair.' -> Change 'am' to:",
+     "q": "Correct the mistake: 'If I am Rapunzel, I would let down my long hair.' -> Change 'am' to:",
      "answer": [
       "were"
      ],
@@ -11439,13 +11486,13 @@ window.QUESTION_BANK = {
      "subject": "eng",
      "lesson": "L05",
      "level": "應用",
-     "question": "Correct the mistake (Grammar 6A p.28 Section D Q4): 'If I am Rapunzel, I would let down my long hair.' -> Change 'am' to:",
+     "question": "Correct the mistake: 'If I am Rapunzel, I would let down my long hair.' -> Change 'am' to:",
      "source": "英文補充教材｜Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives",
      "verified": false
     },
     {
      "type": "order",
-     "q": "Rearrange the words to form a second conditional sentence (Grammar 6A p.28).",
+     "q": "Rearrange the words to form a second conditional sentence.",
      "items": [
       "If Amy",
       "saw a fairy",
@@ -11462,7 +11509,7 @@ window.QUESTION_BANK = {
      "subject": "eng",
      "lesson": "L05",
      "level": "應用",
-     "question": "Rearrange the words to form a second conditional sentence (Grammar 6A p.28).",
+     "question": "Rearrange the words to form a second conditional sentence.",
      "source": "英文補充教材｜Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives",
      "verified": false
     }
@@ -11486,7 +11533,7 @@ window.QUESTION_BANK = {
       "as, as",
       "like, as"
      ],
-     "explain": "根據 Grammar 6A p.23：明喻結構 as + 形容詞 + as（as white as snow 雪白）。",
+     "explain": "明喻結構 as + 形容詞 + as（as white as snow 雪白）。",
      "id": "ENG-P6-L06-001",
      "grade": "P6",
      "subject": "eng",
@@ -11506,7 +11553,7 @@ window.QUESTION_BANK = {
       "as, like",
       "like, as"
      ],
-     "explain": "根據 Grammar 6A p.28 Section D Q1：as proud as a peacock（像孔雀一樣驕傲），不可寫 proud like a peacock。",
+     "explain": "as proud as a peacock（像孔雀一樣驕傲），不可寫 proud like a peacock。",
      "id": "ENG-P6-L06-002",
      "grade": "P6",
      "subject": "eng",
@@ -11526,7 +11573,7 @@ window.QUESTION_BANK = {
       "as",
       "so"
      ],
-     "explain": "根據 Grammar 6A p.23–24：be + 形容詞 + like + 名詞（brave like a lion 像獅子一樣勇敢）。",
+     "explain": "be + 形容詞 + like + 名詞（brave like a lion 像獅子一樣勇敢）。",
      "id": "ENG-P6-L06-003",
      "grade": "P6",
      "subject": "eng",
@@ -11546,7 +11593,7 @@ window.QUESTION_BANK = {
       "like",
       "as"
      ],
-     "explain": "根據 Grammar 6A p.28 Section D Q8：這裏的 like 是介詞（「像水晶一樣清晰」），不可加 -s 寫成 likes。",
+     "explain": "這裏的 like 是介詞（「像水晶一樣清晰」），不可加 -s 寫成 likes。",
      "id": "ENG-P6-L06-004",
      "grade": "P6",
      "subject": "eng",
@@ -11566,7 +11613,7 @@ window.QUESTION_BANK = {
       "although",
       "however"
      ],
-     "explain": "根據 Grammar 6A p.25 & p.28：在同一個句子中間連接兩個轉折分句（前面只有逗號，後無逗號），用連接詞 but。",
+     "explain": "在同一個句子中間連接兩個轉折分句（前面只有逗號，後無逗號），用連接詞 but。",
      "id": "ENG-P6-L06-005",
      "grade": "P6",
      "subject": "eng",
@@ -11586,7 +11633,7 @@ window.QUESTION_BANK = {
       "But",
       "Although"
      ],
-     "explain": "根據 Grammar 6A p.25 & p.28 Section D Q5：放在第二句句首並有逗號隔開，表示「然而／可是」用 However,。",
+     "explain": "放在第二句句首並有逗號隔開，表示「然而／可是」用 However,。",
      "id": "ENG-P6-L06-006",
      "grade": "P6",
      "subject": "eng",
@@ -11598,7 +11645,7 @@ window.QUESTION_BANK = {
     },
     {
      "type": "fill",
-     "q": "Complete the simile (Grammar 6A p.23): The old man is as wise as an ___.",
+     "q": "Complete the simile: The old man is as wise as an ___.",
      "answer": [
       "owl"
      ],
@@ -11608,7 +11655,7 @@ window.QUESTION_BANK = {
      "subject": "eng",
      "lesson": "L06",
      "level": "應用",
-     "question": "Complete the simile (Grammar 6A p.23): The old man is as wise as an ___.",
+     "question": "Complete the simile: The old man is as wise as an ___.",
      "source": "英文補充教材｜Grammar 6A Ch 6: Similes (as ... as / be ... like) & Connectives (however / but)",
      "verified": false
     },
@@ -11616,7 +11663,7 @@ window.QUESTION_BANK = {
      "type": "tf",
      "q": "In 'The pillows are as soft as clouds', 'as ... as' is used to compare two things that are similar.",
      "answer": true,
-     "explain": "根據 Grammar 6A p.23，我們用 as ... as 和 be ... like 來作比喻（similes）。",
+     "explain": "我們用 as ... as 和 be ... like 來作比喻（similes）。",
      "id": "ENG-P6-L06-008",
      "grade": "P6",
      "subject": "eng",

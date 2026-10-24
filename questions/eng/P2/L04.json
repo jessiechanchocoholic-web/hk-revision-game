@@ -8,7 +8,7 @@
  "questions": [
   {
    "type": "mc",
-   "q": "In the story of Sally and Sam the squirrels, where is the art room?",
+   "q": "In the story, where is the art room?",
    "answer": "On the first floor",
    "options": [
     "On the fifth floor",
@@ -16,13 +16,14 @@
     "On the first floor",
     "On the ground floor"
    ],
-   "explain": "根據 2A Ch 1 課文，美勞室（art room）在一樓（on the first floor），可以在裏面畫畫和做手偶。",
+   "explain": "根據短文，美勞室（art room）在一樓（on the first floor），可以在裏面畫畫和做手偶。",
+   "passage": "Sally and Sam are squirrels. They are at their new school.\nSally: Look! This is the art room. It's on the first floor. We can draw pictures and make puppets here.\nSam: Where is the library?\nSally: It's on the second floor. We can borrow books there.",
    "id": "ENG-P2-L04-001",
    "grade": "P2",
    "subject": "eng",
    "lesson": "L04",
    "level": "應用",
-   "question": "In the story of Sally and Sam the squirrels, where is the art room?",
+   "question": "In the story, where is the art room?",
    "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
    "verified": false,
    "readAloud": true
@@ -37,7 +38,8 @@
     "Buy snacks",
     "Borrow books"
    ],
-   "explain": "根據 2A Ch 1 課文，圖書館在二樓，學生可以在那裏借書（borrow books）。",
+   "explain": "根據短文，圖書館在二樓，學生可以在那裏借書（borrow books）。",
+   "passage": "Sally and Sam are squirrels. They are at their new school.\nSally: Look! This is the art room. It's on the first floor. We can draw pictures and make puppets here.\nSam: Where is the library?\nSally: It's on the second floor. We can borrow books there.",
    "id": "ENG-P2-L04-002",
    "grade": "P2",
    "subject": "eng",
@@ -50,7 +52,7 @@
   },
   {
    "type": "mc",
-   "q": "In the 2A Ch 2 pamphlet, what does the word 'huge' mean in 'The library is huge'?",
+   "q": "In the school pamphlet, what does the word 'huge' mean in 'The library is huge'?",
    "answer": "big",
    "options": [
     "new",
@@ -58,13 +60,14 @@
     "quiet",
     "small"
    ],
-   "explain": "根據 2A Ch 2 閱讀練習第 3 題，huge 的意思是 big（巨大／很大）。",
+   "explain": "根據短文，huge 的意思是 big（巨大／很大）。",
+   "passage": "School pamphlet: Welcome to our school! The library is huge. It has lots of books. The hall is big too.",
    "id": "ENG-P2-L04-003",
    "grade": "P2",
    "subject": "eng",
    "lesson": "L04",
    "level": "應用",
-   "question": "In the 2A Ch 2 pamphlet, what does the word 'huge' mean in 'The library is huge'?",
+   "question": "In the school pamphlet, what does the word 'huge' mean in 'The library is huge'?",
    "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
    "verified": false,
    "readAloud": true
@@ -92,7 +95,7 @@
   },
   {
    "type": "mc",
-   "q": "In the story 'Hansel and Gretel' (2A Ch 3), why do they eat some biscuits?",
+   "q": "In the story 'Hansel and Gretel', why do they eat some biscuits?",
    "answer": "Because they are hungry.",
    "options": [
     "Because they are cold.",
@@ -100,13 +103,14 @@
     "Because it is morning.",
     "Because they are hungry."
    ],
-   "explain": "根據 2A Ch 3 故事，Hansel 和 Gretel 因為肚餓（hungry），所以提議吃餅乾（Let's eat some biscuits）。",
+   "explain": "根據故事，Hansel 和 Gretel 因為肚餓（hungry），所以提議吃餅乾（Let's eat some biscuits）。",
+   "passage": "Hansel and Gretel walk in the forest.\nHansel: I'm hungry.\nGretel: Me too. Let's eat some biscuits.\nThey eat and then take a nap under a tree. When they wake up…\nGretel: Oh no! It's dark!\nHansel: We're lost!",
    "id": "ENG-P2-L04-005",
    "grade": "P2",
    "subject": "eng",
    "lesson": "L04",
    "level": "應用",
-   "question": "In the story 'Hansel and Gretel' (2A Ch 3), why do they eat some biscuits?",
+   "question": "In the story 'Hansel and Gretel', why do they eat some biscuits?",
    "source": "英文補充教材｜Textbook 2A Reading: School Places, Rules & Hansel and Gretel",
    "verified": false,
    "readAloud": true
@@ -121,7 +125,8 @@
     "They find a library.",
     "They go swimming."
    ],
-   "explain": "根據 2A Ch 3 故事第 4 格，他們午睡醒來時天黑了（It's dark!），而且迷路了（We're lost!）。",
+   "explain": "根據故事，他們午睡醒來時天黑了（It's dark!），而且迷路了（We're lost!）。",
+   "passage": "Hansel and Gretel walk in the forest.\nHansel: I'm hungry.\nGretel: Me too. Let's eat some biscuits.\nThey eat and then take a nap under a tree. When they wake up…\nGretel: Oh no! It's dark!\nHansel: We're lost!",
    "id": "ENG-P2-L04-006",
    "grade": "P2",
    "subject": "eng",

@@ -28,15 +28,18 @@ const SRC_LEVEL={
 };
 // 新關卡用獨立 seed 洗牌，避免改動其他關卡選項次序
 let seed2=20261022;const shuffle2=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){seed2=(seed2*1103515245+12345)%2147483648;const j=Math.floor(seed2/2147483648*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
-const levels=[];let cur;
+const levels=[];let cur,psg=null;
 for(const line of fs.readFileSync(path.join(__dirname,'content.txt'),'utf8').split('\n')){
   if(!line.trim()||line.startsWith('# '))continue;
-  if(line.startsWith('## ')){const [g,s,id,t]=line.slice(3).split('|');cur={id,grade:g,subject:s,title:t,questions:[]};levels.push(cur);continue}
+  if(line.startsWith('## ')){const [g,s,id,t]=line.slice(3).split('|');cur={id,grade:g,subject:s,title:t,questions:[]};levels.push(cur);psg=null;continue}
+  if(line.startsWith('P:')){const t=line.slice(2).trim();psg=(t&&t!=='-')?t.replace(/\\n/g,'\n'):null;continue}
+  const nq=cur.questions.length;
   const k=line[0],b=line.slice(2).split('|');
   if(k==='M')cur.questions.push({type:'mc',q:b[0],answer:b[1],options:(SRC_LEVEL[cur.id]?shuffle2:shuffle)(b.slice(1,5)),explain:b[5]});
   else if(k==='T'||k==='F')cur.questions.push({type:'tf',q:b[0],answer:k==='T',explain:b[1]});
   else if(k==='S')cur.questions.push({type:'fill',q:b[0],answer:/^\d+\/\d+$/.test(b[1])?[b[1]]:b[1].split(/(?<!\\)\//).map(x=>x.replace(/\\\//g,'/')),explain:b[2]});
   else if(k==='O')cur.questions.push({type:'order',q:b[1],items:b[0].split('>'),explain:b[2]});
+  if(psg&&cur.questions.length>nq)cur.questions[nq].passage=psg;
 }
 // --- math helpers
 const mcN=(q,ans,wrongs,ex)=>{const w=[...new Set(wrongs.map(String))].filter(x=>x!==String(ans)).slice(0,3);return{type:'mc',q,answer:String(ans),options:shuffle([String(ans),...w]),explain:ex}};
