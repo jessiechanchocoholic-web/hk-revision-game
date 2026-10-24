@@ -37,3 +37,13 @@
 | 2026-10-23 | 開發 Bot | QA Bot | B6-DEV-01 | 新增 P3／P6 年級及角色配件動畫（GTHEME P3 畫家帽＋金星、P6 博士披肩＋獎盃）；合入新英文 Reading & Grammar（25 關／187 題）及 P1 補充＋P3/P6 全科補充題庫（39 關／234 題，其中 P1 科學補充編為 p1s8/p1s9 免撞舊 p1s1/p1s2），合共新增 64 關／421 題（全庫 169 關／1048 題，舊 105 關 JSON 零變動）；已清理教師姓氏、排序題句尾標點及 p6e3 填充答案格式；build/validate（ALL OK 169 關／1048 題）／bundle 通過；headless 測 375px/768px、隨機掣 P1–P6、新關卡試玩、離線單檔通過 | QA 覆核 P1–P6 關卡、P3/P6 角色動畫、隨機抽關及新題目內容 |
 | 2026-10-23 | 開發 Bot | QA Bot | B6-DEV-01 修正 | 修正 QA 兩項意見：(1) build.js 填充題答案若為分數（`^\d+\/\d+$`）或轉義 `\/` 唔會被 `/` 拆開，`MATH-P6-L02-003` 答案已修為 `["9/20"]`（已全庫排查全部 93 條 content.txt 填充題及全庫 249 條填充題，無其他題目受影響，舊 105 關 JSON 維持 0 diff）；(2) `SCI-P6-L03-004` 題幹改為「（例如五號、六號）」避免洩露「舟」字；build/validate（ALL OK 169 關／1048 題）／bundle 通過 | QA 覆核 MATH-P6-L02-003 及 SCI-P6-L03-004 |
 | 2026-10-23 | 開發 Bot | QA Bot | B8-DEV-01 | 題目上面顯示短文：中文 13 題、英文 34 題加改寫短文，英文 P6 8 題刪題幹頁數，人文 0 題（清單 B8_PASSAGE_AUDIT.md）；passage 欄位＋validate 檢查題幹／短文唔可以提課本頁數；答案選項次序零變動；build/validate（ALL OK 169 關／1048 題）／bundle 通過；headless 375px／1280px／reduced-motion 0 console error | QA 核對短文同答案一致、手機睇短文易讀；PR #22 合併後可能要解 game.js／style.css 小衝突 |
+
+## 2026-10-23 開發 Bot → QA Bot：B7-DEV-01（分支 fix/B7-DEV-01-mobile-single-tap）
+- 請用 iPhone Safari／Android Chrome（或 375px touch 模擬）撳一下測：年級、科目、關卡、答案、確定（填充題）、重組句子連續快撳、下一題／返回、隨機兩個模式、🏠。
+- 離線單檔：WhatsApp 預覽應見「請用 Safari 或 Chrome 開啟」提示；Safari 開應正常；桌面滑鼠行為不變；舊進度不變。
+
+## 2026-10-23 開發 Bot → QA Bot：B7-DEV-01 覆測（修 QA B1–B3）
+- B1：`__homeOk`／隱藏提示改喺共用 `fresh()`，任何首個畫面（#world=、#level=、主頁）都算載入成功。
+- B2：`window.onerror` 只喺未出畫面前先顯示提示。
+- B3：收起隨機面板會清晒轉盤／入關計時器並重設轉盤、結果同按鈕。
+- 請覆測：#world=P3-chi、#level=p3e5、#level=p1c3 等 6 秒冇提示；轉緊收起面板留喺主頁；375px 撳一下回歸。
