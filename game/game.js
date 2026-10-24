@@ -119,9 +119,9 @@ function play(qs,meta){var s=meta.subject;var list=meta.review||meta.boss?qs:shu
  function show(){fresh();firstTry=true;var q=list[i];
   var c=h('div',{class:'card'});c.appendChild(h('div',{},[h('button',{onclick:function(){world(meta.grade,s)}},['⬅ '+T(s,'離開','Quit')]),h('b',{},[meta.title]),h('span',{class:'tag'},[(i+1)+' / '+list.length])]));
   var pr=h('div',{class:'prog'},[h('div',{style:'width:'+(i/list.length*100)+'%'})]);c.appendChild(pr);
-  var qtext=q.type==='order'?q.q:q.q;c.appendChild(h('div',{class:'q'},[qtext]));
+  var qtext=q.type==='order'?q.q:q.q;if(q.passage)c.appendChild(h('div',{class:'passage',tabindex:'0',role:'region','aria-label':T(s,'短文','Passage'),lang:lang},[q.passage]));c.appendChild(h('div',{class:'q'},[qtext]));
   var shown=q.items?shuffle(q.items):null;
-  if(readAloud){var say=qtext.replace(/[。：:]$/,'')+(q.options?'。'+q.options.join('，'):'')+(shown?'。'+shown.join('，'):'');
+  if(readAloud){var say=(q.passage?q.passage+'。':'')+qtext.replace(/[。：:]$/,'')+(q.options?'。'+q.options.join('，'):'')+(shown?'。'+shown.join('，'):'');
    if('speechSynthesis' in window){var sb=h('button',{class:'speak','data-lang':lang,'aria-label':'read aloud',onclick:function(){loadV();speak(say,lang)}},['🔊 '+T(s,'讀題','Read aloud')]);if(!canSpeak(lang))sb.style.display='none';c.appendChild(sb)}}
   if(q._from)c.appendChild(h('div',{class:'note'},[q._from]));
   var area=h('div',{class:'opts'});c.appendChild(area);var fb=h('div');c.appendChild(fb);app.appendChild(c);

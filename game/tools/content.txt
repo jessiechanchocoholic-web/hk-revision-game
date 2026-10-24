@@ -1,5 +1,6 @@
 # Format: ## grade|subject|levelId|title   then lines:
 # M:prompt|answer|wrong|wrong|wrong|explain   T:/F:prompt|explain   S:prompt|ans1/ans2|explain   O:a>b>c|prompt|explain
+# P:短文（之後嘅題目都會喺題目上面顯示呢段，直至下一個 P: 或 P:- 或新關卡；\n 代表換行）
 ## P1|chi|p1c1|單元一 我是小學生
 M:上課時，老師說話，我們要怎樣做？|專心聽|大聲說話|跑來跑去|吃東西|上課要專心聽老師說話。
 M:「開學了」，我們升讀小學幾年級？|一年級|三年級|五年級|六年級|剛入小學讀一年級。
@@ -13,6 +14,7 @@ M:郊外常常可以見到：|大樹|電視|書桌|電梯|郊外有很多大樹�
 M:「天空」的「天」，在哪裏？|上面|下面|水裏|地底|天空在我們上面。
 M:早上，草上亮晶晶的小水珠叫：|露珠|雪花|石頭|星星|早上草葉上的小水珠叫露珠。
 M:「專心聽」的「聽」，要用身體哪部分？|耳朵|鼻子|手|腳|我們用耳朵聽。
+P:小羊數數：小羊在草地上數一數，一朵花、兩棵樹、三隻小鳥。
 T:「小羊數數」會用到數字。|數數就是數一、二、三……
 ## P1|chi|p1c3|工作紙：數數和認字
 S:看圖數數，填中國數字：📚📚📚📚📚 書有（ ）本。|五|數一數，共有五本書。
@@ -106,16 +108,22 @@ M:愛護小動物，我們應該：|輕輕觀察，不去傷害|捉回家玩|用
 T:「憐惜」有愛護、同情的意思。|憐惜就是同情和愛護。
 ## P4|chi|p4c8|第8課 盤古開天闢地
 M:《盤古開天闢地》是一個：|神話故事|新聞報道|說明文|書信|盤古開天是中國古代神話。
+P:（故事改寫）很久很久以前，天和地還沒有分開，到處黑漆漆的。盤古醒來，拿起大斧頭用力一劈，輕而清的東西慢慢上升，變成了天；重而濁的東西慢慢下沉，變成了地。盤古死後，他的雙眼變成了太陽和月亮，身體變成了高山和河流。
 M:傳說盤古用甚麼劈開天地？|斧頭|雨傘|毛筆|繩子|傳說盤古用大斧劈開天地。
 M:傳說中，盤古死後他的眼睛變成了：|太陽和月亮|高山|河流|樹木|神話說他的雙眼變成日月。
+P:-
 M:「開天闢地」現在常用來比喻：|前所未有、第一次|天氣很好|打開窗戶|搬屋|開天闢地比喻有史以來第一次。
+P:（故事改寫）很久很久以前，天和地還沒有分開，到處黑漆漆的。盤古醒來，拿起大斧頭用力一劈，輕而清的東西慢慢上升，變成了天；重而濁的東西慢慢下沉，變成了地。盤古死後，他的雙眼變成了太陽和月亮，身體變成了高山和河流。
 M:天和地分開後，輕而清的東西上升變成：|天|地|海|山|輕清的上升為天，重濁的下沉為地。
+P:-
 F:神話故事所寫的都是真實發生的事。|神話是古人想像出來的故事。
 ## P4|chi|p4c13|第13課 桂林山水
 M:桂林在中國哪個省區？|廣西|廣東|北京|上海|桂林位於廣西壯族自治區。
 M:有一句話說「桂林山水甲天下」，「甲」的意思是：|第一|最差|最小|最遠|「甲天下」指天下第一。
+P:（短文改寫）漓江的水很靜，靜得好像沒有流動；水很清，可以看見江底的小石子；水很綠，像一塊綠色的寶石。桂林的山形狀奇特，一座座從平地升起；山上長滿綠樹，十分秀麗；有些山峰又高又陡，看起來很險。
 M:漓江的水最大的特點是：|清、靜、綠|黃、急、濁|鹹、冷、黑|乾、熱、少|桂林的水又靜又清又綠。
 M:桂林的山的特點是：|奇、秀、險|平、矮、圓|全是雪山|沒有樹木|桂林的山奇、秀、險。
+P:-
 M:「山像老人，像巨象。」用了甚麼修辭？|比喻|設問|反問|誇張|用「像」作比較，是比喻。
 T:遊記會描寫遊覽時看到的景物和感受。|《桂林山水》是寫景的文章。
 ## P4|chi|p4c99|實用文：週記
@@ -128,7 +136,9 @@ M:以下哪一句最適合作週記的感受部分？|這次經歷令我明白�
 M:天空（ ）的，陽光被遮蔽了。|灰濛濛|亮晶晶|綠油油|紅彤彤|陰天天空「灰濛濛」。
 M:他不知道該怎麼辦，心裏很（ ）。|徬徨|興奮|驕傲|輕鬆|不知所措叫「徬徨」。
 M:我抬起頭（ ）天空，看見一線光芒。|仰望|俯視|回頭|閉眼|抬頭向上看叫「仰望」。
+P:（短文）早上，天空灰濛濛的，濃霧把陽光都遮蔽了。我望着窗外，心裏好像壓着一塊大石頭，悶得透不過氣來。
 M:天空被濃霧遮蔽，令「我」聯想到怎樣的心情？|鬱悶|開心|自豪|平靜|陰暗的景物配合鬱悶的心情——借景抒情。
+P:-
 M:「（ ）！我的鉛筆剛才還在桌上，怎麼不見了？」應填哪個歎詞？|咦|哈哈|嗯|唉|「咦」表示驚訝。
 M:「（ ），你說得對！」應填哪個歎詞？|嗯|哼|咦|唉|「嗯」表示同意。
 T:「媽媽是我的避風港，給我溫暖。」運用了暗喻。|用「是」把媽媽比作避風港，是暗喻。
@@ -153,21 +163,29 @@ M:鄭和遠航的意義是：|促進中國與各國的交往|侵略別國|尋找
 F:鄭和只到過香港附近。|鄭和遠至東南亞、印度、阿拉伯和非洲東岸。
 ## P5|chi|p5c8|第8課 金縷衣
 M:《金縷衣》是一首：|古詩|新聞|書信|日記|《金縷衣》是唐代詩歌。
+P:《金縷衣》（唐詩）\n勸君莫惜金縷衣，\n勸君惜取少年時。\n花開堪折直須折，\n莫待無花空折枝。
 M:「花開堪折直須折，莫待無花空折枝。」主要勸人：|珍惜時光|多種花|不要摘花|買新衣服|勸人把握時機，珍惜少年時光。
 M:「勸君莫惜金縷衣」，「金縷衣」是：|用金線織成的華麗衣服|金色的花|一本書|一種食物|金縷衣是用金線縫製的衣服，代表財富。
+P:-
 M:「莫」字的意思是：|不要|很多|一定|已經|「莫」解作不要。
+P:《金縷衣》（唐詩）\n勸君莫惜金縷衣，\n勸君惜取少年時。\n花開堪折直須折，\n莫待無花空折枝。
 M:「勸君惜取少年時」，「少年時」指：|年輕的時光|老年|昨天|晚上|少年時就是年輕的時候。
 ## P5|chi|p5c14|第14課 老藤椅
 M:藤椅是用甚麼材料做的？|藤|鐵|玻璃|膠|藤椅是用藤條編成的。
+P:（短文）客廳角落有一張舊藤椅。小時候，爺爺常常坐在上面給我講故事。爺爺離開後，藤椅還在，每次看見它，我就想起和爺爺一起的日子。
 M:一張舊椅子令人懷念，是因為它：|有家人的回憶|很值錢|很新|很重|舊物承載了回憶和感情。
+P:-
 M:「懷念」的近義詞是：|思念|忘記|討厭|害怕|懷念、思念意思相近。
 M:「一（ ）藤椅」，括號應填：|張|隻|條|本|椅子用「張」。
 T:借物抒情是借描寫物件來表達感情。|老藤椅寫物，其實表達對親人的情感。
 ## P5|chi|p5c15|第15課 桂花雨
 M:桂花在甚麼季節開花？|秋天|春天|夏天|冬天|桂花多在秋天盛開。
+P:（短文）秋天，家鄉院子裏的桂花開了，香氣撲鼻。我們抱着樹幹用力搖，桂花紛紛落下，好像下了一場雨，我們叫它「桂花雨」。長大後離開了家鄉，每到秋天，我總會想起家鄉的桂花雨。
 M:「桂花雨」是指：|搖樹時桂花像雨一樣落下|下雨天|桂花味的雨水|很多人哭|桂花紛紛落下，好像下雨。
+P:-
 M:桂花最大的特點是：|很香|很大|很臭|黑色|桂花香氣濃郁。
 M:「香氣撲鼻」的意思是：|香味很濃，傳到鼻子|鼻子痛|沒有味道|很臭|形容香味濃。
+P:（短文）秋天，家鄉院子裏的桂花開了，香氣撲鼻。我們抱着樹幹用力搖，桂花紛紛落下，好像下了一場雨，我們叫它「桂花雨」。長大後離開了家鄉，每到秋天，我總會想起家鄉的桂花雨。
 T:作者寫桂花雨，也表達了對家鄉的懷念。|寫童年搖桂花，表達思鄉之情。
 ## P5|chi|p5c99|實用文：週記
 M:週記最主要的作用是：|記錄一星期的生活和感受|邀請朋友|申請工作|通知家長|週記記一星期的生活和感受。
@@ -455,12 +473,17 @@ S|Fill in the correct verb form: I am ___ (draw) a picture now.|drawing|am + 動
 F|In 'A fish can flies', the verb form after 'can' is correct.|情態動詞 can 後面必須用動詞原形（can fly），不可加 -s 或 -ies。
 
 ## P2|eng|p2e4|Textbook 2A Reading: School Places, Rules & Hansel and Gretel
-M|In the story of Sally and Sam the squirrels, where is the art room?|On the first floor|On the fifth floor|In the garden|On the ground floor|根據 2A Ch 1 課文，美勞室（art room）在一樓（on the first floor），可以在裏面畫畫和做手偶。
-M|What can Sally and Sam do in the library on the second floor?|Borrow books|Buy snacks|Make puppets|Play hopscotch|根據 2A Ch 1 課文，圖書館在二樓，學生可以在那裏借書（borrow books）。
-M|In the 2A Ch 2 pamphlet, what does the word 'huge' mean in 'The library is huge'?|big|new|small|quiet|根據 2A Ch 2 閱讀練習第 3 題，huge 的意思是 big（巨大／很大）。
+P:Sally and Sam are squirrels. They are at their new school.\nSally: Look! This is the art room. It's on the first floor. We can draw pictures and make puppets here.\nSam: Where is the library?\nSally: It's on the second floor. We can borrow books there.
+M|In the story, where is the art room?|On the first floor|On the fifth floor|In the garden|On the ground floor|根據短文，美勞室（art room）在一樓（on the first floor），可以在裏面畫畫和做手偶。
+M|What can Sally and Sam do in the library on the second floor?|Borrow books|Buy snacks|Make puppets|Play hopscotch|根據短文，圖書館在二樓，學生可以在那裏借書（borrow books）。
+P:School pamphlet: Welcome to our school! The library is huge. It has lots of books. The hall is big too.
+M|In the school pamphlet, what does the word 'huge' mean in 'The library is huge'?|big|new|small|quiet|根據短文，huge 的意思是 big（巨大／很大）。
+P:-
 M|What is the rule in the garden? You ___ pick the flowers.|mustn't|are|can|must|在花園裏絕對不可以摘花，要用 mustn't（不可）。
-M|In the story 'Hansel and Gretel' (2A Ch 3), why do they eat some biscuits?|Because they are hungry.|Because they are bored.|Because it is morning.|Because they are cold.|根據 2A Ch 3 故事，Hansel 和 Gretel 因為肚餓（hungry），所以提議吃餅乾（Let's eat some biscuits）。
-M|In 'Hansel and Gretel', what happens when they wake up from their nap?|It is dark and they are lost.|They find a library.|They go swimming.|They meet a giraffe.|根據 2A Ch 3 故事第 4 格，他們午睡醒來時天黑了（It's dark!），而且迷路了（We're lost!）。
+P:Hansel and Gretel walk in the forest.\nHansel: I'm hungry.\nGretel: Me too. Let's eat some biscuits.\nThey eat and then take a nap under a tree. When they wake up…\nGretel: Oh no! It's dark!\nHansel: We're lost!
+M|In the story 'Hansel and Gretel', why do they eat some biscuits?|Because they are hungry.|Because they are bored.|Because it is morning.|Because they are cold.|根據故事，Hansel 和 Gretel 因為肚餓（hungry），所以提議吃餅乾（Let's eat some biscuits）。
+M|In 'Hansel and Gretel', what happens when they wake up from their nap?|It is dark and they are lost.|They find a library.|They go swimming.|They meet a giraffe.|根據故事，他們午睡醒來時天黑了（It's dark!），而且迷路了（We're lost!）。
+P:-
 S|Complete the suggestion from Hansel: 'I'm tired.' 'Me too. ___ take a short rest.'|Let's|提議一起休息用 Let's（Let's take a short rest.）。
 T|We use 'in' for a room (e.g. in the music room) and 'on' for a floor (e.g. on the first floor).|房間用 in（in the art room / library），樓層用 on（on the first / ground floor）。
 
@@ -534,41 +557,60 @@ S|Fill in the correct form: Tina likes ___ (swim) in the sea in summer.|swimming
 O|Which>season>do you like best|Rearrange the words to form a question.|詢問最喜歡哪個季節：Which season do you like best?
 
 ## P3|eng|p3e5|Reading 3B Ch 1–2: Stories, Magic Potions & Children's Messages
-M|In Reading 3B Ch 1 ('Amy and Snowy'), why did the other ducks laugh at Snowy at first?|Because Snowy was big and grey, not yellow like them.|Because Snowy could not swim.|Because Snowy ate all their food.|Because Snowy was a dog.|根據 Reading 3B Ch 1 故事，Snowy 起初又大又灰，跟其他黃色小鴨不同，長大後才發現是一隻美麗的白天鵝（swan）。
-M|In the Magic Potions advertisement (Reading 3B Ch 1 Text 2), who wrote a review for 'Hair-grow'?|Rapunzel|The Big Bad Wolf|The Giant|Snow White|根據 Reading 3B Ch 1 廣告，長髮公主 Rapunzel 推薦令頭髮變長的魔藥 Hair-grow。
-M|In Reading 3B Ch 2 Text 1, why did Spod pass the Maths test while his friends failed?|Because Spod studied hard while his friends played and ate.|Because Spod's dad was the teacher.|Because Spod copied his friend's answers.|Because the test was very easy.|根據 Reading 3B Ch 2 故事，Spod 留在家裏努力溫習數學，而其他朋友只顧玩耍和吃東西。
-M|In Reading 3B Ch 2 Text 2 (Sunny Days Children's Centre), what did Paul do with the old people?|He visited an old people's home and played games with them.|He went to Disneyland.|He made magic potions.|He went bird-watching in Tai Po Kau.|根據 Reading 3B Ch 2 留言板，Paul 探訪老人院並與長者一起玩遊戲。
-M|Where did Jenny go bird-watching in Reading 3B Ch 2 Text 2?|Tai Po Kau|Causeway Bay|Lantau Island|Sai Kung|根據 Reading 3B Ch 2 課文，Jenny 去大埔滘（Tai Po Kau）觀鳥。
-T|In Reading 3B Ch 1 Text 2, 'Body-power' potion helps the drinker become strong like The Giant.|巨人（The Giant）推薦 Body-power 魔藥，讓人變得強壯。
+P:Amy lives near a pond. One spring, five baby ducks hatch. Four are small and yellow. One is big and grey. The other ducks laugh at him. Amy calls him Snowy and is kind to him. Months later, Snowy grows up into a beautiful white swan.
+M|In the story 'Amy and Snowy', why did the other ducks laugh at Snowy at first?|Because Snowy was big and grey, not yellow like them.|Because Snowy could not swim.|Because Snowy ate all their food.|Because Snowy was a dog.|根據故事，Snowy 起初又大又灰，跟其他黃色小鴨不同，長大後才發現是一隻美麗的白天鵝（swan）。
+P:MAGIC POTIONS – try our best potions!\nHair-grow: Make your hair long and shiny. 'I love it!' – Rapunzel\nBody-power: Be strong like a giant. 'I feel so strong!' – The Giant
+M|In the Magic Potions advertisement, who wrote a review for 'Hair-grow'?|Rapunzel|The Big Bad Wolf|The Giant|Snow White|根據廣告，長髮公主 Rapunzel 推薦令頭髮變長的魔藥 Hair-grow。
+P:Spod and his friends have a Maths test on Monday. At the weekend, his friends play games and eat snacks. Spod stays at home and studies hard. On Monday, Spod passes the test, but his friends fail.
+M|In the story, why did Spod pass the Maths test while his friends failed?|Because Spod studied hard while his friends played and ate.|Because Spod's dad was the teacher.|Because Spod copied his friend's answers.|Because the test was very easy.|根據故事，Spod 留在家裏努力溫習數學，而其他朋友只顧玩耍和吃東西。
+P:Sunny Days Children's Centre – Message Board\nPaul: Last Saturday I visited an old people's home. I played games with the old people. It was fun!\nJenny: I went bird-watching in Tai Po Kau. I saw many birds.
+M|On the Sunny Days Children's Centre message board, what did Paul do with the old people?|He visited an old people's home and played games with them.|He went to Disneyland.|He made magic potions.|He went bird-watching in Tai Po Kau.|根據留言板，Paul 探訪老人院並與長者一起玩遊戲。
+M|Where did Jenny go bird-watching according to the message board?|Tai Po Kau|Causeway Bay|Lantau Island|Sai Kung|根據留言板，Jenny 去大埔滘（Tai Po Kau）觀鳥。
+P:MAGIC POTIONS – try our best potions!\nHair-grow: Make your hair long and shiny. 'I love it!' – Rapunzel\nBody-power: Be strong like a giant. 'I feel so strong!' – The Giant
+T|In the Magic Potions advertisement, 'Body-power' potion helps the drinker become strong like The Giant.|巨人（The Giant）推薦 Body-power 魔藥，讓人變得強壯。
+P:Amy lives near a pond. One spring, five baby ducks hatch. Four are small and yellow. One is big and grey. The other ducks laugh at him. Amy calls him Snowy and is kind to him. Months later, Snowy grows up into a beautiful white swan.
 S|In 'Amy and Snowy', Snowy grew up into a beautiful white ___.|swan|Snowy 長大後變成一隻美麗的白天鵝（swan）。
 
 ## P3|eng|p3e6|Reading 3B Ch 3–4: Diary, Storyland Play, Comics & Body Parts Fable
-M|In Reading 3B Ch 3 Text 1, when was the witch's birthday party held at Wendy's house?|On 31st October (Halloween)|On 1st May|On 1st January|On 25th December (Christmas)|根據 Reading 3B Ch 3 日記，派對在 10 月 31 日萬聖節（Halloween）舉行。
-M|In the play 'Unhappy Birthdays in Storyland' (Reading 3B Ch 3 Text 2), why was the Little Pig unhappy?|Because the wolf blew his birthday cake and house away.|Because he lost his textbook.|Because he had no friends.|Because Snow White ate his apple.|根據 Reading 3B Ch 3 戲劇，大灰狼吹走了小豬的生日蛋糕和房子。
-M|In Reading 3B Ch 3 Text 2, what happened when the Dragon tried to blow out the candles on his birthday cake?|He breathed fire and burnt the birthday cake!|He made ice cream.|He fell asleep.|The candles did not go out.|根據 Reading 3B Ch 3 戲劇，龍吹蠟燭時噴出火，把蛋糕燒焦了。
-M|In the fable 'The Stomach and Other Body Parts' (Reading 3B Ch 4 Text 2), why did the hands, mouth and teeth stop working?|They thought the stomach was lazy and did nothing.|They went on holiday.|The brain told them to sleep.|They were broken.|根據 Reading 3B Ch 4 寓言故事，手、嘴和牙齒以為胃（stomach）很懶惰不工作，所以罷工。
+P:Diary – 31st October\nToday was Halloween. There was a birthday party for a witch at Wendy's house. We wore costumes and played games.
+M|In the diary, when was the witch's birthday party held at Wendy's house?|On 31st October (Halloween)|On 1st May|On 1st January|On 25th December (Christmas)|根據日記，派對在 10 月 31 日萬聖節（Halloween）舉行。
+P:Unhappy Birthdays in Storyland (a short play)\nLittle Pig: It's my birthday, but I'm so sad. The wolf came. He blew and blew. He blew my birthday cake and my house away!\nDragon: I'm sad too. I tried to blow out the candles on my cake, but I breathed fire and burnt my birthday cake!
+M|In the play 'Unhappy Birthdays in Storyland', why was the Little Pig unhappy?|Because the wolf blew his birthday cake and house away.|Because he lost his textbook.|Because he had no friends.|Because Snow White ate his apple.|根據戲劇，大灰狼吹走了小豬的生日蛋糕和房子。
+M|In the play, what happened when the Dragon tried to blow out the candles on his birthday cake?|He breathed fire and burnt the birthday cake!|He made ice cream.|He fell asleep.|The candles did not go out.|根據戲劇，龍吹蠟燭時噴出火，把蛋糕燒焦了。
+P:The Stomach and Other Body Parts\nThe hands, the mouth and the teeth were angry. 'The stomach is lazy. It does nothing!' they said. So they stopped working, and no food went into the stomach. Soon the whole body felt weak and tired. They learnt that the stomach digests food and gives energy to the whole body. Every part of the body is important, and they must work together.
+M|In the fable 'The Stomach and Other Body Parts', why did the hands, mouth and teeth stop working?|They thought the stomach was lazy and did nothing.|They went on holiday.|The brain told them to sleep.|They were broken.|根據寓言故事，手、嘴和牙齒以為胃（stomach）很懶惰不工作，所以罷工。
 M|What lesson does the fable 'The Stomach and Other Body Parts' teach us?|Every part of the body is important and must work together.|Only the brain needs food.|The stomach is not useful.|Hands are more important than eyes.|當手和嘴不把食物送進胃裏，全身都變得虛弱無力，說明身體各部分必須分工合作。
-T|In the comic strip about David, his father and the donkey (Reading 3B Ch 4 Text 1), trying to please everyone made them carry the donkey in the end.|父子二人不斷聽別人批評而改變騎驢的方式，最後竟抬着驢走，說明不能盲目討好所有人。
+P:David and his father walk to the market with their donkey. People say, 'Why don't you ride it?' So David rides. Others say, 'Poor father!' Then the father rides. Later they both ride. People say, 'Poor donkey!' They try to please everyone. In the end, David and his father carry the donkey.
+T|In the comic strip about David, his father and the donkey, trying to please everyone made them carry the donkey in the end.|父子二人不斷聽別人批評而改變騎驢的方式，最後竟抬着驢走，說明不能盲目討好所有人。
+P:The Stomach and Other Body Parts\nThe hands, the mouth and the teeth were angry. 'The stomach is lazy. It does nothing!' they said. So they stopped working, and no food went into the stomach. Soon the whole body felt weak and tired. They learnt that the stomach digests food and gives energy to the whole body. Every part of the body is important, and they must work together.
 S|In the fable, which body part digests food to give energy to the whole body? The ___.|stomach|胃（stomach）負責消化食物，為全身提供能量。
 
 ## P3|eng|p3e7|Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs
-M|In the Summer Programme notice (Reading 3B Ch 5 Text 2), on which day do students need swimwear and a towel?|Monday|Thursday|Wednesday|Friday|根據暑期活動時間表，星期一（Monday）下午 2:30 有游泳課（Swimming），因此需要帶泳衣和毛巾。
+P:Summer Programme (2:30–4:30 p.m.)\nMonday: Swimming – bring swimwear and a towel\nTuesday: Art and craft\nWednesday: Cooking\nThursday: Drama\nFriday: Mini Olympics – races and games\nNotes: Bring your own lunch. You can get free drinks.
+M|In the Summer Programme notice, on which day do students need swimwear and a towel?|Monday|Thursday|Wednesday|Friday|根據暑期活動時間表，星期一（Monday）下午 2:30 有游泳課（Swimming），因此需要帶泳衣和毛巾。
 M|Jacky is good at sports and wants to take part in a race. On which day should he join the Mini Olympics?|Friday|Monday|Tuesday|Wednesday|根據暑期活動時間表，星期五（Friday）下午 2:30 舉行小型運動會（Mini Olympics）。
 M|According to the Summer Programme notes, what can students get for free?|Free drinks|Free lunch boxes|Free computers|Free swimwear|根據注意事項（Notes），學生需自備午餐，但活動會免費提供飲品（get free drinks）。
-M|On the webpage 'BOOKS FOR KIDS' (Reading 3B Ch 6 Text 1), why are the tiger cubs afraid in 'Mummy Tiger, Where Are You?'?|Because they can't find their mum.|Because Nick fights with them.|Because Tilly plays a trick on them.|Because they can't find Tilly.|根據 Reading 3B Ch 6 p.21–22，虎媽媽出去找食物沒有回來，小老虎找不到媽媽所以很害怕。
-M|In 'Mummy Tiger, Where Are You?', the big sister Tilly is NOT ___.|naughty|kind|brave|helpful|根據 Reading 3B Ch 6 p.22 第 1 題，大姐 Tilly 既勇敢又體貼照顧弟妹，所以她並不頑皮（NOT naughty）。
-M|In the magazine article about brave dogs (Reading 3B Ch 6 Text 2), how did Peter's dog Susie save him from the house fire?|Susie barked to wake the neighbours and pulled Peter away from the fire.|Susie called the police on the phone.|Susie poured water on the fire.|Susie jumped on a snake in the garden.|根據 Reading 3B Ch 6 p.23，Peter 受傷無法走動，小狗 Susie 大聲吠叫喚醒鄰居，並把 Peter 拉離火場。
-M|What is the best title for the magazine article about Joe and Susie in Reading 3B Ch 6?|More than a best friend|Joe at the vet's|Well done, Joe!|Thanks, Susie!|文章介紹了 Joe 和 Susie 兩隻勇敢救主人的狗，標題應涵蓋全文，最佳標題是 'More than a best friend'。
+P:BOOKS FOR KIDS\n'Mummy Tiger, Where Are You?' – Mummy Tiger goes out to find food, but she does not come back. The tiger cubs can't find their mum, so they are afraid. Their big sister Tilly is brave and kind. She looks after Nick and the other little cubs.\n'Lazy Linda's New School' – This is the fifth book in the Lazy Linda series.
+M|On the webpage 'BOOKS FOR KIDS', why are the tiger cubs afraid in 'Mummy Tiger, Where Are You?'?|Because they can't find their mum.|Because Nick fights with them.|Because Tilly plays a trick on them.|Because they can't find Tilly.|根據網頁介紹，虎媽媽出去找食物沒有回來，小老虎找不到媽媽所以很害怕。
+M|In 'Mummy Tiger, Where Are You?', the big sister Tilly is NOT ___.|naughty|kind|brave|helpful|根據網頁介紹，大姐 Tilly 既勇敢又體貼照顧弟妹，所以她並不頑皮（NOT naughty）。
+P:Brave Dogs\nJoe: An old man fell into a river. His dog Joe jumped in and pulled him out.\nSusie: One night, there was a fire in Peter's house. Peter was hurt and could not walk. His dog Susie barked loudly and woke up the neighbours. Then she pulled Peter away from the fire.
+M|In the magazine article about brave dogs, how did Peter's dog Susie save him from the house fire?|Susie barked to wake the neighbours and pulled Peter away from the fire.|Susie called the police on the phone.|Susie poured water on the fire.|Susie jumped on a snake in the garden.|根據文章，Peter 受傷無法走動，小狗 Susie 大聲吠叫喚醒鄰居，並把 Peter 拉離火場。
+M|What is the best title for the magazine article about Joe and Susie?|More than a best friend|Joe at the vet's|Well done, Joe!|Thanks, Susie!|文章介紹了 Joe 和 Susie 兩隻勇敢救主人的狗，標題應涵蓋全文，最佳標題是 'More than a best friend'。
+P:BOOKS FOR KIDS\n'Mummy Tiger, Where Are You?' – Mummy Tiger goes out to find food, but she does not come back. The tiger cubs can't find their mum, so they are afraid. Their big sister Tilly is brave and kind. She looks after Nick and the other little cubs.\n'Lazy Linda's New School' – This is the fifth book in the Lazy Linda series.
 S|In 'Lazy Linda's New School' (the 5th book in the series), how many OTHER Lazy Linda books are there? (Write a number)|4/four|這是系列中的第 5 本書（fifth book），所以同系列另外還有 4 本。
 
 ## P3|eng|p3e8|Reading 3B Boosters A–C: Book Covers, Notices & Contents Pages
-M|On the book cover 'All Change for the Chans!' (Booster A), what happens to eight-year-old Eric Chan during a storm?|He swaps bodies with his 35-year-old dad, Tony.|He moves to Scotland.|He turns into a funny dog.|He writes fifteen children's books.|根據 Booster A（p.25），八歲的 Eric 在暴風雨中與 35 歲的爸爸交換了身體，Eric 要去上班，爸爸卻要去返學。
-M|In Booster A, the 'Crown Readers' series is for Primary 4–6 students. Who is the illustrator of the front cover?|Glenda Li|Tom Smith|Michael Hill|Eric Wong|根據 Booster A（p.25），作者是 Michael Hill，而封面插畫師（illustrator）是 Glenda Li。
-M|In the notice about after-school classes with 'Clive the Clown' (Booster B), Maggie Lau is in Class 2C. On which day can she have lessons?|On Mondays|On Wednesdays|On Sundays|On Fridays|根據 Booster B（p.27–28），小一至小三（Primary 1–3）的課堂在星期一（Mondays 3–4 p.m.），Maggie 讀 2C 班，所以星期一上課。
-M|In Booster B, what is Clive the Clown's job?|To make people happy with jokes, magic tricks, juggling and balloon toys.|To teach Maths and Science.|To look after sick children as a doctor.|To drive the school bus.|根據 Booster B 第 2 題，Clive 是小丑，他的工作是表演魔術、雜耍和扭氣球逗人開心（make people happy）。
-M|In Booster C ('Bedtime Stories for Children' contents page), Anne reads: 'Oh dear! She dropped her purse again!' Which story is she reading?|Careless Cathy|Honest Ollie and the Maths Test|Brave Baby Bear|George the Clever Robot|根據 Booster C（p.29–30），經常粗心掉錢包（dropped her purse again）對應故事《Careless Cathy》。
-M|In Booster C, Paul reads: 'He could see the test papers on the teacher's desk...' Which story starting on page 35 is he reading?|Honest Ollie and the Maths Test|Poor Charlie and the Chocolate Mountain|The Day Grandpa Looked After Us|Why Don't You Play With Me?|看到老師桌上的測驗卷（test papers），對應第 35 頁開始的故事《Honest Ollie and the Maths Test》（因此在第 37 頁）。
-F|In Booster A, 'Book Shop Monthly' is the publisher of the book 'All Change for the Chans!'.|Book Shop Monthly 只是撰寫書評的雜誌（Tom Smith, Book Shop Monthly），並非出版社。
+P:Book cover: All Change for the Chans! (Crown Readers, for Primary 4–6)\nWritten by Michael Hill. Cover illustrated by Glenda Li.\nDuring a storm, eight-year-old Eric Chan swaps bodies with his 35-year-old dad, Tony! Now Eric has to go to work and Dad has to go to school.\n'A very funny book!' – Tom Smith, Book Shop Monthly
+M|On the book cover 'All Change for the Chans!', what happens to eight-year-old Eric Chan during a storm?|He swaps bodies with his 35-year-old dad, Tony.|He moves to Scotland.|He turns into a funny dog.|He writes fifteen children's books.|根據書本封面，八歲的 Eric 在暴風雨中與 35 歲的爸爸交換了身體，Eric 要去上班，爸爸卻要去返學。
+M|The book is in the 'Crown Readers' series for Primary 4–6 students. Who is the illustrator of the front cover?|Glenda Li|Tom Smith|Michael Hill|Eric Wong|根據書本封面，作者是 Michael Hill，而封面插畫師（illustrator）是 Glenda Li。
+P:After-school classes with Clive the Clown!\nClive is a clown. He makes people happy with jokes, magic tricks, juggling and balloon toys.\nPrimary 1–3: Mondays, 3–4 p.m.\nPrimary 4–6: Wednesdays, 3–4 p.m.
+M|In the notice about after-school classes with 'Clive the Clown', Maggie Lau is in Class 2C. On which day can she have lessons?|On Mondays|On Wednesdays|On Sundays|On Fridays|根據通告，小一至小三（Primary 1–3）的課堂在星期一（Mondays 3–4 p.m.），Maggie 讀 2C 班，所以星期一上課。
+M|In the notice, what is Clive the Clown's job?|To make people happy with jokes, magic tricks, juggling and balloon toys.|To teach Maths and Science.|To look after sick children as a doctor.|To drive the school bus.|根據通告，Clive 是小丑，他的工作是表演魔術、雜耍和扭氣球逗人開心（make people happy）。
+P:Bedtime Stories for Children – Contents\nBrave Baby Bear (a little bear is not afraid of the dark) … page 5\nCareless Cathy (a girl who always loses her things) … page 13\nGeorge the Clever Robot (a robot helps a family) … page 21\nHonest Ollie and the Maths Test (a boy sees the test papers on the teacher's desk) … page 35\nPoor Charlie and the Chocolate Mountain (a boy eats too much chocolate) … page 43
+M|Look at the contents page of 'Bedtime Stories for Children'. Anne reads: 'Oh dear! She dropped her purse again!' Which story is she reading?|Careless Cathy|Honest Ollie and the Maths Test|Brave Baby Bear|George the Clever Robot|根據目錄簡介，經常粗心掉錢包（dropped her purse again）對應故事《Careless Cathy》。
+M|Look at the contents page. Paul reads: 'He could see the test papers on the teacher's desk...' Which story starting on page 35 is he reading?|Honest Ollie and the Maths Test|Poor Charlie and the Chocolate Mountain|The Day Grandpa Looked After Us|Why Don't You Play With Me?|看到老師桌上的測驗卷（test papers），對應第 35 頁開始的故事《Honest Ollie and the Maths Test》（因此在第 37 頁）。
+P:Book cover: All Change for the Chans! (Crown Readers, for Primary 4–6)\nWritten by Michael Hill. Cover illustrated by Glenda Li.\nDuring a storm, eight-year-old Eric Chan swaps bodies with his 35-year-old dad, Tony! Now Eric has to go to work and Dad has to go to school.\n'A very funny book!' – Tom Smith, Book Shop Monthly
+F|On the book cover, 'Book Shop Monthly' is the publisher of the book 'All Change for the Chans!'.|Book Shop Monthly 只是撰寫書評的雜誌（Tom Smith, Book Shop Monthly），並非出版社。
 
 ## P3|eng|p3e9|Grammar 3A–3B Overview: Simple Past Tense, Connectives & Quantifiers
 M|We ___ a magic show at the children's centre yesterday.|watched|watching|watch|watches|句末有過去時間詞 yesterday，動詞要用簡單過去式 watched。
@@ -616,61 +658,61 @@ S|Fill in the reflexive pronoun: Leo made this model plane all by ___ (he).|hims
 O|I was>reading a book>when the lights went out|Rearrange the words to form a correct sentence.|過去進行式長動作 + when + 過去式短動作：I was reading a book when the lights went out.
 
 ## P6|eng|p6e1|Grammar 6A Ch 1: First Conditional & Nouns and Gender
-M|Sandy ___ fit if she ___ exercise every day.|will be, does|is, will do|be, does|will be, will do|根據 Grammar 6A p.1：第一類條件句（First conditional），主句用將來式 will be，if 條件子句用簡單現在式 does。
-M|If my brother Ken ___ any homework, he will visit Grandma on Sunday.|doesn't have|don't have|won't have|isn't have|根據 Grammar 6A p.1：if 子句中用簡單現在式，第三人稱單數 Ken 的否定式為 doesn't have。
-M|We ___ sashimi at the fish market if we ___ up early one day.|will eat, wake|eat, will wake|will eat, will wake|ate, woke|根據 Grammar 6A p.2（Tim 的信）：主句用 will eat，if 子句用簡單現在式 wake。
-M|In the play, Jerry is the king and Sarah is the ___.|queen|empress|witch|princess|根據 Grammar 6A p.3（名詞性別）：king（國王）對應的女性名詞（feminine noun）是 queen（王后）。
-M|The ___ and the empress have a lot of gold and jewels.|emperor|king|prince|wizard|根據 Grammar 6A p.3–4：empress（女皇／皇后）對應的男性名詞（masculine noun）是 emperor（皇帝）。
-M|Which of the following is a 'common-gender noun' (can be used for both men and women)?|firefighter|actress|waitress|fireman|根據 Grammar 6A p.3：firefighter（消防員）、police officer、parent、child 等屬於通性名詞（common-gender nouns）。
-S|Fill in the feminine noun (Grammar 6A p.3): A man who acts in a film is an actor. A woman who acts in a film is an ___.|actress|actor（男演員）對應的女性名詞是 actress（女演員）。
-O|If the weather>is fine>Dad will take lots of photos|Rearrange the words to form a first conditional sentence (Grammar 6A p.2).|If 子句用簡單現在式（If the weather is fine），主句用將來式（Dad will take lots of photos.）。
+M|Sandy ___ fit if she ___ exercise every day.|will be, does|is, will do|be, does|will be, will do|第一類條件句（First conditional），主句用將來式 will be，if 條件子句用簡單現在式 does。
+M|If my brother Ken ___ any homework, he will visit Grandma on Sunday.|doesn't have|don't have|won't have|isn't have|if 子句中用簡單現在式，第三人稱單數 Ken 的否定式為 doesn't have。
+M|We ___ sashimi at the fish market if we ___ up early one day.|will eat, wake|eat, will wake|will eat, will wake|ate, woke|主句用 will eat，if 子句用簡單現在式 wake。
+M|In the play, Jerry is the king and Sarah is the ___.|queen|empress|witch|princess|king（國王）對應的女性名詞（feminine noun）是 queen（王后）。
+M|The ___ and the empress have a lot of gold and jewels.|emperor|king|prince|wizard|empress（女皇／皇后）對應的男性名詞（masculine noun）是 emperor（皇帝）。
+M|Which of the following is a 'common-gender noun' (can be used for both men and women)?|firefighter|actress|waitress|fireman|firefighter（消防員）、police officer、parent、child 等屬於通性名詞（common-gender nouns）。
+S|Fill in the feminine noun: A man who acts in a film is an actor. A woman who acts in a film is an ___.|actress|actor（男演員）對應的女性名詞是 actress（女演員）。
+O|If the weather>is fine>Dad will take lots of photos|Rearrange the words to form a first conditional sentence.|If 子句用簡單現在式（If the weather is fine），主句用將來式（Dad will take lots of photos.）。
 
 ## P6|eng|p6e2|Grammar 6A Ch 2: Connectives (so that / so / because) & To-infinitives
-M|Peter practises the piano every day ___ he can pass the piano exam.|so that|however|because|so|根據 Grammar 6A p.5：表示「為了達到某目的」（後接 can / will 子句）用連接詞 so that。
-M|The prince wanted to save the princess, ___ he fought the wicked dragon.|so|although|because|so that|根據 Grammar 6A p.5–6：前半句是原因，後半句是結果（戰鬥），中間用連接詞 so（因此）。
-M|Candy didn't go to the party ___ she had a bad cold.|because|so|but|so that|根據 Grammar 6A p.5：後半句說明沒去派對的原因（患了重感冒），用連接詞 because。
-M|Remember ___ the windows before you leave the classroom.|to close|close|closed|closing|根據 Grammar 6A p.7：remember + to-infinitive（Remember to close）表示「記得要做某事」。
-M|My little brother is learning ___ a bicycle in the park.|to ride|riding|rides|ride|根據 Grammar 6A p.7–8：動詞 learn 後面要接帶 to 的不定式（learn to ride）。
-S|Complete with 'to' + verb (Grammar 6A p.7): Oh no! I forgot ___ (bring) my English workbook today.|to bring|forget 後接 to-infinitive：forgot to bring（忘記帶）。
-T|We often use modal verbs like 'can', 'will', 'could' or 'would' in the clause after 'so that' to show purpose.|根據 Grammar 6A p.5，so that 引導的目的狀語從句常配合 can / could / will / would 使用。
+M|Peter practises the piano every day ___ he can pass the piano exam.|so that|however|because|so|表示「為了達到某目的」（後接 can / will 子句）用連接詞 so that。
+M|The prince wanted to save the princess, ___ he fought the wicked dragon.|so|although|because|so that|前半句是原因，後半句是結果（戰鬥），中間用連接詞 so（因此）。
+M|Candy didn't go to the party ___ she had a bad cold.|because|so|but|so that|後半句說明沒去派對的原因（患了重感冒），用連接詞 because。
+M|Remember ___ the windows before you leave the classroom.|to close|close|closed|closing|remember + to-infinitive（Remember to close）表示「記得要做某事」。
+M|My little brother is learning ___ a bicycle in the park.|to ride|riding|rides|ride|動詞 learn 後面要接帶 to 的不定式（learn to ride）。
+S|Complete with 'to' + verb: Oh no! I forgot ___ (bring) my English workbook today.|to bring|forget 後接 to-infinitive：forgot to bring（忘記帶）。
+T|We often use modal verbs like 'can', 'will', 'could' or 'would' in the clause after 'so that' to show purpose.|so that 引導的目的狀語從句常配合 can / could / will / would 使用。
 
 ## P6|eng|p6e3|Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to
-M|___ it is raining heavily outside, we have to cancel the picnic.|Since|So that|So|However|根據 Grammar 6A p.9：Since 放在句首表示「既然／由於」（給出已知原因），相當於 Because。
-M|The box is ___ heavy ___ carry. Can you help me?|too, to|so, that|too, for|very, to|根據 Grammar 6A p.11：too + 形容詞 + to + 動詞原形（too heavy to carry）表示「太……以致不能……」。
-M|This puzzle is ___ difficult ___ my little sister ___ solve.|too, for, to|too, to, for|very, for, to|so, for, to|根據 Grammar 6A p.12：too + 形容詞 + for + 某人 + to + 動詞原形（too difficult for my little sister to solve）。
-M|The soup is too hot for the baby ___.|to drink|drinking|drinks|drank|根據 Grammar 6A p.12：too ... for someone 後接 to-infinitive（to drink）。
-M|Mum turned on the air conditioner ___ the room would be cool.|so that|since|too|because|根據 Grammar 6A p.9–10：開冷氣的目的是令房間涼快（would be cool），用 so that。
-S|Rewrite using 'too ... to' (Grammar 6A p.11): Leo is very tired. He cannot walk any further. -> Leo is ___ tired ___ walk any further.|too, to/too,to/too to|too tired to walk 表示「太累而走不動」。
-O|The shelf is>too high>for Jenny to reach|Rearrange the words to form a correct sentence (Grammar 6A p.12).|結構：too + 形容詞 (high) + for + 人 (Jenny) + to + 動詞 (reach)。
+M|___ it is raining heavily outside, we have to cancel the picnic.|Since|So that|So|However|Since 放在句首表示「既然／由於」（給出已知原因），相當於 Because。
+M|The box is ___ heavy ___ carry. Can you help me?|too, to|so, that|too, for|very, to|too + 形容詞 + to + 動詞原形（too heavy to carry）表示「太……以致不能……」。
+M|This puzzle is ___ difficult ___ my little sister ___ solve.|too, for, to|too, to, for|very, for, to|so, for, to|too + 形容詞 + for + 某人 + to + 動詞原形（too difficult for my little sister to solve）。
+M|The soup is too hot for the baby ___.|to drink|drinking|drinks|drank|too ... for someone 後接 to-infinitive（to drink）。
+M|Mum turned on the air conditioner ___ the room would be cool.|so that|since|too|because|開冷氣的目的是令房間涼快（would be cool），用 so that。
+S|Rewrite using 'too ... to': Leo is very tired. He cannot walk any further. -> Leo is ___ tired ___ walk any further.|too, to/too,to/too to|too tired to walk 表示「太累而走不動」。
+O|The shelf is>too high>for Jenny to reach|Rearrange the words to form a correct sentence.|結構：too + 形容詞 (high) + for + 人 (Jenny) + to + 動詞 (reach)。
 
 ## P6|eng|p6e4|Grammar 6A Ch 4: Correlative Conjunctions (either...or / neither...nor / both...and)
-M|After lunch, we can ___ go cycling ___ watch a film.|either, or|both, or|neither, nor|either, and|根據 Grammar 6A p.15 & p.27：表示在兩個選擇中「或者……或者……（二選一）」用 either ... or。
-M|___ Bill ___ I can ride a bike, so let's watch a film instead.|Neither, nor|Neither, or|Either, or|Both, and|根據 Grammar 6A p.16 & p.27：表示「既不……也不……（兩個都不會）」用 Neither ... nor。
-M|___ action films ___ romantic films are interesting to me. Let's watch a comedy.|Neither, nor|Both, or|Neither, and|Either, or|根據 Grammar 6A p.27 Section A Q5：否定兩種電影都無趣用 Neither action films nor romantic films。
-M|___ Jenny ___ her brother like playing badminton. They play together every Saturday.|Both, and|Either, or|Neither, nor|Both, or|根據 Grammar 6A p.18：表示「兩個都喜歡」用 Both ... and，謂語動詞用複數 like。
-M|Neither the king nor the queen ___ happy about the bad news.|is|are|were|be|根據 Grammar 6A p.16–18：neither ... nor 連接兩個單數主語時，動詞跟隨鄰近單數主語用 is。
-S|Fill in the blank (Grammar 6A p.15): You can have either apple juice ___ orange juice.|or|either 與 or 搭配（either ... or）。
+M|After lunch, we can ___ go cycling ___ watch a film.|either, or|both, or|neither, nor|either, and|表示在兩個選擇中「或者……或者……（二選一）」用 either ... or。
+M|___ Bill ___ I can ride a bike, so let's watch a film instead.|Neither, nor|Neither, or|Either, or|Both, and|表示「既不……也不……（兩個都不會）」用 Neither ... nor。
+M|___ action films ___ romantic films are interesting to me. Let's watch a comedy.|Neither, nor|Both, or|Neither, and|Either, or|否定兩種電影都無趣用 Neither action films nor romantic films。
+M|___ Jenny ___ her brother like playing badminton. They play together every Saturday.|Both, and|Either, or|Neither, nor|Both, or|表示「兩個都喜歡」用 Both ... and，謂語動詞用複數 like。
+M|Neither the king nor the queen ___ happy about the bad news.|is|are|were|be|neither ... nor 連接兩個單數主語時，動詞跟隨鄰近單數主語用 is。
+S|Fill in the blank: You can have either apple juice ___ orange juice.|or|either 與 or 搭配（either ... or）。
 F|'Neither Tom or Jerry likes cheese.' uses the correct pair of conjunctions.|Neither 必須與 nor 搭配（Neither Tom nor Jerry），不可用 or。
 
 ## P6|eng|p6e5|Grammar 6A Ch 5: Second Conditional, Relative Pronouns & -ed/-ing Adjectives
-M|If I ___ a writer, I ___ write books about animals.|were, would|was, will|were, will|am, will|根據 Grammar 6A p.19 & p.28：第二類條件句（假設現在不可能或相反的情況），if 子句用過去式 were，主句用 would + 原形動詞。
-M|If Candy ___ a dragon, she ___ ride on it.|met, would|met, will|meet, would|meets, will|根據 Grammar 6A p.28 Section C Q1：遇見龍是幻想情境（Second conditional），用 If Candy met a dragon, she would ride on it。
-M|Susan is the girl ___ is performing a magic show.|who|where|which|whose|根據 Grammar 6A p.20 & p.27：先行詞 the girl 是人，關係代詞（relative pronoun）用 who。
-M|This is a wallet ___ is made of soft leather.|which|where|whom|who|根據 Grammar 6A p.20 & p.27：先行詞 a wallet 是物件，關係代詞用 which。
-M|The clown's jokes were very ___. All the audience felt ___.|amusing, amused|amusing, amusing|amused, amused|amused, amusing|根據 Grammar 6A p.21 & p.28：形容事物「令人發笑的」用 -ing 形容詞 amusing；形容人「感到好笑的」用 -ed 形容詞 amused。
-M|The prince showed true love to the princess. Everyone was deeply ___.|touched|touching|touches|touch|根據 Grammar 6A p.28 Section D Q2：形容人「深受感動」要用 -ed 形容詞 touched（而非 touching）。
-S|Correct the mistake (Grammar 6A p.28 Section D Q4): 'If I am Rapunzel, I would let down my long hair.' -> Change 'am' to:|were|第二類條件句中，If I 後面用虛擬語氣 were（If I were Rapunzel...）。
-O|If Amy>saw a fairy>she would draw a picture of it|Rearrange the words to form a second conditional sentence (Grammar 6A p.28).|第二類條件句：If Amy saw a fairy, she would draw a picture of it.
+M|If I ___ a writer, I ___ write books about animals.|were, would|was, will|were, will|am, will|第二類條件句（假設現在不可能或相反的情況），if 子句用過去式 were，主句用 would + 原形動詞。
+M|If Candy ___ a dragon, she ___ ride on it.|met, would|met, will|meet, would|meets, will|遇見龍是幻想情境（Second conditional），用 If Candy met a dragon, she would ride on it。
+M|Susan is the girl ___ is performing a magic show.|who|where|which|whose|先行詞 the girl 是人，關係代詞（relative pronoun）用 who。
+M|This is a wallet ___ is made of soft leather.|which|where|whom|who|先行詞 a wallet 是物件，關係代詞用 which。
+M|The clown's jokes were very ___. All the audience felt ___.|amusing, amused|amusing, amusing|amused, amused|amused, amusing|形容事物「令人發笑的」用 -ing 形容詞 amusing；形容人「感到好笑的」用 -ed 形容詞 amused。
+M|The prince showed true love to the princess. Everyone was deeply ___.|touched|touching|touches|touch|形容人「深受感動」要用 -ed 形容詞 touched（而非 touching）。
+S|Correct the mistake: 'If I am Rapunzel, I would let down my long hair.' -> Change 'am' to:|were|第二類條件句中，If I 後面用虛擬語氣 were（If I were Rapunzel...）。
+O|If Amy>saw a fairy>she would draw a picture of it|Rearrange the words to form a second conditional sentence.|第二類條件句：If Amy saw a fairy, she would draw a picture of it.
 
 ## P6|eng|p6e6|Grammar 6A Ch 6: Similes (as ... as / be ... like) & Connectives (however / but)
-M|The princess's skin is ___ white ___ snow.|as, as|like, as|so, as|as, like|根據 Grammar 6A p.23：明喻結構 as + 形容詞 + as（as white as snow 雪白）。
-M|Sam is ___ proud ___ a peacock.|as, as|like, as|as, like|too, to|根據 Grammar 6A p.28 Section D Q1：as proud as a peacock（像孔雀一樣驕傲），不可寫 proud like a peacock。
-M|The firefighter is brave ___ a lion.|like|as|so|for|根據 Grammar 6A p.23–24：be + 形容詞 + like + 名詞（brave like a lion 像獅子一樣勇敢）。
-M|After the teacher explained the rule, everything is clear ___ crystal now.|like|likes|as|to|根據 Grammar 6A p.28 Section D Q8：這裏的 like 是介詞（「像水晶一樣清晰」），不可加 -s 寫成 likes。
-M|Grandpa is seventy years old, ___ he is still as strong as an ox.|but|because|however|although|根據 Grammar 6A p.25 & p.28：在同一個句子中間連接兩個轉折分句（前面只有逗號，後無逗號），用連接詞 but。
-M|Bob is very smart. ___, he is proud and rude to his classmates.|However|So that|Although|But|根據 Grammar 6A p.25 & p.28 Section D Q5：放在第二句句首並有逗號隔開，表示「然而／可是」用 However,。
-S|Complete the simile (Grammar 6A p.23): The old man is as wise as an ___.|owl|固定比喻搭配：as wise as an owl（像貓頭鷹一樣有智慧）。
-T|In 'The pillows are as soft as clouds', 'as ... as' is used to compare two things that are similar.|根據 Grammar 6A p.23，我們用 as ... as 和 be ... like 來作比喻（similes）。
+M|The princess's skin is ___ white ___ snow.|as, as|like, as|so, as|as, like|明喻結構 as + 形容詞 + as（as white as snow 雪白）。
+M|Sam is ___ proud ___ a peacock.|as, as|like, as|as, like|too, to|as proud as a peacock（像孔雀一樣驕傲），不可寫 proud like a peacock。
+M|The firefighter is brave ___ a lion.|like|as|so|for|be + 形容詞 + like + 名詞（brave like a lion 像獅子一樣勇敢）。
+M|After the teacher explained the rule, everything is clear ___ crystal now.|like|likes|as|to|這裏的 like 是介詞（「像水晶一樣清晰」），不可加 -s 寫成 likes。
+M|Grandpa is seventy years old, ___ he is still as strong as an ox.|but|because|however|although|在同一個句子中間連接兩個轉折分句（前面只有逗號，後無逗號），用連接詞 but。
+M|Bob is very smart. ___, he is proud and rude to his classmates.|However|So that|Although|But|放在第二句句首並有逗號隔開，表示「然而／可是」用 However,。
+S|Complete the simile: The old man is as wise as an ___.|owl|固定比喻搭配：as wise as an owl（像貓頭鷹一樣有智慧）。
+T|In 'The pillows are as soft as clouds', 'as ... as' is used to compare two things that are similar.|我們用 as ... as 和 be ... like 來作比喻（similes）。
 
 # P1 補充題庫（數學、人文、科學）及 P3 全科題庫（中文、數學、人文、科學）
 ## P1|math|p1m1|1至20的認識與順逆數

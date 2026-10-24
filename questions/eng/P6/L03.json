@@ -16,7 +16,7 @@
     "However",
     "So that"
    ],
-   "explain": "根據 Grammar 6A p.9：Since 放在句首表示「既然／由於」（給出已知原因），相當於 Because。",
+   "explain": "Since 放在句首表示「既然／由於」（給出已知原因），相當於 Because。",
    "id": "ENG-P6-L03-001",
    "grade": "P6",
    "subject": "eng",
@@ -36,7 +36,7 @@
     "too, for",
     "so, that"
    ],
-   "explain": "根據 Grammar 6A p.11：too + 形容詞 + to + 動詞原形（too heavy to carry）表示「太……以致不能……」。",
+   "explain": "too + 形容詞 + to + 動詞原形（too heavy to carry）表示「太……以致不能……」。",
    "id": "ENG-P6-L03-002",
    "grade": "P6",
    "subject": "eng",
@@ -56,7 +56,7 @@
     "too, for, to",
     "very, for, to"
    ],
-   "explain": "根據 Grammar 6A p.12：too + 形容詞 + for + 某人 + to + 動詞原形（too difficult for my little sister to solve）。",
+   "explain": "too + 形容詞 + for + 某人 + to + 動詞原形（too difficult for my little sister to solve）。",
    "id": "ENG-P6-L03-003",
    "grade": "P6",
    "subject": "eng",
@@ -76,7 +76,7 @@
     "to drink",
     "drank"
    ],
-   "explain": "根據 Grammar 6A p.12：too ... for someone 後接 to-infinitive（to drink）。",
+   "explain": "too ... for someone 後接 to-infinitive（to drink）。",
    "id": "ENG-P6-L03-004",
    "grade": "P6",
    "subject": "eng",
@@ -96,7 +96,7 @@
     "because",
     "too"
    ],
-   "explain": "根據 Grammar 6A p.9–10：開冷氣的目的是令房間涼快（would be cool），用 so that。",
+   "explain": "開冷氣的目的是令房間涼快（would be cool），用 so that。",
    "id": "ENG-P6-L03-005",
    "grade": "P6",
    "subject": "eng",
@@ -108,7 +108,7 @@
   },
   {
    "type": "fill",
-   "q": "Rewrite using 'too ... to' (Grammar 6A p.11): Leo is very tired. He cannot walk any further. -> Leo is ___ tired ___ walk any further.",
+   "q": "Rewrite using 'too ... to': Leo is very tired. He cannot walk any further. -> Leo is ___ tired ___ walk any further.",
    "answer": [
     "too, to",
     "too,to",
@@ -120,13 +120,13 @@
    "subject": "eng",
    "lesson": "L03",
    "level": "應用",
-   "question": "Rewrite using 'too ... to' (Grammar 6A p.11): Leo is very tired. He cannot walk any further. -> Leo is ___ tired ___ walk any further.",
+   "question": "Rewrite using 'too ... to': Leo is very tired. He cannot walk any further. -> Leo is ___ tired ___ walk any further.",
    "source": "英文補充教材｜Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to",
    "verified": false
   },
   {
    "type": "order",
-   "q": "Rearrange the words to form a correct sentence (Grammar 6A p.12).",
+   "q": "Rearrange the words to form a correct sentence.",
    "items": [
     "The shelf is",
     "too high",
@@ -143,7 +143,7 @@
    "subject": "eng",
    "lesson": "L03",
    "level": "應用",
-   "question": "Rearrange the words to form a correct sentence (Grammar 6A p.12).",
+   "question": "Rearrange the words to form a correct sentence.",
    "source": "英文補充教材｜Grammar 6A Ch 3: Connectives (since / so / so that) & too ... (for ...) to",
    "verified": false
   }

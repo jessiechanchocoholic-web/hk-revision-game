@@ -59,3 +59,5 @@ button,select,input,a{touch-action:manipulation;-webkit-tap-highlight-color:tran
 .rand-panel select{font:inherit;font-size:1.1rem;padding:10px;border-radius:12px;border:2px solid #9ab;margin:6px}.rand-result{font-size:1.15rem;font-weight:bold;min-height:1.5em}
 button:disabled{opacity:.6;cursor:default}button:focus-visible,select:focus-visible{outline:3px solid #ecc94b;outline-offset:2px}
 @media (prefers-reduced-motion:reduce){.rand-reel.spin,.rand-reel.done{animation:none}}
+.passage{font-size:1.05rem;line-height:1.75;white-space:pre-line;background:#fffbea;border:2px solid #f3d37a;border-radius:12px;padding:10px 14px;margin:8px 0 4px;max-height:42vh;overflow-y:auto;-webkit-overflow-scrolling:touch;overflow-wrap:anywhere;color:#333}
+@media (max-width:480px){.passage{font-size:1rem;padding:8px 12px;max-height:38vh}}

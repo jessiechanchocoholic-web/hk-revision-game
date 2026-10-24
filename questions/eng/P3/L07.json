@@ -8,7 +8,7 @@
  "questions": [
   {
    "type": "mc",
-   "q": "In the Summer Programme notice (Reading 3B Ch 5 Text 2), on which day do students need swimwear and a towel?",
+   "q": "In the Summer Programme notice, on which day do students need swimwear and a towel?",
    "answer": "Monday",
    "options": [
     "Friday",
@@ -17,12 +17,13 @@
     "Wednesday"
    ],
    "explain": "根據暑期活動時間表，星期一（Monday）下午 2:30 有游泳課（Swimming），因此需要帶泳衣和毛巾。",
+   "passage": "Summer Programme (2:30–4:30 p.m.)\nMonday: Swimming – bring swimwear and a towel\nTuesday: Art and craft\nWednesday: Cooking\nThursday: Drama\nFriday: Mini Olympics – races and games\nNotes: Bring your own lunch. You can get free drinks.",
    "id": "ENG-P3-L07-001",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L07",
    "level": "應用",
-   "question": "In the Summer Programme notice (Reading 3B Ch 5 Text 2), on which day do students need swimwear and a towel?",
+   "question": "In the Summer Programme notice, on which day do students need swimwear and a towel?",
    "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
    "verified": false
   },
@@ -37,6 +38,7 @@
     "Friday"
    ],
    "explain": "根據暑期活動時間表，星期五（Friday）下午 2:30 舉行小型運動會（Mini Olympics）。",
+   "passage": "Summer Programme (2:30–4:30 p.m.)\nMonday: Swimming – bring swimwear and a towel\nTuesday: Art and craft\nWednesday: Cooking\nThursday: Drama\nFriday: Mini Olympics – races and games\nNotes: Bring your own lunch. You can get free drinks.",
    "id": "ENG-P3-L07-002",
    "grade": "P3",
    "subject": "eng",
@@ -57,6 +59,7 @@
     "Free lunch boxes"
    ],
    "explain": "根據注意事項（Notes），學生需自備午餐，但活動會免費提供飲品（get free drinks）。",
+   "passage": "Summer Programme (2:30–4:30 p.m.)\nMonday: Swimming – bring swimwear and a towel\nTuesday: Art and craft\nWednesday: Cooking\nThursday: Drama\nFriday: Mini Olympics – races and games\nNotes: Bring your own lunch. You can get free drinks.",
    "id": "ENG-P3-L07-003",
    "grade": "P3",
    "subject": "eng",
@@ -68,7 +71,7 @@
   },
   {
    "type": "mc",
-   "q": "On the webpage 'BOOKS FOR KIDS' (Reading 3B Ch 6 Text 1), why are the tiger cubs afraid in 'Mummy Tiger, Where Are You?'?",
+   "q": "On the webpage 'BOOKS FOR KIDS', why are the tiger cubs afraid in 'Mummy Tiger, Where Are You?'?",
    "answer": "Because they can't find their mum.",
    "options": [
     "Because they can't find Tilly.",
@@ -76,13 +79,14 @@
     "Because Tilly plays a trick on them.",
     "Because they can't find their mum."
    ],
-   "explain": "根據 Reading 3B Ch 6 p.21–22，虎媽媽出去找食物沒有回來，小老虎找不到媽媽所以很害怕。",
+   "explain": "根據網頁介紹，虎媽媽出去找食物沒有回來，小老虎找不到媽媽所以很害怕。",
+   "passage": "BOOKS FOR KIDS\n'Mummy Tiger, Where Are You?' – Mummy Tiger goes out to find food, but she does not come back. The tiger cubs can't find their mum, so they are afraid. Their big sister Tilly is brave and kind. She looks after Nick and the other little cubs.\n'Lazy Linda's New School' – This is the fifth book in the Lazy Linda series.",
    "id": "ENG-P3-L07-004",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L07",
    "level": "應用",
-   "question": "On the webpage 'BOOKS FOR KIDS' (Reading 3B Ch 6 Text 1), why are the tiger cubs afraid in 'Mummy Tiger, Where Are You?'?",
+   "question": "On the webpage 'BOOKS FOR KIDS', why are the tiger cubs afraid in 'Mummy Tiger, Where Are You?'?",
    "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
    "verified": false
   },
@@ -96,7 +100,8 @@
     "brave",
     "kind"
    ],
-   "explain": "根據 Reading 3B Ch 6 p.22 第 1 題，大姐 Tilly 既勇敢又體貼照顧弟妹，所以她並不頑皮（NOT naughty）。",
+   "explain": "根據網頁介紹，大姐 Tilly 既勇敢又體貼照顧弟妹，所以她並不頑皮（NOT naughty）。",
+   "passage": "BOOKS FOR KIDS\n'Mummy Tiger, Where Are You?' – Mummy Tiger goes out to find food, but she does not come back. The tiger cubs can't find their mum, so they are afraid. Their big sister Tilly is brave and kind. She looks after Nick and the other little cubs.\n'Lazy Linda's New School' – This is the fifth book in the Lazy Linda series.",
    "id": "ENG-P3-L07-005",
    "grade": "P3",
    "subject": "eng",
@@ -108,7 +113,7 @@
   },
   {
    "type": "mc",
-   "q": "In the magazine article about brave dogs (Reading 3B Ch 6 Text 2), how did Peter's dog Susie save him from the house fire?",
+   "q": "In the magazine article about brave dogs, how did Peter's dog Susie save him from the house fire?",
    "answer": "Susie barked to wake the neighbours and pulled Peter away from the fire.",
    "options": [
     "Susie barked to wake the neighbours and pulled Peter away from the fire.",
@@ -116,19 +121,20 @@
     "Susie jumped on a snake in the garden.",
     "Susie called the police on the phone."
    ],
-   "explain": "根據 Reading 3B Ch 6 p.23，Peter 受傷無法走動，小狗 Susie 大聲吠叫喚醒鄰居，並把 Peter 拉離火場。",
+   "explain": "根據文章，Peter 受傷無法走動，小狗 Susie 大聲吠叫喚醒鄰居，並把 Peter 拉離火場。",
+   "passage": "Brave Dogs\nJoe: An old man fell into a river. His dog Joe jumped in and pulled him out.\nSusie: One night, there was a fire in Peter's house. Peter was hurt and could not walk. His dog Susie barked loudly and woke up the neighbours. Then she pulled Peter away from the fire.",
    "id": "ENG-P3-L07-006",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L07",
    "level": "應用",
-   "question": "In the magazine article about brave dogs (Reading 3B Ch 6 Text 2), how did Peter's dog Susie save him from the house fire?",
+   "question": "In the magazine article about brave dogs, how did Peter's dog Susie save him from the house fire?",
    "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
    "verified": false
   },
   {
    "type": "mc",
-   "q": "What is the best title for the magazine article about Joe and Susie in Reading 3B Ch 6?",
+   "q": "What is the best title for the magazine article about Joe and Susie?",
    "answer": "More than a best friend",
    "options": [
     "Thanks, Susie!",
@@ -137,12 +143,13 @@
     "Joe at the vet's"
    ],
    "explain": "文章介紹了 Joe 和 Susie 兩隻勇敢救主人的狗，標題應涵蓋全文，最佳標題是 'More than a best friend'。",
+   "passage": "Brave Dogs\nJoe: An old man fell into a river. His dog Joe jumped in and pulled him out.\nSusie: One night, there was a fire in Peter's house. Peter was hurt and could not walk. His dog Susie barked loudly and woke up the neighbours. Then she pulled Peter away from the fire.",
    "id": "ENG-P3-L07-007",
    "grade": "P3",
    "subject": "eng",
    "lesson": "L07",
    "level": "應用",
-   "question": "What is the best title for the magazine article about Joe and Susie in Reading 3B Ch 6?",
+   "question": "What is the best title for the magazine article about Joe and Susie?",
    "source": "英文補充教材｜Reading 3B Ch 5–6: Blog Entries, Notices, Book Webpages & Brave Dogs",
    "verified": false
   },
@@ -154,6 +161,7 @@
     "four"
    ],
    "explain": "這是系列中的第 5 本書（fifth book），所以同系列另外還有 4 本。",
+   "passage": "BOOKS FOR KIDS\n'Mummy Tiger, Where Are You?' – Mummy Tiger goes out to find food, but she does not come back. The tiger cubs can't find their mum, so they are afraid. Their big sister Tilly is brave and kind. She looks after Nick and the other little cubs.\n'Lazy Linda's New School' – This is the fifth book in the Lazy Linda series.",
    "id": "ENG-P3-L07-008",
    "grade": "P3",
    "subject": "eng",

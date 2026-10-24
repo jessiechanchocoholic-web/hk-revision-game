@@ -16,7 +16,7 @@
     "because",
     "however"
    ],
-   "explain": "根據 Grammar 6A p.5：表示「為了達到某目的」（後接 can / will 子句）用連接詞 so that。",
+   "explain": "表示「為了達到某目的」（後接 can / will 子句）用連接詞 so that。",
    "id": "ENG-P6-L02-001",
    "grade": "P6",
    "subject": "eng",
@@ -36,7 +36,7 @@
     "so",
     "although"
    ],
-   "explain": "根據 Grammar 6A p.5–6：前半句是原因，後半句是結果（戰鬥），中間用連接詞 so（因此）。",
+   "explain": "前半句是原因，後半句是結果（戰鬥），中間用連接詞 so（因此）。",
    "id": "ENG-P6-L02-002",
    "grade": "P6",
    "subject": "eng",
@@ -56,7 +56,7 @@
     "so that",
     "so"
    ],
-   "explain": "根據 Grammar 6A p.5：後半句說明沒去派對的原因（患了重感冒），用連接詞 because。",
+   "explain": "後半句說明沒去派對的原因（患了重感冒），用連接詞 because。",
    "id": "ENG-P6-L02-003",
    "grade": "P6",
    "subject": "eng",
@@ -76,7 +76,7 @@
     "closed",
     "to close"
    ],
-   "explain": "根據 Grammar 6A p.7：remember + to-infinitive（Remember to close）表示「記得要做某事」。",
+   "explain": "remember + to-infinitive（Remember to close）表示「記得要做某事」。",
    "id": "ENG-P6-L02-004",
    "grade": "P6",
    "subject": "eng",
@@ -96,7 +96,7 @@
     "ride",
     "riding"
    ],
-   "explain": "根據 Grammar 6A p.7–8：動詞 learn 後面要接帶 to 的不定式（learn to ride）。",
+   "explain": "動詞 learn 後面要接帶 to 的不定式（learn to ride）。",
    "id": "ENG-P6-L02-005",
    "grade": "P6",
    "subject": "eng",
@@ -108,7 +108,7 @@
   },
   {
    "type": "fill",
-   "q": "Complete with 'to' + verb (Grammar 6A p.7): Oh no! I forgot ___ (bring) my English workbook today.",
+   "q": "Complete with 'to' + verb: Oh no! I forgot ___ (bring) my English workbook today.",
    "answer": [
     "to bring"
    ],
@@ -118,7 +118,7 @@
    "subject": "eng",
    "lesson": "L02",
    "level": "應用",
-   "question": "Complete with 'to' + verb (Grammar 6A p.7): Oh no! I forgot ___ (bring) my English workbook today.",
+   "question": "Complete with 'to' + verb: Oh no! I forgot ___ (bring) my English workbook today.",
    "source": "英文補充教材｜Grammar 6A Ch 2: Connectives (so that / so / because) & To-infinitives",
    "verified": false
   },
@@ -126,7 +126,7 @@
    "type": "tf",
    "q": "We often use modal verbs like 'can', 'will', 'could' or 'would' in the clause after 'so that' to show purpose.",
    "answer": true,
-   "explain": "根據 Grammar 6A p.5，so that 引導的目的狀語從句常配合 can / could / will / would 使用。",
+   "explain": "so that 引導的目的狀語從句常配合 can / could / will / would 使用。",
    "id": "ENG-P6-L02-007",
    "grade": "P6",
    "subject": "eng",
