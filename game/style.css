@@ -92,3 +92,8 @@ body[data-grade="P1"] .order-picked,body[data-grade="P2"] .order-picked{font-siz
 @media (min-width:700px) and (orientation:landscape){.passage{max-height:45vh}}
 /* 手機：短文框唔再困喺細框，跟頁面捲 */
 @media (max-width:480px){body{font-size:18px}.q{font-size:1.3rem}button{font-size:1.15rem;padding:12px 14px}.opts button{font-size:1.2rem}.passage{font-size:1.15rem;max-height:none;overflow:visible}.grid{grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}body[data-grade="P1"] .q,body[data-grade="P2"] .q{font-size:1.45rem}body[data-grade="P1"] .opts button,body[data-grade="P2"] .opts button{font-size:1.3rem}body[data-grade="P1"] .passage,body[data-grade="P2"] .passage{font-size:1.25rem}}
+/* B10-DEV-01：選擇題 A. B. C. D. 標籤 */
+.opts button.mc-opt{display:flex;align-items:baseline;gap:10px;text-align:left}
+.opt-lbl{display:inline-block;min-width:1.7em;font-weight:800;color:#2b6cb0;flex-shrink:0}
+.opt-txt{flex:1;min-width:0;overflow-wrap:anywhere}
+.correct .opt-lbl{color:#22543d}.wrong .opt-lbl{color:#742a2a}
