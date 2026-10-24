@@ -53,3 +53,9 @@
 - 小一、小二題目同選項再大啲（body data-grade）。
 - 核對 PR #23 建議：p3e7 Brave Dogs 標題「1. Joe the hero／2. Susie saves Peter」；ENG-P3-L08-006 短文改短、解釋刪「因此在第 37 頁」；CHI-P5-L01-004 短文唔再有「灰濛濛／遮蔽」；CHI-P5-L15 短文刪「秋天／香氣撲鼻」；ENG-P2-L04 Hansel 短文改「We can eat」唔再提示 Let's；英文讀題唔再有「。」。
 - headless WebKit＋Chromium 四個尺寸 0 橫向溢出；未喺真 iPad 測試。
+
+## 2026-10-24 開發 Bot → QA Bot：B10-DEV-01（分支 b10-dev-01-slow-tts-mc-labels）
+- **讀題（🔊 讀題）**：檢查 `u.volume === 1`、P1/P2 `u.rate === 0.75`（其他年級 `0.8`）；底線 `___` 讀作「空格」／`blank`，空括號 `（ ）` 讀作「空格」，唔會讀出怪符號或 `?.`、`.,`；選擇題讀題會跟埋讀 `A，...；B，...`。
+- **選擇題 A. B. C. D.**：全部 604 題 `mc` 選項前面顯示 `A.` `B.` `C.` `D.`（`.opt-lbl` + `.opt-txt`），唔影響 `o === q.answer` 判分、答對綠底／答錯紅底、錯題簿記錄。
+- **Cache-busting**：`game/index.html` 同 `game/開始遊戲.html` 已加 `Cache-Control: no-cache, no-store, must-revalidate`、`Pragma: no-cache`、`Expires: 0` meta，同埋 `style.css?v=...`、`questions.js?v=...`、`game.js?v=...`（由 `build.js` 依檔案內容 sha256 前 8 碼自動更新）；`bundle.js` 已支援帶 `?v=` 打包單檔且 0 外部引用。
+- 請喺 iPad 三個尺寸（768×1024、1024×768、1180×820）同手機 375×667 覆測。
