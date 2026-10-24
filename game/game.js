@@ -35,7 +35,7 @@ function randCombos(gid){var c=[];GRADES.forEach(function(G){if(gid&&G.id!==gid)
 function comboLabel(c){var G=GRADES.filter(function(x){return x.id===c.g})[0];return G.name+' · '+SUBJ[c.s].icon+' '+SUBJ[c.s].name}
 function reducedMotion(){try{return window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches}catch(e){return false}}
 var randTimer=null;
-function randomPick(gid){var combos=randCombos(gid);var box=document.getElementById('randBox'),out=document.getElementById('randResult'),reel=document.getElementById('randReel');
+function randomPick(gid){stopRand();var combos=randCombos(gid);var box=document.getElementById('randBox'),out=document.getElementById('randResult'),reel=document.getElementById('randReel');
  if(!combos.length){out.textContent='呢個年級暫時冇關卡';return}
  var pick=combos[Math.floor(Math.random()*combos.length)];var ls=levelsOf(pick.g,pick.s);var L=ls[Math.floor(Math.random()*ls.length)];
  Array.prototype.forEach.call(box.querySelectorAll('button,select'),function(b){b.disabled=true});
@@ -51,17 +51,20 @@ function randomCard(){var sel=h('select',{id:'randGrade','aria-label':'固定年
   h('div',{class:'rand-modes'},[h('button',{class:'primary',onclick:function(){randomPick(null)}},['🎲 全部隨機']),
    h('span',{class:'rand-fixed'},[sel,h('button',{class:'primary',onclick:function(){randomPick(sel.value)}},['🎯 固定年級、隨機科目'])])]),
   h('p',{id:'randResult',class:'rand-result',role:'status','aria-live':'polite'},[''])]);
- var btn=h('button',{class:'big rand-btn','aria-expanded':'false','aria-controls':'randBox',onclick:function(){var open=panel.hasAttribute('hidden');if(open)panel.removeAttribute('hidden');else panel.setAttribute('hidden','hidden');btn.setAttribute('aria-expanded',String(open))}},['🎲 隨機']);
+ var btn=h('button',{class:'big rand-btn','aria-expanded':'false','aria-controls':'randBox',onclick:function(){var open=panel.hasAttribute('hidden');if(!open){stopRand();var rr=document.getElementById('randReel');if(rr){rr.className='rand-reel';rr.textContent='🎲 ？？？';rr.style.background=''}var ro=document.getElementById('randResult');if(ro)ro.textContent='';Array.prototype.forEach.call(panel.querySelectorAll('button,select'),function(b){b.disabled=false})}if(open)panel.removeAttribute('hidden');else panel.setAttribute('hidden','hidden');btn.setAttribute('aria-expanded',String(open))}},['🎲 隨機']);
  return h('div',{class:'card rand-card'},[btn,h('span',{class:'note'},[' 唔知揀邊科？等波波幫你抽！']),panel])}
-function home(){if(randTimer){clearTimeout(randTimer);randTimer=null}upd();app.innerHTML='';document.getElementById('title').textContent='溫習闖關大冒險';
+function stopRand(){if(randTimer){clearTimeout(randTimer);randTimer=null}}
+function fresh(){stopRand();window.__homeOk=true;var jf=document.getElementById('jsfail');if(jf)jf.setAttribute('hidden','hidden');var a=document.activeElement;if(a&&a.blur&&a!==document.body)a.blur();app.innerHTML='';try{window.scrollTo(0,0)}catch(e){}}
+var coarse=!!(window.matchMedia&&matchMedia('(pointer:coarse)').matches);
+function home(){upd();fresh();document.getElementById('title').textContent='溫習闖關大冒險';
  app.appendChild(h('div',{class:'card'},[h('div',{class:'big'},['揀你嘅年級 👇']),h('p',{class:'note'},['小學上學期第一次考試範圍溫習'])]));
  var g=h('div',{class:'grid'});GRADES.forEach(function(G){g.appendChild(h('button',{class:'big',onclick:function(){grade(G.id)}},[G.name+(G.note?' ('+G.note+')':'')]))});app.appendChild(g);app.appendChild(randomCard())}
-function grade(gid){upd();app.innerHTML='';var G=GRADES.filter(function(x){return x.id===gid})[0];document.getElementById('title').textContent=G.name+(G.note?' · '+G.note:'');
+function grade(gid){upd();fresh();var G=GRADES.filter(function(x){return x.id===gid})[0];document.getElementById('title').textContent=G.name+(G.note?' · '+G.note:'');
  app.appendChild(h('div',{class:'card'},[h('div',{class:'big'},['揀科目世界']),h('button',{onclick:home},['⬅ 返回'])]));
  var g=h('div',{class:'grid'});Object.keys(SUBJ).forEach(function(s){var ls=levelsOf(gid,s);if(!ls.length)return;var got=ls.reduce(function(a,l){return a+(st.stars[l.id]||0)},0);
   g.appendChild(h('button',{onclick:function(){world(gid,s)}},[h('div',{class:'big'},[SUBJ[s].icon+' '+SUBJ[s].name]),h('small',{},[ls.length+' 關 · ⭐'+got+'/'+ls.length*3])]))});
  app.appendChild(g)}
-function world(gid,s){upd();app.innerHTML='';var ls=levelsOf(gid,s);var practice=gid==='P1';
+function world(gid,s){upd();fresh();var ls=levelsOf(gid,s);var practice=gid==='P1';
  document.getElementById('title').textContent=SUBJ[s].icon+' '+SUBJ[s].name+' · '+gid;
  app.appendChild(h('div',{class:'card'},[h('button',{onclick:function(){grade(gid)}},['⬅ '+T(s,'返回','Back')]),h('span',{class:'note'},[UNLOCK_ALL?T(s,'所有關卡已解鎖，揀任何一關開始！','All levels unlocked – pick any level!'):T(s,'過一關（至少1星）就解鎖下一關','Get at least 1 star to unlock the next level')])]));
  var g=h('div',{class:'grid'});var allDone=true;
@@ -113,7 +116,7 @@ function mascot(mood,grade,subj){var t=THEME[subj]||THEME.math,g=GTHEME[grade]||
  return m}
 function play(qs,meta){var s=meta.subject;var list=meta.review||meta.boss?qs:shuffle(qs).slice(0,8);var i=0,score=0,firstTry=true;
  var lang=s==='eng'?'en-GB':'zh-HK';var readAloud=meta.grade==='P2'&&(s==='chi'||s==='eng'||true);
- function show(){app.innerHTML='';firstTry=true;var q=list[i];
+ function show(){fresh();firstTry=true;var q=list[i];
   var c=h('div',{class:'card'});c.appendChild(h('div',{},[h('button',{onclick:function(){world(meta.grade,s)}},['⬅ '+T(s,'離開','Quit')]),h('b',{},[meta.title]),h('span',{class:'tag'},[(i+1)+' / '+list.length])]));
   var pr=h('div',{class:'prog'},[h('div',{style:'width:'+(i/list.length*100)+'%'})]);c.appendChild(pr);
   var qtext=q.type==='order'?q.q:q.q;c.appendChild(h('div',{class:'q'},[qtext]));
@@ -128,16 +131,16 @@ function play(qs,meta){var s=meta.subject;var list=meta.review||meta.boss?qs:shu
   if(q.type==='mc'){q.options.forEach(function(o){var b=h('button',{onclick:function(){var ok=o===q.answer;if(ok)b.classList.add('correct');result(ok,b)}},[o]);area.appendChild(b)})}
   else if(q.type==='tf'){[[true,T(s,'✔ 對','✔ True')],[false,T(s,'✘ 錯','✘ False')]].forEach(function(p){var b=h('button',{onclick:function(){var ok=p[0]===q.answer;if(ok)b.classList.add('correct');result(ok,b)}},[p[1]]);area.appendChild(b)})}
   else if(q.type==='fill'){var inp=h('input',{type:'text',inputmode:q.numeric?'numeric':'text',placeholder:T(s,'輸入答案','Type your answer'),autocomplete:'off'});
-   var go=function(){var v=norm(inp.value);if(!v)return;var ok=q.answer.some(function(a){return norm(a)===v});if(ok)inp.classList.add('correct');else{inp.classList.add('wrong');setTimeout(function(){inp.classList.remove('wrong')},600)}result(ok)};
-   inp.onkeydown=function(e){if(e.key==='Enter')go()};area.appendChild(inp);area.appendChild(h('button',{class:'primary',onclick:go},[T(s,'確定','Check')]));setTimeout(function(){inp.focus()},50)}
+   var go=function(){var v=norm(inp.value);if(!v)return;if(coarse)inp.blur();var ok=q.answer.some(function(a){return norm(a)===v});if(ok)inp.classList.add('correct');else{inp.classList.add('wrong');setTimeout(function(){inp.classList.remove('wrong')},600)}result(ok)};
+   inp.onkeydown=function(e){if(e.key==='Enter')go()};area.appendChild(inp);area.appendChild(h('button',{class:'primary',onclick:go},[T(s,'確定','Check')]));if(!coarse)setTimeout(function(){inp.focus()},50)}
   else if(q.type==='order'){var picked=[];var box=h('div',{class:'order-picked'});area.appendChild(h('div',{class:'note'},[T(s,'依次序按下：','Tap in order:')]));area.appendChild(box);
    var pool=h('div');shown.forEach(function(it){var b=h('button',{onclick:function(){picked.push(it);b.disabled=true;box.appendChild(h('span',{class:'tag'},[it]));if(picked.length===q.items.length){var ok=picked.join('|')===q.items.join('|');result(ok);if(!ok){picked=[];box.innerHTML='';Array.prototype.forEach.call(pool.children,function(x){x.disabled=false})}}}},[it]);pool.appendChild(b)});area.appendChild(pool)}
  }
  function finish(){var r=score/list.length;var stars=r>=.9?3:r>=.7?2:r>=.5?1:0;if(!meta.review)st.stars[meta.id]=Math.max(st.stars[meta.id]||0,stars);
   if(meta.boss&&stars>=2)st.badges[meta.id]=1;var all=levelsOf(meta.grade,s);if(all.length&&all.every(function(l){return st.stars[l.id]===3}))st.badges['perfect-'+meta.grade+'-'+s]=1;save();upd();
-  app.innerHTML='';var c=h('div',{class:'card',style:'text-align:center'},[mascot(meta.boss&&stars>=2?'boss':stars?'clear':'wrong',meta.grade,s),h('div',{class:'big'},[meta.boss&&stars>=2?T(s,'打敗 Boss！','Boss defeated!'):stars?T(s,'過關！','Level clear!'):T(s,'再努力！','Keep trying!')]),h('div',{style:'font-size:3rem'},[h('span',{class:'gold'},['★★★'.slice(0,stars)]),h('span',{class:'dim'},['☆☆☆'.slice(0,3-stars)])]),
+  fresh();var c=h('div',{class:'card',style:'text-align:center'},[mascot(meta.boss&&stars>=2?'boss':stars?'clear':'wrong',meta.grade,s),h('div',{class:'big'},[meta.boss&&stars>=2?T(s,'打敗 Boss！','Boss defeated!'):stars?T(s,'過關！','Level clear!'):T(s,'再努力！','Keep trying!')]),h('div',{style:'font-size:3rem'},[h('span',{class:'gold'},['★★★'.slice(0,stars)]),h('span',{class:'dim'},['☆☆☆'.slice(0,3-stars)])]),
    h('p',{},[T(s,'第一次就答對：','First-try correct: ')+score+' / '+list.length]),meta.boss&&stars>=2?h('p',{},['🏅 '+T(s,'獲得 Boss 徽章！','Boss badge earned!')]):h('span'),
    h('button',{onclick:function(){play(qs,meta)}},['🔁 '+T(s,'再玩','Play again')]),h('button',{class:'primary',onclick:function(){world(meta.grade,s)}},[T(s,'返回地圖','Back to map')])]);app.appendChild(c)}
  show()}
-document.getElementById('homeBtn').onclick=home;window.__mascot=mascot;window.__game={randomPick:randomPick,randCombos:randCombos,home:home,grade:grade,world:world,play:play};var wm=location.hash.match(/^#world=(P\d)-(\w+)$/);if(wm){world(wm[1],wm[2]);return}var m=location.hash.match(/^#level=(.+)$/);var L=m&&BANK.levels.filter(function(l){return l.id===m[1]})[0];if(L)play(L.questions,{id:L.id,title:L.title,grade:L.grade,subject:L.subject});else home();
+document.getElementById('homeBtn').onclick=home;window.__mascot=mascot;window.__game={randomPick:randomPick,randCombos:randCombos,home:home,grade:grade,world:world,play:play};try{var wm=location.hash.match(/^#world=(P\d)-(\w+)$/);if(wm){world(wm[1],wm[2]);return}var m=location.hash.match(/^#level=(.+)$/);var L=m&&BANK.levels.filter(function(l){return l.id===m[1]})[0];if(L)play(L.questions,{id:L.id,title:L.title,grade:L.grade,subject:L.subject});else home();}catch(e){try{home()}catch(e2){if(window.__jsfail)window.__jsfail()}}
 })();
