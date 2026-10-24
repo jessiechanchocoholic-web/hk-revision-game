@@ -103,8 +103,8 @@
     "Because it is morning.",
     "Because they are hungry."
    ],
-   "explain": "根據故事，Hansel 和 Gretel 因為肚餓（hungry），所以提議吃餅乾（Let's eat some biscuits）。",
-   "passage": "Hansel and Gretel walk in the forest.\nHansel: I'm hungry.\nGretel: Me too. Let's eat some biscuits.\nThey eat and then take a nap under a tree. When they wake up…\nGretel: Oh no! It's dark!\nHansel: We're lost!",
+   "explain": "根據故事，Hansel 和 Gretel 因為肚餓（hungry），所以吃餅乾（We can eat some biscuits）。",
+   "passage": "Hansel and Gretel walk in the forest.\nHansel: I'm hungry.\nGretel: Me too. We can eat some biscuits.\nThey eat and then take a nap under a tree. When they wake up…\nGretel: Oh no! It's dark!\nHansel: We're lost!",
    "id": "ENG-P2-L04-005",
    "grade": "P2",
    "subject": "eng",
@@ -126,7 +126,7 @@
     "They go swimming."
    ],
    "explain": "根據故事，他們午睡醒來時天黑了（It's dark!），而且迷路了（We're lost!）。",
-   "passage": "Hansel and Gretel walk in the forest.\nHansel: I'm hungry.\nGretel: Me too. Let's eat some biscuits.\nThey eat and then take a nap under a tree. When they wake up…\nGretel: Oh no! It's dark!\nHansel: We're lost!",
+   "passage": "Hansel and Gretel walk in the forest.\nHansel: I'm hungry.\nGretel: Me too. We can eat some biscuits.\nThey eat and then take a nap under a tree. When they wake up…\nGretel: Oh no! It's dark!\nHansel: We're lost!",
    "id": "ENG-P2-L04-006",
    "grade": "P2",
    "subject": "eng",

@@ -136,7 +136,7 @@ M:以下哪一句最適合作週記的感受部分？|這次經歷令我明白�
 M:天空（ ）的，陽光被遮蔽了。|灰濛濛|亮晶晶|綠油油|紅彤彤|陰天天空「灰濛濛」。
 M:他不知道該怎麼辦，心裏很（ ）。|徬徨|興奮|驕傲|輕鬆|不知所措叫「徬徨」。
 M:我抬起頭（ ）天空，看見一線光芒。|仰望|俯視|回頭|閉眼|抬頭向上看叫「仰望」。
-P:（短文）早上，天空灰濛濛的，濃霧把陽光都遮蔽了。我望着窗外，心裏好像壓着一塊大石頭，悶得透不過氣來。
+P:（短文）早上，窗外起了濃霧，四周一片昏暗。我望着窗外，心裏好像壓着一塊大石頭，悶得透不過氣來。
 M:天空被濃霧遮蔽，令「我」聯想到怎樣的心情？|鬱悶|開心|自豪|平靜|陰暗的景物配合鬱悶的心情——借景抒情。
 P:-
 M:「（ ）！我的鉛筆剛才還在桌上，怎麼不見了？」應填哪個歎詞？|咦|哈哈|嗯|唉|「咦」表示驚訝。
@@ -180,12 +180,12 @@ M:「一（ ）藤椅」，括號應填：|張|隻|條|本|椅子用「張」。
 T:借物抒情是借描寫物件來表達感情。|老藤椅寫物，其實表達對親人的情感。
 ## P5|chi|p5c15|第15課 桂花雨
 M:桂花在甚麼季節開花？|秋天|春天|夏天|冬天|桂花多在秋天盛開。
-P:（短文）秋天，家鄉院子裏的桂花開了，香氣撲鼻。我們抱着樹幹用力搖，桂花紛紛落下，好像下了一場雨，我們叫它「桂花雨」。長大後離開了家鄉，每到秋天，我總會想起家鄉的桂花雨。
+P:（短文）小時候，家鄉院子裏有一棵桂花樹。我們抱着樹幹用力搖，桂花紛紛落下，好像下了一場雨，我們叫它「桂花雨」。長大後離開了家鄉，我總會想起家鄉的桂花雨。
 M:「桂花雨」是指：|搖樹時桂花像雨一樣落下|下雨天|桂花味的雨水|很多人哭|桂花紛紛落下，好像下雨。
 P:-
 M:桂花最大的特點是：|很香|很大|很臭|黑色|桂花香氣濃郁。
 M:「香氣撲鼻」的意思是：|香味很濃，傳到鼻子|鼻子痛|沒有味道|很臭|形容香味濃。
-P:（短文）秋天，家鄉院子裏的桂花開了，香氣撲鼻。我們抱着樹幹用力搖，桂花紛紛落下，好像下了一場雨，我們叫它「桂花雨」。長大後離開了家鄉，每到秋天，我總會想起家鄉的桂花雨。
+P:（短文）小時候，家鄉院子裏有一棵桂花樹。我們抱着樹幹用力搖，桂花紛紛落下，好像下了一場雨，我們叫它「桂花雨」。長大後離開了家鄉，我總會想起家鄉的桂花雨。
 T:作者寫桂花雨，也表達了對家鄉的懷念。|寫童年搖桂花，表達思鄉之情。
 ## P5|chi|p5c99|實用文：週記
 M:週記最主要的作用是：|記錄一星期的生活和感受|邀請朋友|申請工作|通知家長|週記記一星期的生活和感受。
@@ -480,8 +480,8 @@ P:School pamphlet: Welcome to our school! The library is huge. It has lots of bo
 M|In the school pamphlet, what does the word 'huge' mean in 'The library is huge'?|big|new|small|quiet|根據短文，huge 的意思是 big（巨大／很大）。
 P:-
 M|What is the rule in the garden? You ___ pick the flowers.|mustn't|are|can|must|在花園裏絕對不可以摘花，要用 mustn't（不可）。
-P:Hansel and Gretel walk in the forest.\nHansel: I'm hungry.\nGretel: Me too. Let's eat some biscuits.\nThey eat and then take a nap under a tree. When they wake up…\nGretel: Oh no! It's dark!\nHansel: We're lost!
-M|In the story 'Hansel and Gretel', why do they eat some biscuits?|Because they are hungry.|Because they are bored.|Because it is morning.|Because they are cold.|根據故事，Hansel 和 Gretel 因為肚餓（hungry），所以提議吃餅乾（Let's eat some biscuits）。
+P:Hansel and Gretel walk in the forest.\nHansel: I'm hungry.\nGretel: Me too. We can eat some biscuits.\nThey eat and then take a nap under a tree. When they wake up…\nGretel: Oh no! It's dark!\nHansel: We're lost!
+M|In the story 'Hansel and Gretel', why do they eat some biscuits?|Because they are hungry.|Because they are bored.|Because it is morning.|Because they are cold.|根據故事，Hansel 和 Gretel 因為肚餓（hungry），所以吃餅乾（We can eat some biscuits）。
 M|In 'Hansel and Gretel', what happens when they wake up from their nap?|It is dark and they are lost.|They find a library.|They go swimming.|They meet a giraffe.|根據故事，他們午睡醒來時天黑了（It's dark!），而且迷路了（We're lost!）。
 P:-
 S|Complete the suggestion from Hansel: 'I'm tired.' 'Me too. ___ take a short rest.'|Let's|提議一起休息用 Let's（Let's take a short rest.）。
@@ -593,7 +593,7 @@ M|According to the Summer Programme notes, what can students get for free?|Free 
 P:BOOKS FOR KIDS\n'Mummy Tiger, Where Are You?' – Mummy Tiger goes out to find food, but she does not come back. The tiger cubs can't find their mum, so they are afraid. Their big sister Tilly is brave and kind. She looks after Nick and the other little cubs.\n'Lazy Linda's New School' – This is the fifth book in the Lazy Linda series.
 M|On the webpage 'BOOKS FOR KIDS', why are the tiger cubs afraid in 'Mummy Tiger, Where Are You?'?|Because they can't find their mum.|Because Nick fights with them.|Because Tilly plays a trick on them.|Because they can't find Tilly.|根據網頁介紹，虎媽媽出去找食物沒有回來，小老虎找不到媽媽所以很害怕。
 M|In 'Mummy Tiger, Where Are You?', the big sister Tilly is NOT ___.|naughty|kind|brave|helpful|根據網頁介紹，大姐 Tilly 既勇敢又體貼照顧弟妹，所以她並不頑皮（NOT naughty）。
-P:Brave Dogs\nJoe: An old man fell into a river. His dog Joe jumped in and pulled him out.\nSusie: One night, there was a fire in Peter's house. Peter was hurt and could not walk. His dog Susie barked loudly and woke up the neighbours. Then she pulled Peter away from the fire.
+P:Brave Dogs\n1. Joe the hero: An old man fell into a river. His dog Joe jumped in and pulled him out.\n2. Susie saves Peter: One night, there was a fire in Peter's house. Peter was hurt and could not walk. His dog Susie barked loudly and woke up the neighbours. Then she pulled Peter away from the fire.
 M|In the magazine article about brave dogs, how did Peter's dog Susie save him from the house fire?|Susie barked to wake the neighbours and pulled Peter away from the fire.|Susie called the police on the phone.|Susie poured water on the fire.|Susie jumped on a snake in the garden.|根據文章，Peter 受傷無法走動，小狗 Susie 大聲吠叫喚醒鄰居，並把 Peter 拉離火場。
 M|What is the best title for the magazine article about Joe and Susie?|More than a best friend|Joe at the vet's|Well done, Joe!|Thanks, Susie!|文章介紹了 Joe 和 Susie 兩隻勇敢救主人的狗，標題應涵蓋全文，最佳標題是 'More than a best friend'。
 P:BOOKS FOR KIDS\n'Mummy Tiger, Where Are You?' – Mummy Tiger goes out to find food, but she does not come back. The tiger cubs can't find their mum, so they are afraid. Their big sister Tilly is brave and kind. She looks after Nick and the other little cubs.\n'Lazy Linda's New School' – This is the fifth book in the Lazy Linda series.
@@ -606,9 +606,9 @@ M|The book is in the 'Crown Readers' series for Primary 4–6 students. Who is t
 P:After-school classes with Clive the Clown!\nClive is a clown. He makes people happy with jokes, magic tricks, juggling and balloon toys.\nPrimary 1–3: Mondays, 3–4 p.m.\nPrimary 4–6: Wednesdays, 3–4 p.m.
 M|In the notice about after-school classes with 'Clive the Clown', Maggie Lau is in Class 2C. On which day can she have lessons?|On Mondays|On Wednesdays|On Sundays|On Fridays|根據通告，小一至小三（Primary 1–3）的課堂在星期一（Mondays 3–4 p.m.），Maggie 讀 2C 班，所以星期一上課。
 M|In the notice, what is Clive the Clown's job?|To make people happy with jokes, magic tricks, juggling and balloon toys.|To teach Maths and Science.|To look after sick children as a doctor.|To drive the school bus.|根據通告，Clive 是小丑，他的工作是表演魔術、雜耍和扭氣球逗人開心（make people happy）。
-P:Bedtime Stories for Children – Contents\nBrave Baby Bear (a little bear is not afraid of the dark) … page 5\nCareless Cathy (a girl who always loses her things) … page 13\nGeorge the Clever Robot (a robot helps a family) … page 21\nHonest Ollie and the Maths Test (a boy sees the test papers on the teacher's desk) … page 35\nPoor Charlie and the Chocolate Mountain (a boy eats too much chocolate) … page 43
+P:Bedtime Stories for Children – Contents\nBrave Baby Bear (a little bear is not afraid of the dark) … page 5\nCareless Cathy (a girl who always loses her things) … page 13\nGeorge the Clever Robot (a robot helps a family) … page 21\nHonest Ollie and the Maths Test (a boy makes a hard choice) … page 35\nPoor Charlie and the Chocolate Mountain (a boy eats too much chocolate) … page 43
 M|Look at the contents page of 'Bedtime Stories for Children'. Anne reads: 'Oh dear! She dropped her purse again!' Which story is she reading?|Careless Cathy|Honest Ollie and the Maths Test|Brave Baby Bear|George the Clever Robot|根據目錄簡介，經常粗心掉錢包（dropped her purse again）對應故事《Careless Cathy》。
-M|Look at the contents page. Paul reads: 'He could see the test papers on the teacher's desk...' Which story starting on page 35 is he reading?|Honest Ollie and the Maths Test|Poor Charlie and the Chocolate Mountain|The Day Grandpa Looked After Us|Why Don't You Play With Me?|看到老師桌上的測驗卷（test papers），對應第 35 頁開始的故事《Honest Ollie and the Maths Test》（因此在第 37 頁）。
+M|Look at the contents page. Paul reads: 'He could see the test papers on the teacher's desk...' Which story starting on page 35 is he reading?|Honest Ollie and the Maths Test|Poor Charlie and the Chocolate Mountain|The Day Grandpa Looked After Us|Why Don't You Play With Me?|看到老師桌上的測驗卷（test papers），對應第 35 頁開始的故事《Honest Ollie and the Maths Test》。
 P:Book cover: All Change for the Chans! (Crown Readers, for Primary 4–6)\nWritten by Michael Hill. Cover illustrated by Glenda Li.\nDuring a storm, eight-year-old Eric Chan swaps bodies with his 35-year-old dad, Tony! Now Eric has to go to work and Dad has to go to school.\n'A very funny book!' – Tom Smith, Book Shop Monthly
 F|On the book cover, 'Book Shop Monthly' is the publisher of the book 'All Change for the Chans!'.|Book Shop Monthly 只是撰寫書評的雜誌（Tom Smith, Book Shop Monthly），並非出版社。
 

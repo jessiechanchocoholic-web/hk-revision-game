@@ -2364,7 +2364,7 @@ window.QUESTION_BANK = {
       "自豪"
      ],
      "explain": "陰暗的景物配合鬱悶的心情——借景抒情。",
-     "passage": "（短文）早上，天空灰濛濛的，濃霧把陽光都遮蔽了。我望着窗外，心裏好像壓着一塊大石頭，悶得透不過氣來。",
+     "passage": "（短文）早上，窗外起了濃霧，四周一片昏暗。我望着窗外，心裏好像壓着一塊大石頭，悶得透不過氣來。",
      "id": "CHI-P5-L01-004",
      "grade": "P5",
      "subject": "chi",
@@ -3015,7 +3015,7 @@ window.QUESTION_BANK = {
       "桂花味的雨水"
      ],
      "explain": "桂花紛紛落下，好像下雨。",
-     "passage": "（短文）秋天，家鄉院子裏的桂花開了，香氣撲鼻。我們抱着樹幹用力搖，桂花紛紛落下，好像下了一場雨，我們叫它「桂花雨」。長大後離開了家鄉，每到秋天，我總會想起家鄉的桂花雨。",
+     "passage": "（短文）小時候，家鄉院子裏有一棵桂花樹。我們抱着樹幹用力搖，桂花紛紛落下，好像下了一場雨，我們叫它「桂花雨」。長大後離開了家鄉，我總會想起家鄉的桂花雨。",
      "id": "CHI-P5-L15-002",
      "grade": "P5",
      "subject": "chi",
@@ -3070,7 +3070,7 @@ window.QUESTION_BANK = {
      "q": "作者寫桂花雨，也表達了對家鄉的懷念。",
      "answer": true,
      "explain": "寫童年搖桂花，表達思鄉之情。",
-     "passage": "（短文）秋天，家鄉院子裏的桂花開了，香氣撲鼻。我們抱着樹幹用力搖，桂花紛紛落下，好像下了一場雨，我們叫它「桂花雨」。長大後離開了家鄉，每到秋天，我總會想起家鄉的桂花雨。",
+     "passage": "（短文）小時候，家鄉院子裏有一棵桂花樹。我們抱着樹幹用力搖，桂花紛紛落下，好像下了一場雨，我們叫它「桂花雨」。長大後離開了家鄉，我總會想起家鄉的桂花雨。",
      "id": "CHI-P5-L15-005",
      "grade": "P5",
      "subject": "chi",
@@ -8143,8 +8143,8 @@ window.QUESTION_BANK = {
       "Because it is morning.",
       "Because they are hungry."
      ],
-     "explain": "根據故事，Hansel 和 Gretel 因為肚餓（hungry），所以提議吃餅乾（Let's eat some biscuits）。",
-     "passage": "Hansel and Gretel walk in the forest.\nHansel: I'm hungry.\nGretel: Me too. Let's eat some biscuits.\nThey eat and then take a nap under a tree. When they wake up…\nGretel: Oh no! It's dark!\nHansel: We're lost!",
+     "explain": "根據故事，Hansel 和 Gretel 因為肚餓（hungry），所以吃餅乾（We can eat some biscuits）。",
+     "passage": "Hansel and Gretel walk in the forest.\nHansel: I'm hungry.\nGretel: Me too. We can eat some biscuits.\nThey eat and then take a nap under a tree. When they wake up…\nGretel: Oh no! It's dark!\nHansel: We're lost!",
      "id": "ENG-P2-L04-005",
      "grade": "P2",
      "subject": "eng",
@@ -8166,7 +8166,7 @@ window.QUESTION_BANK = {
       "They go swimming."
      ],
      "explain": "根據故事，他們午睡醒來時天黑了（It's dark!），而且迷路了（We're lost!）。",
-     "passage": "Hansel and Gretel walk in the forest.\nHansel: I'm hungry.\nGretel: Me too. Let's eat some biscuits.\nThey eat and then take a nap under a tree. When they wake up…\nGretel: Oh no! It's dark!\nHansel: We're lost!",
+     "passage": "Hansel and Gretel walk in the forest.\nHansel: I'm hungry.\nGretel: Me too. We can eat some biscuits.\nThey eat and then take a nap under a tree. When they wake up…\nGretel: Oh no! It's dark!\nHansel: We're lost!",
      "id": "ENG-P2-L04-006",
      "grade": "P2",
      "subject": "eng",
@@ -9817,7 +9817,7 @@ window.QUESTION_BANK = {
       "Susie called the police on the phone."
      ],
      "explain": "根據文章，Peter 受傷無法走動，小狗 Susie 大聲吠叫喚醒鄰居，並把 Peter 拉離火場。",
-     "passage": "Brave Dogs\nJoe: An old man fell into a river. His dog Joe jumped in and pulled him out.\nSusie: One night, there was a fire in Peter's house. Peter was hurt and could not walk. His dog Susie barked loudly and woke up the neighbours. Then she pulled Peter away from the fire.",
+     "passage": "Brave Dogs\n1. Joe the hero: An old man fell into a river. His dog Joe jumped in and pulled him out.\n2. Susie saves Peter: One night, there was a fire in Peter's house. Peter was hurt and could not walk. His dog Susie barked loudly and woke up the neighbours. Then she pulled Peter away from the fire.",
      "id": "ENG-P3-L07-006",
      "grade": "P3",
      "subject": "eng",
@@ -9838,7 +9838,7 @@ window.QUESTION_BANK = {
       "Joe at the vet's"
      ],
      "explain": "文章介紹了 Joe 和 Susie 兩隻勇敢救主人的狗，標題應涵蓋全文，最佳標題是 'More than a best friend'。",
-     "passage": "Brave Dogs\nJoe: An old man fell into a river. His dog Joe jumped in and pulled him out.\nSusie: One night, there was a fire in Peter's house. Peter was hurt and could not walk. His dog Susie barked loudly and woke up the neighbours. Then she pulled Peter away from the fire.",
+     "passage": "Brave Dogs\n1. Joe the hero: An old man fell into a river. His dog Joe jumped in and pulled him out.\n2. Susie saves Peter: One night, there was a fire in Peter's house. Peter was hurt and could not walk. His dog Susie barked loudly and woke up the neighbours. Then she pulled Peter away from the fire.",
      "id": "ENG-P3-L07-007",
      "grade": "P3",
      "subject": "eng",
@@ -9971,7 +9971,7 @@ window.QUESTION_BANK = {
       "Brave Baby Bear"
      ],
      "explain": "根據目錄簡介，經常粗心掉錢包（dropped her purse again）對應故事《Careless Cathy》。",
-     "passage": "Bedtime Stories for Children – Contents\nBrave Baby Bear (a little bear is not afraid of the dark) … page 5\nCareless Cathy (a girl who always loses her things) … page 13\nGeorge the Clever Robot (a robot helps a family) … page 21\nHonest Ollie and the Maths Test (a boy sees the test papers on the teacher's desk) … page 35\nPoor Charlie and the Chocolate Mountain (a boy eats too much chocolate) … page 43",
+     "passage": "Bedtime Stories for Children – Contents\nBrave Baby Bear (a little bear is not afraid of the dark) … page 5\nCareless Cathy (a girl who always loses her things) … page 13\nGeorge the Clever Robot (a robot helps a family) … page 21\nHonest Ollie and the Maths Test (a boy makes a hard choice) … page 35\nPoor Charlie and the Chocolate Mountain (a boy eats too much chocolate) … page 43",
      "id": "ENG-P3-L08-005",
      "grade": "P3",
      "subject": "eng",
@@ -9991,8 +9991,8 @@ window.QUESTION_BANK = {
       "Why Don't You Play With Me?",
       "Poor Charlie and the Chocolate Mountain"
      ],
-     "explain": "看到老師桌上的測驗卷（test papers），對應第 35 頁開始的故事《Honest Ollie and the Maths Test》（因此在第 37 頁）。",
-     "passage": "Bedtime Stories for Children – Contents\nBrave Baby Bear (a little bear is not afraid of the dark) … page 5\nCareless Cathy (a girl who always loses her things) … page 13\nGeorge the Clever Robot (a robot helps a family) … page 21\nHonest Ollie and the Maths Test (a boy sees the test papers on the teacher's desk) … page 35\nPoor Charlie and the Chocolate Mountain (a boy eats too much chocolate) … page 43",
+     "explain": "看到老師桌上的測驗卷（test papers），對應第 35 頁開始的故事《Honest Ollie and the Maths Test》。",
+     "passage": "Bedtime Stories for Children – Contents\nBrave Baby Bear (a little bear is not afraid of the dark) … page 5\nCareless Cathy (a girl who always loses her things) … page 13\nGeorge the Clever Robot (a robot helps a family) … page 21\nHonest Ollie and the Maths Test (a boy makes a hard choice) … page 35\nPoor Charlie and the Chocolate Mountain (a boy eats too much chocolate) … page 43",
      "id": "ENG-P3-L08-006",
      "grade": "P3",
      "subject": "eng",
