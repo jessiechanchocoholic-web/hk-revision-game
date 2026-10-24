@@ -51,12 +51,12 @@ function randomCard(){var sel=h('select',{id:'randGrade','aria-label':'固定年
   h('div',{class:'rand-modes'},[h('button',{class:'primary',onclick:function(){randomPick(null)}},['🎲 全部隨機']),
    h('span',{class:'rand-fixed'},[sel,h('button',{class:'primary',onclick:function(){randomPick(sel.value)}},['🎯 固定年級、隨機科目'])])]),
   h('p',{id:'randResult',class:'rand-result',role:'status','aria-live':'polite'},[''])]);
- var btn=h('button',{class:'big rand-btn','aria-expanded':'false','aria-controls':'randBox',onclick:function(){var open=panel.hasAttribute('hidden');if(open)panel.removeAttribute('hidden');else panel.setAttribute('hidden','hidden');btn.setAttribute('aria-expanded',String(open))}},['🎲 隨機']);
+ var btn=h('button',{class:'big rand-btn','aria-expanded':'false','aria-controls':'randBox',onclick:function(){var open=panel.hasAttribute('hidden');if(!open){stopRand();var rr=document.getElementById('randReel');if(rr){rr.className='rand-reel';rr.textContent='🎲 ？？？';rr.style.background=''}var ro=document.getElementById('randResult');if(ro)ro.textContent='';Array.prototype.forEach.call(panel.querySelectorAll('button,select'),function(b){b.disabled=false})}if(open)panel.removeAttribute('hidden');else panel.setAttribute('hidden','hidden');btn.setAttribute('aria-expanded',String(open))}},['🎲 隨機']);
  return h('div',{class:'card rand-card'},[btn,h('span',{class:'note'},[' 唔知揀邊科？等波波幫你抽！']),panel])}
 function stopRand(){if(randTimer){clearTimeout(randTimer);randTimer=null}}
-function fresh(){stopRand();var a=document.activeElement;if(a&&a.blur&&a!==document.body)a.blur();app.innerHTML='';try{window.scrollTo(0,0)}catch(e){}}
+function fresh(){stopRand();window.__homeOk=true;var jf=document.getElementById('jsfail');if(jf)jf.setAttribute('hidden','hidden');var a=document.activeElement;if(a&&a.blur&&a!==document.body)a.blur();app.innerHTML='';try{window.scrollTo(0,0)}catch(e){}}
 var coarse=!!(window.matchMedia&&matchMedia('(pointer:coarse)').matches);
-function home(){upd();fresh();window.__homeOk=true;var jf=document.getElementById('jsfail');if(jf)jf.setAttribute('hidden','hidden');document.getElementById('title').textContent='溫習闖關大冒險';
+function home(){upd();fresh();document.getElementById('title').textContent='溫習闖關大冒險';
  app.appendChild(h('div',{class:'card'},[h('div',{class:'big'},['揀你嘅年級 👇']),h('p',{class:'note'},['小學上學期第一次考試範圍溫習'])]));
  var g=h('div',{class:'grid'});GRADES.forEach(function(G){g.appendChild(h('button',{class:'big',onclick:function(){grade(G.id)}},[G.name+(G.note?' ('+G.note+')':'')]))});app.appendChild(g);app.appendChild(randomCard())}
 function grade(gid){upd();fresh();var G=GRADES.filter(function(x){return x.id===gid})[0];document.getElementById('title').textContent=G.name+(G.note?' · '+G.note:'');

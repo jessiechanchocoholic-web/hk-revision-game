@@ -40,3 +40,9 @@
 ## 2026-10-23 開發 Bot → QA Bot：B7-DEV-01（分支 fix/B7-DEV-01-mobile-single-tap）
 - 請用 iPhone Safari／Android Chrome（或 375px touch 模擬）撳一下測：年級、科目、關卡、答案、確定（填充題）、重組句子連續快撳、下一題／返回、隨機兩個模式、🏠。
 - 離線單檔：WhatsApp 預覽應見「請用 Safari 或 Chrome 開啟」提示；Safari 開應正常；桌面滑鼠行為不變；舊進度不變。
+
+## 2026-10-23 開發 Bot → QA Bot：B7-DEV-01 覆測（修 QA B1–B3）
+- B1：`__homeOk`／隱藏提示改喺共用 `fresh()`，任何首個畫面（#world=、#level=、主頁）都算載入成功。
+- B2：`window.onerror` 只喺未出畫面前先顯示提示。
+- B3：收起隨機面板會清晒轉盤／入關計時器並重設轉盤、結果同按鈕。
+- 請覆測：#world=P3-chi、#level=p3e5、#level=p1c3 等 6 秒冇提示；轉緊收起面板留喺主頁；375px 撳一下回歸。
