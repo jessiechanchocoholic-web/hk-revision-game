@@ -56,7 +56,7 @@ function randomCard(){var sel=h('select',{id:'randGrade','aria-label':'固定年
 function stopRand(){if(randTimer){clearTimeout(randTimer);randTimer=null}}
 function fresh(){stopRand();window.__homeOk=true;var jf=document.getElementById('jsfail');if(jf)jf.setAttribute('hidden','hidden');var a=document.activeElement;if(a&&a.blur&&a!==document.body)a.blur();app.innerHTML='';try{window.scrollTo(0,0)}catch(e){}}
 var coarse=!!(window.matchMedia&&matchMedia('(pointer:coarse)').matches);
-function home(){upd();fresh();document.getElementById('title').textContent='溫習闖關大冒險';
+function home(){try{document.body.removeAttribute('data-grade')}catch(e){}upd();fresh();document.getElementById('title').textContent='溫習闖關大冒險';
  app.appendChild(h('div',{class:'card'},[h('div',{class:'big'},['揀你嘅年級 👇']),h('p',{class:'note'},['小學上學期第一次考試範圍溫習'])]));
  var g=h('div',{class:'grid'});GRADES.forEach(function(G){g.appendChild(h('button',{class:'big',onclick:function(){grade(G.id)}},[G.name+(G.note?' ('+G.note+')':'')]))});app.appendChild(g);app.appendChild(randomCard())}
 function grade(gid){upd();fresh();var G=GRADES.filter(function(x){return x.id===gid})[0];document.getElementById('title').textContent=G.name+(G.note?' · '+G.note:'');
@@ -114,14 +114,14 @@ function mascot(mood,grade,subj){var t=THEME[subj]||THEME.math,g=GTHEME[grade]||
  var m=h('div',{class:'mascot m-'+mood+' t-'+subj+' g-'+grade,'data-theme':subj+'-'+grade+'-'+mood,style:'--amp:'+g.amp+';animation:'+t.mv[mood]+' '+dur.toFixed(2)+'s ease-in-out '+iter+' both',role:'img','aria-label':t.name+'（'+g.label+'）：'+(sad?'唔緊要，再試吓！':'好嘢！'),html:svg});
  if(mood==='clear'||mood==='boss'){var cf=h('div',{class:'confetti c-'+subj,'aria-hidden':'true'});var n=mood==='boss'?20:12;for(var i=0;i<n;i++){var d=h('i',{style:'left:'+(i*(100/n)+2)+'%;animation-delay:'+(i%5)*.12+'s;background:'+t.conf[i%t.conf.length]+(subj==='math'?';border-radius:0':subj==='sci'?';border-radius:50%':'')});cf.appendChild(d)}var w=h('div',{class:'mascot-wrap'});w.appendChild(cf);w.appendChild(m);return w}
  return m}
-function play(qs,meta){var s=meta.subject;var list=meta.review||meta.boss?qs:shuffle(qs).slice(0,8);var i=0,score=0,firstTry=true;
+function play(qs,meta){var s=meta.subject;try{document.body.setAttribute('data-grade',meta.grade||'')}catch(e){}var list=meta.review||meta.boss?qs:shuffle(qs).slice(0,8);var i=0,score=0,firstTry=true;
  var lang=s==='eng'?'en-GB':'zh-HK';var readAloud=meta.grade==='P2'&&(s==='chi'||s==='eng'||true);
  function show(){fresh();firstTry=true;var q=list[i];
   var c=h('div',{class:'card'});c.appendChild(h('div',{},[h('button',{onclick:function(){world(meta.grade,s)}},['⬅ '+T(s,'離開','Quit')]),h('b',{},[meta.title]),h('span',{class:'tag'},[(i+1)+' / '+list.length])]));
   var pr=h('div',{class:'prog'},[h('div',{style:'width:'+(i/list.length*100)+'%'})]);c.appendChild(pr);
   var qtext=q.type==='order'?q.q:q.q;if(q.passage)c.appendChild(h('div',{class:'passage',tabindex:'0',role:'region','aria-label':T(s,'短文','Passage'),lang:lang},[q.passage]));c.appendChild(h('div',{class:'q'},[qtext]));
   var shown=q.items?shuffle(q.items):null;
-  if(readAloud){var say=(q.passage?q.passage+'。':'')+qtext.replace(/[。：:]$/,'')+(q.options?'。'+q.options.join('，'):'')+(shown?'。'+shown.join('，'):'');
+  if(readAloud){var EN=lang.indexOf('en')===0,SEP=EN?'. ':'。',COM=EN?', ':'，';var say=(q.passage?q.passage.replace(/[。.!?！？\s]+$/,'')+SEP:'')+qtext.replace(/[。：:.]$/,'')+(q.options?SEP+q.options.join(COM):'')+(shown?SEP+shown.join(COM):'');if(EN)say=say.replace(/。/g,'. ');say=say.replace(/(。|\. ){2,}/g,SEP);
    if('speechSynthesis' in window){var sb=h('button',{class:'speak','data-lang':lang,'aria-label':'read aloud',onclick:function(){loadV();speak(say,lang)}},['🔊 '+T(s,'讀題','Read aloud')]);if(!canSpeak(lang))sb.style.display='none';c.appendChild(sb)}}
   if(q._from)c.appendChild(h('div',{class:'note'},[q._from]));
   var area=h('div',{class:'opts'});c.appendChild(area);var fb=h('div');c.appendChild(fb);app.appendChild(c);

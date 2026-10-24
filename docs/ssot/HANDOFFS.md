@@ -47,3 +47,9 @@
 - B2：`window.onerror` 只喺未出畫面前先顯示提示。
 - B3：收起隨機面板會清晒轉盤／入關計時器並重設轉盤、結果同按鈕。
 - 請覆測：#world=P3-chi、#level=p3e5、#level=p1c3 等 6 秒冇提示；轉緊收起面板留喺主頁；375px 撳一下回歸。
+
+## 2026-10-24 開發 Bot → QA Bot：B9-DEV-01（分支 b9-dev-01-big-fonts）
+- 重點測 iPad Safari：768×1024、1024×768、1180×820，字夠唔夠大、有冇溢出／重疊、撳一下入關；另覆測 375×667。
+- 小一、小二題目同選項再大啲（body data-grade）。
+- 核對 PR #23 建議：p3e7 Brave Dogs 標題「1. Joe the hero／2. Susie saves Peter」；ENG-P3-L08-006 短文改短、解釋刪「因此在第 37 頁」；CHI-P5-L01-004 短文唔再有「灰濛濛／遮蔽」；CHI-P5-L15 短文刪「秋天／香氣撲鼻」；ENG-P2-L04 Hansel 短文改「We can eat」唔再提示 Let's；英文讀題唔再有「。」。
+- headless WebKit＋Chromium 四個尺寸 0 橫向溢出；未喺真 iPad 測試。

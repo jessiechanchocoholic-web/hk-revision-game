@@ -88,3 +88,4 @@ P1 中文一上單元一二、英文 1A Ch1–4、科學一上。
 ## B7-DEV-01 手機撳一下就入到＋WhatsApp 預覽空白（開發 Bot，2026-10-23，PR 待 QA）
 - 根因：冇 `touch-action:manipulation`（iOS 連續快撳被當雙擊縮放食咗第二下，重組句子最明顯）；填充題自動 focus 彈鍵盤，撳「確定」第一下只係收鍵盤、版面移位令 click 落空；轉頁唔 scroll 返頂，長關卡列表撳完好似冇反應；隨機轉盤計時器喺轉頁後仍會觸發；`button:active` 位移只限滑鼠。
 - WhatsApp 內置預覽唔執行 JS → 加 `<noscript>`、載入失敗提示（4 秒未出主頁或 onerror 就顯示「請用 Safari 或 Chrome 開啟」＋網上版連結）、初始化 try/catch。storage 已有 try/catch；speechSynthesis 已有檢查；全 ES5 語法。
+- 2026-10-24 B9-DEV-01 審查中：全遊戲大字體（題目約 25px、小一小二約 26px、短文約 21px、選項／按鈕／重組詞塊加大，行距加寬）；iPad 768×1024／1024×768／1180×820 版面；手機短文框唔再內捲（跟頁面捲），iPad 短文框 55vh；跟進 PR #23 QA 建議（Joe 短文標題、ENG-P3-L08-006 短文＋解釋、CHI-P5-L01／L15、ENG-P2-L04 短文唔再洩答案、英文讀題唔再讀「。」）。冇新題目，答案／ID／選項／verified 不變；validate ALL OK（169 關／1048 題）。未喺真 iPad 測試。
